@@ -1,0 +1,6 @@
+<article class="card">
+  <p class="badge">{{ default "note" .Params.content_type }}</p>
+  <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+  {{ with .Params.summary }}<p>{{ . }}</p>{{ end }}
+  {{ with .Date }}<time datetime="{{ .Format "2006-01-02" }}">{{ .Format "2 January 2006" }}</time>{{ end }}
+</article>

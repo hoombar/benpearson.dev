@@ -1,0 +1,12 @@
+{{ define "main" }}
+  <section class="page-heading">
+    <h1>{{ .Title }}</h1>
+    {{ with .Content }}{{ . }}{{ end }}
+  </section>
+
+  <div class="writing-list">
+    {{ range .Pages }}
+      {{ partial "writing-card.html" . }}
+    {{ end }}
+  </div>
+{{ end }}

@@ -1,0 +1,15 @@
+baseURL = "https://benpearson.dev/"
+languageCode = "en-gb"
+title = "Ben Pearson"
+
+[params]
+  description = "AI workflows, home automation, and practical experiments."
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]

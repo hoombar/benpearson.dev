@@ -1,0 +1,18 @@
+{{ define "main" }}
+  <section class="hero">
+    <p class="eyebrow">AI workflows, home automation, and useful experiments</p>
+    <h1>Practical notes from building with software, agents, and smart home systems.</h1>
+    <p>I write polished posts when an idea is ready, and lab notes when an experiment is useful before it is perfect.</p>
+  </section>
+
+  <section class="section-header">
+    <h2>Recent Writing</h2>
+    <a href="/writing/">All writing</a>
+  </section>
+
+  <div class="writing-list">
+    {{ range first 6 (where site.RegularPages "Section" "writing") }}
+      {{ partial "writing-card.html" . }}
+    {{ end }}
+  </div>
+{{ end }}
