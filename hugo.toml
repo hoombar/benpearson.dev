@@ -5,7 +5,7 @@ title = "Ben Pearson"
 [params]
   author = "Ben Pearson"
   description = "AI workflows, home automation, and practical experiments."
-  avatar = "/img/profile.png"
+  avatar = "/img/profile.jpeg"
 
 [[params.social]]
   name = "GitHub"

@@ -19,7 +19,7 @@ test("homepage renders m10c-inspired sidebar shell", async () => {
 
   assert.match(html, /class="app-shell"/);
   assert.match(html, /class="site-sidebar"/);
-  assert.match(html, /src="\/img\/profile\.png"/);
+  assert.match(html, /src="\/img\/profile\.jpeg"/);
   assert.match(html, /https:\/\/github\.com\/hoombar/);
   assert.match(html, /https:\/\/www\.linkedin\.com\/in\/ben-pearson-2a320a75\//);
   assert.match(html, /data-theme-toggle/);
