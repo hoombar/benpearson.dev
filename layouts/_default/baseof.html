@@ -38,7 +38,10 @@
         {{ with site.Params.social }}
           <div class="sidebar-social" aria-label="Social links">
             {{ range . }}
-              <a href="{{ .url }}" target="_blank" rel="noreferrer noopener me">{{ .name }}</a>
+              <a href="{{ .url }}" target="_blank" rel="noreferrer noopener me">
+                <span class="social-icon" aria-hidden="true">{{ if eq .name "GitHub" }}GH{{ else if eq .name "LinkedIn" }}in{{ else }}{{ substr .name 0 1 }}{{ end }}</span>
+                <span>{{ .name }}</span>
+              </a>
             {{ end }}
           </div>
         {{ end }}

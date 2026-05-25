@@ -78,7 +78,12 @@ a {
 .site-sidebar {
   background: radial-gradient(circle at top left, #241a12 0, var(--sidebar-bg) 34rem);
   color: var(--sidebar-text);
-  padding: 32px 28px;
+  padding: 30px 22px;
+}
+
+.profile-link {
+  display: inline-block;
+  margin-bottom: 18px;
 }
 
 .profile-avatar {
@@ -92,7 +97,7 @@ a {
 
 .profile-copy p {
   color: var(--sidebar-muted);
-  margin: 14px 0 0;
+  margin: 12px 0 0;
 }
 
 .sidebar-nav,
@@ -100,13 +105,30 @@ a {
   display: flex;
   flex-wrap: wrap;
   gap: 10px 14px;
-  margin-top: 26px;
+  margin-top: 24px;
 }
 
 .sidebar-nav a,
 .sidebar-social a {
+  align-items: center;
   color: var(--sidebar-amber);
+  display: inline-flex;
+  gap: 7px;
   text-decoration: none;
+}
+
+.social-icon {
+  align-items: center;
+  border: 1px solid rgb(245 193 108 / 48%);
+  border-radius: 999px;
+  display: inline-flex;
+  font-size: 0.62rem;
+  font-weight: 800;
+  height: 1.35rem;
+  justify-content: center;
+  letter-spacing: -0.03em;
+  line-height: 1;
+  width: 1.35rem;
 }
 
 .sidebar-nav a {
@@ -120,7 +142,7 @@ a {
   gap: 8px;
   color: var(--sidebar-muted);
   font-size: 0.9rem;
-  margin-top: 28px;
+  margin-top: 24px;
 }
 
 .theme-control select {
@@ -149,14 +171,14 @@ a:focus-visible {
 }
 
 .hero {
-  padding: 64px 0 48px;
+  padding: 44px 0 34px;
 }
 
 .hero h1,
 .page-heading h1,
 .article h1 {
   max-width: 780px;
-  font-size: clamp(2.4rem, 7vw, 5rem);
+  font-size: clamp(2.2rem, 5.2vw, 4.15rem);
   line-height: 1;
   letter-spacing: -0.06em;
 }
@@ -165,7 +187,7 @@ a:focus-visible {
 .summary {
   max-width: 680px;
   color: var(--muted);
-  font-size: 1.15rem;
+  font-size: 1.05rem;
 }
 
 .eyebrow,
@@ -183,13 +205,14 @@ a:focus-visible {
   align-items: baseline;
   justify-content: space-between;
   gap: 16px;
+  margin-top: 18px;
 }
 
 .writing-list {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
   gap: 18px;
-  margin: 24px 0 64px;
+  margin: 18px 0 44px;
 }
 
 .card {
@@ -231,7 +254,7 @@ time,
 .site-footer {
   border-top: 1px solid var(--border);
   color: var(--muted);
-  padding: 28px 0 48px;
+  padding: 22px 0 34px;
 }
 
 @media (min-width: 880px) {
@@ -268,6 +291,6 @@ time,
   }
 
   .hero {
-    padding-top: 42px;
+    padding-top: 34px;
   }
 }
