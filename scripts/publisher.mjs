@@ -1,11 +1,12 @@
-import { mkdir, readdir, readFile, writeFile } from "node:fs/promises";
+import { cp, mkdir, readdir, readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 
 const DEFAULT_VAULT_DIR = "/home/ben/vault/Human/Public Blog";
+const DEFAULT_MEDIA_DIR = "/home/ben/public-blog-media";
 const VALID_CONTENT_TYPES = new Set(["post", "lab"]);
 
-export async function publishFromVault({ vaultDir = DEFAULT_VAULT_DIR, siteDir = process.cwd() } = {}) {
+export async function publishFromVault({ vaultDir = DEFAULT_VAULT_DIR, siteDir = process.cwd(), mediaDir = DEFAULT_MEDIA_DIR } = {}) {
   const entries = await readdir(vaultDir, { withFileTypes: true });
   const markdownFiles = entries
     .filter((entry) => entry.isFile() && entry.name.endsWith(".md"))
@@ -48,11 +49,31 @@ export async function publishFromVault({ vaultDir = DEFAULT_VAULT_DIR, siteDir =
     const outputDir = path.join(siteDir, "content", "writing", slug);
     await mkdir(outputDir, { recursive: true });
     await writeFile(path.join(outputDir, "index.md"), formatMarkdown(exportFrontmatter, note.body));
+    await copyMediaBundle(path.join(mediaDir, slug), outputDir);
     await writeFile(sourcePath, formatMarkdown(nextFrontmatter, note.body));
     published.push({ sourcePath, slug });
   }
 
   return { published };
+}
+
+async function copyMediaBundle(sourceDir, outputDir) {
+  let entries;
+  try {
+    entries = await readdir(sourceDir, { withFileTypes: true });
+  } catch (error) {
+    if (error.code === "ENOENT") return;
+    throw error;
+  }
+
+  await Promise.all(
+    entries.map((entry) =>
+      cp(path.join(sourceDir, entry.name), path.join(outputDir, entry.name), {
+        recursive: true,
+        force: true,
+      }),
+    ),
+  );
 }
 
 function validatePublishableNote(frontmatter, sourcePath) {

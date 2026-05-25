@@ -18,6 +18,31 @@ async function tempWorkspace() {
   return workspace;
 }
 
+test("copies media for published note into the Hugo page bundle", async () => {
+  const { root, vaultDir, siteDir } = await tempWorkspace();
+  const mediaDir = path.join(root, "public-blog-media");
+  await mkdir(path.join(mediaDir, "my-media-note"), { recursive: true });
+  await writeFile(path.join(mediaDir, "my-media-note", "dashboard.webp"), "fake image bytes", { flag: "wx" });
+  await writeFile(
+    path.join(vaultDir, "My Media Note.md"),
+    `---
+title: "My Media Note"
+should_publish: true
+content_type: post
+---
+
+![Dashboard](dashboard.webp)
+`,
+    { flag: "wx" },
+  );
+
+  const result = await publishFromVault({ vaultDir, siteDir, mediaDir });
+
+  assert.deepEqual(result.published.map((item) => item.slug), ["my-media-note"]);
+  const copied = await readFile(path.join(siteDir, "content", "writing", "my-media-note", "dashboard.webp"), "utf8");
+  assert.equal(copied, "fake image bytes");
+});
+
 test("publishes eligible note, derives slug, and resets source flag", async () => {
   const { vaultDir, siteDir } = await tempWorkspace();
   await writeFile(

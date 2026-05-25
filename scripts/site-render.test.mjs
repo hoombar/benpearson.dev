@@ -1,5 +1,5 @@
 import { execFile } from "node:child_process";
-import { mkdtemp, readFile } from "node:fs/promises";
+import { mkdir, mkdtemp, readFile, writeFile } from "node:fs/promises";
 import { tmpdir } from "node:os";
 import path from "node:path";
 import { promisify } from "node:util";
@@ -60,4 +60,35 @@ test("homepage spacing is compact", async () => {
   assert.match(css, /font-size:\s*clamp\(2rem, 4\.4vw, 3\.45rem\)/);
   assert.match(css, /\.section-header\s*{[^}]*margin-top:\s*8px/s);
   assert.match(css, /\.profile-link\s*{[^}]*margin-bottom:\s*18px/s);
+});
+
+test("Mermaid code blocks render as diagrams and load Mermaid", async () => {
+  const contentDir = await mkdtemp(path.join(tmpdir(), "benpearson-content-"));
+  const destination = await mkdtemp(path.join(tmpdir(), "benpearson-site-"));
+  await mkdir(path.join(contentDir, "writing", "mermaid-post"), { recursive: true });
+  await writeFile(
+    path.join(contentDir, "writing", "mermaid-post", "index.md"),
+    `---
+title: "Mermaid Post"
+content_type: lab
+---
+
+\`\`\`mermaid
+flowchart TD
+  A[Draft] --> B[Publish]
+\`\`\`
+`,
+    { flag: "wx" },
+  );
+
+  await execFileAsync("/tmp/opencode/hugo", ["--contentDir", contentDir, "--destination", destination], {
+    cwd: process.cwd(),
+  });
+
+  const html = await readFile(path.join(destination, "writing", "mermaid-post", "index.html"), "utf8");
+
+  assert.match(html, /<pre class="mermaid">\s*flowchart TD/);
+  assert.match(html, /A\[Draft\] --&gt; B\[Publish\]/);
+  assert.match(html, /mermaid@/);
+  assert.match(html, /mermaid\.initialize\(\{ startOnLoad: true/);
 });
