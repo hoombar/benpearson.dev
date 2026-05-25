@@ -2,7 +2,7 @@
 
 ## Goal
 
-Support local experimentation with Hugo blog posts while keeping publishing controlled. The site repository remains the Hugo source of truth, Cloudflare Pages builds from GitHub, and a separate personal skill helps generate draft posts in Ben's preferred writing style.
+Support local experimentation with Hugo blog posts while keeping publishing controlled. The site repository is the only content workflow target, Cloudflare Pages builds from GitHub, and a separate personal skill helps generate draft posts in Ben's preferred writing style.
 
 ## Scope
 
@@ -11,7 +11,7 @@ This work covers two related pieces:
 - Add direct Hugo authoring documentation to this repository.
 - Create a reusable personal skill in `~/dev/claude-skills` for generating `benpearson.dev` draft posts.
 
-This work does not change the site layout, Cloudflare account state, DNS records, or existing Obsidian publisher behavior.
+This work does not change the site layout, Cloudflare account state, DNS records, or existing Obsidian publisher behavior. The new workflow bypasses Obsidian entirely.
 
 ## Repository Workflow
 
@@ -61,8 +61,7 @@ The blog-generation skill should live outside this repo in `~/dev/claude-skills`
 The skill should trigger when Ben asks to generate, draft, shape, or prepare a post for `benpearson.dev`. It should:
 
 - Read the Hugo repository conventions before writing content.
-- Read the vault instructions before reading vault content.
-- Use the vault note named `ben-website-writing-style-profile` as the tone-of-voice reference.
+- Use style guidance stored with the personal skill, not in Obsidian, as the tone-of-voice reference.
 - Ask for the topic, angle, intended `content_type`, tags, and source material if missing.
 - Create a Hugo page bundle at `content/writing/<slug>/index.md`.
 - Set `draft: true` by default.
@@ -71,7 +70,7 @@ The skill should trigger when Ben asks to generate, draft, shape, or prepare a p
 
 ## Boundaries
 
-The skill may create or modify files in the Hugo repository when explicitly generating a post. It should not create, edit, move, or delete files under `/home/ben/vault/Human/` unless Ben gives explicit permission in that turn. It should treat the vault style profile as a reference, not as content to overwrite.
+The skill may create or modify files in the Hugo repository when explicitly generating a post. It should not read from or write to Obsidian as part of this workflow. It should treat its bundled style guidance as a reference, not as content to overwrite.
 
 ## Testing And Verification
 
@@ -85,7 +84,8 @@ The skill should be developed using the writing-skills TDD workflow: baseline pr
 
 ## Open Questions Resolved
 
-- Direct authoring is preferred over Obsidian publishing for this workflow.
+- Direct Hugo authoring replaces Obsidian publishing for this workflow.
 - Cloudflare Pages should connect directly to GitHub.
 - Generated posts should default to `draft: true`.
 - The personal skill should live in `~/dev/claude-skills`, with this repo retaining only authoring and deployment documentation.
+- Tone-of-voice guidance should live with the personal skill, not in Obsidian.
