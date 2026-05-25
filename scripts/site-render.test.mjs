@@ -25,3 +25,9 @@ test("homepage renders m10c-inspired sidebar shell", async () => {
   assert.match(html, /data-theme-toggle/);
   assert.match(html, /Recent Writing/);
 });
+
+test("desktop sidebar has a fixed maximum width", async () => {
+  const css = await readFile(path.join(process.cwd(), "assets", "css", "main.css"), "utf8");
+
+  assert.match(css, /grid-template-columns:\s*280px minmax\(0, 1fr\)/);
+});
