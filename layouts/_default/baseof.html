@@ -49,16 +49,13 @@
             {{ end }}
           </div>
         {{ end }}
-        <label class="theme-control">
-          <span>Theme</span>
-          <select data-theme-toggle>
-            <option value="system">System</option>
-            <option value="light">Light</option>
-            <option value="dark">Dark</option>
-          </select>
-        </label>
       </aside>
       <div class="content-shell">
+        <div class="content-toolbar">
+          <button type="button" class="theme-toggle" data-theme-toggle aria-label="Theme: System" title="Theme: System">
+            <svg class="theme-icon theme-icon-system" aria-hidden="true" viewBox="0 0 24 24"><rect x="4" y="5" width="16" height="11" rx="2"/><path d="M9 20h6m-3-4v4"/></svg>
+          </button>
+        </div>
         <main class="app-container">
           {{ block "main" . }}{{ end }}
         </main>
