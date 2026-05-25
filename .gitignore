@@ -3,3 +3,5 @@
 /.hugo_build.lock
 /node_modules/
 /.wrangler/
+/.superpowers/
+/.playwright-mcp/

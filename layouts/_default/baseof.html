@@ -4,7 +4,16 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{{ site.Params.description }}">
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230f0f0f'/%3E%3Ccircle cx='32' cy='32' r='18' fill='%23ff9e3d'/%3E%3C/svg%3E">
     <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} | {{ site.Title }}{{ end }}</title>
+    <script>
+      try {
+        const theme = localStorage.getItem("theme");
+        if (theme === "light" || theme === "dark") {
+          document.documentElement.dataset.theme = theme;
+        }
+      } catch {}
+    </script>
     {{ with resources.Get "css/main.css" }}
       <link rel="stylesheet" href="{{ .RelPermalink }}">
     {{ end }}
@@ -13,17 +22,46 @@
     {{ end }}
   </head>
   <body>
-    <header class="site-header">
-      <a class="site-title" href="/">{{ site.Title }}</a>
-      <nav aria-label="Main navigation">
-        <a href="/writing/">Writing</a>
-      </nav>
-    </header>
-    <main>
-      {{ block "main" . }}{{ end }}
-    </main>
-    <footer class="site-footer">
-      <p>Notes and essays by Ben Pearson.</p>
-    </footer>
+    <div class="app-shell">
+      <aside class="site-sidebar">
+        <a class="profile-link" href="/" aria-label="{{ site.Title }} home">
+          <img class="profile-avatar" src="{{ site.Params.avatar | default "/img/profile.png" }}" alt="{{ site.Params.author | default site.Title }}">
+        </a>
+        <div class="profile-copy">
+          <a class="site-title" href="/">{{ site.Title }}</a>
+          <p>{{ site.Params.description }}</p>
+        </div>
+        <nav class="sidebar-nav" aria-label="Main navigation">
+          <a href="/">Home</a>
+          <a href="/writing/">Writing</a>
+        </nav>
+        {{ with site.Params.social }}
+          <div class="sidebar-social" aria-label="Social links">
+            {{ range . }}
+              <a href="{{ .url }}" target="_blank" rel="noreferrer noopener me">{{ .name }}</a>
+            {{ end }}
+          </div>
+        {{ end }}
+        <label class="theme-control">
+          <span>Theme</span>
+          <select data-theme-toggle>
+            <option value="system">System</option>
+            <option value="light">Light</option>
+            <option value="dark">Dark</option>
+          </select>
+        </label>
+      </aside>
+      <div class="content-shell">
+        <main class="app-container">
+          {{ block "main" . }}{{ end }}
+        </main>
+        <footer class="site-footer">
+          <p>Notes and essays by Ben Pearson.</p>
+        </footer>
+      </div>
+    </div>
+    {{ with resources.Get "js/theme-toggle.js" }}
+      <script type="module" src="{{ .RelPermalink }}"></script>
+    {{ end }}
   </body>
 </html>

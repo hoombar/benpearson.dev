@@ -1,29 +1,59 @@
 :root {
   color-scheme: light dark;
-  --bg: #f8f4ed;
+  --bg: #fbf3e7;
   --text: #1f2623;
   --muted: #62706a;
-  --accent: #246b52;
+  --accent: #9b4d14;
   --card: #fffaf1;
   --border: #dfd3c2;
+  --focus: #c7641c;
+  --sidebar-bg: #0f0f0f;
+  --sidebar-surface: #1a1a1a;
+  --sidebar-text: #e6e1d9;
+  --sidebar-muted: #aaa39b;
+  --sidebar-accent: #ff9e3d;
+  --sidebar-amber: #f5c16c;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg: #121512;
-    --text: #eef3ed;
-    --muted: #a8b4ac;
-    --accent: #82d4ac;
-    --card: #1b211d;
-    --border: #303a34;
+    --bg: #181512;
+    --text: #e6e1d9;
+    --muted: #aaa39b;
+    --accent: #ffb15c;
+    --card: #211c17;
+    --border: #3a2a1d;
+    --focus: #f5c16c;
   }
+}
+
+:root[data-theme="light"] {
+  color-scheme: light;
+  --bg: #fbf3e7;
+  --text: #1f2623;
+  --muted: #62706a;
+  --accent: #9b4d14;
+  --card: #fffaf1;
+  --border: #dfd3c2;
+  --focus: #c7641c;
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #181512;
+  --text: #e6e1d9;
+  --muted: #aaa39b;
+  --accent: #ffb15c;
+  --card: #211c17;
+  --border: #3a2a1d;
+  --focus: #f5c16c;
 }
 
 body {
   margin: 0;
   background: var(--bg);
   color: var(--text);
-  font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   font-size: 18px;
   line-height: 1.6;
 }
@@ -32,33 +62,94 @@ a {
   color: var(--accent);
 }
 
-.site-header,
-.site-footer,
-main {
-  width: min(920px, calc(100% - 32px));
-  margin: 0 auto;
-}
-
-.site-header {
-  display: flex;
-  justify-content: space-between;
-  gap: 24px;
-  padding: 28px 0;
+.app-shell {
+  min-height: 100vh;
 }
 
 .site-title {
-  color: var(--text);
+  color: var(--sidebar-text);
+  display: block;
+  font-size: 1.55rem;
   font-weight: 700;
+  line-height: 1.05;
   text-decoration: none;
 }
 
-nav a {
-  color: var(--muted);
+.site-sidebar {
+  background: radial-gradient(circle at top left, #241a12 0, var(--sidebar-bg) 34rem);
+  color: var(--sidebar-text);
+  padding: 32px 28px;
+}
+
+.profile-avatar {
+  width: 112px;
+  height: 112px;
+  border: 3px solid var(--sidebar-accent);
+  border-radius: 999px;
+  box-shadow: 0 0 0 8px rgb(255 158 61 / 12%);
+  object-fit: cover;
+}
+
+.profile-copy p {
+  color: var(--sidebar-muted);
+  margin: 14px 0 0;
+}
+
+.sidebar-nav,
+.sidebar-social {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 14px;
+  margin-top: 26px;
+}
+
+.sidebar-nav a,
+.sidebar-social a {
+  color: var(--sidebar-amber);
   text-decoration: none;
+}
+
+.sidebar-nav a {
+  color: var(--sidebar-accent);
+  font-weight: 700;
+}
+
+.theme-control {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--sidebar-muted);
+  font-size: 0.9rem;
+  margin-top: 28px;
+}
+
+.theme-control select {
+  border: 1px solid #3a2a1d;
+  border-radius: 999px;
+  background: var(--sidebar-surface);
+  color: var(--sidebar-text);
+  font: inherit;
+  padding: 6px 28px 6px 10px;
+}
+
+.theme-control select:focus-visible,
+a:focus-visible {
+  outline: 3px solid var(--focus);
+  outline-offset: 3px;
+}
+
+.content-shell {
+  background: var(--bg);
+}
+
+.app-container,
+.site-footer {
+  width: min(820px, calc(100% - 32px));
+  margin: 0 auto;
 }
 
 .hero {
-  padding: 72px 0 48px;
+  padding: 64px 0 48px;
 }
 
 .hero h1,
@@ -66,7 +157,7 @@ nav a {
 .article h1 {
   max-width: 780px;
   font-size: clamp(2.4rem, 7vw, 5rem);
-  line-height: 0.95;
+  line-height: 1;
   letter-spacing: -0.06em;
 }
 
@@ -103,7 +194,7 @@ nav a {
 
 .card {
   border: 1px solid var(--border);
-  border-radius: 18px;
+  border-radius: 16px;
   background: var(--card);
   padding: 22px;
 }
@@ -141,4 +232,42 @@ time,
   border-top: 1px solid var(--border);
   color: var(--muted);
   padding: 28px 0 48px;
+}
+
+@media (min-width: 880px) {
+  .app-shell {
+    display: grid;
+    grid-template-columns: minmax(280px, 32vw) 1fr;
+  }
+
+  .site-sidebar {
+    min-height: 100vh;
+    position: sticky;
+    top: 0;
+    align-self: start;
+  }
+
+  .content-shell {
+    min-height: 100vh;
+  }
+
+  .app-container,
+  .site-footer {
+    width: min(820px, calc(100% - 72px));
+  }
+}
+
+@media (max-width: 879px) {
+  .site-sidebar {
+    padding: 24px 20px;
+  }
+
+  .profile-avatar {
+    width: 88px;
+    height: 88px;
+  }
+
+  .hero {
+    padding-top: 42px;
+  }
 }

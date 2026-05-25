@@ -3,7 +3,17 @@ languageCode = "en-gb"
 title = "Ben Pearson"
 
 [params]
+  author = "Ben Pearson"
   description = "AI workflows, home automation, and practical experiments."
+  avatar = "/img/profile.png"
+
+[[params.social]]
+  name = "GitHub"
+  url = "https://github.com/hoombar"
+
+[[params.social]]
+  name = "LinkedIn"
+  url = "https://www.linkedin.com/in/ben-pearson-2a320a75/"
 
 [markup]
   [markup.goldmark]
