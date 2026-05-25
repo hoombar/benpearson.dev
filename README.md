@@ -1,13 +1,16 @@
 # benpearson.dev
 
-Hugo source for `benpearson.dev`, with a repo-owned publisher script that exports selected Obsidian notes into the public site.
+Hugo source for `benpearson.dev`.
 
 ## Content Workflow
 
-Draft in Obsidian under:
+Write posts directly as Hugo page bundles:
 
 ```text
-/home/ben/vault/Human/Public Blog/
+content/writing/my-post-slug/
+|-- index.md
+|-- hero.webp
+`-- screenshot.webp
 ```
 
 Use this frontmatter contract:
@@ -15,36 +18,21 @@ Use this frontmatter contract:
 ```yaml
 ---
 title: "Readable Public Title"
-should_publish: true
-content_type: lab # post or lab
+slug: my-post-slug
+content_type: post # post or lab
 summary: "Short summary for listings."
+date: 2026-05-25
+draft: true
 tags:
-  - ai
+  - example
 ---
 ```
 
-On first publish, the script derives `slug` from the filename and writes it back to the Obsidian note. Later publishes reuse the existing `slug`, so renaming the Obsidian file does not change the public URL.
-
-After a successful publish, the script sets `should_publish: false`. To overwrite an existing public page, set `should_publish: true` again.
+Keep generated or experimental posts as `draft: true`. Preview drafts locally with `hugo server -D --port 1313`. To publish a post, remove `draft: true` or set it to `false`, then commit and push.
 
 ### Images And Other Post Media
 
-Posts are published as Hugo page bundles:
-
-```text
-content/writing/my-post-slug/
-├── index.md
-├── hero.webp
-└── screenshot.webp
-```
-
-Keep publish-ready media outside the Obsidian vault under:
-
-```text
-/home/ben/public-blog-media/<slug>/
-```
-
-When a note is published, the publisher copies everything from `/home/ben/public-blog-media/<slug>/` into `content/writing/<slug>/`. Those copied files should be committed with the post so Cloudflare Pages has them during the Hugo build.
+Store post media in the same page bundle as `index.md`. Commit those files with the post so Cloudflare Pages has them during the Hugo build.
 
 Reference media with relative Markdown paths:
 
@@ -56,7 +44,7 @@ Prefer optimized `.webp` files for screenshots and photos. Keep original, uncomp
 
 ### Mermaid Diagrams
 
-Use standard fenced Mermaid blocks in Obsidian:
+Use standard fenced Mermaid blocks:
 
 ````markdown
 ```mermaid
@@ -67,19 +55,9 @@ flowchart TD
 
 Hugo renders these as Mermaid diagrams and loads Mermaid only on pages that include a Mermaid block.
 
-## Publish From Minibot
-
-Run from this repo:
-
-```bash
-npm run publish:vault
-```
-
-A cron job on `minibot` can run that command, then commit and push changes if the working tree changed. Keep credentials in the local machine account; do not store secrets in this repo.
-
 ## Development
 
-Run publisher tests:
+Run tests:
 
 ```bash
 npm test
@@ -99,4 +77,5 @@ Suggested build settings:
 
 - Build command: `hugo --minify`
 - Build output directory: `public`
-- Environment variable: `HUGO_VERSION` set to a current extended Hugo release
+- Environment variable: `HUGO_VERSION=0.147.5`
+- Production branch: `main`
