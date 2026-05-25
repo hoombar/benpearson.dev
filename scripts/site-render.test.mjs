@@ -30,6 +30,20 @@ test("homepage renders m10c-inspired sidebar shell", async () => {
   assert.match(html, /Recent Writing/);
 });
 
+test("homepage does not repeat the sidebar description as an eyebrow", async () => {
+  const destination = await mkdtemp(path.join(tmpdir(), "benpearson-site-"));
+
+  await execFileAsync("/tmp/opencode/hugo", ["--destination", destination], {
+    cwd: process.cwd(),
+  });
+
+  const html = await readFile(path.join(destination, "index.html"), "utf8");
+  const main = html.match(/<main class="app-container">[\s\S]*?<\/main>/)?.[0] ?? "";
+
+  assert.doesNotMatch(main, /class="eyebrow"/);
+  assert.doesNotMatch(main, /AI workflows, home automation, and useful experiments/);
+});
+
 test("theme toggle renders in the content pane", async () => {
   const destination = await mkdtemp(path.join(tmpdir(), "benpearson-site-"));
 
