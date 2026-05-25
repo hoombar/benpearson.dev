@@ -1,5 +1,13 @@
 name = "benpearson-dev"
+compatibility_date = "2026-05-25"
 pages_build_output_dir = "public"
+
+[build]
+command = "hugo --minify"
+
+[assets]
+directory = "./public"
+not_found_handling = "404-page"
 
 [vars]
 HUGO_VERSION = "0.147.5"
