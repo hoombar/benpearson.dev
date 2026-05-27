@@ -4,7 +4,7 @@ slug: garmin-battery-life-home-assistant
 content_type: post
 summary: "How Home Assistant history helped me work out why my Garmin Venu 3 battery life was worse than expected, even while I was away from home."
 date: 2026-05-27
-draft: true
+draft: false
 tags:
   - home-assistant
   - garmin

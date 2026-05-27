@@ -259,12 +259,37 @@ time,
 }
 
 .article-body code {
+  background: color-mix(in srgb, var(--card) 76%, var(--border));
+  border-radius: 0.28em;
   font-size: 0.9em;
+  padding: 0.08em 0.25em;
 }
 
-.article-body pre {
+.article-body .highlight {
+  background: #272822;
   border-radius: 12px;
+  margin: 1.5rem 0;
   overflow-x: auto;
+}
+
+.article-body .highlight pre {
+  margin: 0;
+  overflow-x: auto;
+  padding: 1rem 1.1rem;
+}
+
+.article-body .highlight code {
+  background: transparent;
+  border-radius: 0;
+  color: inherit;
+  display: block;
+  font-size: clamp(0.86rem, 2.8vw, 0.95rem);
+  line-height: 1.5;
+  padding: 0;
+}
+
+.article-body .highlight span {
+  min-height: 1.5em;
 }
 
 .article-body table {
