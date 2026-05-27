@@ -106,3 +106,32 @@ flowchart TD
   assert.match(html, /mermaid@/);
   assert.match(html, /mermaid\.initialize\(\{ startOnLoad: true/);
 });
+
+test("plain code blocks render highlighted HTML without Hugo internals", async () => {
+  const contentDir = await mkdtemp(path.join(tmpdir(), "benpearson-content-"));
+  const destination = await mkdtemp(path.join(tmpdir(), "benpearson-site-"));
+  await mkdir(path.join(contentDir, "writing", "code-post"), { recursive: true });
+  await writeFile(
+    path.join(contentDir, "writing", "code-post", "index.md"),
+    `---
+title: "Code Post"
+content_type: lab
+---
+
+\`\`\`text
+sensor.garmin_device_battery_level
+\`\`\`
+`,
+    { flag: "wx" },
+  );
+
+  await execFileAsync("/tmp/opencode/hugo", ["--contentDir", contentDir, "--destination", destination], {
+    cwd: process.cwd(),
+  });
+
+  const html = await readFile(path.join(destination, "writing", "code-post", "index.html"), "utf8");
+
+  assert.match(html, /<div class="highlight"><pre/);
+  assert.match(html, /sensor\.garmin_device_battery_level/);
+  assert.doesNotMatch(html, /\{\d+ \d+ <div class="highlight">/);
+});

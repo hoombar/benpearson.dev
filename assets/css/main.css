@@ -262,6 +262,36 @@ time,
   font-size: 0.9em;
 }
 
+.article-body pre {
+  border-radius: 12px;
+  overflow-x: auto;
+}
+
+.article-body table {
+  border-collapse: collapse;
+  display: block;
+  font-size: 0.92rem;
+  line-height: 1.45;
+  margin: 1.5rem 0;
+  max-width: 100%;
+  overflow-x: auto;
+  white-space: nowrap;
+}
+
+.article-body th,
+.article-body td {
+  border: 1px solid var(--border);
+  padding: 0.55rem 0.7rem;
+  text-align: left;
+  vertical-align: top;
+}
+
+.article-body th {
+  background: var(--card);
+  color: var(--text);
+  font-weight: 700;
+}
+
 .article-body blockquote {
   background: color-mix(in srgb, var(--card) 78%, var(--accent));
   border-left: 4px solid var(--accent);
