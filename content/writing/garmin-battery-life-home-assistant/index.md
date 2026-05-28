@@ -12,150 +12,130 @@ tags:
   - observability
 ---
 
-## A Watch Battery Problem Became A Data Problem
+## 52% To 4% In Less Than Three Days
 
-My Garmin Venu 3 was not lasting as long as it should have done.
+The first number that made me stop guessing was `52% -> 4%` over 64.8 hours.
 
-Garmin's quoted figure for the Venu 3 is about 14 days in smartwatch mode, or around 8 days with the always-on display. Mine was landing somewhere more like 5.5 to 8.5 days depending on the week. That is not catastrophic, but it is also exactly the kind of thing that becomes annoying because it is slightly too vague to reason about from memory.
+That was my Garmin Venu 3, in normal smartwatch use, dropping nearly half its battery in less than three days. Garmin quotes around 14 days in smartwatch mode, which works out at roughly `0.298%/hr`. This window was `0.741%/hr`, or about two and a half times worse than that.
 
-If I just looked at the battery percentage a few times a day, I could tell it was going down faster than I wanted, but I could not tell why. Was it a watch face? Was it Wi-Fi? Was it Spotify? Was it SpO2 overnight? Was I just noticing it more because I was paying attention?
+It was still usable, which is part of why the problem was annoying rather than obvious. I would glance at the battery percentage and think it looked lower than it should, but then I would wonder whether I had used GPS, changed a watch face, slept with SpO2 enabled, synced something, or just started noticing the number because I was paying attention.
 
-The useful bit was that I already had the watch battery level flowing into Home Assistant.
+The useful bit was that the watch battery was already in Home Assistant as `sensor.garmin_device_battery_level`, and Home Assistant was keeping history for it. That changed the problem from a vague sense that the battery was bad into a slope I could compare before and after each change.
 
-> The moment a battery percentage becomes a time series, it stops being a feeling and becomes something you can debug.
+Once I had the history, the question became much simpler: what changed the rate?
 
-That turned a slightly irritating consumer-device problem into a small observability exercise. I could change one thing, leave it alone, and then look at the slope rather than trusting my impression of whether the watch felt better.
+## Turning A Feeling Into A Baseline
 
-## The Setup
+The calculation was deliberately basic: battery percentage drop divided by hours elapsed.
 
-The battery level came into Home Assistant through the Garmin/Home Assistant integration path, exposed as a normal sensor:
-
-```text
-sensor.garmin_device_battery_level
-```
-
-Home Assistant was already keeping history in its recorder database, so I did not need to build anything special. I could look at the state history in the UI or query the Home Assistant API and calculate the drain rate between two timestamps.
-
-The calculation was deliberately simple:
-
-```text
-drain rate = battery percentage drop / hours elapsed
-```
-
-Garmin's 14-day smartwatch figure works out at roughly `0.298%/hr`. My real-world baseline was much worse:
+The first few Home Assistant windows looked like this:
 
 | Period | Battery Drop | Duration | Drain Rate | Projected Life |
 |---|---:|---:|---:|---:|
-| Worst baseline | 52% to 4% | 64.8h | 0.741%/hr | 5.6 days |
-| Better baseline | 81% to 71% | 20.8h | 0.482%/hr | 8.6 days |
-| Main baseline | 100% to 49% | 88.3h | 0.578%/hr | 7.2 days |
+| Mar 29-31 | 52% to 4% | 64.8h | 0.741%/hr | 5.6 days |
+| Mar 31-Apr 1 | 81% to 71% | 20.8h | 0.482%/hr | 8.6 days |
+| Apr 1-5 | 100% to 49% | 88.3h | 0.578%/hr | 7.2 days |
 
-Those numbers were useful because they showed two things at once. First, the drain really was worse than expected. Second, it was mostly smooth rather than spiky, which made a persistent background cost more likely than a single bad activity recording.
+That confirmed two things.
 
-## The Remote Bit
+First, I was not imagining it. The watch was consistently worse than the headline spec, even allowing for the fact that real life never matches a clean manufacturer estimate.
 
-The slightly fun part is that I was able to keep doing this while I was away, including while staying in a yurt on holiday.
+Second, the drain was mostly smooth. I was not seeing a cliff where the battery suddenly fell after one activity or one sync. It looked more like a persistent background cost, which made settings, watch faces, and Connect IQ behaviour more interesting suspects than a single bad workout.
 
-I did not need physical access to the Home Assistant box, and I did not need to sit at my desk with a spreadsheet. The watch was reporting its battery, Home Assistant was storing the history, and I could check the current state and recent trend remotely.
+The data was not perfect. Garmin battery percentages are coarse, and short windows can be misleading if the percentage has just ticked down. But it was good enough to stop debugging from memory.
 
-That changed how practical the experiment felt. Instead of thinking "I'll check this properly when I get home", I could make a change on the watch, let normal life happen, and then check whether the battery slope had moved.
+## The Part I Could Do From A Yurt
 
-```mermaid
-flowchart TD
-  Watch[Garmin Venu 3<br/>battery percentage] --> HA[Home Assistant<br/>sensor history]
-  HA --> Baseline[Baseline drain rate]
-  Baseline --> Change[Change one setting<br/>or watch face]
-  Change --> Wait[Wait during normal use]
-  Wait --> Compare[Compare the new slope]
-  Compare --> Decision[Keep, revert,<br/>or test the next suspect]
-  Decision --> Change
-```
+The slightly fun part is that I kept doing this while I was away, including while staying in a yurt on holiday.
 
-It is a small loop, but it is a good one. The important part is not the exact API call or the graph. It is having enough history to make each change comparable.
+That made the setup feel much more useful than a spreadsheet exercise. I did not need to be at home, and I did not need physical access to the Home Assistant box. The watch kept reporting its battery level, Home Assistant kept storing the history, and I could check the current state and recent trend remotely.
 
-## The Suspects
+The loop was simple:
 
-The first pass was mostly about turning vague suspicion into a list of things that could be tested.
+1. Change one thing on the watch.
+2. Let normal life happen.
+3. Check the Home Assistant history.
+4. Compare the new slope with the old one.
+5. Keep the change, revert it, or test the next suspect.
 
-The obvious candidates were:
+I was not trying to create a perfect lab test. I wanted a practical answer for my actual watch, with my actual settings, while I was using it normally.
 
-- Spotify installed on the watch, even though I was not actively using it.
-- Wi-Fi being enabled, which can matter if a Connect IQ app keeps something awake.
-- Watch faces with animated seconds or frequently updated complications.
-- Gesture wake during the day.
-- Overnight SpO2 and sleep tracking.
-- Data-heavy complications such as weather, UV, Body Battery, stress, and respiration.
+## Spotify And Wi-Fi Were The First Big Win
 
-Some of those are not bugs. They are just features with a cost. The distinction matters because the right answer is not always "turn everything off". I still wanted the watch to be useful. I just wanted to know which bits were expensive enough to care about.
+Spotify was installed on the watch, although I was not actively using it. Wi-Fi was also enabled, even though I had thought it was off.
 
-## What Changed The Slope
+That combination was suspicious enough to test. There are reports of Garmin music apps and sync behaviour creating background drain, sometimes involving Wi-Fi, but I could not prove the internal mechanism from the outside. What I could test was whether removing Spotify and turning Wi-Fi off changed the slope.
 
-The first big improvement came from uninstalling Spotify and turning off Wi-Fi.
+On 5 April, with the battery at 49%, I uninstalled Spotify. About ten minutes later I turned Wi-Fi off as well. Because those two changes happened together, I do not want to claim Spotify alone was proven as the culprit. The paired change was still useful.
 
-Before that change, one short recent window was draining at about `1.09%/hr`. After uninstalling Spotify and turning Wi-Fi off, the drain dropped to about `0.64%/hr`. That is still not brilliant, but it was roughly a 40% reduction from that high-drain window, which is too large to ignore.
+Before the change, a recent window was draining at about `1.09%/hr`. Afterwards it dropped to about `0.64%/hr`.
 
-There is a known pattern with some Garmin devices where music apps or sync behaviour can keep background processes alive, sometimes involving Wi-Fi. I cannot prove every internal detail from the outside, but the before-and-after was strong enough for my purposes: Spotify and Wi-Fi were not free.
+That was roughly a 40% improvement from the high-drain window. It did not fix everything, but it removed a large unwanted cost and made the rest of the problem easier to reason about.
 
-The next useful finding was gesture wake. With gesture wake turned off during a daytime test, the watch dropped to about `0.38%/hr`, projecting roughly 10 days of battery life. That was a big improvement over the earlier baseline.
+## SpO2 Was A Cost I Could Choose
 
-Then the watch face testing got interesting.
+After the Spotify and Wi-Fi change, the overnight numbers became more understandable.
 
-Orbit II, with data polling and animation, measured around `0.73%/hr` in one short test. Segment 34 MK2, a data-rich face with no seconds, settled closer to `0.44%/hr` over a longer window. Later, a full retained Home Assistant history window showed an observed discharge from `87%` to `3%` over just over seven and a half days, equivalent to about `0.466%/hr` and roughly `8.7 days` from full to 3%.
+One overnight window with sleep tracking and SpO2 active settled around `0.53%/hr` over 7.5 hours, projecting to about 7.8 days. That is not amazing, but it is close to Garmin's 8-day always-on-display figure, even though I was not using the always-on display.
 
-That was not the advertised 14-day figure, but it was much more understandable. The watch was no longer behaving mysteriously; it was behaving like a device with a set of measurable tradeoffs.
+That did not make SpO2 bad. It made the cost visible.
 
-> The goal was not to get the watch into an artificial lab state. It was to find a configuration that made sense in normal use.
+This was one of the more useful shifts in the debugging process. Some battery drain is unwanted background behaviour. Some of it is the price of a feature I actually chose. Once I could see the difference, the decision became less frustrating.
 
-## The Findings
+## Gesture Wake And Timeout Mattered More Than I Expected
 
-By the end of the first round, the main causes looked like this:
+The next useful test was gesture wake.
 
-| Change | Observed Effect |
-|---|---|
-| Spotify removed and Wi-Fi off | Removed a large background drain, roughly 40% improvement from the worst recent window |
-| Gesture wake off | Daytime drain dropped towards `0.38%/hr` |
-| No animated seconds | Watch faces without seconds performed much better |
-| Overnight SpO2 | Still a meaningful overnight cost, but expected and useful enough to keep |
-| Data-heavy watch faces | Not all equal; some were materially worse than others |
+When I turned gesture wake off during the day, the drain dropped to about `0.38%/hr`, projecting roughly 10 days of battery life. Compared with the `1.09%/hr` starting point, that was a 65% total reduction.
 
-The practical configuration I ended up trusting was fairly simple: Spotify removed, Wi-Fi off, short timeout, and a watch face that avoided animated seconds. That got the watch into a range where the battery life was good enough and the remaining cost was mostly explainable.
+I had mentally filed gesture wake under normal watch behaviour, not under something that could materially change the battery budget. The Home Assistant history made it harder to ignore.
 
-It also changed how I thought about watch faces. I had assumed the visible complexity of the face would roughly map to battery cost, but that was too simplistic. A face with several data fields can be fine if it avoids constant animation and does not poll aggressively. A simpler-looking face can still be expensive if it updates all the time.
+The more practical follow-up was not to leave the watch in an artificially minimal state forever. I turned gestures back on, kept a short timeout, and restarted the watch to clear any cached or stuck processes. The early result stayed around `0.38%/hr`, which suggested the short timeout was doing useful work.
 
-## Why Home Assistant Was Useful
+That is exactly the sort of thing I would not trust from memory. The watch would still have felt normal either way, but the slope told me the setting mattered.
 
-Home Assistant was not doing anything clever here. That is part of why I liked it.
+## Watch Faces Were Less Obvious Than They Looked
 
-It was just collecting a sensor value over time and making the history available. But that was enough to avoid the usual consumer-tech debugging pattern where you change three things at once, wait a day, forget exactly what changed, and then decide based on vibes.
+The watch-face testing was the most interesting part because my first intuition was too simple.
 
-The Home Assistant history gave me:
+I assumed a visually busy face would be expensive and a simpler face would be cheap. That was not quite right. What seemed to matter more was whether the face had animated seconds, how often it updated, and how aggressively it polled data.
 
-- A baseline before changing settings.
-- A way to compare short and long windows.
-- Enough detail to spot smooth drain versus sudden drops.
-- Remote access while I was away.
-- A record of when a change actually happened.
+Orbit II, with data polling and animation, measured around `0.73%/hr` in one short test. That was nearly double the `0.38%/hr` I saw with a minimal face, although the short window meant I did not want to over-trust the exact number.
 
-This is the bit I find reusable. Lots of small annoyances around the house are really time-series problems in disguise. A temperature that feels wrong, a sensor that keeps dropping off Wi-Fi, a watch battery that seems worse than it should be. Once the state is captured over time, you can stop arguing with your memory and start comparing windows.
+Segment 34 MK2 was more interesting. It was still a data-rich face, but without seconds. An early reading looked extremely good at about `0.27%/hr`, but that was too short to trust. Over 6 to 9 hours it settled closer to `0.44-0.50%/hr`, and a later retained Home Assistant history window gave a cleaner real-world result.
 
-## The Caveats
+That longer window showed the watch going from `87%` to `3%` between 10 April and 17 April: 7 days, 12 hours, 6 minutes. That works out at about `0.466%/hr`, or roughly 8 days and 16 hours from 100% to 3%.
 
-This was not a perfect experiment.
+That still was not Garmin's 14-day headline number, but it was much better than where I started. More importantly, it was explainable. Spotify and Wi-Fi were no longer part of the test. The timeout was short. SpO2 still had a cost. The face still had data polling, but it was not constantly animating seconds.
 
-Battery percentage is coarse. The watch reports in whole percentages, so short windows can be misleading. A two-hour test might look better or worse just because of when the percentage ticked down. Longer windows are more trustworthy.
+Later trials kept the same pattern. Phoenix 8 v3 started around `0.47%/hr` over 19 hours, moved to `0.53%/hr` after 43 hours, and reached `0.58%/hr` after 81.5 hours. Orbit 2 then measured around `0.55%/hr` over its first 18.3 hours. Both were usable, but both were behind the Segment 34 MK2 baseline.
 
-Normal life also gets in the way. A swim, a long GPS activity, a firmware update, a sync, or an unusually active day can all affect the slope. The point is not to pretend those variables do not exist. The point is to use enough history that they become visible rather than hidden in a general sense that the battery is bad.
+The useful lesson was not "never use third-party watch faces". It was more specific: seconds, animation, polling behaviour, and implementation details matter more than how complicated the face looks at a glance.
 
-I also would not treat these numbers as universal Garmin advice. They are specific to my Venu 3, my settings, my watch faces, and my usage. The reusable part is the method, not the exact answer.
+## What I Actually Changed
 
-## The Broader Pattern
+The configuration I ended up trusting was not extreme:
 
-The satisfying thing about this was not really the extra battery life. It was the shape of the debugging loop.
+- Spotify uninstalled.
+- Wi-Fi off.
+- Short display timeout.
+- A watch face without animated seconds.
+- Overnight SpO2 kept on, with the battery cost accepted rather than hidden.
 
-I had a device behaving slightly worse than expected. Home Assistant gave me a time series. That made it possible to test one change at a time, remotely, without turning it into a big project.
+That got the watch into a roughly 8.5 to 10 day real-world range depending on the face and measurement window. I could probably get more by turning off more health features, but at some point that becomes a worse watch for me. I bought the thing because I wanted some of those features.
 
-That is one of the quiet benefits of having a home automation system with history. It is not just there to turn lights on or run automations. Sometimes it becomes an observability layer for ordinary life.
+The better outcome was that I understood the budget.
 
-> A smart home is more useful when it can help explain what happened, not just react to what is happening now.
+Spotify and Wi-Fi looked like an unwanted background cost, though I changed them too close together to separate them cleanly. Gesture wake and timeout were a usability tradeoff. SpO2 was an overnight health-data tradeoff. Watch faces were a design and polling tradeoff. Once those were separated, I could choose the bits I cared about instead of treating the battery as a mystery.
 
-In this case it helped me turn a vague battery complaint into a set of measured tradeoffs. I still have a watch with compromises, and I still have to choose which features are worth the battery cost, but at least the choice is less mysterious now.
+## Home Assistant Was Just Enough Observability
+
+Home Assistant was not doing anything especially clever here. That is partly why I liked it.
+
+It collected a state value over time, kept enough history to compare windows, and let me inspect it remotely. That was enough to avoid the usual consumer-device debugging pattern where I change three settings at once, wait a day, forget what I changed, and then decide based on whether the battery feels better.
+
+The limitations still matter. Whole-percentage battery readings make short tests noisy. Normal life gets in the way: a swim, a GPS activity, a firmware update, a sync, or a busy day can all affect the slope. Some variables were still not perfectly isolated.
+
+But the history made those limits visible. I could see when a short result was probably premature, wait for a longer window, and avoid overreacting to one percentage tick.
+
+That is the part I keep coming back to with Home Assistant. The automations are useful, but the history is often just as valuable. Sometimes the smart home does not need to do anything. It just needs to remember what happened clearly enough that I can stop guessing.
