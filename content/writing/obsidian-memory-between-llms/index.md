@@ -2,141 +2,324 @@
 title: "Using Obsidian as Memory Between LLMs"
 slug: obsidian-memory-between-llms
 content_type: post
-summary: "How I use an Obsidian vault, agent roles, and bounded tool access to give different LLMs shared memory without giving them too much power."
+summary: "A practical look at using an Obsidian vault as shared memory across different LLM tools, with folder rules, agent roles, frontmatter, credentials, and compounding notes."
 date: 2026-05-29
-draft: true
-build:
-  list: local
+draft: false
 tags:
   - ai
-  - llms
   - obsidian
   - workflows
+  - agents
 ---
 
-I kept finding myself doing the same small handoff between LLMs: copying context out of one place, restating the decision in another, and hoping I had not left out the bit that made the answer make sense.
+Most of my LLM tooling still works as if the project folder is the world.
 
-A coding agent knows what happened inside a repo, but not the useful decision I made in another project last week. A chat session can help me work through a thought, but the result often stays trapped in that chat. Another LLM can pick up the next task, but only if I manually carry the context across.
+That works for code. It works less well for everything around the code.
 
-I do not want one giant memory system that silently decides what matters about my life. I want something plainer than that: a shared working memory that different LLMs can use, that I can inspect, and that has clear boundaries around what the machine is allowed to do.
+A coding agent can read `README.md`, inspect source files, run tests, and make a reasonable change. But the same agent usually has no idea what I decided last week, which workflows I already investigated, what my calendar constraints are, or which notes should be treated as mine rather than machine-authored working material.
 
-For me, that shared memory is an Obsidian vault.
+I wanted a memory layer that could sit outside any one project. Not a vector database first. Not a new knowledge product. Just a place where different LLMs can read and write durable context under clear rules.
 
-> The useful bit is not that an LLM can read my notes. It is that different LLMs can meet in the same memory system without needing to be the same LLM.
+For me, that place is Obsidian.
 
-## The Vault Is The Shared Surface
-
-The vault is not just a place where I keep personal notes and occasionally let an agent browse around. It is part of the interface between me, the tools, and the models.
-
-There are agent files in the root of the vault. That matters because the vault has its own rules, separate from any one software project. A coding agent working in a repo can have project-specific instructions, but the vault needs instructions that travel across projects. The root agent files give LLMs a way to understand how to behave around the notes: where to look, what to update, how to treat different folders, and what not to assume.
-
-The vault also has a simple split between a `human` folder and a `machine` folder.
-
-That split does a lot of work. Human notes are the higher-trust layer. Machine notes can still be useful, but they are not pretending to have the same status. If an LLM captures a rough summary, leaves a working note, or records something from a session, it can go into the machine side without polluting the human side of the vault.
-
-This keeps the system more usable because I do not have to choose between two bad options: either never let the machine write anything, or let machine-written notes blend into the same space as notes I wrote and endorsed myself.
-
-## Project Memory Without Project Lock-In
-
-The other important piece is the Obsidian vault skill.
-
-A lot of useful memory does not belong inside a project folder. It might be a preference about how I like writing tasks handled, a running thread that spans several repos, a note about a recurring admin workflow, or context that is useful to more than one LLM tool.
-
-Project folders are good for project facts. They are bad for cross-project memory.
-
-The vault skill gives a project a controlled way to use Obsidian as memory outside its own folder. That means a coding agent can be working in a repo, but still know that there is a broader memory system available when the task calls for it. The project does not need to copy shared knowledge into itself, and the vault does not need to become tangled up with the project's source tree.
-
-The boundary is the important part. The vault is shared memory, not just another directory inside the current project.
-
-## Front Matter Makes Notes More Than Text
-
-The notes have front matter.
-
-That sounds like an implementation detail, but it is one of the things that makes the system work better for agents. Plain Markdown is good because it stays readable by humans and tools. Front matter adds a small amount of predictable structure without turning every note into a database record.
-
-It gives the system somewhere to put metadata: what kind of note this is, where it came from, whether it was machine-written, what project or area it relates to, and whatever else is useful for retrieval. The exact schema can change over time, but the point is that an LLM does not have to infer everything from prose.
-
-This matters most when the vault is being used by different tools. One LLM might create a note, another might later search for it, and a third might summarise it into a project briefing. Front matter gives them a few stable handles, so retrieval does not have to depend only on fuzzy prose matching.
-
-## Librarian, Scribe, And Seeker
-
-I have found it useful to think in roles rather than one general assistant shape.
-
-The three roles I use are librarian, scribe, and seeker.
-
-The librarian role is about structure. It helps keep the vault navigable, applies conventions, and makes sure notes end up in sensible places. This is the role I want when the problem is not "write more", but "make this findable later".
-
-The scribe role is about capture. It can turn a conversation, working thread, or source material into notes. That does not make every output correct or final. It means the raw material does not disappear just because a chat ended.
-
-The seeker role is about retrieval. It looks across the vault for relevant context and brings back what matters for the current task.
-
-In practice, that means it should search the vault, pay attention to folder boundaries and front matter, and make clear what came from a note rather than from the model's own reasoning. I do not want a seeker to be creative. I want it to be grounded, selective, and willing to say when the vault does not contain the answer.
-
-Those roles are not magic. They are just useful constraints. They make it clearer what kind of work the LLM is doing and what standard I should hold it to.
-
-> A scribe that writes imperfect notes is still useful. A seeker that invents context is not.
-
-That distinction changes how I think about risk. I can tolerate rough capture in the machine folder because it is a working layer. I am much less tolerant of retrieval that blurs the line between something found in the vault and something guessed by the model.
-
-## Tool Access Is Deliberately Uneven
-
-The vault is only half the system. The other half is deciding which tools an LLM can use once it has found the relevant context.
-
-This is where I think the permissions matter more than the cleverness of the agent. It is easy to say "give the LLM access to my tools". The useful version is more specific: give it enough access to help, and make the failure modes boring.
-
-I use `gws`, a CLI for Google Workspace, with different configurations. One has read access to my personal Google Workspace. Another has write access to a machine account.
-
-That split is deliberate.
-
-It means the system can read personal context where that is useful, but the write path goes somewhere safer. An LLM can add something to the machine calendar, but it cannot delete important personal emails or calendar events. It can create useful artefacts, but the blast radius is much smaller if a prompt is wrong, a tool call is bad, or the model misunderstands what I wanted.
-
-This is the pattern I want for agent tools:
-
-- Read where context helps.
-- Write where mistakes are contained.
-- Keep destructive access away from the model by default.
-- Use a machine account as the place automation can safely leave artefacts.
-
-Todoist fits into the same system. The LLM has access that lets tasks be added. That is useful because not everything belongs as a note. Sometimes the right output from a conversation is an action that should appear in the task system, while the vault keeps the context that explains why the task exists.
-
-The overall shape looks roughly like this:
+The important part is not just that the files are Markdown. The important part is that the vault has rules, roles, provenance, and permission boundaries. Claude, Gemini, opencode, or another tool can all use the same memory system without each one inventing its own private conventions.
 
 ```mermaid
 flowchart TD
-  Human[Human notes<br/>higher-trust memory] --> Vault[Obsidian vault]
-  Machine[Machine notes<br/>working memory] --> Vault
-  AgentFiles[Root agent files<br/>vault rules] --> Vault
-  Project[Project folder<br/>current work] --> Skill[Obsidian vault skill]
-  Skill --> Vault
-  Vault --> LLMs[Different LLMs<br/>shared context]
-  LLMs --> Todoist[Todoist<br/>new tasks]
-  LLMs --> Calendar[Machine calendar<br/>low-risk writes]
+  Human[Human notes<br/>Human/] --> Seeker[Seeker<br/>search and synthesize]
+  Machine[Machine notes<br/>Machine/] --> Seeker
+  Raw[Daily captures<br/>braindumps] --> Scribe[Scribe<br/>structure and route]
+  Scribe --> Machine
+  Machine --> Librarian[Librarian<br/>audit and maintain]
+  LLMs[Claude, Gemini,<br/>opencode, other tools] --> Rules[Vault rules<br/>AGENTS.md]
+  Rules --> Human
+  Rules --> Machine
+  Machine --> Actions[Todoist tasks<br/>machine calendar]
 ```
 
-That is the system I am trying to keep in balance: shared memory in one place, low-risk actions in another, and enough separation that a useful assistant does not become an overpowered one.
+## One Root Policy
 
-## Why This Compounds
+At the root of the vault, `AGENTS.md` is the canonical instruction file.
 
-The obvious benefit is that I repeat myself less. That is nice, but it is not the main thing.
+There are also `CLAUDE.md` and `GEMINI.md` files, but they are deliberately thin. They point back to `AGENTS.md` rather than restating the rules.
 
-The better benefit is that knowledge compounds.
+That sounds minor, but it matters. If every LLM-specific file contains its own copy of the vault policy, the policies will drift. One tool will learn an old folder rule. Another will keep an outdated frontmatter schema. A third might be allowed to edit something that should be protected.
 
-A note captured during one project can help another project later. A convention written into an agent file can improve many future sessions. A task added to Todoist can keep moving after the model that noticed it is gone. A machine-written note can become useful raw material for a human-written note later.
+The rule is simple: `AGENTS.md` owns the vault policy. Tool-specific files can add genuinely tool-specific notes, but they should not create a second version of the rules.
 
-That compounding only works if the memory is maintained. If the vault becomes a dumping ground, it stops being memory and becomes sediment. That is why the folder split, front matter, agent files, and roles matter. They are small bits of friction that keep the system legible.
+The local opencode Obsidian vault skill acts as an adapter around those vault rules. It lets a project working in one folder still use `/home/ben/vault` as memory outside the project. The reusable public skills live in my [`claude-skills`](https://github.com/hoombar/claude-skills) repo. The most relevant public example for this post is [`obsidian-braindump-retro`](https://github.com/hoombar/claude-skills/tree/main/skills/obsidian-braindump-retro), which I will come back to later.
 
-> Memory is only useful if retrieval is still cheap enough that I actually use it.
+That gives me three layers:
 
-This is also why I like the `human` and `machine` distinction. It lets me capture more without lowering the trust level of the whole vault. I do not need every machine note to be polished. I need it to be labelled, located, and recoverable.
+- The project agent knows the current repo.
+- The vault skill knows how to enter the vault safely.
+- The root vault files define what safe means.
 
-## The Boundary Is The Product
+## Human Notes And Machine Notes
 
-The more I use systems like this, the more I think the boundary design is the interesting part.
+The vault has two top-level areas that matter for this system:
 
-The question is not just whether the model is capable. It is what surface area I expose to it, what authority that surface area implies, and how easy it is for me to inspect the result.
+```text
+Human/
+Machine/
+```
 
-That is a practical set of compromises. The system has enough agency to be useful: it can read memory, add tasks, and put things on a machine calendar. It does not have the kind of authority that would let a bad instruction delete important personal emails or calendar events.
+`Human/` is for notes I created or curated as myself.
 
-I still need to review what gets written. I still need to decide whether a Todoist task matters. I still need to notice when context is stale or retrieval has pulled in the wrong thing. The point is not to remove judgement. The point is to stop carrying all the context manually between tools.
+`Machine/` is for AI-generated files, research notes, SOPs, script documentation, and other machine-authored working material.
 
-The current version is still a working system rather than a finished product. Some conventions will probably change as I see where notes get messy or retrieval fails. But the broad shape feels right: shared memory in plain files, clear provenance, roles that make the work legible, and tool permissions that make useful actions possible without giving the LLM the keys to everything.
+The standing rule is that AI-generated files, research notes, and SOPs default to `Machine/`. An assistant must not create, edit, move, or delete anything under `Human/` without explicit case-by-case permission in the current conversation.
+
+This is the main safety boundary inside the vault.
+
+I still want LLMs to search `Human/` when I ask what I know about something. If I wrote a note two years ago, it is useful for an assistant to find it. But reading and editing are different permissions. Searching across both folders is fine. Mutating both folders by default is not.
+
+This also keeps provenance honest. If I am looking at a note under `Human/`, I know it is mine unless I explicitly allowed an edit. If I am looking under `Machine/`, I know it is part of the machine-maintained layer and should be judged that way.
+
+## Frontmatter Is The Index
+
+Every note in `Machine/` needs YAML frontmatter in this shape:
+
+```yaml
+---
+title: "Concise Title"
+type: "research" # or "doc", "sop", "script-doc"
+topic: "Specific Domain"
+captured: YYYY-MM-DD
+updated: YYYY-MM-DD
+staleness: "Short description of volatility (e.g., 'High - 1 month', 'Low - 10 years')"
+---
+```
+
+This is boring in the right way. The fields are there because machine-maintained notes need to be found, routed, audited, and aged out.
+
+`title` is for scanning and indexing. Filenames are useful, but they are not always enough. A concise title gives both me and an LLM a quick handle for what the note is.
+
+`type` tells tools how to handle the note. A research note, an SOP, a general doc, and script documentation should not all be treated the same. A stale research note might need a fresh check. A stale SOP might need a validation run. Script documentation may need to be compared against the current script.
+
+`topic` is for semantic routing. It gives the note a domain without requiring the folder hierarchy to carry all meaning. When an assistant is deciding where a capture belongs or what related notes to inspect, topic is a useful low-friction signal.
+
+`captured` is provenance. It says when this information entered the machine layer.
+
+`updated` is maintenance state. If the note has been revised, I want that visible without reading the whole file history.
+
+`staleness` is for librarian audits. Some notes go stale in a month. Some are stable for years. A note about an API integration may need review quickly. A note about a personal naming convention may not. Putting the expected volatility in the note lets an assistant audit intelligently instead of treating all old files as equally suspicious.
+
+The point is not to create a perfect metadata system. It is to give future agents enough structure to avoid guessing.
+
+## The Three Vault Roles
+
+The root instructions define three useful roles: Scribe, Seeker, and Librarian.
+
+These are not separate products. They are activation patterns. They tell the assistant how to behave depending on the user's request.
+
+The instructions are written as behavioural rules rather than long persona prompts. The shape is closer to this:
+
+```text
+Scribe: messy input -> structure, destination, frontmatter, wikilinks, atomic notes.
+Seeker: vault question -> search Human/ and Machine/, synthesize, cite, distinguish source type.
+Librarian: vault health -> audit stale docs, frontmatter, folder limits, orphaned notes, broken links.
+```
+
+That makes the roles portable across tools. The same root file can guide Claude, Gemini, opencode, or anything else that knows to read the vault instructions first.
+
+### Scribe
+
+Scribe activates when the user shares raw or messy input, brain dumps, quick captures, or asks for something to be written down.
+
+The useful instruction is that Scribe should extract structure from messy input, identify topics, action items, and references, determine the correct destination, apply the right frontmatter, search for related notes, add `[[Wikilinks]]`, and split multi-topic input into separate atomic notes.
+
+That is the role I want when I paste a rough thought and say, "process this into the vault". The Scribe is not just transcribing. It is deciding whether the input is one note, several notes, an action, or a pointer to something that already exists.
+
+### Seeker
+
+Seeker activates when I ask about vault contents: "what do I know about X", "find my notes on Y", or "what did I write about Z".
+
+The instruction is to search across both `Human/` and `Machine/`, synthesize findings from multiple notes, cite sources using `[[Wikilinks]]`, distinguish between human-authored and machine-generated sources, and say clearly when nothing relevant exists.
+
+That last part is important. A memory system that always produces an answer is not trustworthy. Sometimes the right answer is: I searched the vault and did not find anything.
+
+A useful Seeker answer should feel like this:
+
+```text
+I found two relevant Human notes and one Machine research note.
+
+Human:
+- [[Some Personal Note]] says ...
+- [[Another Note]] says ...
+
+Machine:
+- [[Machine/Research/Foo]] captured a previous investigation into ...
+
+I did not find an SOP for this.
+```
+
+That is much better than pretending the vault is one undifferentiated blob of context.
+
+### Librarian
+
+Librarian activates when the user asks about vault health or cleanup, or when it has been more than 30 days since the last audit.
+
+The role checks `Machine/` docs for staleness, finds missing or incomplete YAML frontmatter, identifies folders exceeding the file limit, finds orphaned notes, and finds broken `[[Wikilinks]]`. It can fix `Machine/` issues autonomously, but it should suggest `Human/` fixes for approval.
+
+This is where the frontmatter starts paying rent. Without `captured`, `updated`, and `staleness`, "audit the machine notes" becomes vague. With those fields, the assistant can make specific judgements.
+
+## Credentials Are Part Of The Design
+
+Memory is not only notes. Sometimes a note should become an action.
+
+For me, that means the assistant may need limited access to Google Workspace or Todoist. This is where I try to be boring and explicit.
+
+For Google Workspace, I use [`gws`](https://github.com/googleworkspace/cli) with two config directories.
+
+The personal default profile lives at:
+
+```text
+~/.config/gws/
+```
+
+That profile is read-only and is used for reads.
+
+The machine profile lives at:
+
+```text
+~/.config/gws-machine/
+```
+
+It is selected explicitly with `GOOGLE_WORKSPACE_CLI_CONFIG_DIR=~/.config/gws-machine` and is used for writes to machine-owned resources.
+
+The separation is not just naming. Tokens live under separate config directories. Switching profiles is explicit via an environment variable on the command or shell session. The personal profile is authenticated with read-only scopes. The machine profile is a separate account with write scopes for machine-owned resources such as the machine calendar. Calendar sharing and account ownership then become part of the boundary: the assistant can read the personal context it needs, but its approved writes land in the machine account.
+
+An anonymised read looks like this:
+
+```bash
+gws calendar events list \
+  --params '{"calendarId":"personal-calendar@example.invalid","timeMin":"2026-05-29T00:00:00Z","timeMax":"2026-05-30T00:00:00Z","singleEvents":true,"maxResults":50}'
+```
+
+An anonymised write uses the machine profile explicitly:
+
+```bash
+GOOGLE_WORKSPACE_CLI_CONFIG_DIR=~/.config/gws-machine \
+gws calendar events insert \
+  --params '{"calendarId":"machine-calendar@example.invalid"}' \
+  --json '{"summary":"Review machine notes audit","start":{"dateTime":"2026-05-30T10:00:00Z"},"end":{"dateTime":"2026-05-30T10:30:00Z"}}'
+```
+
+Write, update, and delete operations still require explicit verbal confirmation before execution. The useful outcome is that an LLM can add something to a machine calendar when I approve it, but it cannot delete important personal emails or calendar events as a side effect of being helpful.
+
+That boundary changes how comfortable I am letting the memory system become active. It can move from "remember this" to "put this somewhere I will see it" without getting broad destructive access.
+
+## Todoist Turns Memory Into Action
+
+I also use the [`td` CLI](https://github.com/Doist/todoist-cli) for Todoist.
+
+The rules are different from Google Workspace because task creation is usually lower risk:
+
+- Adding tasks usually requires no confirmation.
+- Destructive actions always require confirmation.
+- Updating tasks verifies current state first.
+
+This lets an assistant turn a vault capture into an action without making every small thing a negotiation.
+
+For example, if a Scribe pass finds this in a capture:
+
+```text
+I need to review the machine notes around calendar permissions and make sure the GWS examples are anonymised.
+```
+
+It can become a Todoist task. If the assistant wants to delete or complete a task, that needs confirmation. If it wants to update a task, it should first read the current state so it does not overwrite something blindly.
+
+The agent-facing command shape is deliberately structured rather than a natural-language quick add:
+
+```bash
+td task add \
+  "Review machine notes around calendar permissions" \
+  --due "today" \
+  --priority p4
+```
+
+This is a small design choice, but it affects the feel of the whole system. A memory layer that only stores notes becomes another place to forget things. A memory layer that can create bounded actions is more useful.
+
+## How Knowledge Compounds
+
+The clearest example of compounding is my braindump retro workflow.
+
+Daily notes can contain marked braindump blocks. These are not polished notes. They are the fragments that would otherwise disappear: irritations, half-decisions, repeated concerns, ideas I am not ready to structure yet.
+
+The public [`obsidian-braindump-retro`](https://github.com/hoombar/claude-skills/tree/main/skills/obsidian-braindump-retro) skill processes those marked captures.
+
+At a high level, it:
+
+- Extracts marked captures from daily notes.
+- Routes them into durable notes, actions, or threads.
+- Keeps a ledger and checkpoint so it knows what has already been processed.
+- Treats repeated thoughts across days as signal rather than noise.
+
+That last point is the part I care about most.
+
+A single capture might be nothing:
+
+```text
+The calendar permission setup still feels too easy to misuse.
+```
+
+On its own, that might become a small note or no action at all.
+
+But if similar captures appear over several weeks, the system should not treat each one as a fresh isolated thought. It should start to see an active concern:
+
+```text
+2026-05-03: Calendar permission setup feels too easy to misuse.
+2026-05-11: Need to separate machine calendar writes from personal reads.
+2026-05-19: Check whether destructive GWS operations require explicit confirmation.
+2026-05-28: Write down the token separation model before I forget the exact boundary.
+```
+
+A retro pass can route that into a thread about credential boundaries, create or update a `Machine/` note, and add an action to validate the current setup.
+
+The state does not need to be complicated. The useful thing is that the next run has a record of what happened:
+
+```json
+{"capture_id":"2026-05-03-01","source_date":"2026-05-03","raw_status":"linked","thread_slug":"gws-credential-boundaries","routed_to":"Machine/AI Workflows/GWS Credential Boundaries.md"}
+{"capture_id":"2026-05-11-02","source_date":"2026-05-11","raw_status":"linked","thread_slug":"gws-credential-boundaries","routed_to":"Machine/AI Workflows/GWS Credential Boundaries.md"}
+{"capture_id":"2026-05-19-01","source_date":"2026-05-19","raw_status":"actioned","thread_slug":"gws-credential-boundaries","routed_to":"Todoist: Review GWS destructive-operation confirmation"}
+```
+
+The checkpoint then tells the next run where to resume:
+
+```json
+{"last_processed":"2026-05-19T23:59:59Z"}
+```
+
+When a similar thought appears later, the assistant should update the existing thread instead of creating another isolated note. That is the mechanical part of compounding: capture becomes routed state, routed state becomes retrieval context, and retrieval context changes what the next agent does.
+
+The next run should not start over. It should use the thread, checkpoint, and action history. That is what I mean by compounding.
+
+One thought captured today may become a thread. Repeated captures across weeks become evidence of an active concern. Future runs inherit the context instead of rediscovering the same pattern from scratch.
+
+This is also why I prefer a simple ledger and checkpoint over a magical memory promise. I want to know what was processed, where it went, and what the system thinks is still open.
+
+## What I Would Reuse
+
+If I were setting this up again, I would start with the boundaries before adding any clever retrieval.
+
+The minimum useful version is:
+
+- One canonical root instruction file.
+- Thin adapter files for each LLM tool.
+- A protected human area.
+- A machine-writable area.
+- Required frontmatter for machine notes.
+- Clear role instructions for capture, search, and maintenance.
+- Separate credentials for human reads and machine writes.
+- Explicit confirmation rules for destructive operations.
+- A way to turn memory into actions.
+- A periodic workflow that revisits messy captures and promotes repeated concerns.
+
+You do not need my exact folders or tools. You do need the distinction between human-authored memory and machine-maintained memory. You need provenance. You need a maintenance pass. And if the assistant can touch external systems, you need credential boundaries that make accidents boring.
+
+The trap is to treat "LLM memory" as one feature. In practice, it is several smaller policies working together.
+
+Where can the model read? Where can it write? What does it have to cite? What does it have to ask before changing? How does it know whether a note is stale? What happens to an unresolved thought after the third time it appears?
+
+Those questions are not glamorous, but they are the system.
