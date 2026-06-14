@@ -1,0 +1,32 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Plate with wings being folded (hero) -->
+  <g transform="translate(16, 14)">
+    <!-- Main plate body -->
+    <ellipse cx="44" cy="40" rx="40" ry="38" fill="#92400e" stroke="#374151" stroke-width="1.5"/>
+
+    <!-- Left wing fold -->
+    <path d="M6,14 L6,66 L18,66 L18,14 Z" fill="#78350f" stroke="#374151" stroke-width="1" opacity="0.8"/>
+    <!-- Fold line left -->
+    <line x1="18" y1="14" x2="18" y2="66" stroke="#374151" stroke-width="0.8" stroke-dasharray="3,2"/>
+
+    <!-- Right wing fold -->
+    <path d="M70,14 L70,66 L82,66 L82,14 Z" fill="#78350f" stroke="#374151" stroke-width="1" opacity="0.8"/>
+    <!-- Fold line right -->
+    <line x1="70" y1="14" x2="70" y2="66" stroke="#374151" stroke-width="0.8" stroke-dasharray="3,2"/>
+  </g>
+
+  <!-- Fold arrows -->
+  <defs>
+    <marker id="arr" viewBox="0 0 6 6" refX="5" refY="3" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#374151"/>
+    </marker>
+  </defs>
+  <!-- Left fold arrow -->
+  <path d="M12,50 Q8,50 14,50" fill="none" stroke="#374151" stroke-width="0" marker-end="url(#arr)"/>
+  <line x1="6" y1="50" x2="26" y2="50" stroke="#374151" stroke-width="0.8" stroke-dasharray="2,2" marker-end="url(#arr)"/>
+  <!-- Right fold arrow -->
+  <line x1="108" y1="50" x2="88" y2="50" stroke="#374151" stroke-width="0.8" stroke-dasharray="2,2" marker-end="url(#arr)"/>
+</svg>

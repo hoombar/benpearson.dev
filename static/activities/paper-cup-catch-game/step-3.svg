@@ -1,0 +1,51 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+
+  <!-- Decorated cup (right way up, being held) -->
+  <path d="M34,42 L28,86 L78,86 L72,42 Z" fill="white" stroke="#374151" stroke-width="1.5"/>
+  <!-- Cup rim at top -->
+  <ellipse cx="53" cy="42" rx="19" ry="5" fill="#f9fafb" stroke="#374151" stroke-width="1"/>
+  <!-- Cup bottom -->
+  <ellipse cx="53" cy="86" rx="25" ry="5" fill="#f3f4f6" stroke="#374151" stroke-width="1"/>
+
+  <!-- Decorations on cup — stripes and stars -->
+  <line x1="32" y1="52" x2="76" y2="52" stroke="#ef4444" stroke-width="1.5"/>
+  <line x1="30" y1="62" x2="74" y2="62" stroke="#3b82f6" stroke-width="1.5"/>
+  <line x1="28" y1="72" x2="78" y2="72" stroke="#eab308" stroke-width="1.5"/>
+  <!-- Star -->
+  <polygon points="53,54 55,58 59,58 56,61 57,65 53,63 49,65 50,61 47,58 51,58" fill="#eab308" stroke="#374151" stroke-width="0.4"/>
+
+  <!-- String coming from cup bottom hole going down then swinging up -->
+  <path d="M53,91 Q53,100 40,98 Q20,94 16,70 Q14,50 26,30" fill="none" stroke="#92400e" stroke-width="1.2" stroke-linecap="round"/>
+
+  <!-- Tinfoil ball at end of string — mid-air, being tossed up -->
+  <circle cx="26" cy="26" r="8" fill="#d1d5db" stroke="#374151" stroke-width="1"/>
+  <!-- Ball texture -->
+  <path d="M20,24 Q24,20 30,24" fill="none" stroke="#9ca3af" stroke-width="0.5"/>
+  <path d="M22,30 Q26,26 32,28" fill="none" stroke="#9ca3af" stroke-width="0.5"/>
+  <circle cx="23" cy="22" r="1.5" fill="white" opacity="0.5"/>
+
+  <!-- Motion lines showing ball trajectory arcing toward cup -->
+  <path d="M22,22 Q18,16 16,10" fill="none" stroke="#9ca3af" stroke-width="0.6" stroke-dasharray="2,2"/>
+  <path d="M30,22 Q34,14 40,10" fill="none" stroke="#9ca3af" stroke-width="0.6" stroke-dasharray="2,2"/>
+
+  <!-- Curved arrow showing toss arc -->
+  <defs>
+    <marker id="arr" viewBox="0 0 6 6" refX="5" refY="3" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#374151"/>
+    </marker>
+  </defs>
+  <path d="M30,18 Q38,4 50,12 Q56,18 54,36" fill="none" stroke="#374151" stroke-width="0.8" stroke-dasharray="3,2" marker-end="url(#arr)"/>
+
+  <!-- Hand holding cup -->
+  <g transform="translate(72, 56)">
+    <rect x="0" y="0" width="12" height="22" rx="6" fill="#fcd9b6" stroke="#374151" stroke-width="1"/>
+    <rect x="4" y="18" width="10" height="16" rx="5" fill="#fcd9b6" stroke="#374151" stroke-width="0.8"/>
+  </g>
+
+  <!-- Marker on the table -->
+  <g transform="translate(90, 90) rotate(-10)">
+    <rect x="0" y="0" width="22" height="5" rx="2" fill="#ef4444" stroke="#374151" stroke-width="0.6"/>
+    <rect x="-2" y="0.5" width="3" height="4" rx="1" fill="#374151"/>
+  </g>
+</svg>

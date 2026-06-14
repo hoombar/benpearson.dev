@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="100%" height="100%">
+  <!-- Background: Room Wall -->
+  <rect width="800" height="600" fill="#d1e8e2"/>
+  
+  <!-- Door frame or room corner -->
+  <rect width="100" height="600" fill="#a0c4bc"/>
+  <rect x="100" y="0" width="10" height="600" fill="#8cb3aa"/>
+  
+  <!-- Hand taping first tube -->
+  <g transform="translate(400, 200)">
+    <!-- Shadow on wall -->
+    <rect x="-80" y="-40" width="160" height="50" rx="10" fill="rgba(0,0,0,0.15)" transform="rotate(30) translate(10, 10)"/>
+    
+    <!-- First tube -->
+    <rect x="-80" y="-40" width="160" height="50" rx="10" fill="#d6ab7d" transform="rotate(30)"/>
+    <ellipse cx="-80" cy="-15" rx="10" ry="25" fill="#b88d5f" transform="rotate(30)"/>
+    <ellipse cx="80" cy="-15" rx="10" ry="25" fill="#9a6f41" transform="rotate(30)"/>
+    
+    <!-- Tape pieces -->
+    <rect x="-40" y="-55" width="20" height="80" fill="rgba(255,255,255,0.7)" transform="rotate(20)"/>
+    <rect x="40" y="-55" width="20" height="80" fill="rgba(255,255,255,0.7)" transform="rotate(40)"/>
+  </g>
+  
+  <!-- Hands putting tape -->
+  <g transform="translate(480, 250)">
+    <!-- Hand shape -->
+    <path d="M 0 0 C -20 -30 -40 -30 -60 0 C -70 20 -40 60 0 80 C 40 100 80 60 60 20 Z" fill="#ffccbc"/>
+    <path d="M -60 0 C -70 -20 -50 -40 -30 -20 Z" fill="#ffccbc"/> <!-- Thumb -->
+    <!-- Motion lines for pressing tape -->
+    <path d="M -80 -10 Q -90 -20 -100 -10" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+    <path d="M -70 10 Q -80 0 -90 10" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  
+  <!-- Extra tubes ready on the floor -->
+  <g transform="translate(600, 500)">
+    <rect x="-30" y="-80" width="60" height="120" rx="10" fill="#c49a6c" transform="rotate(-15)"/>
+    <ellipse cx="-45" cy="-25" rx="30" ry="10" fill="#a67c52" transform="rotate(-15)"/>
+  </g>
+</svg>

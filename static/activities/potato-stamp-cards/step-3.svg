@@ -1,0 +1,30 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="4" y="104" width="112" height="8" rx="2" fill="#fbbf24" stroke="#374151" stroke-width="1.5"/>
+  <!-- Folded greeting card (open, front view) -->
+  <!-- Card back panel -->
+  <rect x="14" y="36" width="44" height="66" rx="3" fill="#fef9c3" stroke="#374151" stroke-width="2"/>
+  <!-- Card front panel (right half, slightly raised) -->
+  <rect x="58" y="34" width="44" height="66" rx="3" fill="#f9fafb" stroke="#374151" stroke-width="2"/>
+  <!-- Fold crease line -->
+  <line x1="58" y1="34" x2="58" y2="100" stroke="#374151" stroke-width="1.5" stroke-dasharray="4,3"/>
+  <!-- Heart stamps on front panel -->
+  <path d="M72 50 Q72 44 79 44 Q86 44 86 50 Q86 56 79 61 Q72 56 72 50 Z"
+        fill="#ef4444" stroke="none"/>
+  <path d="M72 70 Q72 64 79 64 Q86 64 86 70 Q86 76 79 81 Q72 76 72 70 Z"
+        fill="#ef4444" stroke="none"/>
+  <path d="M62 60 Q62 54 69 54 Q76 54 76 60 Q76 66 69 71 Q62 66 62 60 Z"
+        fill="#fca5a5" stroke="none"/>
+  <!-- Marker adding dot details around stamps -->
+  <!-- Marker pen -->
+  <rect x="100" y="24" width="8" height="32" rx="4" fill="#3b82f6" stroke="#374151" stroke-width="1.5"/>
+  <path d="M100 56 L100 68 L108 62 Z" fill="#1d4ed8" stroke="#374151" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Dotted decoration marks (marker adding details) -->
+  <circle cx="88" cy="50" r="2" fill="#3b82f6" stroke="none"/>
+  <circle cx="88" cy="58" r="2" fill="#3b82f6" stroke="none"/>
+  <circle cx="70" cy="88" r="2" fill="#3b82f6" stroke="none"/>
+  <circle cx="80" cy="88" r="2" fill="#3b82f6" stroke="none"/>
+  <circle cx="90" cy="88" r="2" fill="#3b82f6" stroke="none"/>
+  <!-- Dashed line showing marker being drawn from pen tip to card -->
+  <line x1="104" y1="68" x2="90" y2="78" stroke="#374151" stroke-width="1" stroke-dasharray="3,2" stroke-linecap="round"/>
+</svg>

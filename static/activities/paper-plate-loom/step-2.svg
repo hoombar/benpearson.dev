@@ -1,0 +1,30 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Paper plate circle -->
+  <circle cx="60" cy="60" r="52" fill="#f9fafb" stroke="#374151" stroke-width="2.5"/>
+  <!-- Plate rim -->
+  <circle cx="60" cy="60" r="44" fill="none" stroke="#e5e7eb" stroke-width="3"/>
+  <!-- Warp threads (9 radial spokes) -->
+  <line x1="60" y1="60" x2="60" y2="8" stroke="#93c5fd" stroke-width="1.5"/>
+  <line x1="60" y1="60" x2="94" y2="22" stroke="#86efac" stroke-width="1.5"/>
+  <line x1="60" y1="60" x2="108" y2="52" stroke="#fca5a5" stroke-width="1.5"/>
+  <line x1="60" y1="60" x2="108" y2="82" stroke="#fde68a" stroke-width="1.5"/>
+  <line x1="60" y1="60" x2="86" y2="108" stroke="#c4b5fd" stroke-width="1.5"/>
+  <line x1="60" y1="60" x2="36" y2="110" stroke="#f97316" stroke-width="1.5"/>
+  <line x1="60" y1="60" x2="12" y2="82" stroke="#22c55e" stroke-width="1.5"/>
+  <line x1="60" y1="60" x2="12" y2="48" stroke="#ef4444" stroke-width="1.5"/>
+  <line x1="60" y1="60" x2="32" y2="18" stroke="#3b82f6" stroke-width="1.5"/>
+  <!-- Woven section (inner spiral, 3 circuits complete) -->
+  <!-- Circuit 1 — inner ring (purple) -->
+  <circle cx="60" cy="60" r="12" fill="none" stroke="#a78bfa" stroke-width="3"/>
+  <!-- Circuit 2 — second ring (orange) -->
+  <circle cx="60" cy="60" r="22" fill="none" stroke="#f97316" stroke-width="3"/>
+  <!-- Circuit 3 — third ring (blue) -->
+  <circle cx="60" cy="60" r="32" fill="none" stroke="#3b82f6" stroke-width="3"/>
+  <!-- Weaving yarn tail at outer working edge -->
+  <path d="M92 60 Q86 48 74 44" stroke="#22c55e" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-dasharray="5,3"/>
+  <!-- Centre dot -->
+  <circle cx="60" cy="60" r="4" fill="#374151"/>
+  <!-- Over/under indicator labels removed — visual arrows instead -->
+  <path d="M34 42 Q38 36 44 40" stroke="#374151" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <circle cx="44" cy="40" r="2" fill="#374151"/>
+</svg>

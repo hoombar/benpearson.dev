@@ -1,0 +1,31 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Paper sheets being cut -->
+  <rect x="10" y="12" width="50" height="64" rx="2" fill="#4ade80" stroke="#374151" stroke-width="1.2"/>
+  <rect x="14" y="16" width="50" height="64" rx="2" fill="#fbbf24" stroke="#374151" stroke-width="1.2"/>
+
+  <!-- Cut strips scattered -->
+  <rect x="14" y="84" width="40" height="6" rx="1" fill="#4ade80" stroke="#374151" stroke-width="0.8"/>
+  <rect x="10" y="92" width="40" height="6" rx="1" fill="#ef4444" stroke="#374151" stroke-width="0.8"/>
+  <rect x="56" y="86" width="38" height="6" rx="1" fill="#fbbf24" stroke="#374151" stroke-width="0.8"/>
+  <rect x="52" y="94" width="38" height="6" rx="1" fill="#3b82f6" stroke="#374151" stroke-width="0.8"/>
+  <rect x="58" y="78" width="36" height="6" rx="1" fill="#a78bfa" stroke="#374151" stroke-width="0.8"/>
+
+  <!-- Cut lines on paper showing where to cut -->
+  <line x1="16" y1="28" x2="62" y2="28" stroke="#374151" stroke-width="0.5" stroke-dasharray="3,2"/>
+  <line x1="16" y1="38" x2="62" y2="38" stroke="#374151" stroke-width="0.5" stroke-dasharray="3,2"/>
+  <line x1="16" y1="48" x2="62" y2="48" stroke="#374151" stroke-width="0.5" stroke-dasharray="3,2"/>
+  <line x1="16" y1="58" x2="62" y2="58" stroke="#374151" stroke-width="0.5" stroke-dasharray="3,2"/>
+  <line x1="16" y1="68" x2="62" y2="68" stroke="#374151" stroke-width="0.5" stroke-dasharray="3,2"/>
+
+  <!-- Scissors -->
+  <g transform="translate(78, 40) rotate(-45)">
+    <path d="M0,0 L-18,5" fill="none" stroke="#9ca3af" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M0,0 L-18,-5" fill="none" stroke="#9ca3af" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="0" cy="0" r="1.5" fill="#374151" stroke="none"/>
+    <ellipse cx="5" cy="3.5" rx="5" ry="3.5" fill="none" stroke="#ef4444" stroke-width="1.5"/>
+    <ellipse cx="5" cy="-3.5" rx="5" ry="3.5" fill="none" stroke="#ef4444" stroke-width="1.5"/>
+  </g>
+</svg>

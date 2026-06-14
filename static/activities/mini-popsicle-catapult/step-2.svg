@@ -1,0 +1,34 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  
+  <g transform="translate(10, 10)">
+    <!-- Base stack -->
+    <g transform="translate(50, 60) rotate(-15)">
+      <rect x="-20" y="-15" width="40" height="30" rx="4" fill="#fbbf24" stroke="#374151" stroke-width="2"/>
+      <line x1="-20" y1="-5" x2="20" y2="-5" stroke="#374151" stroke-width="1.5"/>
+      <line x1="-20" y1="5" x2="20" y2="5" stroke="#374151" stroke-width="1.5"/>
+    </g>
+
+    <!-- Bottom stick -->
+    <rect x="15" y="70" width="80" height="10" rx="5" fill="#fef3c7" stroke="#374151" stroke-width="2"/>
+    
+    <!-- Top stick -->
+    <g transform="translate(15, 75) rotate(-30)">
+      <rect x="0" y="-5" width="80" height="10" rx="5" fill="#fef3c7" stroke="#374151" stroke-width="2"/>
+    </g>
+
+    <!-- Joined end rubber band -->
+    <rect x="18" y="66" width="6" height="14" rx="2" fill="#ef4444" stroke="#374151" stroke-width="1.5" transform="rotate(-15 21 73)"/>
+
+    <!-- Criss-cross rubber band (green) -->
+    <path d="M 45 45 L 60 85 L 55 85 L 40 45 Z" fill="#22c55e" stroke="#374151" stroke-width="1.5"/>
+    <path d="M 60 45 L 45 85 L 40 85 L 55 45 Z" fill="#16a34a" stroke="#374151" stroke-width="1.5"/>
+    
+    <!-- Action loop around criss cross -->
+    <path d="M 65 50 Q 80 50 75 70 Q 70 85 55 90" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round" stroke-dasharray="4 4" marker-end="url(#arr)"/>
+  </g>
+</svg>

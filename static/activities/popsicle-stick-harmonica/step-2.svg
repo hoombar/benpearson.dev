@@ -1,0 +1,43 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Assembled harmonica with rubber bands (hero) -->
+  <g transform="translate(14, 34)">
+    <!-- Bottom stick -->
+    <rect x="0" y="12" width="84" height="10" rx="4" fill="#fde68a" stroke="#374151" stroke-width="1.2"/>
+    <!-- Paper strip -->
+    <rect x="0" y="10" width="84" height="4" rx="0.5" fill="white" stroke="#374151" stroke-width="0.4"/>
+    <!-- Top stick -->
+    <rect x="0" y="0" width="84" height="10" rx="4" fill="#fde68a" stroke="#374151" stroke-width="1.2"/>
+
+    <!-- Left rubber band (wrapped) -->
+    <ellipse cx="8" cy="11" rx="6" ry="14" fill="none" stroke="#3b82f6" stroke-width="3" opacity="0.8"/>
+
+    <!-- Right rubber band (being wrapped) -->
+    <ellipse cx="76" cy="11" rx="6" ry="14" fill="none" stroke="#3b82f6" stroke-width="3" opacity="0.8" stroke-dasharray="5,4"/>
+  </g>
+
+  <!-- Hand wrapping rubber band -->
+  <g transform="translate(88, 30)">
+    <rect x="0" y="0" width="14" height="22" rx="7" fill="#fcd9b6" stroke="#374151" stroke-width="0.8"/>
+    <rect x="16" y="2" width="10" height="18" rx="5" fill="#fcd9b6" stroke="#374151" stroke-width="0.8"/>
+  </g>
+
+  <!-- Arrow showing wrapping -->
+  <defs>
+    <marker id="arr" viewBox="0 0 6 6" refX="5" refY="3" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#3b82f6"/>
+    </marker>
+  </defs>
+  <path d="M96,52 Q94,58 90,62" fill="none" stroke="#3b82f6" stroke-width="1" stroke-dasharray="2,2" marker-end="url(#arr)"/>
+
+  <!-- Loose rubber bands on table -->
+  <ellipse cx="20" cy="80" rx="8" ry="5" fill="none" stroke="#3b82f6" stroke-width="2"/>
+  <ellipse cx="44" cy="82" rx="7" ry="4.5" fill="none" stroke="#3b82f6" stroke-width="2"/>
+
+  <!-- Gap label showing where sound comes from -->
+  <line x1="40" y1="44" x2="40" y2="62" stroke="#374151" stroke-width="0.5" stroke-dasharray="2,2"/>
+  <line x1="56" y1="44" x2="56" y2="62" stroke="#374151" stroke-width="0.5" stroke-dasharray="2,2"/>
+  <line x1="40" y1="62" x2="56" y2="62" stroke="#374151" stroke-width="0.8" marker-end="url(#arr)"/>
+</svg>

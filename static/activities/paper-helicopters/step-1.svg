@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <defs>
+    <filter id="shadow" x="-10%" y="-10%" width="130%" height="130%">
+      <feDropShadow dx="2" dy="4" stdDeviation="3" flood-color="#000" flood-opacity="0.3"/>
+    </filter>
+    <pattern id="wood" x="0" y="0" width="100" height="20" patternUnits="userSpaceOnUse">
+      <rect width="100" height="20" fill="#cd853f"/>
+      <path d="M 0 10 Q 25 5, 50 10 T 100 10" fill="none" stroke="#a0522d" stroke-width="1" opacity="0.5"/>
+    </pattern>
+    <linearGradient id="ruler-grad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fff"/>
+      <stop offset="100%" stop-color="#eee"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#wood)"/>
+  
+  <!-- Paper -->
+  <rect x="120" y="60" width="160" height="180" fill="#ffffff" filter="url(#shadow)" rx="2"/>
+  
+  <!-- Blueprints -->
+  <line x1="200" y1="80" x2="200" y2="150" stroke="#0000ff" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="120" y1="150" x2="160" y2="150" stroke="#0000ff" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="280" y1="150" x2="240" y2="150" stroke="#0000ff" stroke-width="2" stroke-dasharray="4,2"/>
+  <rect x="160" y="150" width="80" height="90" fill="none" stroke="#0000ff" stroke-width="1"/>
+  
+  <!-- Ruler -->
+  <g transform="translate(170, 70) rotate(15)" filter="url(#shadow)">
+    <rect x="0" y="0" width="180" height="25" fill="url(#ruler-grad)" rx="2" stroke="#ccc" stroke-width="1"/>
+    <!-- Ticks -->
+    <path d="M 10 0 v 10 M 20 0 v 5 M 30 0 v 10 M 40 0 v 5 M 50 0 v 10 M 60 0 v 5 M 70 0 v 10 M 80 0 v 5 M 90 0 v 10 M 100 0 v 5 M 110 0 v 10 M 120 0 v 5 M 130 0 v 10 M 140 0 v 5 M 150 0 v 10 M 160 0 v 5 M 170 0 v 10" stroke="#000" stroke-width="1"/>
+  </g>
+  
+  <!-- Pencil -->
+  <g transform="translate(220, 100) rotate(-45)" filter="url(#shadow)">
+    <polygon points="0,-5 10,-5 5,10" fill="#f4a460"/>
+    <polygon points="3,-2 7,-2 5,10" fill="#333"/>
+    <rect x="0" y="-80" width="10" height="75" fill="#ffd700"/>
+    <rect x="0" y="-80" width="10" height="75" fill="none" stroke="#daa520" stroke-width="1"/>
+    <rect x="0" y="-90" width="10" height="10" fill="#ff69b4"/>
+    <rect x="0" y="-82" width="10" height="4" fill="#c0c0c0"/>
+  </g>
+</svg>

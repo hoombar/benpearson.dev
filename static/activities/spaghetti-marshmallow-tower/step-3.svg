@@ -1,0 +1,39 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="4" y="108" width="112" height="8" rx="2" fill="#fbbf24" stroke="#374151" stroke-width="1.5"/>
+  <!-- Completed tower (4 levels, side view) -->
+  <!-- Horizontal spaghetti at each level -->
+  <line x1="14" y1="105" x2="56" y2="105" stroke="#fde68a" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="14" y1="87" x2="56" y2="87" stroke="#fde68a" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="14" y1="69" x2="56" y2="69" stroke="#fde68a" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="14" y1="51" x2="56" y2="51" stroke="#fde68a" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="14" y1="33" x2="56" y2="33" stroke="#fde68a" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Vertical spaghetti (left and right columns) -->
+  <line x1="14" y1="35" x2="14" y2="103" stroke="#fde68a" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="56" y1="35" x2="56" y2="103" stroke="#fde68a" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Marshmallow joints -->
+  <circle cx="14" cy="105" r="7" fill="white" stroke="#374151" stroke-width="2"/>
+  <circle cx="56" cy="105" r="7" fill="white" stroke="#374151" stroke-width="2"/>
+  <circle cx="14" cy="87" r="7" fill="white" stroke="#374151" stroke-width="2"/>
+  <circle cx="56" cy="87" r="7" fill="white" stroke="#374151" stroke-width="2"/>
+  <circle cx="14" cy="69" r="7" fill="white" stroke="#374151" stroke-width="2"/>
+  <circle cx="56" cy="69" r="7" fill="white" stroke="#374151" stroke-width="2"/>
+  <circle cx="14" cy="51" r="7" fill="white" stroke="#374151" stroke-width="2"/>
+  <circle cx="56" cy="51" r="7" fill="white" stroke="#374151" stroke-width="2"/>
+  <circle cx="14" cy="33" r="7" fill="white" stroke="#374151" stroke-width="2"/>
+  <circle cx="56" cy="33" r="7" fill="white" stroke="#374151" stroke-width="2"/>
+  <!-- Ruler (right of tower) -->
+  <rect x="68" y="22" width="16" height="86" rx="2" fill="#fef9c3" stroke="#374151" stroke-width="2"/>
+  <!-- Ruler tick marks -->
+  <line x1="68" y1="32" x2="74" y2="32" stroke="#374151" stroke-width="1"/>
+  <line x1="68" y1="44" x2="76" y2="44" stroke="#374151" stroke-width="1"/>
+  <line x1="68" y1="56" x2="74" y2="56" stroke="#374151" stroke-width="1"/>
+  <line x1="68" y1="68" x2="76" y2="68" stroke="#374151" stroke-width="1"/>
+  <line x1="68" y1="80" x2="74" y2="80" stroke="#374151" stroke-width="1"/>
+  <line x1="68" y1="92" x2="76" y2="92" stroke="#374151" stroke-width="1"/>
+  <line x1="68" y1="104" x2="74" y2="104" stroke="#374151" stroke-width="1"/>
+  <!-- Double-headed arrow showing full tower height -->
+  <line x1="96" y1="33" x2="96" y2="105" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+  <path d="M93 38 L96 31 L99 38" stroke="#374151" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <path d="M93 100 L96 107 L99 100" stroke="#374151" stroke-width="2" stroke-linecap="round" fill="none"/>
+</svg>

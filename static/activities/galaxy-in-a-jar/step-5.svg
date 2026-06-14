@@ -1,0 +1,17 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Finished Galaxy Jar -->
+  <g transform="translate(60, 60) rotate(10)">
+    <rect x="-25" y="-40" width="50" height="80" rx="4" fill="none" stroke="#374151" stroke-width="3"/>
+    <!-- Swirling nebula background -->
+    <rect x="-22" y="-37" width="44" height="74" rx="3" fill="#1e1b4b"/>
+    <path d="M-15,20 Q0,0 15,20" fill="none" stroke="#3b82f6" stroke-width="10" opacity="0.4"/>
+    <path d="M-10,-10 Q5,-25 18,-5" fill="none" stroke="#a78bfa" stroke-width="8" opacity="0.4"/>
+    <!-- Glitter -->
+    <circle cx="-12" cy="15" r="1" fill="white"/>
+    <circle cx="8" cy="-15" r="1" fill="white"/>
+    <circle cx="0" cy="5" r="1" fill="white"/>
+    <!-- Lid with tape -->
+    <rect x="-20" y="-48" width="40" height="10" rx="1" fill="#374151" stroke="#374151" stroke-width="2"/>
+    <rect x="-22" y="-45" width="44" height="4" fill="#93c5fd" opacity="0.6"/>
+  </g>
+</svg>

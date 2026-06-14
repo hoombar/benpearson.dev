@@ -1,0 +1,40 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Straight pipe cleaners (materials) -->
+  <line x1="80" y1="14" x2="80" y2="90" stroke="#3b82f6" stroke-width="4" stroke-linecap="round"/>
+  <line x1="90" y1="14" x2="90" y2="90" stroke="#3b82f6" stroke-width="4" stroke-linecap="round"/>
+  <line x1="100" y1="14" x2="100" y2="90" stroke="#ef4444" stroke-width="4" stroke-linecap="round"/>
+  <line x1="110" y1="14" x2="110" y2="90" stroke="#fbbf24" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- Pipe cleaner being bent into circle (hero) -->
+  <g transform="translate(14, 24)">
+    <!-- Circle frame forming -->
+    <circle cx="22" cy="22" r="18" fill="none" stroke="#3b82f6" stroke-width="4" stroke-linecap="round"/>
+    <!-- Twist point where ends meet -->
+    <circle cx="22" cy="4" r="2.5" fill="#2563eb" stroke="#374151" stroke-width="0.6"/>
+  </g>
+
+  <!-- Second lens shape (heart) in progress -->
+  <g transform="translate(14, 60)">
+    <path d="M18,8 Q6,0 6,14 Q6,24 18,34 Q30,24 30,14 Q30,0 18,8 Z" fill="none" stroke="#ef4444" stroke-width="4" stroke-linecap="round"/>
+  </g>
+
+  <!-- Hands bending pipe cleaner -->
+  <g transform="translate(0, 28)">
+    <rect x="0" y="0" width="10" height="18" rx="5" fill="#fcd9b6" stroke="#374151" stroke-width="0.8"/>
+  </g>
+  <g transform="translate(44, 28)">
+    <rect x="0" y="0" width="10" height="18" rx="5" fill="#fcd9b6" stroke="#374151" stroke-width="0.8"/>
+  </g>
+
+  <!-- Arrows showing bending -->
+  <defs>
+    <marker id="arr" viewBox="0 0 6 6" refX="5" refY="3" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#374151"/>
+    </marker>
+  </defs>
+  <path d="M8,50 Q4,56 10,60" fill="none" stroke="#374151" stroke-width="0.8" stroke-dasharray="2,2" marker-end="url(#arr)"/>
+  <path d="M50,50 Q54,56 48,60" fill="none" stroke="#374151" stroke-width="0.8" stroke-dasharray="2,2" marker-end="url(#arr)"/>
+</svg>

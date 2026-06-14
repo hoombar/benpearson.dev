@@ -1,0 +1,34 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <!-- Wand (hero) -->
+  <g transform="translate(40, 80) rotate(-45)">
+    <rect x="-3" y="-50" width="6" height="100" fill="#d97706" stroke="#374151" stroke-width="2"/>
+    <path d="M-5,-50 L5,-50 L7,-20 L-7,-20 Z" fill="#e5e7eb" stroke="#374151" stroke-width="2"/>
+    <path d="M-3,-15 L3,-15 M-3,-10 L3,-10 M-3,-5 L3,-5" stroke="#ef4444" stroke-width="2"/>
+    
+    <!-- Glitter on foil -->
+    <circle cx="-2" cy="-40" r="1" fill="#fde68a"/>
+    <circle cx="2" cy="-45" r="1" fill="#fde68a"/>
+    <circle cx="0" cy="-35" r="1.5" fill="#fde68a"/>
+    <circle cx="-3" cy="-25" r="1" fill="#fde68a"/>
+  </g>
+
+  <!-- Glitter shaker -->
+  <g transform="translate(80, 40) rotate(-135)">
+    <rect x="-10" y="-15" width="20" height="30" rx="2" fill="#dbeafe" stroke="#374151" stroke-width="2"/>
+    <rect x="-10" y="15" width="20" height="8" rx="1" fill="#9ca3af" stroke="#374151" stroke-width="2"/>
+    <!-- Holes in shaker -->
+    <circle cx="-3" cy="18" r="1" fill="#374151"/>
+    <circle cx="3" cy="18" r="1" fill="#374151"/>
+    <!-- Falling glitter -->
+    <path d="M0,25 Q-5,40 -10,50 M0,25 Q5,40 10,50" fill="none" stroke="#fde68a" stroke-width="2" stroke-dasharray="2,4" stroke-linecap="round"/>
+  </g>
+
+  <!-- Magic sparkles -->
+  <path d="M20,20 L22,25 L27,27 L22,29 L20,34 L18,29 L13,27 L18,25 Z" fill="#fde68a" stroke="#374151" stroke-width="1"/>
+</svg>

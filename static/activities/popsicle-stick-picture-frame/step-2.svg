@@ -1,0 +1,41 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="5" y="100" width="110" height="10" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Decorated frame (hero) -->
+  <!-- Top — blue with dots -->
+  <rect x="20" y="16" width="72" height="10" rx="3" fill="#3b82f6" stroke="#374151" stroke-width="1.5"/>
+  <circle cx="36" cy="21" r="2" fill="#f9fafb" stroke="none"/>
+  <circle cx="48" cy="21" r="2" fill="#f9fafb" stroke="none"/>
+  <circle cx="60" cy="21" r="2" fill="#f9fafb" stroke="none"/>
+  <circle cx="72" cy="21" r="2" fill="#f9fafb" stroke="none"/>
+
+  <!-- Bottom — green -->
+  <rect x="20" y="78" width="72" height="10" rx="3" fill="#22c55e" stroke="#374151" stroke-width="1.5"/>
+  <!-- Left — red -->
+  <rect x="20" y="16" width="10" height="72" rx="3" fill="#ef4444" stroke="#374151" stroke-width="1.5"/>
+  <!-- Right — yellow -->
+  <rect x="82" y="16" width="10" height="72" rx="3" fill="#fbbf24" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Star stickers -->
+  <path d="M25,40 L26,37 L27,40 L30,40 L28,42 L29,45 L26,43 L23,45 L24,42 L21,40 Z"
+        fill="#f59e0b" stroke="#374151" stroke-width="0.4"/>
+  <path d="M25,60 L26,57 L27,60 L30,60 L28,62 L29,65 L26,63 L23,65 L24,62 L21,60 Z"
+        fill="#f59e0b" stroke="#374151" stroke-width="0.4"/>
+
+  <!-- Heart sticker on bottom -->
+  <path d="M56,83 Q54,79 54,81 Q54,83 56,86 Q58,83 58,81 Q58,79 56,83 Z"
+        fill="#ec4899" stroke="#374151" stroke-width="0.4"/>
+
+  <!-- Gem stickers on right -->
+  <circle cx="87" cy="38" r="3" fill="#a855f7" stroke="#374151" stroke-width="0.6"/>
+  <circle cx="87" cy="66" r="3" fill="#a855f7" stroke="#374151" stroke-width="0.6"/>
+
+  <!-- Sticker sheet nearby -->
+  <rect x="98" y="30" width="16" height="24" rx="1" fill="#f9fafb" stroke="#374151" stroke-width="0.8"/>
+  <circle cx="102" cy="36" r="2" fill="#ec4899" stroke="#374151" stroke-width="0.3"/>
+  <circle cx="110" cy="36" r="2" fill="#a855f7" stroke="#374151" stroke-width="0.3"/>
+  <path d="M102,44 L103,41 L104,44 L107,44 L105,46 L106,49 L103,47 L100,49 L101,46 L98,44 Z"
+        fill="#f59e0b" stroke="#374151" stroke-width="0.2"/>
+  <circle cx="110" cy="46" r="2" fill="#22c55e" stroke="#374151" stroke-width="0.3"/>
+</svg>

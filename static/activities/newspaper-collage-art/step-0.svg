@@ -1,0 +1,68 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Newspaper sheet spread out (hero) -->
+  <rect x="6" y="10" width="72" height="54" rx="1" fill="#f5f5f4" stroke="#374151" stroke-width="1.2"/>
+  <!-- Column lines (text simulation) -->
+  <line x1="10" y1="16" x2="36" y2="16" stroke="#d1d5db" stroke-width="1.5"/>
+  <line x1="10" y1="20" x2="36" y2="20" stroke="#e5e7eb" stroke-width="0.8"/>
+  <line x1="10" y1="23" x2="36" y2="23" stroke="#e5e7eb" stroke-width="0.8"/>
+  <line x1="10" y1="26" x2="34" y2="26" stroke="#e5e7eb" stroke-width="0.8"/>
+  <line x1="10" y1="29" x2="36" y2="29" stroke="#e5e7eb" stroke-width="0.8"/>
+  <line x1="42" y1="16" x2="72" y2="16" stroke="#d1d5db" stroke-width="1.5"/>
+  <line x1="42" y1="20" x2="72" y2="20" stroke="#e5e7eb" stroke-width="0.8"/>
+  <line x1="42" y1="23" x2="72" y2="23" stroke="#e5e7eb" stroke-width="0.8"/>
+  <line x1="42" y1="26" x2="70" y2="26" stroke="#e5e7eb" stroke-width="0.8"/>
+  <!-- Photo block -->
+  <rect x="42" y="30" width="30" height="20" fill="#d1d5db" stroke="#374151" stroke-width="0.4"/>
+  <line x1="10" y1="34" x2="36" y2="34" stroke="#e5e7eb" stroke-width="0.8"/>
+  <line x1="10" y1="37" x2="36" y2="37" stroke="#e5e7eb" stroke-width="0.8"/>
+  <line x1="10" y1="40" x2="34" y2="40" stroke="#e5e7eb" stroke-width="0.8"/>
+
+  <!-- Torn newspaper strips already prepared -->
+  <g transform="translate(6, 70)">
+    <!-- Strip 1 -->
+    <path d="M0,0 L28,0 L28,10 Q24,8 20,10 Q16,12 12,10 Q8,8 4,10 L0,10 Z" fill="#f5f5f4" stroke="#374151" stroke-width="0.6"/>
+    <line x1="4" y1="4" x2="24" y2="4" stroke="#e5e7eb" stroke-width="0.6"/>
+    <line x1="4" y1="7" x2="22" y2="7" stroke="#e5e7eb" stroke-width="0.6"/>
+  </g>
+  <g transform="translate(38, 72)">
+    <!-- Strip 2 -->
+    <path d="M0,0 L22,0 Q22,4 20,6 L20,12 Q16,10 12,12 Q8,14 4,12 L0,12 Z" fill="#f5f5f4" stroke="#374151" stroke-width="0.6"/>
+    <line x1="3" y1="4" x2="18" y2="4" stroke="#e5e7eb" stroke-width="0.6"/>
+    <line x1="3" y1="7" x2="16" y2="7" stroke="#e5e7eb" stroke-width="0.6"/>
+  </g>
+  <g transform="translate(66, 70)">
+    <!-- Square piece -->
+    <path d="M0,0 L18,0 Q18,4 16,6 L18,14 Q14,12 10,14 Q6,16 2,14 L0,14 Z" fill="#f5f5f4" stroke="#374151" stroke-width="0.6"/>
+    <line x1="3" y1="4" x2="14" y2="4" stroke="#d1d5db" stroke-width="1"/>
+  </g>
+
+  <!-- Hands tearing newspaper -->
+  <g transform="translate(44, 38)">
+    <!-- Left hand -->
+    <rect x="0" y="0" width="10" height="18" rx="5" fill="#fcd9b6" stroke="#374151" stroke-width="0.8"/>
+  </g>
+  <g transform="translate(62, 38)">
+    <!-- Right hand pulling away -->
+    <rect x="0" y="0" width="10" height="18" rx="5" fill="#fcd9b6" stroke="#374151" stroke-width="0.8"/>
+  </g>
+
+  <!-- Tear line between hands -->
+  <path d="M54,44 Q56,42 58,46 Q60,44 62,46" fill="none" stroke="#ef4444" stroke-width="0.8" stroke-dasharray="2,2"/>
+
+  <!-- Scissors nearby -->
+  <g transform="translate(92, 56)">
+    <path d="M0,0 L-12,4" fill="none" stroke="#9ca3af" stroke-width="2" stroke-linecap="round"/>
+    <path d="M0,0 L-12,-4" fill="none" stroke="#9ca3af" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="0" cy="0" r="1.2" fill="#374151"/>
+    <ellipse cx="4" cy="3" rx="4" ry="3" fill="none" stroke="#ef4444" stroke-width="1.2"/>
+    <ellipse cx="4" cy="-3" rx="4" ry="3" fill="none" stroke="#ef4444" stroke-width="1.2"/>
+  </g>
+
+  <!-- Small confetti pieces -->
+  <rect x="90" y="74" width="5" height="4" rx="0.5" fill="#f5f5f4" stroke="#374151" stroke-width="0.3" opacity="0.6"/>
+  <rect x="98" y="78" width="6" height="5" rx="0.5" fill="#f5f5f4" stroke="#374151" stroke-width="0.3" opacity="0.5"/>
+  <rect x="92" y="82" width="4" height="3" rx="0.5" fill="#f5f5f4" stroke="#374151" stroke-width="0.3" opacity="0.5"/>
+</svg>

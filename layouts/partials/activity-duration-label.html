@@ -1,0 +1,3 @@
+{{- $min := .Params.duration_hours_min | default 0 -}}
+{{- $max := .Params.duration_hours_max | default 0 -}}
+{{- if eq $min $max -}}{{ $min }} {{ cond (eq $min 1) "hour" "hours" }}{{- else -}}{{ $min }}-{{ $max }} hours{{- end -}}

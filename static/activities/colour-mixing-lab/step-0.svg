@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Step 0: Set Up the Lab Stations — fill 3 jars with coloured water, 3 empty jars ready -->
+
+  <!-- Table / tray surface -->
+  <rect x="4" y="94" width="112" height="10" rx="3" fill="#e5e7eb" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <rect x="0" y="102" width="120" height="18" fill="#f3f4f6" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+
+  <!-- Jar 1 — RED (leftmost) -->
+  <g transform="translate(14, 62)">
+    <!-- jar body -->
+    <rect x="-9" y="-28" width="18" height="38" rx="3" fill="#fee2e2" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+    <!-- jar rim/lid band -->
+    <rect x="-10" y="-32" width="20" height="6" rx="2" fill="#f3f4f6" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+    <!-- coloured water fill -->
+    <rect x="-8" y="-8" width="16" height="18" rx="2" fill="#ef4444" opacity="0.85"/>
+    <!-- water surface line -->
+    <line x1="-8" y1="-8" x2="8" y2="-8" stroke="#fca5a5" stroke-width="1.5" stroke-linecap="round"/>
+    <!-- food colouring drop falling in -->
+    <path d="M0,-44 Q3,-52 3,-56 Q3,-62 0,-62 Q-3,-62 -3,-56 Q-3,-52 0,-44" fill="#ef4444" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+    <!-- dashed drip line from drop to jar -->
+    <line x1="0" y1="-44" x2="0" y2="-34" stroke="#ef4444" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="2,2"/>
+  </g>
+
+  <!-- Jar 2 — YELLOW -->
+  <g transform="translate(34, 62)">
+    <rect x="-9" y="-28" width="18" height="38" rx="3" fill="#fef9c3" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+    <rect x="-10" y="-32" width="20" height="6" rx="2" fill="#f3f4f6" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+    <rect x="-8" y="-8" width="16" height="18" rx="2" fill="#f59e0b" opacity="0.85"/>
+    <line x1="-8" y1="-8" x2="8" y2="-8" stroke="#fde68a" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M0,-44 Q3,-52 3,-56 Q3,-62 0,-62 Q-3,-62 -3,-56 Q-3,-52 0,-44" fill="#f59e0b" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+    <line x1="0" y1="-44" x2="0" y2="-34" stroke="#f59e0b" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="2,2"/>
+  </g>
+
+  <!-- Jar 3 — BLUE -->
+  <g transform="translate(54, 62)">
+    <rect x="-9" y="-28" width="18" height="38" rx="3" fill="#dbeafe" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+    <rect x="-10" y="-32" width="20" height="6" rx="2" fill="#f3f4f6" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+    <rect x="-8" y="-8" width="16" height="18" rx="2" fill="#3b82f6" opacity="0.85"/>
+    <line x1="-8" y1="-8" x2="8" y2="-8" stroke="#93c5fd" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M0,-44 Q3,-52 3,-56 Q3,-62 0,-62 Q-3,-62 -3,-56 Q-3,-52 0,-44" fill="#3b82f6" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+    <line x1="0" y1="-44" x2="0" y2="-34" stroke="#3b82f6" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="2,2"/>
+  </g>
+
+  <!-- Jar 4 — EMPTY (dashed outline) -->
+  <g transform="translate(74, 62)">
+    <rect x="-9" y="-28" width="18" height="38" rx="3" fill="#f9fafb" stroke="#374151" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="4,2"/>
+    <rect x="-10" y="-32" width="20" height="6" rx="2" fill="#f3f4f6" stroke="#374151" stroke-width="1" stroke-linecap="round" stroke-dasharray="4,2"/>
+  </g>
+
+  <!-- Jar 5 — EMPTY -->
+  <g transform="translate(94, 62)">
+    <rect x="-9" y="-28" width="18" height="38" rx="3" fill="#f9fafb" stroke="#374151" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="4,2"/>
+    <rect x="-10" y="-32" width="20" height="6" rx="2" fill="#f3f4f6" stroke="#374151" stroke-width="1" stroke-linecap="round" stroke-dasharray="4,2"/>
+  </g>
+
+  <!-- Jar 6 — EMPTY -->
+  <g transform="translate(112, 62)">
+    <rect x="-8" y="-28" width="16" height="38" rx="3" fill="#f9fafb" stroke="#374151" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="4,2"/>
+    <rect x="-9" y="-32" width="18" height="6" rx="2" fill="#f3f4f6" stroke="#374151" stroke-width="1" stroke-linecap="round" stroke-dasharray="4,2"/>
+  </g>
+
+  <!-- Food colouring bottle top-left (source) -->
+  <g transform="translate(12, 18) rotate(-10)">
+    <rect x="-4" y="0" width="8" height="20" fill="#fee2e2" stroke="#374151" stroke-width="1.5" stroke-linecap="round" rx="2"/>
+    <rect x="-3" y="-5" width="6" height="7" fill="#ef4444" stroke="#374151" stroke-width="1.5" stroke-linecap="round" rx="1"/>
+    <!-- nozzle tip -->
+    <rect x="-1" y="-8" width="2" height="5" fill="#374151" rx="1"/>
+  </g>
+
+  <!-- "3 coloured + 3 empty" grouping bracket indicators -->
+  <!-- brace above coloured jars -->
+  <path d="M5,26 Q5,22 14,22 Q34,22 54,22 Q63,22 63,26" fill="none" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+  <circle cx="34" cy="20" r="2" fill="#374151"/>
+  <!-- brace above empty jars -->
+  <path d="M65,26 Q65,22 74,22 Q94,22 114,22 Q118,22 118,26" fill="none" stroke="#374151" stroke-width="1" stroke-linecap="round" stroke-dasharray="3,2"/>
+  <circle cx="92" cy="20" r="2" fill="#374151" opacity="0.4"/>
+</svg>

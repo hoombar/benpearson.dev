@@ -1,0 +1,18 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="120" height="120" fill="#fef3c7"/>
+  <rect x="0" y="70" width="120" height="50" fill="#fde68a"/>
+  <!-- Archway box in back -->
+  <rect x="10" y="40" width="40" height="30" fill="#f59e0b" stroke="#374151" stroke-width="2"/>
+  <path d="M20,70 Q30,55 40,70" fill="#fde68a" stroke="#374151" stroke-width="2"/>
+  <!-- Ramp -->
+  <polygon points="60,70 90,45 100,70" fill="#d97706" stroke="#374151" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Zig-zag -->
+  <polyline points="40,90 60,80 80,95" fill="none" stroke="#f59e0b" stroke-width="4" stroke-linecap="round"/>
+  <polyline points="40,90 60,80 80,95" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+  <!-- Tape -->
+  <rect x="85" y="40" width="15" height="10" rx="2" fill="#9ca3af" stroke="#374151" stroke-width="1.5"/>
+  <line x1="90" y1="40" x2="90" y2="50" stroke="#374151" stroke-width="1.5"/>
+  <!-- Motion / placement -->
+  <line x1="75" y1="35" x2="80" y2="55" stroke="#374151" stroke-width="2" stroke-dasharray="2,2"/>
+  <polygon points="80,60 77,55 83,55" fill="#374151"/>
+</svg>

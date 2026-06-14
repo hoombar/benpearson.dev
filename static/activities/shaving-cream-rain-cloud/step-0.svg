@@ -1,0 +1,24 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <!-- Glass Jar (hero) -->
+  <path d="M35,30 L35,100 C35,105 40,110 45,110 L75,110 C80,110 85,105 85,100 L85,30" fill="none" stroke="#374151" stroke-width="2.5" stroke-linejoin="round"/>
+  <ellipse cx="60" cy="30" rx="25" ry="6" fill="none" stroke="#374151" stroke-width="2.5"/>
+
+  <!-- Water filling up -->
+  <path d="M36,90 L36,100 C36,104 40,108 45,108 L75,108 C80,108 84,104 84,100 L84,90 Z" fill="#dbeafe" stroke="none" opacity="0.6"/>
+  <ellipse cx="60" cy="90" rx="24" ry="5" fill="#dbeafe" stroke="#3b82f6" stroke-width="1.5"/>
+
+  <!-- Water jug pouring -->
+  <g transform="translate(30, 20) rotate(30)">
+    <rect x="-10" y="-15" width="20" height="30" rx="2" fill="#f3f4f6" stroke="#374151" stroke-width="2"/>
+    <path d="M10,-10 Q20,-20 35,-10" fill="none" stroke="#3b82f6" stroke-width="3" stroke-dasharray="2,4" stroke-linecap="round"/>
+  </g>
+
+  <!-- Action arrow -->
+  <path d="M25,40 Q35,55 45,75" fill="none" stroke="#374151" stroke-width="2" marker-end="url(#arr)" stroke-linecap="round"/>
+</svg>

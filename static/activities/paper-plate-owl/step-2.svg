@@ -1,0 +1,45 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Owl plate with face being added (hero) -->
+  <g transform="translate(16, 14)">
+    <!-- Main plate body with wing folds -->
+    <ellipse cx="44" cy="40" rx="40" ry="38" fill="#92400e" stroke="#374151" stroke-width="1.5"/>
+    <!-- Wing folds -->
+    <path d="M6,14 L18,14 L18,66 L6,66 Z" fill="#78350f" stroke="#374151" stroke-width="0.8"/>
+    <path d="M70,14 L82,14 L82,66 L70,66 Z" fill="#78350f" stroke="#374151" stroke-width="0.8"/>
+
+    <!-- Big circle eyes -->
+    <!-- Left eye -->
+    <circle cx="32" cy="28" r="12" fill="white" stroke="#374151" stroke-width="1"/>
+    <circle cx="32" cy="28" r="8" fill="#eab308" stroke="#374151" stroke-width="0.5"/>
+    <circle cx="32" cy="28" r="4" fill="#374151"/>
+    <!-- Right eye -->
+    <circle cx="56" cy="28" r="12" fill="white" stroke="#374151" stroke-width="1"/>
+    <circle cx="56" cy="28" r="8" fill="#eab308" stroke="#374151" stroke-width="0.5"/>
+    <circle cx="56" cy="28" r="4" fill="#374151"/>
+
+    <!-- Triangle beak -->
+    <polygon points="44,38 40,46 48,46" fill="#f97316" stroke="#374151" stroke-width="0.8"/>
+  </g>
+
+  <!-- Glue bottle -->
+  <g transform="translate(92, 44) rotate(15)">
+    <rect x="0" y="-5" width="20" height="10" rx="3" fill="white" stroke="#374151" stroke-width="0.8"/>
+    <path d="M-2,-3 L-5,0 L-2,3" fill="#f97316" stroke="#374151" stroke-width="0.5"/>
+    <rect x="6" y="-3" width="8" height="6" rx="1" fill="#f97316" opacity="0.6"/>
+  </g>
+
+  <!-- Spare eye circles on table -->
+  <circle cx="98" cy="78" r="6" fill="white" stroke="#374151" stroke-width="0.6"/>
+  <circle cx="98" cy="78" r="3" fill="#374151"/>
+
+  <!-- Arrow showing placement -->
+  <defs>
+    <marker id="arr" viewBox="0 0 6 6" refX="5" refY="3" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#374151"/>
+    </marker>
+  </defs>
+  <path d="M96,70 Q86,56 74,44" fill="none" stroke="#374151" stroke-width="0.8" stroke-dasharray="2,2" marker-end="url(#arr)"/>
+</svg>

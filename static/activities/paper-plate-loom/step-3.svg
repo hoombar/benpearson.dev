@@ -1,0 +1,29 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Completed woven plate — full circle with colourful concentric woven rings -->
+  <!-- Plate outer edge -->
+  <circle cx="60" cy="60" r="52" fill="#f9fafb" stroke="#374151" stroke-width="2.5"/>
+  <!-- Plate rim -->
+  <circle cx="60" cy="60" r="44" fill="none" stroke="#e5e7eb" stroke-width="3"/>
+  <!-- Woven area — concentric rings of colour filling the plate interior -->
+  <!-- Innermost ring (purple) -->
+  <circle cx="60" cy="60" r="8" fill="#a78bfa" stroke="#374151" stroke-width="1"/>
+  <!-- Ring 2 (orange) -->
+  <circle cx="60" cy="60" r="14" fill="none" stroke="#f97316" stroke-width="5"/>
+  <!-- Ring 3 (green) -->
+  <circle cx="60" cy="60" r="20" fill="none" stroke="#22c55e" stroke-width="5"/>
+  <!-- Ring 4 (blue) -->
+  <circle cx="60" cy="60" r="26" fill="none" stroke="#3b82f6" stroke-width="5"/>
+  <!-- Ring 5 (red) -->
+  <circle cx="60" cy="60" r="32" fill="none" stroke="#ef4444" stroke-width="5"/>
+  <!-- Ring 6 (yellow) -->
+  <circle cx="60" cy="60" r="38" fill="none" stroke="#f59e0b" stroke-width="5"/>
+  <!-- Warp threads visible at outer edge (faint) -->
+  <line x1="60" y1="22" x2="60" y2="8" stroke="#93c5fd" stroke-width="1.5"/>
+  <line x1="94" y1="26" x2="94" y2="22" stroke="#86efac" stroke-width="1.5"/>
+  <line x1="108" y1="52" x2="112" y2="52" stroke="#fca5a5" stroke-width="1.5"/>
+  <line x1="108" y1="82" x2="112" y2="82" stroke="#fde68a" stroke-width="1.5"/>
+  <!-- Hanging hole at top -->
+  <circle cx="60" cy="10" r="3" fill="none" stroke="#374151" stroke-width="2"/>
+  <!-- String for hanging -->
+  <path d="M57 8 Q60 2 63 8" fill="none" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

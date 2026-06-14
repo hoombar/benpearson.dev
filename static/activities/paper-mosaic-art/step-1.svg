@@ -1,0 +1,37 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2"
+            stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <!-- Large sheet of tissue paper with torn/ragged edges at top and bottom -->
+  <!-- Red sheet being torn -->
+  <path d="M20 20 Q24 16 28 20 Q32 16 36 20 Q40 16 44 20 Q48 16 52 20 Q56 16 60 20 L60 62 Q56 66 52 62 Q48 66 44 62 Q40 66 36 62 Q32 66 28 62 Q24 66 20 62 Z" stroke="#374151" stroke-width="1.5" fill="#fca5a5"/>
+  <!-- Arrows showing tearing action outward from both sides -->
+  <path d="M14 42 Q6 42 4 38" stroke="#374151" stroke-width="2" stroke-linecap="round" fill="none" marker-end="url(#arr)"/>
+  <path d="M66 42 Q74 42 76 38" stroke="#374151" stroke-width="2" stroke-linecap="round" fill="none" marker-end="url(#arr)"/>
+  <!-- Pile of torn pieces of different colours below -->
+  <!-- Red pieces -->
+  <rect x="16" y="76" width="10" height="8" rx="1" stroke="#374151" stroke-width="1" fill="#ef4444" transform="rotate(-10 21 80)"/>
+  <rect x="26" y="80" width="9" height="7" rx="1" stroke="#374151" stroke-width="1" fill="#ef4444" transform="rotate(8 30 83)"/>
+  <!-- Orange pieces -->
+  <rect x="38" y="74" width="10" height="8" rx="1" stroke="#374151" stroke-width="1" fill="#f97316" transform="rotate(-6 43 78)"/>
+  <rect x="48" y="78" width="9" height="7" rx="1" stroke="#374151" stroke-width="1" fill="#f97316" transform="rotate(12 52 81)"/>
+  <!-- Yellow pieces -->
+  <rect x="60" y="76" width="10" height="8" rx="1" stroke="#374151" stroke-width="1" fill="#f59e0b" transform="rotate(-8 65 80)"/>
+  <rect x="70" y="80" width="9" height="7" rx="1" stroke="#374151" stroke-width="1" fill="#f59e0b" transform="rotate(6 74 83)"/>
+  <!-- Green pieces -->
+  <rect x="82" y="74" width="10" height="8" rx="1" stroke="#374151" stroke-width="1" fill="#22c55e" transform="rotate(-12 87 78)"/>
+  <rect x="92" y="78" width="9" height="7" rx="1" stroke="#374151" stroke-width="1" fill="#22c55e" transform="rotate(5 96 81)"/>
+  <!-- Blue pieces -->
+  <rect x="16" y="90" width="10" height="8" rx="1" stroke="#374151" stroke-width="1" fill="#3b82f6" transform="rotate(8 21 94)"/>
+  <rect x="28" y="93" width="9" height="7" rx="1" stroke="#374151" stroke-width="1" fill="#3b82f6" transform="rotate(-6 32 96)"/>
+  <!-- Purple pieces -->
+  <rect x="40" y="90" width="10" height="8" rx="1" stroke="#374151" stroke-width="1" fill="#a78bfa" transform="rotate(-10 45 94)"/>
+  <rect x="52" y="92" width="9" height="7" rx="1" stroke="#374151" stroke-width="1" fill="#a78bfa" transform="rotate(7 56 95)"/>
+  <!-- More pieces continuing the pile -->
+  <rect x="66" y="90" width="10" height="8" rx="1" stroke="#374151" stroke-width="1" fill="#ef4444" transform="rotate(6 71 94)"/>
+  <rect x="78" y="88" width="9" height="7" rx="1" stroke="#374151" stroke-width="1" fill="#f59e0b" transform="rotate(-8 82 91)"/>
+</svg>

@@ -1,0 +1,42 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Step 1: Lay the Silver Canvas -->
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+    </marker>
+  </defs>
+
+  <rect x="0" y="0" width="120" height="120" fill="#fef3c7" />
+
+  <!-- The Shield Base (mostly covered) -->
+  <path d="M40,20 L80,20 L90,50 Q80,100 60,110 Q40,100 30,50 Z" fill="#d97706" stroke="#374151" stroke-width="2" />
+
+  <!-- Large Foil Sheet overlaying it -->
+  <!-- Top corner folded over -->
+  <path d="M25,10 L95,10 L105,60 L90,115 L30,115 L15,60 Z" fill="#e5e7eb" stroke="#374151" stroke-width="1.5" />
+  <!-- Subtle shiny gradient lines on the foil -->
+  <line x1="30" y1="20" x2="60" y2="50" stroke="#ffffff" stroke-width="3" opacity="0.6" stroke-linecap="round" />
+  <line x1="70" y1="40" x2="90" y2="60" stroke="#ffffff" stroke-width="3" opacity="0.6" stroke-linecap="round" />
+  
+  <!-- Bump showing the star underneath -->
+  <polygon points="45,40 48,46 54,46 49,50 51,56 45,52 39,56 41,50 36,46 42,46" fill="none" stroke="#d1d5db" stroke-width="1.5" opacity="0.8" />
+
+  <!-- Folding actions -->
+  <!-- Right edge folding backwards -->
+  <path d="M95,50 Q105,50 115,50" fill="none" stroke="#374151" stroke-width="2" stroke-dasharray="3,3" />
+  <path d="M105,40 Q100,50 90,50" fill="none" stroke="#374151" stroke-width="2" marker-end="url(#arr)" />
+  
+  <!-- Left edge folding backwards -->
+  <path d="M15,50 Q5,50 -5,50" fill="none" stroke="#374151" stroke-width="2" stroke-dasharray="3,3" />
+  <path d="M25,40 Q25,50 30,50" fill="none" stroke="#374151" stroke-width="2" marker-end="url(#arr)" />
+
+  <!-- Roll of tape on table -->
+  <g transform="translate(20, 100)">
+    <circle cx="0" cy="0" r="10" fill="#f9fafb" stroke="#374151" stroke-width="2" />
+    <circle cx="0" cy="0" r="5" fill="#fef3c7" stroke="#374151" stroke-width="1.5" />
+    <!-- Tape strip -->
+    <line x1="10" y1="0" x2="25" y2="0" stroke="#f9fafb" stroke-width="4" />
+    <line x1="10" y1="-2" x2="25" y2="-2" stroke="#374151" stroke-width="1" />
+    <line x1="10" y1="2" x2="25" y2="2" stroke="#374151" stroke-width="1" />
+  </g>
+</svg>

@@ -1,0 +1,54 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Sky background -->
+  <rect x="0" y="0" width="120" height="120" fill="#e0f2fe" stroke="none"/>
+
+  <!-- Bottle being blown through (held at angle) -->
+  <g transform="translate(8, 50) rotate(-15)">
+    <!-- Bottle body -->
+    <path d="M4,48 L4,16 Q4,12 8,12 L8,4 Q8,0 12,0 L20,0 Q24,0 24,4 L24,12 Q28,12 28,16 L28,48" fill="#bfdbfe" stroke="#374151" stroke-width="1" opacity="0.5"/>
+    <!-- Sock on end -->
+    <path d="M4,48 Q16,54 28,48" fill="#a78bfa" stroke="#374151" stroke-width="1"/>
+    <path d="M4,48 L2,54 Q2,56 4,56 L28,56 Q30,56 30,54 L28,48" fill="#a78bfa" stroke="#374151" stroke-width="0.8" opacity="0.8"/>
+  </g>
+
+  <!-- Blow lines from mouth to bottle -->
+  <line x1="6" y1="42" x2="12" y2="46" stroke="#93c5fd" stroke-width="0.8" stroke-linecap="round"/>
+  <line x1="4" y1="46" x2="10" y2="48" stroke="#93c5fd" stroke-width="0.8" stroke-linecap="round"/>
+  <line x1="5" y1="50" x2="11" y2="50" stroke="#93c5fd" stroke-width="0.8" stroke-linecap="round"/>
+
+  <!-- Magnificent bubble snake coming out -->
+  <!-- Row 1 - closest to bottle -->
+  <circle cx="42" cy="88" r="4" fill="none" stroke="#93c5fd" stroke-width="0.8" opacity="0.7"/>
+  <circle cx="48" cy="84" r="3.5" fill="none" stroke="#c4b5fd" stroke-width="0.8" opacity="0.7"/>
+  <circle cx="44" cy="80" r="4" fill="none" stroke="#93c5fd" stroke-width="0.8" opacity="0.7"/>
+  <circle cx="40" cy="84" r="3" fill="none" stroke="#fbcfe8" stroke-width="0.8" opacity="0.7"/>
+
+  <!-- Row 2 -->
+  <circle cx="54" cy="78" r="4.5" fill="none" stroke="#c4b5fd" stroke-width="0.8" opacity="0.7"/>
+  <circle cx="52" cy="84" r="4" fill="none" stroke="#93c5fd" stroke-width="0.8" opacity="0.7"/>
+  <circle cx="58" cy="86" r="3.5" fill="none" stroke="#fbcfe8" stroke-width="0.8" opacity="0.7"/>
+  <circle cx="56" cy="90" r="4" fill="none" stroke="#93c5fd" stroke-width="0.8" opacity="0.7"/>
+
+  <!-- Row 3 -->
+  <circle cx="64" cy="82" r="4" fill="none" stroke="#fbcfe8" stroke-width="0.8" opacity="0.7"/>
+  <circle cx="62" cy="76" r="3.5" fill="none" stroke="#93c5fd" stroke-width="0.8" opacity="0.7"/>
+  <circle cx="68" cy="78" r="4.5" fill="none" stroke="#c4b5fd" stroke-width="0.8" opacity="0.7"/>
+  <circle cx="66" cy="88" r="3" fill="none" stroke="#93c5fd" stroke-width="0.8" opacity="0.7"/>
+
+  <!-- Row 4 - extending further -->
+  <circle cx="74" cy="74" r="4" fill="none" stroke="#93c5fd" stroke-width="0.8" opacity="0.7"/>
+  <circle cx="76" cy="82" r="4.5" fill="none" stroke="#fbcfe8" stroke-width="0.8" opacity="0.7"/>
+  <circle cx="72" cy="86" r="3.5" fill="none" stroke="#c4b5fd" stroke-width="0.8" opacity="0.7"/>
+  <circle cx="78" cy="88" r="3" fill="none" stroke="#93c5fd" stroke-width="0.8" opacity="0.7"/>
+
+  <!-- Row 5 - tip of snake -->
+  <circle cx="84" cy="78" r="4" fill="none" stroke="#c4b5fd" stroke-width="0.8" opacity="0.6"/>
+  <circle cx="86" cy="84" r="3.5" fill="none" stroke="#93c5fd" stroke-width="0.8" opacity="0.6"/>
+  <circle cx="90" cy="80" r="4" fill="none" stroke="#fbcfe8" stroke-width="0.8" opacity="0.6"/>
+  <circle cx="92" cy="86" r="3" fill="none" stroke="#93c5fd" stroke-width="0.8" opacity="0.5"/>
+
+  <!-- Trailing bubbles -->
+  <circle cx="96" cy="76" r="3" fill="none" stroke="#c4b5fd" stroke-width="0.6" opacity="0.4"/>
+  <circle cx="100" cy="82" r="2.5" fill="none" stroke="#93c5fd" stroke-width="0.6" opacity="0.4"/>
+  <circle cx="102" cy="76" r="2" fill="none" stroke="#fbcfe8" stroke-width="0.6" opacity="0.3"/>
+</svg>

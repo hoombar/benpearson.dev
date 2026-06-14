@@ -1,0 +1,39 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2"
+            stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <!-- Ice block (hero, melting at edges) -->
+  <rect x="22" y="44" width="76" height="56" rx="3" stroke="#374151" stroke-width="2.5" fill="#dbeafe"/>
+  <!-- Melt channels cut through ice -->
+  <path d="M36 44 Q33 56 36 68" stroke="#93c5fd" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M60 44 Q56 52 58 64" stroke="#93c5fd" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <!-- Coins partially visible (being freed) -->
+  <ellipse cx="50" cy="72" rx="7" ry="5" fill="#fbbf24" stroke="#d97706" stroke-width="1.5"/>
+  <ellipse cx="76" cy="80" rx="7" ry="5" fill="#fbbf24" stroke="#d97706" stroke-width="1.5" opacity="0.75"/>
+  <!-- Salt grains falling from above -->
+  <circle cx="40" cy="34" r="1.5" fill="#e5e7eb" stroke="#374151" stroke-width="0.8"/>
+  <circle cx="52" cy="28" r="1.5" fill="#e5e7eb" stroke="#374151" stroke-width="0.8"/>
+  <circle cx="62" cy="32" r="1.5" fill="#e5e7eb" stroke="#374151" stroke-width="0.8"/>
+  <circle cx="72" cy="26" r="1.5" fill="#e5e7eb" stroke="#374151" stroke-width="0.8"/>
+  <circle cx="82" cy="31" r="1.5" fill="#e5e7eb" stroke="#374151" stroke-width="0.8"/>
+  <circle cx="46" cy="38" r="1" fill="#e5e7eb" stroke="#374151" stroke-width="0.8"/>
+  <circle cx="68" cy="37" r="1" fill="#e5e7eb" stroke="#374151" stroke-width="0.8"/>
+  <!-- Salt shaker (right side) -->
+  <rect x="90" y="8" width="16" height="30" rx="8" stroke="#374151" stroke-width="2" fill="#f9fafb"/>
+  <rect x="90" y="8" width="16" height="8" rx="4" stroke="#374151" stroke-width="1.5" fill="#e5e7eb"/>
+  <!-- Small hole dots on shaker cap -->
+  <circle cx="96" cy="12" r="1" fill="#374151"/>
+  <circle cx="100" cy="12" r="1" fill="#374151"/>
+  <circle cx="98" cy="9" r="1" fill="#374151"/>
+  <!-- Arrow from shaker toward ice -->
+  <line x1="90" y1="22" x2="78" y2="36" stroke="#374151" stroke-width="1.5" stroke-linecap="round" marker-end="url(#arr)"/>
+  <!-- Spoon with warm water drops -->
+  <ellipse cx="18" cy="90" rx="8" ry="5" stroke="#374151" stroke-width="1.5" fill="#dbeafe"/>
+  <line x1="26" y1="90" x2="42" y2="82" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+  <!-- Water drops falling from spoon to ice -->
+  <line x1="32" y1="86" x2="36" y2="56" stroke="#3b82f6" stroke-width="1.5" stroke-dasharray="3,3" stroke-linecap="round"/>
+</svg>

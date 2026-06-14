@@ -1,0 +1,43 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="5" y="95" width="110" height="12" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Painted plane (hero, angled slightly for 3D feel) -->
+  <!-- Fuselage (red) -->
+  <rect x="20" y="42" width="70" height="12" rx="3" fill="#ef4444" stroke="#374151" stroke-width="2.5"/>
+  <!-- White racing stripe -->
+  <line x1="24" y1="48" x2="86" y2="48" stroke="#f9fafb" stroke-width="2" stroke-linecap="round"/>
+  <!-- Nose -->
+  <path d="M20,42 L14,46 L14,52 L20,54" fill="#ef4444" stroke="#374151" stroke-width="2"/>
+
+  <!-- Wings (blue with star decorations) -->
+  <rect x="8" y="46" width="104" height="6" rx="1" fill="#3b82f6" stroke="#374151" stroke-width="2"/>
+  <!-- Stars on wings -->
+  <path d="M22,49 L23,46 L24,49 L27,49 L24.5,51 L25.5,54 L23,52 L20.5,54 L21.5,51 L19,49 Z"
+        fill="#fef9c3" stroke="none"/>
+  <path d="M96,49 L97,46 L98,49 L101,49 L98.5,51 L99.5,54 L97,52 L94.5,54 L95.5,51 L93,49 Z"
+        fill="#fef9c3" stroke="none"/>
+
+  <!-- Tail stabiliser (blue) -->
+  <rect x="80" y="40" width="26" height="5" rx="1" fill="#3b82f6" stroke="#374151" stroke-width="1.5"/>
+  <!-- Vertical tail (blue) -->
+  <rect x="88" y="24" width="6" height="18" rx="1" fill="#3b82f6" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Squadron number on fuselage -->
+  <circle cx="50" cy="48" r="5" fill="#f9fafb" stroke="#374151" stroke-width="0.75"/>
+
+  <!-- Paintbrush painting wing detail -->
+  <line x1="76" y1="28" x2="68" y2="42" stroke="#d97706" stroke-width="2.5" stroke-linecap="round"/>
+  <rect x="64" y="42" width="6" height="4" rx="1" fill="#3b82f6" stroke="#374151" stroke-width="0.75"/>
+
+  <!-- Paint pots below -->
+  <rect x="14" y="68" width="16" height="18" rx="2" fill="#f9fafb" stroke="#374151" stroke-width="1.5"/>
+  <rect x="16" y="72" width="12" height="12" rx="1" fill="#ef4444" stroke="none"/>
+
+  <rect x="36" y="68" width="16" height="18" rx="2" fill="#f9fafb" stroke="#374151" stroke-width="1.5"/>
+  <rect x="38" y="72" width="12" height="12" rx="1" fill="#3b82f6" stroke="none"/>
+
+  <!-- Markers -->
+  <line x1="64" y1="72" x2="84" y2="68" stroke="#374151" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="63" cy="72" r="1.5" fill="#374151" stroke="none"/>
+</svg>

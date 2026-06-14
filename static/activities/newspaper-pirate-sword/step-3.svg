@@ -1,0 +1,51 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Finished pirate sword (hero — diagonal for dynamic pose) -->
+  <g transform="translate(14, 86) rotate(-50)">
+    <!-- Handle (brown) -->
+    <rect x="0" y="-4" width="24" height="8" rx="2" fill="#92400e" stroke="#374151" stroke-width="1"/>
+    <!-- Handle wrap pattern -->
+    <line x1="6" y1="-4" x2="10" y2="4" stroke="#78350f" stroke-width="0.6"/>
+    <line x1="12" y1="-4" x2="16" y2="4" stroke="#78350f" stroke-width="0.6"/>
+    <line x1="18" y1="-4" x2="22" y2="4" stroke="#78350f" stroke-width="0.6"/>
+
+    <!-- Hand guard (gold) -->
+    <rect x="22" y="-10" width="6" height="20" rx="2" fill="#fbbf24" stroke="#374151" stroke-width="0.8"/>
+    <!-- Gemstone on guard -->
+    <circle cx="25" cy="-4" r="2" fill="#ef4444" stroke="#374151" stroke-width="0.4"/>
+    <circle cx="25" cy="4" r="2" fill="#3b82f6" stroke="#374151" stroke-width="0.4"/>
+
+    <!-- Blade (silver) -->
+    <rect x="28" y="-3" width="60" height="6" rx="1" fill="#d1d5db" stroke="#374151" stroke-width="0.8"/>
+    <!-- Blade shine -->
+    <line x1="32" y1="-1" x2="80" y2="-1" stroke="white" stroke-width="0.8" opacity="0.6"/>
+    <!-- Pointed tip -->
+    <polygon points="88,-3 96,0 88,3" fill="#d1d5db" stroke="#374151" stroke-width="0.6"/>
+  </g>
+
+  <!-- Skull and crossbones detail on blade -->
+  <g transform="translate(62, 32)">
+    <circle cx="4" cy="4" r="3" fill="white" stroke="#374151" stroke-width="0.5"/>
+    <circle cx="2" cy="3" r="0.8" fill="#374151"/>
+    <circle cx="6" cy="3" r="0.8" fill="#374151"/>
+    <path d="M2,6 Q4,7 6,6" fill="none" stroke="#374151" stroke-width="0.4"/>
+  </g>
+
+  <!-- Paint pots -->
+  <g transform="translate(88, 56)">
+    <rect x="0" y="0" width="14" height="14" rx="2" fill="#e5e7eb" stroke="#374151" stroke-width="0.6"/>
+    <rect x="2" y="3" width="10" height="9" rx="1" fill="#d1d5db"/>
+  </g>
+  <g transform="translate(88, 74)">
+    <rect x="0" y="0" width="14" height="14" rx="2" fill="#e5e7eb" stroke="#374151" stroke-width="0.6"/>
+    <rect x="2" y="3" width="10" height="9" rx="1" fill="#fbbf24"/>
+  </g>
+
+  <!-- Paintbrush -->
+  <g transform="translate(104, 50) rotate(15)">
+    <rect x="0" y="-2" width="16" height="4" rx="1.5" fill="#92400e" stroke="#374151" stroke-width="0.5"/>
+    <rect x="-3" y="-3" width="4" height="6" rx="1" fill="#d1d5db" stroke="#374151" stroke-width="0.4"/>
+  </g>
+</svg>

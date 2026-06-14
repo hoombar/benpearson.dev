@@ -1,0 +1,53 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Paper with handprint tree (hero) -->
+  <rect x="10" y="8" width="76" height="82" rx="1" fill="white" stroke="#374151" stroke-width="1"/>
+
+  <!-- Handprint tree trunk and branches -->
+  <g transform="translate(28, 14)">
+    <!-- Trunk (forearm print) -->
+    <rect x="10" y="40" width="14" height="42" rx="5" fill="#92400e" stroke="none" opacity="0.8"/>
+
+    <!-- Palm (wider area) -->
+    <ellipse cx="17" cy="38" rx="12" ry="8" fill="#92400e" opacity="0.8"/>
+
+    <!-- Branch fingers -->
+    <rect x="2" y="16" width="5" height="20" rx="2.5" fill="#92400e" opacity="0.8" transform="rotate(-18, 5, 26)"/>
+    <rect x="9" y="10" width="5" height="24" rx="2.5" fill="#92400e" opacity="0.8" transform="rotate(-6, 12, 22)"/>
+    <rect x="15" y="8" width="5" height="26" rx="2.5" fill="#92400e" opacity="0.8"/>
+    <rect x="21" y="10" width="5" height="24" rx="2.5" fill="#92400e" opacity="0.8" transform="rotate(6, 24, 22)"/>
+    <rect x="27" y="18" width="5" height="18" rx="2.5" fill="#92400e" opacity="0.8" transform="rotate(20, 30, 26)"/>
+  </g>
+
+  <!-- Hand lifting up (showing the action) -->
+  <g transform="translate(52, 8)">
+    <ellipse cx="14" cy="16" rx="12" ry="8" fill="#fcd9b6" stroke="#374151" stroke-width="0.6" opacity="0.5"/>
+    <rect x="8" y="0" width="5" height="14" rx="2.5" fill="#fcd9b6" stroke="#374151" stroke-width="0.4" opacity="0.5"/>
+    <rect x="14" y="-2" width="5" height="16" rx="2.5" fill="#fcd9b6" stroke="#374151" stroke-width="0.4" opacity="0.5"/>
+    <rect x="20" y="0" width="5" height="14" rx="2.5" fill="#fcd9b6" stroke="#374151" stroke-width="0.4" opacity="0.5"/>
+  </g>
+
+  <!-- Lift arrow -->
+  <defs>
+    <marker id="arr" viewBox="0 0 6 6" refX="5" refY="3" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#374151"/>
+    </marker>
+  </defs>
+  <line x1="78" y1="30" x2="78" y2="14" stroke="#374151" stroke-width="0.8" stroke-dasharray="2,2" marker-end="url(#arr)"/>
+
+  <!-- Paint pots ready for leaves -->
+  <g transform="translate(92, 30)">
+    <rect x="0" y="0" width="14" height="14" rx="2" fill="#e5e7eb" stroke="#374151" stroke-width="0.5"/>
+    <rect x="2" y="3" width="10" height="9" rx="1" fill="#22c55e"/>
+  </g>
+  <g transform="translate(92, 48)">
+    <rect x="0" y="0" width="14" height="14" rx="2" fill="#e5e7eb" stroke="#374151" stroke-width="0.5"/>
+    <rect x="2" y="3" width="10" height="9" rx="1" fill="#ef4444"/>
+  </g>
+  <g transform="translate(92, 66)">
+    <rect x="0" y="0" width="14" height="14" rx="2" fill="#e5e7eb" stroke="#374151" stroke-width="0.5"/>
+    <rect x="2" y="3" width="10" height="9" rx="1" fill="#f97316"/>
+  </g>
+</svg>

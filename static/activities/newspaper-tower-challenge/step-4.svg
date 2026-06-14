@@ -1,0 +1,67 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="120" height="120" fill="#f9fafb"/>
+
+  <!-- Floor -->
+  <rect x="6" y="110" width="108" height="6" rx="1" fill="#e5e7eb" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Completed tower (left side, side view) -->
+  <!-- Base horizontal -->
+  <rect x="12" y="96" width="38" height="12" rx="5" fill="#fef3c7" stroke="#374151" stroke-width="2.5"/>
+  <ellipse cx="12" cy="102" rx="4" ry="6" fill="#fbbf24" stroke="#374151" stroke-width="2"/>
+  <ellipse cx="50" cy="102" rx="4" ry="6" fill="#fbbf24" stroke="#374151" stroke-width="2"/>
+  <!-- Left pillar -->
+  <rect x="16" y="72" width="11" height="28" rx="4" fill="#fef3c7" stroke="#374151" stroke-width="2.5"/>
+  <ellipse cx="21" cy="72" rx="5.5" ry="3.5" fill="#fbbf24" stroke="#374151" stroke-width="2"/>
+  <!-- Right pillar -->
+  <rect x="35" y="72" width="11" height="28" rx="4" fill="#fef3c7" stroke="#374151" stroke-width="2.5"/>
+  <ellipse cx="40" cy="72" rx="5.5" ry="3.5" fill="#fbbf24" stroke="#374151" stroke-width="2"/>
+  <!-- Mid cross -->
+  <rect x="21" y="66" width="19" height="9" rx="4" fill="#fef3c7" stroke="#374151" stroke-width="2"/>
+  <!-- Mid pillars -->
+  <rect x="20" y="48" width="10" height="22" rx="4" fill="#fef9c3" stroke="#374151" stroke-width="2"/>
+  <rect x="32" y="48" width="10" height="22" rx="4" fill="#fef9c3" stroke="#374151" stroke-width="2"/>
+  <!-- Upper cross -->
+  <rect x="22" y="42" width="18" height="9" rx="4" fill="#fef9c3" stroke="#374151" stroke-width="2"/>
+  <!-- Upper pillar (top) -->
+  <rect x="26" y="24" width="9" height="22" rx="4" fill="#fde68a" stroke="#374151" stroke-width="2.5"/>
+  <ellipse cx="30" cy="24" rx="4.5" ry="3" fill="#f59e0b" stroke="#374151" stroke-width="2"/>
+  <!-- Tower peak -->
+  <ellipse cx="30" cy="24" rx="4.5" ry="3" fill="#f59e0b" stroke="#374151" stroke-width="2"/>
+
+  <!-- Diagonal bracing (green) -->
+  <line x1="16" y1="100" x2="24" y2="72" stroke="#22c55e" stroke-width="2" stroke-linecap="round"/>
+  <line x1="46" y1="100" x2="38" y2="72" stroke="#22c55e" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Trophy star at top of tower -->
+  <path d="M30 14 L32 9 L34 14 L39 14 L35 17 L37 22 L32 19 L27 22 L29 17 L25 14 Z"
+        fill="#fde68a" stroke="#f59e0b" stroke-width="1.5" stroke-linejoin="round"/>
+
+  <!-- Ruler (right side, full height) -->
+  <rect x="72" y="10" width="16" height="98" rx="3" fill="#fbbf24" stroke="#374151" stroke-width="2.5"/>
+  <!-- Ruler centre line -->
+  <line x1="80" y1="12" x2="80" y2="106" stroke="#374151" stroke-width="0.8" stroke-dasharray="2,2"/>
+  <!-- Major tick marks (every 18px) -->
+  <line x1="72" y1="28" x2="80" y2="28" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="72" y1="46" x2="80" y2="46" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="72" y1="64" x2="80" y2="64" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="72" y1="82" x2="80" y2="82" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="72" y1="100" x2="80" y2="100" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Minor ticks -->
+  <line x1="72" y1="37" x2="77" y2="37" stroke="#374151" stroke-width="0.9"/>
+  <line x1="72" y1="55" x2="77" y2="55" stroke="#374151" stroke-width="0.9"/>
+  <line x1="72" y1="73" x2="77" y2="73" stroke="#374151" stroke-width="0.9"/>
+  <line x1="72" y1="91" x2="77" y2="91" stroke="#374151" stroke-width="0.9"/>
+
+  <!-- Measurement dashed line from tower peak to ruler -->
+  <line x1="30" y1="24" x2="72" y2="24" stroke="#374151" stroke-width="1.8" stroke-dasharray="5,3" stroke-linecap="round"/>
+
+  <!-- Notepad (bottom-right) recording the height -->
+  <rect x="92" y="60" width="24" height="36" rx="2" fill="#f3f4f6" stroke="#374151" stroke-width="1.8"/>
+  <line x1="95" y1="70" x2="113" y2="70" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+  <line x1="95" y1="77" x2="113" y2="77" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+  <line x1="95" y1="84" x2="107" y2="84" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+  <!-- Pencil on notepad (tip extends below shaft) -->
+  <rect x="110" y="56" width="4" height="12" rx="1" fill="#fef9c3" stroke="#374151" stroke-width="1.2" transform="rotate(25 112 62)"/>
+  <path d="M110 68 L114 68 L112 73 Z" fill="#374151" stroke="#374151" stroke-width="0.5" transform="rotate(25 112 62)"/>
+</svg>

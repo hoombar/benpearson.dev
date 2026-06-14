@@ -1,0 +1,35 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(10, 20)">
+    <!-- Base stack -->
+    <g transform="translate(40, 60) rotate(-15)">
+      <rect x="-15" y="-15" width="30" height="30" rx="4" fill="#fbbf24" stroke="#374151" stroke-width="2"/>
+      <line x1="-15" y1="-5" x2="15" y2="-5" stroke="#374151" stroke-width="1.5"/>
+      <line x1="-15" y1="5" x2="15" y2="5" stroke="#374151" stroke-width="1.5"/>
+    </g>
+
+    <!-- Bottom stick -->
+    <rect x="5" y="70" width="90" height="10" rx="5" fill="#fef3c7" stroke="#374151" stroke-width="2"/>
+    
+    <!-- Top stick -->
+    <g transform="translate(5, 75) rotate(-35)">
+      <rect x="0" y="-5" width="90" height="10" rx="5" fill="#fef3c7" stroke="#374151" stroke-width="2"/>
+      
+      <!-- Spoon shaft aligned with top stick -->
+      <rect x="20" y="-3" width="60" height="6" rx="3" fill="#f9fafb" stroke="#374151" stroke-width="1.5"/>
+      <!-- Spoon bowl -->
+      <ellipse cx="85" cy="0" rx="12" ry="8" fill="#f9fafb" stroke="#374151" stroke-width="1.5"/>
+      <!-- Rubber bands attaching spoon -->
+      <rect x="30" y="-6" width="4" height="12" rx="1" fill="#a855f7" stroke="#374151" stroke-width="1"/>
+      <rect x="60" y="-6" width="4" height="12" rx="1" fill="#a855f7" stroke="#374151" stroke-width="1"/>
+    </g>
+
+    <!-- Criss-cross rubber band (green) -->
+    <path d="M 35 45 L 45 80 L 42 80 L 32 45 Z" fill="#22c55e" stroke="#374151" stroke-width="1.5"/>
+    <path d="M 45 45 L 35 80 L 32 80 L 42 45 Z" fill="#16a34a" stroke="#374151" stroke-width="1.5"/>
+  </g>
+  
+  <!-- Cotton ball loading -->
+  <path d="M 90 20 Q 95 10 100 20 Q 110 20 105 30 Q 110 40 100 40 Q 90 45 85 35 Q 75 30 85 20 Z" fill="#ffffff" stroke="#374151" stroke-width="2"/>
+  <path d="M 95 45 L 90 60" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round" stroke-dasharray="4 4"/>
+  <polygon points="90,60 88,55 94,55" fill="#374151"/>
+</svg>

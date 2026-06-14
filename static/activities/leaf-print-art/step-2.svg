@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Background -->
+  <rect x="0" y="0" width="120" height="120" fill="#f9fafb"/>
+
+  <!-- Bottom paper (the print paper) -->
+  <rect x="8" y="68" width="104" height="44" rx="2" fill="#f9fafb" stroke="#374151" stroke-width="2"/>
+  <!-- Leaf print impression on bottom paper (slightly lighter than paint) -->
+  <ellipse cx="60" cy="88" rx="30" ry="17" fill="#fca5a5" stroke="none"/>
+  <!-- Vein impressions on print -->
+  <line x1="30" y1="88" x2="90" y2="87" stroke="#ef4444" stroke-width="0.8" stroke-linecap="round"/>
+  <line x1="38" y1="88" x2="32" y2="78" stroke="#ef4444" stroke-width="0.8" stroke-linecap="round"/>
+  <line x1="47" y1="87" x2="42" y2="77" stroke="#ef4444" stroke-width="0.8" stroke-linecap="round"/>
+  <line x1="56" y1="87" x2="52" y2="76" stroke="#ef4444" stroke-width="0.8" stroke-linecap="round"/>
+  <line x1="65" y1="87" x2="66" y2="76" stroke="#ef4444" stroke-width="0.8" stroke-linecap="round"/>
+  <line x1="74" y1="87" x2="78" y2="77" stroke="#ef4444" stroke-width="0.8" stroke-linecap="round"/>
+
+  <!-- Cover/scrap sheet (middle layer, partially lifted) -->
+  <rect x="8" y="44" width="104" height="26" rx="2" fill="#e5e7eb" stroke="#374151" stroke-width="2"/>
+
+  <!-- Hero: painted leaf being pressed (top, slightly tilted) -->
+  <g transform="translate(60, 30)">
+    <ellipse cx="0" cy="0" rx="30" ry="17" fill="#22c55e" stroke="#374151" stroke-width="2.5" stroke-linecap="round"/>
+    <!-- Red paint on leaf underside (showing it's been painted) -->
+    <ellipse cx="0" cy="0" rx="22" ry="12" fill="#ef4444" fill-opacity="0.6" stroke="none"/>
+    <!-- Central vein -->
+    <line x1="-28" y1="0" x2="28" y2="0" stroke="#15803d" stroke-width="1.5" stroke-linecap="round"/>
+    <!-- Side veins -->
+    <line x1="-18" y1="0" x2="-22" y2="-8" stroke="#15803d" stroke-width="1" stroke-linecap="round"/>
+    <line x1="-8" y1="0" x2="-10" y2="-10" stroke="#15803d" stroke-width="1" stroke-linecap="round"/>
+    <line x1="2" y1="0" x2="1" y2="-10" stroke="#15803d" stroke-width="1" stroke-linecap="round"/>
+    <line x1="12" y1="0" x2="14" y2="-9" stroke="#15803d" stroke-width="1" stroke-linecap="round"/>
+    <line x1="20" y1="0" x2="24" y2="-7" stroke="#15803d" stroke-width="1" stroke-linecap="round"/>
+    <!-- Stem -->
+    <line x1="-28" y1="0" x2="-36" y2="6" stroke="#15803d" stroke-width="2" stroke-linecap="round"/>
+  </g>
+
+  <!-- Press arrows pointing downward -->
+  <line x1="36" y1="6" x2="36" y2="18" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+  <polyline points="32,15 36,20 40,15" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="82" y1="6" x2="82" y2="18" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+  <polyline points="78,15 82,20 86,15" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

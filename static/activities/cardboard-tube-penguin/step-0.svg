@@ -1,0 +1,29 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Step 0: Paint the Tube Black -->
+  <!-- Table surface -->
+  <line x1="4" y1="108" x2="116" y2="108" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Cardboard tube (hero, center) — being painted, partially black -->
+  <!-- Unpainted portion (bottom, cardboard brown) -->
+  <rect x="44" y="18" width="32" height="90" rx="4" stroke="#374151" stroke-width="2" fill="#d97706" fill-opacity="0.5"/>
+  <!-- Painted black portion (top 2/3) -->
+  <rect x="44" y="18" width="32" height="58" rx="4" fill="#1f2937" stroke="#374151" stroke-width="2"/>
+  <!-- Paint edge (ragged brush line) -->
+  <path d="M44 76 Q52 74 60 77 Q68 74 76 76" stroke="#374151" stroke-width="1" fill="none" stroke-linecap="round"/>
+  <!-- Paint brush (right side, painting the tube) -->
+  <g transform="translate(92, 52) rotate(-20)">
+    <!-- Handle -->
+    <rect x="-3" y="-34" width="6" height="28" rx="1.5" fill="#d97706" stroke="#374151" stroke-width="1.5"/>
+    <!-- Ferrule -->
+    <rect x="-3.5" y="-8" width="7" height="5" rx="1" fill="#e5e7eb" stroke="#374151" stroke-width="1"/>
+    <!-- Bristles (black paint) -->
+    <path d="M-3.5 -3 L0 10 L3.5 -3 Z" fill="#1f2937" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+  <!-- Paint pot (black) — lower right -->
+  <ellipse cx="96" cy="90" rx="12" ry="6" fill="#1f2937" stroke="#374151" stroke-width="1.5"/>
+  <rect x="84" y="84" width="24" height="18" rx="2" fill="#1f2937" stroke="#374151" stroke-width="1.5"/>
+  <ellipse cx="96" cy="84" rx="12" ry="6" fill="#374151" stroke="#374151" stroke-width="1.5"/>
+  <!-- Pot highlight -->
+  <ellipse cx="90" cy="83" rx="4" ry="2" fill="#6b7280" fill-opacity="0.5" stroke="none"/>
+  <!-- Paint drip from brush tip onto tube -->
+  <circle cx="76" cy="52" r="3" fill="#1f2937" stroke="none"/>
+</svg>

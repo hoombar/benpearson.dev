@@ -67,6 +67,11 @@
     {{ with resources.Get "js/theme-toggle.js" }}
       <script type="module" src="{{ .RelPermalink }}"></script>
     {{ end }}
+    {{ if eq .Section "activities" }}
+      {{ with resources.Get "js/activity-search.js" }}
+        <script type="module" src="{{ .RelPermalink }}"></script>
+      {{ end }}
+    {{ end }}
     {{ if .Store.Get "hasMermaid" }}
       <script type="module">
         import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs";

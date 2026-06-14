@@ -1,0 +1,32 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="5" markerHeight="5" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <!-- Ground line -->
+  <rect x="6" y="106" width="108" height="6" rx="2" fill="#e5e7eb" stroke="#374151" stroke-width="1.5"/>
+  <!-- Container in mid-air (falling) -->
+  <rect x="44" y="28" width="32" height="36" rx="2" fill="#fde68a" stroke="#374151" stroke-width="2"/>
+  <!-- Straw on container -->
+  <rect x="44" y="36" width="32" height="4" rx="1" fill="#60a5fa" stroke="#374151" stroke-width="1"/>
+  <rect x="44" y="48" width="32" height="4" rx="1" fill="#4ade80" stroke="#374151" stroke-width="1"/>
+  <!-- Cotton wool visible at top -->
+  <ellipse cx="52" cy="28" rx="6" ry="4" fill="white" stroke="#d1d5db" stroke-width="1"/>
+  <ellipse cx="68" cy="28" rx="6" ry="4" fill="white" stroke="#d1d5db" stroke-width="1"/>
+  <!-- Drop trajectory arrow -->
+  <path d="M60 66 L60 100" stroke="#374151" stroke-width="2.5" fill="none" stroke-linecap="round" marker-end="url(#arr)"/>
+  <!-- Motion lines beside container -->
+  <line x1="40" y1="40" x2="32" y2="50" stroke="#374151" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="3,2"/>
+  <line x1="80" y1="40" x2="88" y2="50" stroke="#374151" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="3,2"/>
+  <!-- Hand releasing at top -->
+  <ellipse cx="60" cy="16" rx="12" ry="7" fill="#fde68a" stroke="#374151" stroke-width="1.5"/>
+  <line x1="52" y1="18" x2="48" y2="26" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="57" y1="21" x2="54" y2="30" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="63" y1="22" x2="63" y2="32" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="68" y1="21" x2="72" y2="30" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Egg safe indicator (green tick) at ground level -->
+  <circle cx="100" cy="96" r="8" fill="#22c55e" stroke="#374151" stroke-width="1.5"/>
+  <path d="M96 96 L99 99 L104 93" stroke="white" stroke-width="2" stroke-linecap="round" fill="none"/>
+</svg>

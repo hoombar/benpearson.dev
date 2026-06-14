@@ -1,0 +1,52 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="5" y="95" width="110" height="12" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Bowl of rice (left) -->
+  <path d="M8,80 Q8,92 22,92 Q36,92 36,80" fill="#f3f4f6" stroke="#374151" stroke-width="1.5"/>
+  <ellipse cx="22" cy="80" rx="14" ry="5" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+  <!-- Rice grains -->
+  <line x1="18" y1="78" x2="19" y2="76" stroke="#d97706" stroke-width="1" stroke-linecap="round"/>
+  <line x1="22" y1="77" x2="23" y2="75" stroke="#d97706" stroke-width="1" stroke-linecap="round"/>
+  <line x1="26" y1="78" x2="27" y2="76" stroke="#d97706" stroke-width="1" stroke-linecap="round"/>
+  <line x1="15" y1="79" x2="16" y2="77" stroke="#d97706" stroke-width="1" stroke-linecap="round"/>
+  <line x1="29" y1="79" x2="30" y2="77" stroke="#d97706" stroke-width="1" stroke-linecap="round"/>
+
+  <!-- Tube pasta pile (centre) -->
+  <rect x="48" y="78" width="8" height="14" rx="3" fill="#fbbf24" stroke="#374151" stroke-width="1.2"/>
+  <ellipse cx="52" cy="78" rx="4" ry="2" fill="#fef3c7" stroke="#374151" stroke-width="0.8"/>
+  <rect x="56" y="82" width="7" height="12" rx="3" fill="#fbbf24" stroke="#374151" stroke-width="1.2" transform="rotate(-15 59.5 88)"/>
+  <rect x="43" y="82" width="7" height="12" rx="3" fill="#fbbf24" stroke="#374151" stroke-width="1.2" transform="rotate(12 46.5 88)"/>
+
+  <!-- Dried lentils/beans in small jar (right) -->
+  <rect x="80" y="68" width="20" height="26" rx="3" fill="#f3f4f6" stroke="#374151" stroke-width="1.5"/>
+  <rect x="82" y="70" width="16" height="22" rx="2" fill="none" stroke="none"/>
+  <!-- Lentils inside -->
+  <circle cx="86" cy="86" r="2" fill="#22c55e" stroke="#374151" stroke-width="0.5"/>
+  <circle cx="90" cy="88" r="2" fill="#22c55e" stroke="#374151" stroke-width="0.5"/>
+  <circle cx="94" cy="86" r="2" fill="#22c55e" stroke="#374151" stroke-width="0.5"/>
+  <circle cx="88" cy="83" r="2" fill="#16a34a" stroke="#374151" stroke-width="0.5"/>
+  <circle cx="92" cy="83" r="2" fill="#16a34a" stroke="#374151" stroke-width="0.5"/>
+  <circle cx="86" cy="80" r="2" fill="#22c55e" stroke="#374151" stroke-width="0.5"/>
+  <circle cx="90" cy="80" r="2" fill="#16a34a" stroke="#374151" stroke-width="0.5"/>
+  <circle cx="94" cy="80" r="2" fill="#22c55e" stroke="#374151" stroke-width="0.5"/>
+  <!-- Jar lid -->
+  <rect x="78" y="66" width="24" height="5" rx="2" fill="#e5e7eb" stroke="#374151" stroke-width="1"/>
+
+  <!-- Small buttons/beads scattered (top centre) -->
+  <circle cx="50" cy="50" r="3" fill="#ef4444" stroke="#374151" stroke-width="0.8"/>
+  <circle cx="58" cy="46" r="3" fill="#3b82f6" stroke="#374151" stroke-width="0.8"/>
+  <circle cx="54" cy="56" r="2.5" fill="#f59e0b" stroke="#374151" stroke-width="0.8"/>
+  <circle cx="62" cy="54" r="2.5" fill="#a855f7" stroke="#374151" stroke-width="0.8"/>
+  <circle cx="46" cy="44" r="2.5" fill="#22c55e" stroke="#374151" stroke-width="0.8"/>
+
+  <!-- Labels -->
+  <!-- Arrow from rice bowl up -->
+  <!-- Small musical notes floating -->
+  <path d="M22,28 L22,20 L28,18 L28,24" fill="none" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+  <circle cx="22" cy="28" r="2.5" fill="#374151" stroke="none"/>
+  <circle cx="28" cy="24" r="2.5" fill="#374151" stroke="none"/>
+
+  <path d="M90,40 L90,32" fill="none" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+  <circle cx="90" cy="40" r="2" fill="#374151" stroke="none"/>
+</svg>

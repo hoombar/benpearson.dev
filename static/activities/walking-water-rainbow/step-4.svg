@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fff5e6"/>
+      <stop offset="100%" stop-color="#ffdcb3"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="130%" height="130%">
+      <feDropShadow dx="2" dy="5" stdDeviation="3" flood-color="#000" flood-opacity="0.15"/>
+    </filter>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#fff" stop-opacity="0.6"/>
+      <stop offset="20%" stop-color="#fff" stop-opacity="0.2"/>
+      <stop offset="80%" stop-color="#fff" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#fff" stop-opacity="0.5"/>
+    </linearGradient>
+    
+    <!-- Gradients for the soaked paper towels -->
+    <linearGradient id="pt1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ff6666"/>
+      <stop offset="100%" stop-color="#ffb366"/>
+    </linearGradient>
+    <linearGradient id="pt2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffb366"/>
+      <stop offset="100%" stop-color="#ffff66"/>
+    </linearGradient>
+    <linearGradient id="pt3" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffff66"/>
+      <stop offset="100%" stop-color="#66ff66"/>
+    </linearGradient>
+    <linearGradient id="pt4" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#66ff66"/>
+      <stop offset="100%" stop-color="#66b3ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bg)"/>
+  
+  <rect x="0" y="220" width="400" height="80" fill="#f0e6d2"/>
+  <line x1="0" y1="220" x2="400" y2="220" stroke="#dcb48c" stroke-width="3"/>
+  
+  <g transform="translate(0, 140)">
+    <!-- Jars -->
+    <g transform="translate(40, 0)" filter="url(#shadow)">
+      <path d="M 0 30 L 40 30 L 40 80 A 5 5 0 0 1 35 85 L 5 85 A 5 5 0 0 1 0 80 Z" fill="#ff6666" opacity="0.8"/>
+      <path d="M 0 -20 L 40 -20 L 40 80 A 5 5 0 0 1 35 85 L 5 85 A 5 5 0 0 1 0 80 Z" fill="url(#glass)" stroke="#ccc" stroke-width="2"/>
+    </g>
+    <g transform="translate(110, 0)" filter="url(#shadow)">
+      <path d="M 0 30 L 40 30 L 40 80 A 5 5 0 0 1 35 85 L 5 85 A 5 5 0 0 1 0 80 Z" fill="#ffb366" opacity="0.8"/>
+      <path d="M 0 -20 L 40 -20 L 40 80 A 5 5 0 0 1 35 85 L 5 85 A 5 5 0 0 1 0 80 Z" fill="url(#glass)" stroke="#ccc" stroke-width="2"/>
+    </g>
+    <g transform="translate(180, 0)" filter="url(#shadow)">
+      <path d="M 0 30 L 40 30 L 40 80 A 5 5 0 0 1 35 85 L 5 85 A 5 5 0 0 1 0 80 Z" fill="#ffff66" opacity="0.8"/>
+      <path d="M 0 -20 L 40 -20 L 40 80 A 5 5 0 0 1 35 85 L 5 85 A 5 5 0 0 1 0 80 Z" fill="url(#glass)" stroke="#ccc" stroke-width="2"/>
+    </g>
+    <g transform="translate(250, 0)" filter="url(#shadow)">
+      <path d="M 0 30 L 40 30 L 40 80 A 5 5 0 0 1 35 85 L 5 85 A 5 5 0 0 1 0 80 Z" fill="#66ff66" opacity="0.8"/>
+      <path d="M 0 -20 L 40 -20 L 40 80 A 5 5 0 0 1 35 85 L 5 85 A 5 5 0 0 1 0 80 Z" fill="url(#glass)" stroke="#ccc" stroke-width="2"/>
+    </g>
+    <g transform="translate(320, 0)" filter="url(#shadow)">
+      <path d="M 0 30 L 40 30 L 40 80 A 5 5 0 0 1 35 85 L 5 85 A 5 5 0 0 1 0 80 Z" fill="#66b3ff" opacity="0.8"/>
+      <path d="M 0 -20 L 40 -20 L 40 80 A 5 5 0 0 1 35 85 L 5 85 A 5 5 0 0 1 0 80 Z" fill="url(#glass)" stroke="#ccc" stroke-width="2"/>
+    </g>
+    
+    <!-- Paper towels (soaked) -->
+    <path d="M 60 40 Q 95 -60 130 60" fill="none" stroke="url(#pt1)" stroke-width="12" filter="url(#shadow)"/>
+    <path d="M 60 40 Q 95 -60 130 60" fill="none" stroke="#fff" stroke-width="12" stroke-dasharray="2,4" opacity="0.3"/>
+    
+    <path d="M 130 60 Q 165 -60 200 40" fill="none" stroke="url(#pt2)" stroke-width="12" filter="url(#shadow)"/>
+    <path d="M 130 60 Q 165 -60 200 40" fill="none" stroke="#fff" stroke-width="12" stroke-dasharray="2,4" opacity="0.3"/>
+    
+    <path d="M 200 40 Q 235 -60 270 60" fill="none" stroke="url(#pt3)" stroke-width="12" filter="url(#shadow)"/>
+    <path d="M 200 40 Q 235 -60 270 60" fill="none" stroke="#fff" stroke-width="12" stroke-dasharray="2,4" opacity="0.3"/>
+    
+    <path d="M 270 60 Q 305 -60 340 40" fill="none" stroke="url(#pt4)" stroke-width="12" filter="url(#shadow)"/>
+    <path d="M 270 60 Q 305 -60 340 40" fill="none" stroke="#fff" stroke-width="12" stroke-dasharray="2,4" opacity="0.3"/>
+    
+    <!-- Small magic sparkles -->
+    <path d="M 130 -30 L 132 -20 L 140 -18 L 132 -16 L 130 -6 L 128 -16 L 120 -18 L 128 -20 Z" fill="#ffd700"/>
+    <path d="M 270 -30 L 272 -20 L 280 -18 L 272 -16 L 270 -6 L 268 -16 L 260 -18 L 268 -20 Z" fill="#ffd700"/>
+  </g>
+</svg>

@@ -1,0 +1,31 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <!-- Table surface -->
+  <rect x="5" y="80" width="110" height="30" rx="4" fill="#fef3c7" stroke="#374151" stroke-width="2.5"/>
+
+  <!-- Tube lying on side -->
+  <path d="M20 75 L80 75 Q85 85 80 95 L20 95 Q15 85 20 75 Z" fill="#fbbf24" stroke="#374151" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Tube opening facing left -->
+  <ellipse cx="20" cy="85" rx="5" ry="10" fill="#d97706" stroke="#374151" stroke-width="2"/>
+  
+  <!-- Flat foil piece (left) -->
+  <path d="M10 20 L40 10 L50 40 L20 50 Z" fill="#e5e7eb" stroke="#374151" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M15 25 L35 18" stroke="#d1d5db" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M20 35 L40 28" stroke="#d1d5db" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- Action Arrow: flat foil to snake foil -->
+  <path d="M45 25 Q55 15 65 25" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round" marker-end="url(#arr)"/>
+
+  <!-- Twisted Foil Snake / Spiral -->
+  <path d="M75 20 C65 30 90 40 75 50 C65 60 90 70 85 80" fill="none" stroke="#e5e7eb" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Adding dark outline for foil snake -->
+  <path d="M75 20 C65 30 90 40 75 50 C65 60 90 70 85 80" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3,3"/>
+
+  <!-- Arrow pointing foil snake into tube -->
+  <path d="M85 60 Q70 65 30 80" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round" marker-end="url(#arr)"/>
+</svg>

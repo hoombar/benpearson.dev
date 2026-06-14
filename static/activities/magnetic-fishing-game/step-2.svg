@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Background -->
+  <rect x="0" y="0" width="120" height="120" fill="#fef9c3"/>
+
+  <!-- Fishing rod: flat absolute line — top (12,8) to tip (34,65); no rotation needed -->
+  <line x1="12" y1="8" x2="34" y2="65" stroke="#374151" stroke-width="10" stroke-linecap="round"/>
+  <line x1="12" y1="8" x2="34" y2="65" stroke="#fde68a" stroke-width="7" stroke-linecap="round"/>
+  <!-- Knot at tip — string connects here at exactly (34,65) -->
+  <circle cx="34" cy="65" r="4" fill="#d97706" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- String from rod tip (34,65) down to magnet -->
+  <line x1="34" y1="65" x2="60" y2="96" stroke="#d97706" stroke-width="2" stroke-linecap="round" stroke-dasharray="4,3"/>
+
+  <!-- Hero magnet at string end: classic horseshoe/U-shape, red -->
+  <g transform="translate(60, 104)">
+    <!-- Left pole -->
+    <rect x="-14" y="-14" width="10" height="14" rx="3" fill="#ef4444" stroke="#374151" stroke-width="2.5"/>
+    <!-- Right pole -->
+    <rect x="4" y="-14" width="10" height="14" rx="3" fill="#ef4444" stroke="#374151" stroke-width="2.5"/>
+    <!-- U-connecting arc -->
+    <path d="M-9,-14 Q-9,-24 0,-24 Q9,-24 9,-14" fill="none" stroke="#ef4444" stroke-width="6" stroke-linecap="round"/>
+    <path d="M-9,-14 Q-9,-24 0,-24 Q9,-24 9,-14" fill="none" stroke="#374151" stroke-width="2.5" stroke-linecap="round"/>
+    <!-- Pole tips (N and S ends showing) -->
+    <rect x="-14" y="-2" width="10" height="4" rx="1" fill="#3b82f6" stroke="#374151" stroke-width="1.5"/>
+    <rect x="4" y="-2" width="10" height="4" rx="1" fill="#f9fafb" stroke="#374151" stroke-width="1.5"/>
+  </g>
+
+  <!-- String-to-magnet knot indicator -->
+  <circle cx="60" cy="88" r="3" fill="#d97706" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Tie knot label arrow at rod tip -->
+  <circle cx="34" cy="65" r="3" fill="#d97706" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Arc motion arrow: magnet dangles/swings — marker auto-aligns to tangent (−2,−10) = up-left -->
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2"
+            stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <path d="M70,100 Q80,92 78,82" fill="none" stroke="#374151" stroke-width="1.5" stroke-linecap="round" marker-end="url(#arr)"/>
+
+  <!-- Double-knot indicator at rod tip -->
+  <path d="M30,62 Q34,58 38,62 Q34,66 30,62" fill="none" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

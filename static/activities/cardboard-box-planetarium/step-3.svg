@@ -1,0 +1,35 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  
+  <!-- Light beams from holes (drawn first so they are behind) -->
+  <polygon points="40,50 30,20 50,20" fill="#fef08a" opacity="0.6"/>
+  <polygon points="60,45 55,10 65,10" fill="#fef08a" opacity="0.6"/>
+  <polygon points="80,50 70,15 90,15" fill="#fef08a" opacity="0.6"/>
+  
+  <!-- Box body -->
+  <path d="M20,50 L100,50 L100,90 L20,90 Z" fill="#fef3c7" stroke="#374151" stroke-width="2" stroke-linejoin="round"/>
+  
+  <!-- Holes on top (just ellipses for perspective) -->
+  <ellipse cx="40" cy="50" rx="3" ry="1.5" fill="#fef08a"/>
+  <ellipse cx="60" cy="45" rx="3" ry="1.5" fill="#fef08a"/>
+  <ellipse cx="80" cy="50" rx="3" ry="1.5" fill="#fef08a"/>
+  
+  <!-- Flashlight inside/underneath -->
+  <!-- Handled by cutting out a window in the box to show the flashlight, or just showing the flashlight going in from the bottom. Since box is open at the bottom, we can draw the flashlight sliding in -->
+  <g transform="translate(60, 105) rotate(-90)">
+    <!-- Body -->
+    <rect x="-10" y="-12" width="40" height="24" rx="4" fill="#3b82f6" stroke="#374151" stroke-width="2"/>
+    <!-- Head -->
+    <path d="M-10,-14 L-20,-20 L-20,20 L-10,14 Z" fill="#9ca3af" stroke="#374151" stroke-width="2" stroke-linejoin="round"/>
+    <!-- Light cone inside the box -->
+    <polygon points="-20,15 -20,-15 -50,-40 -50,40" fill="#fef08a" opacity="0.4"/>
+  </g>
+  
+  <!-- Motion line to show putting flashlight in -->
+  <line x1="60" y1="115" x2="60" y2="95" stroke="#374151" stroke-width="2" stroke-dasharray="4,4" stroke-linecap="round"/>
+  <path d="M57 100 L60 95 L63 100" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+</svg>

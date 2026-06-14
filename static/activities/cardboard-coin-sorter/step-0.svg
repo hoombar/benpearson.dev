@@ -1,0 +1,59 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Shoebox on its side (hero, cross-section view) -->
+  <g transform="translate(14, 16)">
+    <!-- Box walls -->
+    <rect x="0" y="0" width="70" height="76" rx="2" fill="none" stroke="#374151" stroke-width="1.5"/>
+    <!-- Box interior -->
+    <rect x="2" y="2" width="66" height="72" fill="#fef3c7"/>
+    <!-- Box texture -->
+    <rect x="0" y="0" width="70" height="76" rx="2" fill="none" stroke="#d4a574" stroke-width="0.5" opacity="0.4"/>
+  </g>
+
+  <!-- Cardboard ramp piece being measured and cut -->
+  <g transform="translate(14, 16)">
+    <!-- Ramp piece (diagonal inside the box) -->
+    <line x1="4" y1="12" x2="64" y2="68" stroke="#d4a574" stroke-width="3" stroke-linecap="round" stroke-dasharray="4,4"/>
+  </g>
+
+  <!-- Ruler alongside for measuring -->
+  <g transform="translate(88, 14)">
+    <rect x="0" y="0" width="8" height="70" rx="1" fill="#fde68a" stroke="#374151" stroke-width="0.8"/>
+    <!-- Ruler marks -->
+    <line x1="0" y1="10" x2="4" y2="10" stroke="#374151" stroke-width="0.4"/>
+    <line x1="0" y1="20" x2="6" y2="20" stroke="#374151" stroke-width="0.4"/>
+    <line x1="0" y1="30" x2="4" y2="30" stroke="#374151" stroke-width="0.4"/>
+    <line x1="0" y1="40" x2="6" y2="40" stroke="#374151" stroke-width="0.4"/>
+    <line x1="0" y1="50" x2="4" y2="50" stroke="#374151" stroke-width="0.4"/>
+    <line x1="0" y1="60" x2="6" y2="60" stroke="#374151" stroke-width="0.4"/>
+  </g>
+
+  <!-- Scissors -->
+  <g transform="translate(92, 88)">
+    <path d="M0,0 L12,4" fill="none" stroke="#9ca3af" stroke-width="2" stroke-linecap="round"/>
+    <path d="M0,0 L12,-4" fill="none" stroke="#9ca3af" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="0" cy="0" r="1.2" fill="#374151"/>
+    <ellipse cx="-4" cy="2.5" rx="4" ry="2.5" fill="none" stroke="#ef4444" stroke-width="1.2"/>
+    <ellipse cx="-4" cy="-2.5" rx="4" ry="2.5" fill="none" stroke="#ef4444" stroke-width="1.2"/>
+  </g>
+
+  <!-- Spare cardboard piece for ramp -->
+  <rect x="18" y="82" width="56" height="12" rx="1" fill="#d4a574" stroke="#374151" stroke-width="0.8"/>
+
+  <!-- Arrow showing ramp placement -->
+  <defs>
+    <marker id="arr" viewBox="0 0 6 6" refX="5" refY="3" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#374151"/>
+    </marker>
+  </defs>
+  <path d="M46,82 Q46,76 42,68" fill="none" stroke="#374151" stroke-width="0.8" stroke-dasharray="2,2" marker-end="url(#arr)"/>
+
+  <!-- Warning symbol -->
+  <g transform="translate(100, 4)">
+    <polygon points="8,0 0,14 16,14" fill="#fbbf24" stroke="#374151" stroke-width="0.8"/>
+    <line x1="8" y1="4" x2="8" y2="9" stroke="#374151" stroke-width="1.2" stroke-linecap="round"/>
+    <circle cx="8" cy="12" r="0.8" fill="#374151"/>
+  </g>
+</svg>

@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Table surface -->
+  <rect x="4" y="108" width="112" height="4" rx="1" fill="#e5e7eb" stroke="#374151" stroke-width="1"/>
+
+  <!-- Lemon (hero, top-left) — bright yellow with texture -->
+  <g transform="translate(28,46)">
+    <!-- lemon body -->
+    <ellipse cx="0" cy="0" rx="18" ry="24" fill="#fef9c3" stroke="#374151" stroke-width="2.5"/>
+    <!-- lemon tip left -->
+    <path d="M-18,0 Q-24,-4 -22,-10 Q-18,-8 -18,0" fill="#fde68a" stroke="#374151" stroke-width="1.5"/>
+    <!-- lemon tip right -->
+    <path d="M18,0 Q24,-4 22,-10 Q18,-8 18,0" fill="#fde68a" stroke="#374151" stroke-width="1.5"/>
+    <!-- segment lines inside -->
+    <line x1="0" y1="-22" x2="0" y2="22" stroke="#fde68a" stroke-width="1.5"/>
+    <line x1="-16" y1="-8" x2="16" y2="-8" stroke="#fde68a" stroke-width="1"/>
+    <line x1="-16" y1="8" x2="16" y2="8" stroke="#fde68a" stroke-width="1"/>
+    <!-- highlight -->
+    <ellipse cx="-6" cy="-8" rx="5" ry="7" fill="#fef3c7" stroke="none" opacity="0.5"/>
+    <!-- lemon texture dots -->
+    <circle cx="8" cy="6" r="1.5" fill="#fde68a" stroke="none"/>
+    <circle cx="-8" cy="10" r="1.5" fill="#fde68a" stroke="none"/>
+    <circle cx="4" cy="-10" r="1" fill="#fde68a" stroke="none"/>
+  </g>
+
+  <!-- Juice squeezing arrow -->
+  <path d="M38,64 Q46,72 52,76" fill="none" stroke="#f59e0b" stroke-width="1.5" stroke-linecap="round"/>
+  <polygon points="52,76 46,73 50,79" fill="#f59e0b"/>
+
+  <!-- Juice drops falling -->
+  <ellipse cx="44" cy="72" rx="2" ry="3" fill="#fde68a" stroke="#f59e0b" stroke-width="1"/>
+  <ellipse cx="50" cy="78" rx="1.5" ry="2.5" fill="#fde68a" stroke="#f59e0b" stroke-width="1"/>
+  <!-- dashed drip line -->
+  <line x1="44" y1="70" x2="56" y2="82" stroke="#fde68a" stroke-width="1" stroke-dasharray="2,2" stroke-linecap="round"/>
+
+  <!-- Small container (hero, centre) -->
+  <g transform="translate(68,84)">
+    <!-- container body -->
+    <rect x="-16" y="-28" width="32" height="36" rx="3" fill="#f9fafb" stroke="#374151" stroke-width="2.5"/>
+    <!-- lemon juice fill (light yellow) -->
+    <rect x="-13" y="-6" width="26" height="12" rx="1" fill="#fef9c3" stroke="none"/>
+    <!-- liquid surface line -->
+    <line x1="-13" y1="-6" x2="13" y2="-6" stroke="#fde68a" stroke-width="1.5"/>
+    <!-- container opening -->
+    <ellipse cx="0" cy="-28" rx="16" ry="4" fill="#e5e7eb" stroke="#374151" stroke-width="1.5"/>
+  </g>
+
+  <!-- Cotton bud / pen dipping in from right -->
+  <g transform="translate(100,54) rotate(40)">
+    <!-- pen shaft -->
+    <rect x="-3" y="-4" width="6" height="28" rx="1.5" fill="#c4b5fd" stroke="#374151" stroke-width="2"/>
+    <!-- pen clip -->
+    <rect x="3" y="2" width="2" height="14" rx="1" fill="#a78bfa" stroke="#374151" stroke-width="1"/>
+    <!-- pen tip -->
+    <polygon points="-3,24 3,24 0,32" fill="#374151" stroke="#374151" stroke-width="1"/>
+    <!-- pen top cap -->
+    <rect x="-3" y="-10" width="6" height="7" rx="1.5" fill="#7c3aed" stroke="#374151" stroke-width="1.5"/>
+  </g>
+
+  <!-- Juice drop from pen tip (where it's been dipped) -->
+  <ellipse cx="96" cy="80" rx="2" ry="2.5" fill="#fde68a" stroke="#f59e0b" stroke-width="1"/>
+
+  <!-- Arrow: pen dipping into container -->
+  <path d="M98,68 Q90,72 80,76" fill="none" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <polygon points="80,76 84,72 86,78" fill="#374151"/>
+</svg>

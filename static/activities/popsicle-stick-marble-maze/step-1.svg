@@ -1,0 +1,53 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Cardboard base (hero) -->
+  <rect x="12" y="14" width="76" height="76" rx="2" fill="#d4a574" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Border -->
+  <rect x="16" y="18" width="68" height="68" rx="1" fill="none" stroke="#374151" stroke-width="1"/>
+
+  <!-- Maze corridors drawn in marker (dashed sketch lines) -->
+  <!-- Horizontal walls -->
+  <line x1="16" y1="32" x2="52" y2="32" stroke="#6b7280" stroke-width="1" stroke-dasharray="3,2"/>
+  <line x1="36" y1="46" x2="80" y2="46" stroke="#6b7280" stroke-width="1" stroke-dasharray="3,2"/>
+  <line x1="16" y1="60" x2="60" y2="60" stroke="#6b7280" stroke-width="1" stroke-dasharray="3,2"/>
+  <line x1="40" y1="72" x2="80" y2="72" stroke="#6b7280" stroke-width="1" stroke-dasharray="3,2"/>
+
+  <!-- Vertical walls -->
+  <line x1="36" y1="18" x2="36" y2="32" stroke="#6b7280" stroke-width="1" stroke-dasharray="3,2"/>
+  <line x1="60" y1="32" x2="60" y2="46" stroke="#6b7280" stroke-width="1" stroke-dasharray="3,2"/>
+  <line x1="36" y1="46" x2="36" y2="60" stroke="#6b7280" stroke-width="1" stroke-dasharray="3,2"/>
+  <line x1="60" y1="60" x2="60" y2="72" stroke="#6b7280" stroke-width="1" stroke-dasharray="3,2"/>
+
+  <!-- START marker -->
+  <circle cx="24" cy="22" r="2.5" fill="#22c55e" stroke="#374151" stroke-width="0.5"/>
+
+  <!-- FINISH marker -->
+  <circle cx="74" cy="82" r="2.5" fill="#ef4444" stroke="#374151" stroke-width="0.5"/>
+
+  <!-- Dead end X marks -->
+  <g transform="translate(70, 36)">
+    <line x1="-2" y1="-2" x2="2" y2="2" stroke="#ef4444" stroke-width="0.8"/>
+    <line x1="2" y1="-2" x2="-2" y2="2" stroke="#ef4444" stroke-width="0.8"/>
+  </g>
+  <g transform="translate(26, 66)">
+    <line x1="-2" y1="-2" x2="2" y2="2" stroke="#ef4444" stroke-width="0.8"/>
+    <line x1="2" y1="-2" x2="-2" y2="2" stroke="#ef4444" stroke-width="0.8"/>
+  </g>
+
+  <!-- Marker sketching -->
+  <g transform="translate(82, 10) rotate(25)">
+    <rect x="0" y="-3" width="24" height="6" rx="2" fill="#1e40af" stroke="#374151" stroke-width="0.8"/>
+    <rect x="-3" y="-4" width="4" height="8" rx="1" fill="#374151"/>
+  </g>
+
+  <!-- Path arrow showing route hint -->
+  <defs>
+    <marker id="arr" viewBox="0 0 6 6" refX="5" refY="3" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#22c55e"/>
+    </marker>
+  </defs>
+  <path d="M24,26 L24,30 Q24,32 26,32 L34,32 Q36,34 36,36 L36,44" fill="none" stroke="#22c55e" stroke-width="0.8" stroke-dasharray="2,2" marker-end="url(#arr)"/>
+</svg>

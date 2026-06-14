@@ -1,0 +1,48 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2"
+            stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <!-- Flat paper (before) — top-left -->
+  <rect x="8" y="8" width="32" height="40" rx="1" fill="#f9fafb" stroke="#374151" stroke-width="1.5"/>
+  <!-- Crinkle lines on the paper to show it's being scrunched -->
+  <line x1="14" y1="16" x2="28" y2="22" stroke="#374151" stroke-width="0.8" stroke-linecap="round" opacity="0.5"/>
+  <line x1="12" y1="28" x2="34" y2="32" stroke="#374151" stroke-width="0.8" stroke-linecap="round" opacity="0.5"/>
+  <line x1="18" y1="36" x2="30" y2="40" stroke="#374151" stroke-width="0.8" stroke-linecap="round" opacity="0.5"/>
+
+  <!-- Arrow from paper to scrunched ball -->
+  <path d="M42 28 Q50 22 56 28" stroke="#374151" stroke-width="1.5" fill="none" marker-end="url(#arr)"/>
+
+  <!-- Scrunched paper ball (middle-top) -->
+  <path d="M62 14 Q72 8 78 16 Q84 22 80 32 Q78 40 68 42 Q58 40 56 32 Q54 22 62 14 Z"
+        fill="#f3f4f6" stroke="#374151" stroke-width="1.5"/>
+  <!-- Wrinkle lines inside ball -->
+  <line x1="64" y1="20" x2="74" y2="24" stroke="#374151" stroke-width="0.8" opacity="0.5" stroke-linecap="round"/>
+  <line x1="62" y1="30" x2="76" y2="34" stroke="#374151" stroke-width="0.8" opacity="0.5" stroke-linecap="round"/>
+
+  <!-- Arrow from scrunched ball down to bowl -->
+  <path d="M70 44 L70 56" stroke="#374151" stroke-width="1.5" fill="none" stroke-linecap="round" marker-end="url(#arr)"/>
+
+  <!-- Bowl with tea (hero, bottom-centre) -->
+  <path d="M24 72 Q24 108 60 108 Q96 108 96 72" stroke="#374151" stroke-width="2.5" fill="none"/>
+  <line x1="24" y1="72" x2="96" y2="72" stroke="#374151" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Tea liquid -->
+  <ellipse cx="60" cy="86" rx="24" ry="8" fill="#d97706" opacity="0.4" stroke="none"/>
+
+  <!-- Wrinkled paper submerged in tea (visible through liquid) -->
+  <rect x="42" y="76" width="36" height="20" rx="2" fill="#fbbf24" opacity="0.5" stroke="#374151" stroke-width="1"/>
+  <!-- Crinkle lines on submerged paper -->
+  <line x1="46" y1="82" x2="72" y2="84" stroke="#374151" stroke-width="0.7" opacity="0.4" stroke-linecap="round"/>
+  <line x1="48" y1="90" x2="70" y2="88" stroke="#374151" stroke-width="0.7" opacity="0.4" stroke-linecap="round"/>
+
+  <!-- Small clock/timer hint top-right -->
+  <circle cx="102" cy="18" r="12" fill="#f9fafb" stroke="#374151" stroke-width="1.5"/>
+  <line x1="102" y1="18" x2="102" y2="11" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="102" y1="18" x2="108" y2="18" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Clock dot -->
+  <circle cx="102" cy="18" r="1.5" fill="#374151"/>
+</svg>

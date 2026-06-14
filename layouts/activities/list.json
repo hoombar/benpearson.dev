@@ -1,0 +1,20 @@
+[
+{{- range $index, $page := .Pages.ByTitle -}}
+  {{- if $index }},{{ end }}
+  {{- $materials := slice -}}
+  {{- range $page.Params.materials -}}{{ $materials = $materials | append .name }}{{- end -}}
+  {{- dict
+    "title" $page.Title
+    "url" $page.RelPermalink
+    "summary" ($page.Params.summary | default "")
+    "minAgeMonths" $page.Params.min_age_months
+    "maxAgeMonths" $page.Params.max_age_months
+    "durationHoursMin" $page.Params.duration_hours_min
+    "durationHoursMax" $page.Params.duration_hours_max
+    "isOutdoor" $page.Params.is_outdoor
+    "educationalRank" $page.Params.educational_rank
+    "materials" $materials
+    "searchText" (printf "%s %s %s" $page.Title ($page.Params.summary | default "") (delimit $materials " "))
+    | jsonify -}}
+{{- end -}}
+]

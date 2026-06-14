@@ -1,0 +1,39 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Spectacles with arms (hero — front view) -->
+  <!-- Left lens -->
+  <circle cx="38" cy="40" r="18" fill="none" stroke="#3b82f6" stroke-width="4"/>
+  <!-- Right lens -->
+  <circle cx="82" cy="40" r="18" fill="none" stroke="#3b82f6" stroke-width="4"/>
+  <!-- Bridge -->
+  <line x1="56" y1="40" x2="64" y2="40" stroke="#ef4444" stroke-width="3"/>
+
+  <!-- Left arm going back (shown going down and out) -->
+  <path d="M20,40 L8,44 Q4,46 4,50 L4,66 Q4,70 8,70" fill="none" stroke="#3b82f6" stroke-width="3" stroke-linecap="round"/>
+  <!-- Ear hook curl -->
+  <path d="M8,70 Q12,72 10,76" fill="none" stroke="#3b82f6" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Right arm going back -->
+  <path d="M100,40 L112,44 Q116,46 116,50 L116,66 Q116,70 112,70" fill="none" stroke="#3b82f6" stroke-width="3" stroke-linecap="round"/>
+  <!-- Ear hook curl -->
+  <path d="M112,70 Q108,72 110,76" fill="none" stroke="#3b82f6" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Wrapping detail at arm attachment -->
+  <circle cx="20" cy="40" r="3" fill="#2563eb" stroke="#374151" stroke-width="0.5"/>
+  <circle cx="100" cy="40" r="3" fill="#2563eb" stroke="#374151" stroke-width="0.5"/>
+
+  <!-- Hand attaching arm -->
+  <g transform="translate(96, 56)">
+    <rect x="0" y="0" width="10" height="18" rx="5" fill="#fcd9b6" stroke="#374151" stroke-width="0.8"/>
+  </g>
+
+  <!-- Arrows showing ear hook direction -->
+  <defs>
+    <marker id="arr" viewBox="0 0 6 6" refX="5" refY="3" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#374151"/>
+    </marker>
+  </defs>
+  <path d="M14,78 Q10,82 12,86" fill="none" stroke="#374151" stroke-width="0.8" stroke-dasharray="2,2" marker-end="url(#arr)"/>
+</svg>

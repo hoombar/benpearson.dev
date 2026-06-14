@@ -1,0 +1,40 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Sky background hint -->
+  <rect x="0" y="0" width="120" height="120" fill="#e0f2fe"/>
+
+  <!-- Tree branch to hang from -->
+  <path d="M0,14 Q30,10 60,16 Q80,20 100,14" fill="none" stroke="#92400e" stroke-width="4" stroke-linecap="round"/>
+  <!-- Small twig -->
+  <path d="M60,16 Q64,22 66,12" fill="none" stroke="#92400e" stroke-width="2" stroke-linecap="round"/>
+  <!-- Leaf -->
+  <ellipse cx="68" cy="10" rx="5" ry="3" fill="#22c55e" stroke="#374151" stroke-width="0.5"/>
+
+  <!-- String from branch -->
+  <line x1="50" y1="16" x2="50" y2="30" stroke="#374151" stroke-width="1"/>
+
+  <!-- Completed windsock hanging (hero) -->
+  <g transform="translate(24, 30)">
+    <!-- Cup body (upside down) -->
+    <path d="M0,0 L10,48 L42,48 L52,0 Z" fill="white" stroke="#374151" stroke-width="1.5"/>
+    <!-- Cup base (top) -->
+    <ellipse cx="26" cy="0" rx="26" ry="4" fill="#f3f4f6" stroke="#374151" stroke-width="1.2"/>
+    <!-- Decorations -->
+    <polyline points="4,12 10,6 16,12 22,6 28,12 34,6 40,12 46,6" fill="none" stroke="#ef4444" stroke-width="1.2" stroke-linecap="round"/>
+    <circle cx="14" cy="24" r="2" fill="#3b82f6"/>
+    <circle cx="26" cy="22" r="2" fill="#22c55e"/>
+    <circle cx="38" cy="24" r="2" fill="#eab308"/>
+
+    <!-- Streamers blowing in wind (curved) -->
+    <path d="M12,48 Q18,62 12,78" fill="none" stroke="#ef4444" stroke-width="4" stroke-linecap="round" opacity="0.8"/>
+    <path d="M18,48 Q26,64 20,82" fill="none" stroke="#3b82f6" stroke-width="4" stroke-linecap="round" opacity="0.8"/>
+    <path d="M24,48 Q30,60 24,76" fill="none" stroke="#22c55e" stroke-width="4" stroke-linecap="round" opacity="0.8"/>
+    <path d="M30,48 Q38,64 32,84" fill="none" stroke="#a855f7" stroke-width="4" stroke-linecap="round" opacity="0.8"/>
+    <path d="M36,48 Q44,62 38,80" fill="none" stroke="#fb923c" stroke-width="4" stroke-linecap="round" opacity="0.8"/>
+  </g>
+
+  <!-- Wind lines -->
+  <line x1="86" y1="50" x2="104" y2="50" stroke="#93c5fd" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="90" y1="60" x2="110" y2="60" stroke="#93c5fd" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="84" y1="70" x2="100" y2="70" stroke="#93c5fd" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="88" y1="80" x2="108" y2="80" stroke="#93c5fd" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

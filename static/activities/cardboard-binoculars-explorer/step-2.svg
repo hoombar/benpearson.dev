@@ -1,0 +1,37 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="5" y="100" width="110" height="10" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Binoculars with strap (hero, front view) -->
+  <!-- Left tube -->
+  <ellipse cx="42" cy="52" rx="18" ry="18" fill="#22c55e" stroke="#374151" stroke-width="2.5"/>
+  <ellipse cx="42" cy="52" rx="14" ry="14" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+  <!-- Camo dab -->
+  <ellipse cx="36" cy="40" rx="4" ry="3" fill="#16a34a" stroke="none"/>
+
+  <!-- Right tube -->
+  <ellipse cx="78" cy="52" rx="18" ry="18" fill="#22c55e" stroke="#374151" stroke-width="2.5"/>
+  <ellipse cx="78" cy="52" rx="14" ry="14" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+  <!-- Camo dab -->
+  <ellipse cx="84" cy="42" rx="4" ry="3" fill="#d97706" stroke="none"/>
+
+  <!-- Tape bands -->
+  <rect x="54" y="44" width="12" height="4" rx="1" fill="#fde68a" stroke="#374151" stroke-width="0.5" opacity="0.6"/>
+  <rect x="54" y="56" width="12" height="4" rx="1" fill="#fde68a" stroke="#374151" stroke-width="0.5" opacity="0.6"/>
+
+  <!-- String strap (hanging down in a U shape from both sides) -->
+  <path d="M26,52 Q26,48 22,44 L14,32 Q10,26 14,20 L60,96 Q60,98 60,96 L106,20 Q110,26 106,32 L98,44 Q94,48 94,52"
+        fill="none" stroke="#d97706" stroke-width="0" stroke-linecap="round"/>
+  <!-- Simpler strap path -->
+  <path d="M26,52 L18,42 Q12,34 18,26" fill="none" stroke="#d97706" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M94,52 L102,42 Q108,34 102,26" fill="none" stroke="#d97706" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M18,26 Q60,94 102,26" fill="none" stroke="#d97706" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- Tape attaching string to tubes -->
+  <rect x="22" y="50" width="8" height="5" rx="1" fill="#fde68a" stroke="#374151" stroke-width="0.75"/>
+  <rect x="90" y="50" width="8" height="5" rx="1" fill="#fde68a" stroke="#374151" stroke-width="0.75"/>
+
+  <!-- Star sticker on bridge -->
+  <path d="M60,50 L61,46 L62,50 L66,50 L63,52 L64,56 L61,54 L58,56 L59,52 L56,50 Z"
+        fill="#f59e0b" stroke="#374151" stroke-width="0.5"/>
+</svg>

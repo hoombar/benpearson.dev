@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <defs>
+    <filter id="shadow3" x="-10%" y="-10%" width="130%" height="130%">
+      <feDropShadow dx="2" dy="4" stdDeviation="3" flood-color="#000" flood-opacity="0.3"/>
+    </filter>
+    <pattern id="wood3" x="0" y="0" width="100" height="20" patternUnits="userSpaceOnUse">
+      <rect width="100" height="20" fill="#cd853f"/>
+      <path d="M 0 10 Q 25 5, 50 10 T 100 10" fill="none" stroke="#a0522d" stroke-width="1" opacity="0.5"/>
+    </pattern>
+  </defs>
+  <rect width="400" height="300" fill="url(#wood3)"/>
+  
+  <!-- Fully assembled helicopter lying flat -->
+  <g transform="translate(200, 150) rotate(-10)" filter="url(#shadow3)">
+    <!-- Base / stem -->
+    <rect x="-20" y="-10" width="40" height="80" fill="#f8f8f8" stroke="#ddd" stroke-width="1"/>
+    <!-- Folded blade 1 -->
+    <polygon points="-20,-10 -80,-30 -80,-80 -20,-60" fill="#e8e8e8" stroke="#ccc" stroke-width="1"/>
+    <!-- Folded blade 2 -->
+    <polygon points="20,-10 80,10 80,-40 20,-60" fill="#ffffff" stroke="#ddd" stroke-width="1"/>
+    
+    <!-- Paper clip at the base -->
+    <path d="M -5,50 v 25 a 5 5 0 0 0 10 0 v -30 a 8 8 0 0 0 -16 0 v 35 a 12 12 0 0 0 24 0 v -30" fill="none" stroke="#c0c0c0" stroke-width="3"/>
+    <path d="M -5,50 v 25 a 5 5 0 0 0 10 0 v -30 a 8 8 0 0 0 -16 0 v 35 a 12 12 0 0 0 24 0 v -30" fill="none" stroke="#fff" stroke-width="1"/>
+  </g>
+  
+  <!-- Hand or just an arrow indicating attachment -->
+  <g transform="translate(260, 220)">
+    <path d="M 0 0 L -30 -30 M -10 -30 L -30 -30 L -30 -10" fill="none" stroke="#ff0000" stroke-width="4"/>
+  </g>
+</svg>

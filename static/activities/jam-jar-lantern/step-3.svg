@@ -1,0 +1,29 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Glow aura behind jar -->
+  <ellipse cx="60" cy="62" rx="46" ry="52" fill="#fef9c3" opacity="0.4"/>
+  <!-- Finished jar (hero, right side up, glowing) -->
+  <path d="M38,108 Q32,108 32,102 L32,42 C32,32 36,28 36,22 L84,22 C84,28 88,32 88,42 L88,102 Q88,108 82,108 Z"
+        stroke="#374151" stroke-width="2.5" fill="none"/>
+  <!-- Lid -->
+  <rect x="34" y="16" width="52" height="8" rx="3" stroke="#374151" stroke-width="2" fill="#e5e7eb"/>
+  <!-- Colourful tissue patches on jar (glowing colours) -->
+  <path d="M32 84 Q42 76 54 82 Q62 90 54 100 Q44 106 36 100 Q28 94 32 84 Z" fill="#ef4444" opacity="0.75" stroke="none"/>
+  <path d="M54 80 Q64 72 74 78 Q82 88 72 98 Q62 104 56 96 Q48 88 54 80 Z" fill="#f97316" opacity="0.75" stroke="none"/>
+  <path d="M72 82 Q82 74 88 84 Q90 94 82 102 Q74 106 70 98 Q64 90 72 82 Z" fill="#f59e0b" opacity="0.75" stroke="none"/>
+  <path d="M34 60 Q46 52 56 60 Q64 70 54 78 Q44 82 36 74 Q28 68 34 60 Z" fill="#3b82f6" opacity="0.7" stroke="none"/>
+  <path d="M56 58 Q66 50 76 58 Q82 66 74 76 Q64 82 58 74 Q50 66 56 58 Z" fill="#a78bfa" opacity="0.7" stroke="none"/>
+  <path d="M34 38 Q46 30 58 38 Q62 48 56 58 Q48 62 40 56 Q30 50 34 38 Z" fill="#22c55e" opacity="0.7" stroke="none"/>
+  <path d="M56 36 Q66 28 78 36 Q82 46 76 56 Q68 62 60 56 Q52 48 56 36 Z" fill="#fbbf24" opacity="0.7" stroke="none"/>
+  <!-- Jar outline over colours -->
+  <path d="M38,108 Q32,108 32,102 L32,42 C32,32 36,28 36,22 L84,22 C84,28 88,32 88,42 L88,102 Q88,108 82,108 Z"
+        stroke="#374151" stroke-width="2" fill="none"/>
+  <!-- Tea light glow inside jar -->
+  <ellipse cx="60" cy="98" rx="14" ry="6" fill="#fef9c3" opacity="0.9"/>
+  <ellipse cx="60" cy="96" rx="6" ry="4" fill="#f59e0b" opacity="0.8"/>
+  <!-- Light rays emanating from jar -->
+  <line x1="22" y1="40" x2="14" y2="32" stroke="#fde68a" stroke-width="2" stroke-linecap="round" opacity="0.7"/>
+  <line x1="18" y1="62" x2="8" y2="60" stroke="#fde68a" stroke-width="2" stroke-linecap="round" opacity="0.7"/>
+  <line x1="98" y1="40" x2="108" y2="32" stroke="#fde68a" stroke-width="2" stroke-linecap="round" opacity="0.7"/>
+  <line x1="102" y1="62" x2="112" y2="60" stroke="#fde68a" stroke-width="2" stroke-linecap="round" opacity="0.7"/>
+  <line x1="60" y1="18" x2="60" y2="10" stroke="#fde68a" stroke-width="2" stroke-linecap="round" opacity="0.7"/>
+</svg>

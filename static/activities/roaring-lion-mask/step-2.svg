@@ -1,0 +1,43 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="5" y="100" width="110" height="10" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Paper plate face (hero) -->
+  <circle cx="60" cy="54" r="34" fill="#f59e0b" stroke="#374151" stroke-width="2.5"/>
+
+  <!-- Eye holes -->
+  <ellipse cx="46" cy="46" rx="6" ry="5" fill="#fef3c7" stroke="#374151" stroke-width="2"/>
+  <ellipse cx="74" cy="46" rx="6" ry="5" fill="#fef3c7" stroke="#374151" stroke-width="2"/>
+
+  <!-- Triangle nose (brown) -->
+  <polygon points="60,50 54,62 66,62" fill="#d97706" stroke="#374151" stroke-width="2"/>
+
+  <!-- Whiskers (left side) -->
+  <line x1="50" y1="60" x2="28" y2="54" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="50" y1="62" x2="26" y2="62" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="50" y1="64" x2="28" y2="70" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- Whiskers (right side) -->
+  <line x1="70" y1="60" x2="92" y2="54" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="70" y1="62" x2="94" y2="62" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="70" y1="64" x2="92" y2="70" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- Mouth -->
+  <path d="M50,70 Q60,78 70,70" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Ears (round, at top) -->
+  <circle cx="38" cy="26" r="8" fill="#d97706" stroke="#374151" stroke-width="2"/>
+  <circle cx="38" cy="26" r="4" fill="#fde68a" stroke="none"/>
+  <circle cx="82" cy="26" r="8" fill="#d97706" stroke="#374151" stroke-width="2"/>
+  <circle cx="82" cy="26" r="4" fill="#fde68a" stroke="none"/>
+
+  <!-- Glue bottle nearby -->
+  <path d="M4,76 Q2,76 2,78 L2,94 Q2,96 6,96 L10,96 Q14,96 14,94 L14,78 Q14,76 12,76 Z"
+        fill="#f9fafb" stroke="#374151" stroke-width="1"/>
+  <rect x="5" y="72" width="4" height="5" rx="1" fill="#f9fafb" stroke="#374151" stroke-width="0.75"/>
+
+  <!-- Nose, whiskers and ear cutout pieces shown being positioned -->
+  <!-- Small whisker piece floating near face -->
+  <line x1="100" y1="84" x2="112" y2="80" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="100" y1="88" x2="112" y2="88" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

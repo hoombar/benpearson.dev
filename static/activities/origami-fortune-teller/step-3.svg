@@ -1,0 +1,32 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fortune teller folded flat — top view showing 4 outer flaps with colours and 8 inner triangles with numbers -->
+  <!-- Background square -->
+  <rect x="16" y="16" width="88" height="88" rx="2" fill="#f9fafb" stroke="#374151" stroke-width="2"/>
+  <!-- 4 coloured outer flaps (square quadrants) -->
+  <rect x="16" y="16" width="44" height="44" rx="1" fill="#f87171" stroke="#374151" stroke-width="1.5"/>
+  <rect x="60" y="16" width="44" height="44" rx="1" fill="#60a5fa" stroke="#374151" stroke-width="1.5"/>
+  <rect x="16" y="60" width="44" height="44" rx="1" fill="#4ade80" stroke="#374151" stroke-width="1.5"/>
+  <rect x="60" y="60" width="44" height="44" rx="1" fill="#fbbf24" stroke="#374151" stroke-width="1.5"/>
+  <!-- Diagonal lines dividing each quadrant into 2 triangles for number labels -->
+  <line x1="16" y1="16" x2="60" y2="60" stroke="#374151" stroke-width="1" opacity="0.5"/>
+  <line x1="60" y1="16" x2="16" y2="60" stroke="#374151" stroke-width="1" opacity="0.5"/>
+  <line x1="60" y1="16" x2="104" y2="60" stroke="#374151" stroke-width="1" opacity="0.5"/>
+  <line x1="104" y1="16" x2="60" y2="60" stroke="#374151" stroke-width="1" opacity="0.5"/>
+  <line x1="16" y1="60" x2="60" y2="104" stroke="#374151" stroke-width="1" opacity="0.5"/>
+  <line x1="60" y1="60" x2="16" y2="104" stroke="#374151" stroke-width="1" opacity="0.5"/>
+  <line x1="60" y1="60" x2="104" y2="104" stroke="#374151" stroke-width="1" opacity="0.5"/>
+  <line x1="104" y1="60" x2="60" y2="104" stroke="#374151" stroke-width="1" opacity="0.5"/>
+  <!-- Number labels on the 8 inner triangles -->
+  <text x="30" y="34" font-size="9" fill="white" font-family="monospace" font-weight="bold" text-anchor="middle">1</text>
+  <text x="46" y="50" font-size="9" fill="white" font-family="monospace" font-weight="bold" text-anchor="middle">2</text>
+  <text x="74" y="34" font-size="9" fill="white" font-family="monospace" font-weight="bold" text-anchor="middle">3</text>
+  <text x="90" y="50" font-size="9" fill="white" font-family="monospace" font-weight="bold" text-anchor="middle">4</text>
+  <text x="30" y="74" font-size="9" fill="white" font-family="monospace" font-weight="bold" text-anchor="middle">5</text>
+  <text x="46" y="90" font-size="9" fill="white" font-family="monospace" font-weight="bold" text-anchor="middle">6</text>
+  <text x="74" y="74" font-size="9" fill="white" font-family="monospace" font-weight="bold" text-anchor="middle">7</text>
+  <text x="90" y="90" font-size="9" fill="white" font-family="monospace" font-weight="bold" text-anchor="middle">8</text>
+  <!-- Marker pen next to fortune teller -->
+  <rect x="100" y="92" width="6" height="24" rx="2" fill="#a78bfa" stroke="#374151" stroke-width="1.5"/>
+  <rect x="99" y="92" width="8" height="5" rx="1" fill="#374151"/>
+  <rect x="100" y="112" width="6" height="5" rx="1" fill="#e5e7eb" stroke="#374151" stroke-width="1"/>
+</svg>

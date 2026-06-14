@@ -1,0 +1,31 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="5" markerHeight="5" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <!-- String (horizontal, threading line) -->
+  <line x1="10" y1="62" x2="110" y2="62" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+  <!-- Stopper knot at left end -->
+  <circle cx="10" cy="62" r="5" fill="#a78bfa" stroke="#374151" stroke-width="1.5"/>
+  <!-- Threaded pasta pieces on string -->
+  <ellipse cx="26" cy="62" rx="9" ry="6" fill="#f87171" stroke="#374151" stroke-width="1.5"/>
+  <ellipse cx="26" cy="62" rx="3" ry="2" fill="#f9fafb" stroke="#374151" stroke-width="0.8"/>
+  <ellipse cx="44" cy="62" rx="9" ry="6" fill="#fbbf24" stroke="#374151" stroke-width="1.5"/>
+  <ellipse cx="44" cy="62" rx="3" ry="2" fill="#f9fafb" stroke="#374151" stroke-width="0.8"/>
+  <ellipse cx="62" cy="62" rx="9" ry="6" fill="#4ade80" stroke="#374151" stroke-width="1.5"/>
+  <ellipse cx="62" cy="62" rx="3" ry="2" fill="#f9fafb" stroke="#374151" stroke-width="0.8"/>
+  <ellipse cx="80" cy="62" rx="9" ry="6" fill="#60a5fa" stroke="#374151" stroke-width="1.5"/>
+  <ellipse cx="80" cy="62" rx="3" ry="2" fill="#f9fafb" stroke="#374151" stroke-width="0.8"/>
+  <!-- Next piece being slid on — hand holding it -->
+  <ellipse cx="100" cy="54" rx="9" ry="6" fill="#a78bfa" stroke="#374151" stroke-width="1.5"/>
+  <ellipse cx="100" cy="54" rx="3" ry="2" fill="#f9fafb" stroke="#374151" stroke-width="0.8"/>
+  <!-- Arrow showing threading direction -->
+  <path d="M100 60 L100 66" stroke="#374151" stroke-width="2" fill="none" stroke-linecap="round" marker-end="url(#arr)"/>
+  <!-- Finger/thumb pushing piece on -->
+  <ellipse cx="106" cy="50" rx="8" ry="5" fill="#fde68a" stroke="#374151" stroke-width="1.5"/>
+  <line x1="100" y1="50" x2="96" y2="44" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="104" y1="46" x2="102" y2="40" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="108" y1="46" x2="108" y2="40" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

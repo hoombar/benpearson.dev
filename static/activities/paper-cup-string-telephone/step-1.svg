@@ -1,0 +1,21 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <!-- Cup from the side, partially transparent or cutaway -->
+  <path d="M40,30 L80,30 L75,90 L45,90 Z" fill="#dbeafe" stroke="#374151" stroke-width="2.5" stroke-linejoin="round" opacity="0.8"/>
+  <ellipse cx="60" cy="30" rx="20" ry="5" fill="#f3f4f6" stroke="#374151" stroke-width="2"/>
+
+  <!-- String threading through -->
+  <line x1="60" y1="110" x2="60" y2="90" stroke="#374151" stroke-width="2" stroke-dasharray="4,2"/>
+  <line x1="60" y1="90" x2="60" y2="60" stroke="#374151" stroke-width="2"/>
+
+  <!-- Hand holding string end -->
+  <path d="M55,100 Q65,110 75,105" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Action arrow -->
+  <path d="M40,105 Q50,95 55,85" fill="none" stroke="#374151" stroke-width="2" marker-end="url(#arr)" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,51 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Egg cup being shaped into petals (hero, large) -->
+  <g transform="translate(24, 12)">
+    <!-- Cup base -->
+    <path d="M14,50 Q14,58 20,62 L44,62 Q50,58 50,50" fill="#d6d3d1" stroke="#374151" stroke-width="1.2"/>
+
+    <!-- Petals cut from rim - 5 rounded petals splaying out -->
+    <path d="M14,50 Q8,42 6,32 Q4,24 14,28 Q18,32 20,40" fill="#d6d3d1" stroke="#374151" stroke-width="1"/>
+    <path d="M20,40 Q22,28 28,22 Q34,18 36,28 Q36,36 34,42" fill="#d6d3d1" stroke="#374151" stroke-width="1"/>
+    <path d="M34,42 Q38,30 44,24 Q50,20 50,30 Q50,40 48,46" fill="#d6d3d1" stroke="#374151" stroke-width="1"/>
+    <path d="M48,46 Q54,38 58,34 Q62,30 60,40 Q58,48 54,52" fill="#d6d3d1" stroke="#374151" stroke-width="1"/>
+
+    <!-- Cut lines showing where scissors went (dashed) -->
+    <line x1="20" y1="50" x2="20" y2="40" stroke="#ef4444" stroke-width="0.6" stroke-dasharray="2,2"/>
+    <line x1="34" y1="50" x2="34" y2="42" stroke="#ef4444" stroke-width="0.6" stroke-dasharray="2,2"/>
+    <line x1="48" y1="50" x2="48" y2="46" stroke="#ef4444" stroke-width="0.6" stroke-dasharray="2,2"/>
+  </g>
+
+  <!-- Second cup with different petal style (pointy, smaller) -->
+  <g transform="translate(80, 40)">
+    <path d="M6,30 Q6,36 10,38 L22,38 Q26,36 26,30" fill="#d6d3d1" stroke="#374151" stroke-width="0.8"/>
+    <!-- Pointy petals -->
+    <path d="M6,30 Q2,22 4,16 Q6,12 10,20 Q12,26 12,30" fill="#d6d3d1" stroke="#374151" stroke-width="0.8"/>
+    <path d="M12,30 Q14,20 16,14 Q18,10 20,18 Q20,24 20,30" fill="#d6d3d1" stroke="#374151" stroke-width="0.8"/>
+    <path d="M20,30 Q24,22 26,16 Q28,12 28,22 Q28,28 26,30" fill="#d6d3d1" stroke="#374151" stroke-width="0.8"/>
+  </g>
+
+  <!-- Arrow showing petals bending outward -->
+  <defs>
+    <marker id="arr" viewBox="0 0 6 6" refX="5" refY="3" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#374151"/>
+    </marker>
+  </defs>
+  <path d="M18,40 Q12,36 8,30" fill="none" stroke="#374151" stroke-width="0.8" stroke-dasharray="2,2" marker-end="url(#arr)"/>
+
+  <!-- Scissors -->
+  <g transform="translate(10, 72) rotate(10)">
+    <path d="M0,0 L-14,4" fill="none" stroke="#9ca3af" stroke-width="2" stroke-linecap="round"/>
+    <path d="M0,0 L-14,-4" fill="none" stroke="#9ca3af" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="0" cy="0" r="1.2" fill="#374151" stroke="none"/>
+    <ellipse cx="4" cy="3" rx="4.5" ry="3" fill="none" stroke="#ef4444" stroke-width="1.2"/>
+    <ellipse cx="4" cy="-3" rx="4.5" ry="3" fill="none" stroke="#ef4444" stroke-width="1.2"/>
+  </g>
+
+  <!-- Cut scraps -->
+  <path d="M14,88 Q16,84 18,88" fill="#d6d3d1" stroke="#374151" stroke-width="0.5"/>
+  <path d="M24,90 Q26,86 28,90" fill="#d6d3d1" stroke="#374151" stroke-width="0.5"/>
+</svg>

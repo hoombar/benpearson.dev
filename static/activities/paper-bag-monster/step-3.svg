@@ -1,0 +1,63 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Completed monster (hero) -->
+  <g transform="translate(22, 14)">
+    <!-- Bag body (green) -->
+    <path d="M0,76 L0,20 Q0,8 10,4 L18,0 Q25,-2 32,0 L40,4 Q50,8 50,20 L50,76 Z" fill="#22c55e" stroke="#374151" stroke-width="1.5"/>
+
+    <!-- Horns -->
+    <path d="M10,4 Q4,-8 8,-16" fill="none" stroke="#22c55e" stroke-width="5" stroke-linecap="round"/>
+    <path d="M10,4 Q4,-8 8,-16" fill="none" stroke="#374151" stroke-width="1"/>
+    <path d="M40,4 Q46,-8 42,-16" fill="none" stroke="#22c55e" stroke-width="5" stroke-linecap="round"/>
+    <path d="M40,4 Q46,-8 42,-16" fill="none" stroke="#374151" stroke-width="1"/>
+
+    <!-- Wild tissue paper hair between horns -->
+    <path d="M14,0 Q10,-10 16,-18" fill="none" stroke="#a855f7" stroke-width="3" stroke-linecap="round"/>
+    <path d="M20,0 Q22,-12 18,-20" fill="none" stroke="#ec4899" stroke-width="3" stroke-linecap="round"/>
+    <path d="M25,-2 Q25,-14 28,-22" fill="none" stroke="#f97316" stroke-width="3" stroke-linecap="round"/>
+    <path d="M30,0 Q28,-12 32,-20" fill="none" stroke="#eab308" stroke-width="3" stroke-linecap="round"/>
+    <path d="M36,0 Q40,-10 34,-18" fill="none" stroke="#3b82f6" stroke-width="3" stroke-linecap="round"/>
+
+    <!-- Big googly eyes -->
+    <circle cx="14" cy="22" r="8" fill="white" stroke="#374151" stroke-width="1"/>
+    <circle cx="14" cy="24" r="4" fill="#374151"/>
+    <circle cx="36" cy="22" r="8" fill="white" stroke="#374151" stroke-width="1"/>
+    <circle cx="36" cy="24" r="4" fill="#374151"/>
+
+    <!-- Angry/silly eyebrows -->
+    <line x1="8" y1="12" x2="18" y2="14" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+    <line x1="42" y1="12" x2="32" y2="14" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+
+    <!-- Nostrils -->
+    <circle cx="22" cy="36" r="2" fill="#16a34a" stroke="#374151" stroke-width="0.5"/>
+    <circle cx="28" cy="36" r="2" fill="#16a34a" stroke="#374151" stroke-width="0.5"/>
+
+    <!-- Big mouth with teeth -->
+    <path d="M8,46 Q25,72 42,46" fill="#ef4444" stroke="#374151" stroke-width="1.2"/>
+    <polygon points="12,46 16,54 20,46" fill="white" stroke="#374151" stroke-width="0.5"/>
+    <polygon points="20,46 25,56 30,46" fill="white" stroke="#374151" stroke-width="0.5"/>
+    <polygon points="30,46 34,54 38,46" fill="white" stroke="#374151" stroke-width="0.5"/>
+    <polygon points="16,62 20,56 24,62" fill="white" stroke="#374151" stroke-width="0.5"/>
+    <polygon points="26,62 30,54 34,62" fill="white" stroke="#374151" stroke-width="0.5"/>
+
+    <!-- Spots -->
+    <circle cx="10" cy="68" r="3" fill="#16a34a" stroke="#374151" stroke-width="0.4"/>
+    <circle cx="40" cy="66" r="3.5" fill="#16a34a" stroke="#374151" stroke-width="0.4"/>
+  </g>
+
+  <!-- Spare googly eye -->
+  <circle cx="90" cy="90" r="5" fill="white" stroke="#374151" stroke-width="0.6"/>
+  <circle cx="90" cy="91" r="2.5" fill="#374151"/>
+
+  <!-- Markers -->
+  <g transform="translate(98, 68)">
+    <rect x="0" y="0" width="5" height="20" rx="1.5" fill="#374151" stroke="#374151" stroke-width="0.4"/>
+    <rect x="0" y="0" width="5" height="4" rx="1" fill="#1f2937"/>
+  </g>
+  <g transform="translate(106, 70)">
+    <rect x="0" y="0" width="5" height="18" rx="1.5" fill="#ef4444" stroke="#374151" stroke-width="0.4"/>
+    <rect x="0" y="0" width="5" height="4" rx="1" fill="#b91c1c"/>
+  </g>
+</svg>

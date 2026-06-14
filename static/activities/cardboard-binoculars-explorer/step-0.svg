@@ -1,0 +1,30 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="5" y="95" width="110" height="12" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Two tubes side by side (hero, front view showing openings) -->
+  <!-- Left tube -->
+  <ellipse cx="42" cy="54" rx="18" ry="18" fill="#fbbf24" stroke="#374151" stroke-width="2.5"/>
+  <ellipse cx="42" cy="54" rx="14" ry="14" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Right tube -->
+  <ellipse cx="78" cy="54" rx="18" ry="18" fill="#fbbf24" stroke="#374151" stroke-width="2.5"/>
+  <ellipse cx="78" cy="54" rx="14" ry="14" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Tape strips wrapping around both tubes (joining them) -->
+  <rect x="36" y="38" width="48" height="5" rx="1" fill="#fde68a" stroke="#374151" stroke-width="1" opacity="0.7"/>
+  <rect x="36" y="52" width="48" height="5" rx="1" fill="#fde68a" stroke="#374151" stroke-width="1" opacity="0.7"/>
+  <rect x="36" y="66" width="48" height="5" rx="1" fill="#fde68a" stroke="#374151" stroke-width="1" opacity="0.7"/>
+
+  <!-- Tape roll nearby -->
+  <circle cx="104" cy="82" r="10" fill="#fde68a" stroke="#374151" stroke-width="1.5"/>
+  <circle cx="104" cy="82" r="4" fill="#fef3c7" stroke="#374151" stroke-width="1"/>
+
+  <!-- Arrow from tape to binoculars -->
+  <path d="M94,78 Q86,72 84,66" stroke="#374151" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M86 69 L84 65 L81 68" stroke="#374151" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+
+  <!-- Single loose tube (before assembly) -->
+  <ellipse cx="18" cy="88" rx="8" ry="8" fill="#fbbf24" stroke="#374151" stroke-width="1.5"/>
+  <ellipse cx="18" cy="88" rx="6" ry="6" fill="#fef3c7" stroke="#374151" stroke-width="1"/>
+</svg>

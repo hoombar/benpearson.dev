@@ -1,0 +1,38 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Cut bottle (no bottom) -->
+  <g transform="translate(30, 16)">
+    <!-- Bottle body (open bottom) -->
+    <path d="M4,68 L4,20 Q4,16 8,16 L8,4 Q8,0 12,0 L20,0 Q24,0 24,4 L24,16 Q28,16 28,20 L28,68" fill="#bfdbfe" stroke="#374151" stroke-width="1.2" opacity="0.6"/>
+    <!-- Cap -->
+    <rect x="8" y="-4" width="16" height="6" rx="2" fill="#60a5fa" stroke="#374151" stroke-width="1"/>
+  </g>
+
+  <!-- Sock being stretched over the open end -->
+  <g>
+    <!-- Sock fabric across opening -->
+    <path d="M30,84 Q46,90 62,84" fill="#a78bfa" stroke="#374151" stroke-width="1.5"/>
+    <!-- Sock draping down sides -->
+    <path d="M30,84 L26,92 Q26,96 30,96 L62,96 Q66,96 66,92 L62,84" fill="#a78bfa" stroke="#374151" stroke-width="1.2" opacity="0.8"/>
+    <!-- Sock texture lines -->
+    <line x1="34" y1="86" x2="34" y2="94" stroke="#8b5cf6" stroke-width="0.6" opacity="0.5"/>
+    <line x1="40" y1="87" x2="40" y2="95" stroke="#8b5cf6" stroke-width="0.6" opacity="0.5"/>
+    <line x1="46" y1="88" x2="46" y2="96" stroke="#8b5cf6" stroke-width="0.6" opacity="0.5"/>
+    <line x1="52" y1="87" x2="52" y2="95" stroke="#8b5cf6" stroke-width="0.6" opacity="0.5"/>
+    <line x1="58" y1="86" x2="58" y2="94" stroke="#8b5cf6" stroke-width="0.6" opacity="0.5"/>
+  </g>
+
+  <!-- Rubber band securing sock -->
+  <ellipse cx="46" cy="84" rx="18" ry="3" fill="none" stroke="#3b82f6" stroke-width="2"/>
+
+  <!-- Arrow showing sock being pulled on -->
+  <defs>
+    <marker id="arr" viewBox="0 0 6 6" refX="5" refY="3" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#374151"/>
+    </marker>
+  </defs>
+  <path d="M76,76 Q70,80 66,84" fill="none" stroke="#374151" stroke-width="1" stroke-dasharray="2,2" marker-end="url(#arr)"/>
+  <path d="M18,76 Q24,80 28,84" fill="none" stroke="#374151" stroke-width="1" stroke-dasharray="2,2" marker-end="url(#arr)"/>
+</svg>

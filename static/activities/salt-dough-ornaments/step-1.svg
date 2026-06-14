@@ -1,0 +1,31 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2"
+            stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <!-- Flat surface / table -->
+  <rect x="8" y="90" width="104" height="6" rx="1" stroke="#374151" stroke-width="1.5" fill="#e5e7eb"/>
+  <!-- Rolled out dough slab (hero) -->
+  <rect x="16" y="58" width="88" height="32" rx="4" stroke="#374151" stroke-width="2.5" fill="#fef3c7"/>
+  <!-- Dough texture dots -->
+  <circle cx="34" cy="68" r="1.5" fill="#fde68a"/>
+  <circle cx="54" cy="72" r="1.5" fill="#fde68a"/>
+  <circle cx="74" cy="66" r="1.5" fill="#fde68a"/>
+  <circle cx="90" cy="74" r="1.5" fill="#fde68a"/>
+  <!-- Glass jar (rolling pin) above dough -->
+  <path d="M20,38 C20,28 24,26 24,38 L24,56 Q24,60 22,60 Q20,60 20,56 Z M24,38 C24,28 36,28 36,38 L36,56 Q36,60 34,60 Q32,60 32,56 L32,38" stroke="#374151" stroke-width="1.5" fill="none"/>
+  <rect x="20" y="36" width="16" height="22" rx="2" stroke="#374151" stroke-width="2" fill="#dbeafe" opacity="0.7"/>
+  <rect x="20" y="36" width="16" height="6" rx="2" stroke="#374151" stroke-width="1.5" fill="#93c5fd" opacity="0.7"/>
+  <!-- Arrow showing rolling direction -->
+  <line x1="42" y1="48" x2="96" y2="48" stroke="#374151" stroke-width="1.5" stroke-dasharray="5,3" stroke-linecap="round" marker-end="url(#arr)"/>
+  <!-- Cut-out star shape on dough -->
+  <path d="M72 68 L74 63 L76 68 L81 68 L77 71 L79 76 L74 73 L69 76 L71 71 L67 68 Z"
+        stroke="#374151" stroke-width="1.5" fill="#fbbf24"/>
+  <!-- Cut-out circle shape -->
+  <circle cx="44" cy="71" r="9" stroke="#374151" stroke-width="1.5" fill="#fdba74"/>
+  <!-- Dashed cut line around circle -->
+  <circle cx="44" cy="71" r="10" stroke="#374151" stroke-width="1" fill="none" stroke-dasharray="3,2"/>
+</svg>

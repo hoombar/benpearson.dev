@@ -1,0 +1,27 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <!-- Cardboard Tube (hero) -->
+  <g transform="translate(45, 65) rotate(45)">
+    <path d="M-15,-30 L15,-30 L15,30 L-15,30 Z" fill="#fbbf24" stroke="#374151" stroke-width="2" stroke-linejoin="round"/>
+    <!-- Sticky spread already started -->
+    <path d="M-15,-10 Q0,0 15,10 L15,30 L-15,30 Z" fill="#d97706" stroke="#374151" stroke-width="1.5" opacity="0.8"/>
+  </g>
+
+  <!-- Spoon with peanut butter -->
+  <g transform="translate(85, 45) rotate(-135)">
+    <!-- Spoon shaft -->
+    <line x1="0" y1="0" x2="0" y2="40" stroke="#374151" stroke-width="2.5" stroke-linecap="round"/>
+    <!-- Spoon bowl -->
+    <ellipse cx="0" cy="45" rx="10" ry="14" fill="#f3f4f6" stroke="#374151" stroke-width="2"/>
+    <!-- Peanut butter on spoon -->
+    <path d="M-6,40 Q0,35 6,40 Q8,55 0,55 Q-8,55 -6,40 Z" fill="#d97706" stroke="#374151" stroke-width="1.5"/>
+  </g>
+
+  <!-- Action arrow -->
+  <path d="M90,65 Q80,80 65,75" fill="none" stroke="#374151" stroke-width="2" marker-end="url(#arr)" stroke-linecap="round"/>
+</svg>

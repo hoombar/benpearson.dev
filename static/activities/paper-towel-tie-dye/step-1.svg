@@ -1,0 +1,31 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2"
+            stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <!-- Folded triangle (hero — the towel being dipped) -->
+  <polygon points="60,14 10,96 110,96" fill="#f9fafb" stroke="#374151" stroke-width="2.5"/>
+  <!-- Fold lines on triangle showing layers -->
+  <line x1="35" y1="55" x2="85" y2="55" stroke="#d1d5db" stroke-width="1" stroke-dasharray="3,2"/>
+  <line x1="22" y1="75" x2="98" y2="75" stroke="#d1d5db" stroke-width="1" stroke-dasharray="3,2"/>
+  <!-- Red cup — bottom left -->
+  <rect x="6" y="96" width="22" height="18" rx="3" fill="#fee2e2" stroke="#374151" stroke-width="1.5"/>
+  <ellipse cx="17" cy="96" rx="11" ry="4" fill="#fca5a5" stroke="#374151" stroke-width="1.5"/>
+  <!-- Blue cup — bottom right -->
+  <rect x="92" y="96" width="22" height="18" rx="3" fill="#dbeafe" stroke="#374151" stroke-width="1.5"/>
+  <ellipse cx="103" cy="96" rx="11" ry="4" fill="#93c5fd" stroke="#374151" stroke-width="1.5"/>
+  <!-- Yellow cup — bottom centre -->
+  <rect x="49" y="104" width="22" height="14" rx="3" fill="#fef9c3" stroke="#374151" stroke-width="1.5"/>
+  <ellipse cx="60" cy="104" rx="11" ry="3.5" fill="#fde68a" stroke="#374151" stroke-width="1.5"/>
+  <!-- Red colour soaking up left corner of triangle -->
+  <polygon points="10,96 28,96 18,80" fill="#fca5a5" stroke="none" opacity="0.7"/>
+  <!-- Blue soaking up right corner -->
+  <polygon points="110,96 92,96 102,80" fill="#93c5fd" stroke="none" opacity="0.7"/>
+  <!-- Arrow: left corner dipping into red cup -->
+  <path d="M16 90 L16 96" stroke="#374151" stroke-width="2" stroke-linecap="round" fill="none" marker-end="url(#arr)"/>
+  <!-- Arrow: right corner dipping into blue cup -->
+  <path d="M104 90 L104 96" stroke="#374151" stroke-width="2" stroke-linecap="round" fill="none" marker-end="url(#arr)"/>
+</svg>

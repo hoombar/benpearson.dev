@@ -1,0 +1,49 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Top-down view of cross with cups (hero) -->
+  <!-- Cross centre -->
+  <circle cx="60" cy="50" r="3" fill="#16a34a" stroke="#374151" stroke-width="0.8"/>
+
+  <!-- Straw arms -->
+  <line x1="16" y1="50" x2="104" y2="50" stroke="#22c55e" stroke-width="3" stroke-linecap="round"/>
+  <line x1="60" y1="8" x2="60" y2="92" stroke="#22c55e" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Cup on left (facing down/clockwise) -->
+  <g transform="translate(6, 38)">
+    <path d="M2,0 L0,24 L16,24 L14,0 Z" fill="white" stroke="#374151" stroke-width="0.8"/>
+    <ellipse cx="8" cy="0" rx="6" ry="2" fill="#f3f4f6" stroke="#374151" stroke-width="0.5"/>
+  </g>
+
+  <!-- Cup on right (facing up/clockwise) -->
+  <g transform="translate(96, 38)">
+    <path d="M2,24 L0,0 L16,0 L14,24 Z" fill="white" stroke="#374151" stroke-width="0.8"/>
+    <ellipse cx="8" cy="24" rx="6" ry="2" fill="#f3f4f6" stroke="#374151" stroke-width="0.5"/>
+  </g>
+
+  <!-- Cup on top (facing left/clockwise) -->
+  <g transform="translate(48, 0)">
+    <path d="M0,2 L24,0 L24,16 L0,14 Z" fill="white" stroke="#374151" stroke-width="0.8"/>
+    <ellipse cx="0" cy="8" rx="2" ry="6" fill="#f3f4f6" stroke="#374151" stroke-width="0.5"/>
+  </g>
+
+  <!-- Cup on bottom (red marker, facing right/clockwise) -->
+  <g transform="translate(48, 84)">
+    <path d="M24,2 L0,0 L0,16 L24,14 Z" fill="#ef4444" stroke="#374151" stroke-width="0.8"/>
+    <ellipse cx="24" cy="8" rx="2" ry="6" fill="#fca5a5" stroke="#374151" stroke-width="0.5"/>
+  </g>
+
+  <!-- Rotation arrow showing all cups face same direction -->
+  <defs>
+    <marker id="arr" viewBox="0 0 6 6" refX="5" refY="3" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#374151"/>
+    </marker>
+  </defs>
+  <path d="M76,28 Q84,36 80,48" fill="none" stroke="#374151" stroke-width="0.8" stroke-dasharray="2,2" marker-end="url(#arr)"/>
+  <path d="M44,72 Q36,64 40,52" fill="none" stroke="#374151" stroke-width="0.8" stroke-dasharray="2,2" marker-end="url(#arr)"/>
+
+  <!-- Tape on cups -->
+  <rect x="10" y="46" width="6" height="3" rx="1" fill="#d1fae5" stroke="#374151" stroke-width="0.3"/>
+  <rect x="100" y="46" width="6" height="3" rx="1" fill="#d1fae5" stroke="#374151" stroke-width="0.3"/>
+</svg>

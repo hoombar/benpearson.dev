@@ -1,0 +1,53 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2"
+            stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <!-- Table surface -->
+  <rect x="5" y="100" width="110" height="10" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Left cup (upside down) -->
+  <path d="M10,50 L7,88 Q7,92 25,92 Q43,92 43,88 L40,50 Q40,46 25,46 Q10,46 10,50 Z"
+        fill="#f9fafb" stroke="#374151" stroke-width="2"/>
+  <ellipse cx="25" cy="48" rx="15" ry="3" fill="#f3f4f6" stroke="#374151" stroke-width="1.5"/>
+  <!-- Hole -->
+  <circle cx="25" cy="48" r="2" fill="#374151" stroke="none"/>
+
+  <!-- Right cup (upside down) -->
+  <path d="M77,50 L74,88 Q74,92 92,92 Q110,92 110,88 L107,50 Q107,46 92,46 Q77,46 77,50 Z"
+        fill="#f9fafb" stroke="#374151" stroke-width="2"/>
+  <ellipse cx="92" cy="48" rx="15" ry="3" fill="#f3f4f6" stroke="#374151" stroke-width="1.5"/>
+  <!-- Hole -->
+  <circle cx="92" cy="48" r="2" fill="#374151" stroke="none"/>
+
+  <!-- String connecting cups through holes -->
+  <line x1="25" y1="48" x2="92" y2="48" stroke="#d97706" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Knot inside left cup -->
+  <circle cx="25" cy="54" r="3.5" fill="none" stroke="#d97706" stroke-width="2"/>
+  <circle cx="25" cy="54" r="1" fill="#d97706" stroke="none"/>
+
+  <!-- Knot inside right cup -->
+  <circle cx="92" cy="54" r="3.5" fill="none" stroke="#d97706" stroke-width="2"/>
+  <circle cx="92" cy="54" r="1" fill="#d97706" stroke="none"/>
+
+  <!-- Arrow showing threading direction on left -->
+  <path d="M25,30 L25,40" stroke="#374151" stroke-width="1.5" fill="none"
+        stroke-linecap="round" marker-end="url(#arr)"/>
+
+  <!-- Label-free threading indication arrows from outside to inside -->
+  <path d="M18,34 Q22,38 25,42" stroke="#374151" stroke-width="1" fill="none"
+        stroke-linecap="round" stroke-dasharray="3,2"/>
+  <path d="M32,34 Q28,38 25,42" stroke="#374151" stroke-width="1" fill="none"
+        stroke-linecap="round" stroke-dasharray="3,2"/>
+
+  <!-- String spool (source) at top -->
+  <ellipse cx="58" cy="18" rx="12" ry="8" fill="#fde68a" stroke="#374151" stroke-width="1.5"/>
+  <ellipse cx="58" cy="18" rx="5" ry="8" fill="#d97706" stroke="#374151" stroke-width="1"/>
+  <!-- String coming off spool -->
+  <path d="M58,26 Q58,36 50,42" stroke="#d97706" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,32 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="5" y="100" width="110" height="10" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Flat tissue paper squares (before gathering) shown at top -->
+  <rect x="10" y="8" width="34" height="34" rx="1" fill="#c4b5fd" stroke="#374151" stroke-width="1" opacity="0.6"/>
+  <rect x="14" y="12" width="34" height="34" rx="1" fill="#fbcfe8" stroke="#374151" stroke-width="1" opacity="0.6"/>
+
+  <!-- Arrow showing transformation -->
+  <defs>
+    <marker id="arr" viewBox="0 0 6 6" refX="5" refY="3" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#374151"/>
+    </marker>
+  </defs>
+  <path d="M54,30 Q62,34 68,40" fill="none" stroke="#374151" stroke-width="1.5" marker-end="url(#arr)"/>
+
+  <!-- Gathered tissue paper bow-tie shape (hero, centre) -->
+  <!-- Left wing -->
+  <path d="M60,60 Q40,36 30,50 Q20,64 40,72 Q50,76 60,60 Z" fill="#c4b5fd" stroke="#374151" stroke-width="1.5" opacity="0.7"/>
+  <path d="M60,60 Q42,38 34,52 Q26,66 44,72 Q52,74 60,60 Z" fill="#fbcfe8" stroke="none" opacity="0.5"/>
+
+  <!-- Right wing -->
+  <path d="M60,60 Q80,36 90,50 Q100,64 80,72 Q70,76 60,60 Z" fill="#c4b5fd" stroke="#374151" stroke-width="1.5" opacity="0.7"/>
+  <path d="M60,60 Q78,38 86,52 Q94,66 76,72 Q68,74 60,60 Z" fill="#fbcfe8" stroke="none" opacity="0.5"/>
+
+  <!-- Pinched centre -->
+  <ellipse cx="60" cy="60" rx="4" ry="8" fill="#c4b5fd" stroke="#374151" stroke-width="1.2"/>
+
+  <!-- Gathering arrows -->
+  <path d="M46,88 Q52,80 58,68" fill="none" stroke="#374151" stroke-width="1" marker-end="url(#arr)" stroke-dasharray="2,2"/>
+  <path d="M74,88 Q68,80 62,68" fill="none" stroke="#374151" stroke-width="1" marker-end="url(#arr)" stroke-dasharray="2,2"/>
+</svg>

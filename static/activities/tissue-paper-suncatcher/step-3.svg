@@ -1,0 +1,36 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Window frame -->
+  <rect x="18" y="8" width="84" height="96" rx="3" fill="#bfdbfe" fill-opacity="0.25" stroke="#374151" stroke-width="3"/>
+  <!-- Window cross bars -->
+  <line x1="60" y1="8" x2="60" y2="104" stroke="#374151" stroke-width="2.5"/>
+  <line x1="18" y1="56" x2="102" y2="56" stroke="#374151" stroke-width="2.5"/>
+  <!-- Suncatcher hung in top-left pane -->
+  <rect x="24" y="14" width="30" height="36" rx="2" fill="none" stroke="#374151" stroke-width="1.5"/>
+  <rect x="26" y="16" width="10" height="9" rx="1" fill="#f87171" fill-opacity="0.8"/>
+  <rect x="34" y="14" width="10" height="9" rx="1" fill="#60a5fa" fill-opacity="0.8"/>
+  <rect x="42" y="16" width="10" height="9" rx="1" fill="#4ade80" fill-opacity="0.8"/>
+  <rect x="26" y="24" width="10" height="9" rx="1" fill="#a78bfa" fill-opacity="0.8"/>
+  <rect x="34" y="24" width="10" height="9" rx="1" fill="#fb923c" fill-opacity="0.8"/>
+  <rect x="42" y="24" width="10" height="9" rx="1" fill="#f472b6" fill-opacity="0.8"/>
+  <rect x="26" y="32" width="10" height="9" rx="1" fill="#facc15" fill-opacity="0.8"/>
+  <rect x="34" y="32" width="10" height="9" rx="1" fill="#34d399" fill-opacity="0.8"/>
+  <rect x="42" y="32" width="10" height="9" rx="1" fill="#f87171" fill-opacity="0.8"/>
+  <!-- Frame border over coloured squares -->
+  <rect x="24" y="14" width="30" height="36" rx="2" fill="none" stroke="#374151" stroke-width="2"/>
+  <!-- Tape at top holding it to window -->
+  <rect x="32" y="11" width="14" height="5" rx="1" fill="#d1fae5" stroke="#374151" stroke-width="1" opacity="0.9"/>
+  <!-- Light rays coming from suncatcher -->
+  <line x1="54" y1="26" x2="68" y2="22" stroke="#fbbf24" stroke-width="1.5" stroke-linecap="round" opacity="0.7"/>
+  <line x1="54" y1="32" x2="72" y2="32" stroke="#f87171" stroke-width="1.5" stroke-linecap="round" opacity="0.7"/>
+  <line x1="54" y1="38" x2="68" y2="42" stroke="#60a5fa" stroke-width="1.5" stroke-linecap="round" opacity="0.7"/>
+  <!-- Coloured light patches on floor / wall -->
+  <ellipse cx="82" cy="82" rx="10" ry="6" fill="#f87171" fill-opacity="0.35" stroke="none"/>
+  <ellipse cx="72" cy="88" rx="8" ry="5" fill="#60a5fa" fill-opacity="0.35" stroke="none"/>
+  <ellipse cx="90" cy="90" rx="8" ry="5" fill="#4ade80" fill-opacity="0.35" stroke="none"/>
+  <ellipse cx="80" cy="94" rx="9" ry="4" fill="#facc15" fill-opacity="0.35" stroke="none"/>
+  <!-- Sun outside window (top right corner) -->
+  <circle cx="108" cy="12" r="8" fill="#fde68a" stroke="#374151" stroke-width="1.5"/>
+  <line x1="108" y1="2" x2="108" y2="0" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="118" y1="12" x2="120" y2="12" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="115" y1="5" x2="117" y2="3" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

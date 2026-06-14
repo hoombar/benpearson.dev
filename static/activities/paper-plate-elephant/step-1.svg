@@ -1,0 +1,39 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Grey paper sheet -->
+  <rect x="8" y="16" width="56" height="72" rx="1" fill="#d1d5db" stroke="#374151" stroke-width="0.8"/>
+
+  <!-- Trunk shape being cut (hero) -->
+  <path d="M24,22 Q20,40 22,58 Q24,68 30,72 Q36,68 34,58 Q36,40 32,22 Z" fill="#9ca3af" stroke="#374151" stroke-width="1.2"/>
+  <!-- Trunk curl at bottom -->
+  <path d="M26,72 Q22,80 28,84" fill="none" stroke="#9ca3af" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Cut line (dashed) around trunk -->
+  <path d="M24,22 Q20,40 22,58 Q24,68 30,72" fill="none" stroke="#374151" stroke-width="0.5" stroke-dasharray="3,2"/>
+
+  <!-- Ear shape 1 -->
+  <path d="M46,26 Q36,40 46,56 Q52,56 56,40 Q52,26 46,26 Z" fill="#9ca3af" stroke="#374151" stroke-width="1"/>
+
+  <!-- Ear shape 2 -->
+  <path d="M46,62 Q36,76 46,90 Q52,90 56,76 Q52,62 46,62 Z" fill="#9ca3af" stroke="#374151" stroke-width="1"/>
+
+  <!-- Scissors cutting -->
+  <g transform="translate(14, 44) rotate(-20)">
+    <path d="M0,0 L14,5" fill="none" stroke="#9ca3af" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M0,0 L14,-5" fill="none" stroke="#9ca3af" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="0" cy="0" r="1.5" fill="#374151"/>
+    <ellipse cx="18" cy="6" rx="5" ry="3.5" fill="none" stroke="#ef4444" stroke-width="1.2"/>
+    <ellipse cx="18" cy="-6" rx="5" ry="3.5" fill="none" stroke="#ef4444" stroke-width="1.2"/>
+  </g>
+
+  <!-- Finished pieces preview -->
+  <g transform="translate(74, 20)">
+    <path d="M10,0 Q6,16 8,32 Q10,38 14,40 Q18,38 16,32 Q18,16 14,0 Z" fill="#9ca3af" stroke="#374151" stroke-width="0.6"/>
+    <path d="M12,40 Q8,46 12,50" fill="none" stroke="#9ca3af" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(76, 60)">
+    <path d="M14,0 Q4,14 14,28 Q20,28 24,14 Q20,0 14,0 Z" fill="#9ca3af" stroke="#374151" stroke-width="0.6"/>
+  </g>
+</svg>

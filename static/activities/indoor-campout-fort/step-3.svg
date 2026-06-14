@@ -1,0 +1,28 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(60, 65)">
+    <!-- Glow halo -->
+    <circle cx="0" cy="-10" r="45" fill="#fef08a" opacity="0.5"/>
+    
+    <!-- Tubes -->
+    <rect x="-35" y="-10" width="70" height="20" rx="4" fill="#d97706" stroke="#374151" stroke-width="2"/>
+    <rect x="-10" y="-35" width="20" height="70" rx="4" fill="#d97706" stroke="#374151" stroke-width="2"/>
+
+    <!-- Flashlight sliding in -->
+    <g transform="translate(25, 20) rotate(-45)">
+      <rect x="-10" y="-5" width="30" height="10" rx="2" fill="#374151" stroke="#1f2937" stroke-width="1.5"/>
+      <rect x="-14" y="-7" width="8" height="14" rx="2" fill="#9ca3af" stroke="#1f2937" stroke-width="1.5"/>
+      <!-- Light beam -->
+      <path d="M -14 -4 L -30 -15 L -30 15 L -14 4 Z" fill="#fef08a" opacity="0.8"/>
+    </g>
+
+    <!-- Crumpled orange tissue paper -->
+    <path d="M -25 -5 Q -35 -20 -20 -30 Q -10 -45 5 -35 Q 20 -40 30 -25 Q 40 -5 20 10 Q 5 15 -10 10 Z" fill="#f97316" stroke="#374151" stroke-width="2" stroke-linejoin="round" opacity="0.9"/>
+    
+    <!-- Crumpled red tissue paper on top -->
+    <path d="M -15 0 Q -20 -15 -10 -25 Q 5 -40 15 -20 Q 30 -15 20 5 Q 10 15 -5 5 Z" fill="#ef4444" stroke="#374151" stroke-width="2" stroke-linejoin="round" opacity="0.9"/>
+    
+    <!-- Movement arrow for flashlight -->
+    <path d="M 45 40 L 35 30" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round" stroke-dasharray="4 4"/>
+    <polygon points="35,30 40,28 38,35" fill="#374151"/>
+  </g>
+</svg>

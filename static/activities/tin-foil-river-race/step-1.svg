@@ -1,0 +1,27 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <!-- Ground/Slope -->
+  <line x1="10" y1="40" x2="110" y2="100" stroke="#86efac" stroke-width="4" opacity="0.3"/>
+
+  <!-- Lower Foil Section -->
+  <g transform="translate(80, 85) rotate(30)">
+    <path d="M-30,-15 L30,-15 L30,15 L-30,15 Z" fill="#e5e7eb" stroke="#374151" stroke-width="2"/>
+    <path d="M-30,-15 L30,-15 L30,-10 L-30,-10 Z" fill="#9ca3af" stroke="none" opacity="0.5"/>
+    <path d="M-30,10 L30,10 L30,15 L-30,15 Z" fill="#9ca3af" stroke="none" opacity="0.5"/>
+  </g>
+
+  <!-- Higher Foil Section overlapping -->
+  <g transform="translate(40, 60) rotate(30)">
+    <path d="M-30,-15 L30,-15 L30,15 L-30,15 Z" fill="#f3f4f6" stroke="#374151" stroke-width="2"/>
+    <path d="M-30,-15 L30,-15 L30,-10 L-30,-10 Z" fill="#9ca3af" stroke="none" opacity="0.5"/>
+    <path d="M-30,10 L30,10 L30,15 L-30,15 Z" fill="#9ca3af" stroke="none" opacity="0.5"/>
+  </g>
+
+  <!-- Action arrow showing overlap -->
+  <path d="M30,35 Q50,45 60,65" fill="none" stroke="#374151" stroke-width="2" marker-end="url(#arr)" stroke-linecap="round"/>
+</svg>

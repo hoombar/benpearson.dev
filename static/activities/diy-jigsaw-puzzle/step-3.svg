@@ -1,0 +1,34 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Assembled puzzle (4x4, colourful picture visible) -->
+  <!-- Row 1 -->
+  <rect x="16" y="16" width="22" height="22" fill="#bfdbfe" stroke="#374151" stroke-width="1.2"/>
+  <rect x="38" y="16" width="22" height="22" fill="#86efac" stroke="#374151" stroke-width="1.2"/>
+  <rect x="60" y="16" width="22" height="22" fill="#fde68a" stroke="#374151" stroke-width="1.2"/>
+  <rect x="82" y="16" width="22" height="22" fill="#f87171" stroke="#374151" stroke-width="1.2"/>
+  <!-- Row 2 -->
+  <rect x="16" y="38" width="22" height="22" fill="#86efac" stroke="#374151" stroke-width="1.2"/>
+  <rect x="38" y="38" width="22" height="22" fill="#fde68a" stroke="#374151" stroke-width="1.2"/>
+  <rect x="60" y="38" width="22" height="22" fill="#f87171" stroke="#374151" stroke-width="1.2"/>
+  <rect x="82" y="38" width="22" height="22" fill="#bfdbfe" stroke="#374151" stroke-width="1.2"/>
+  <!-- Row 3 -->
+  <rect x="16" y="60" width="22" height="22" fill="#fde68a" stroke="#374151" stroke-width="1.2"/>
+  <rect x="38" y="60" width="22" height="22" fill="#f87171" stroke="#374151" stroke-width="1.2"/>
+  <rect x="60" y="60" width="22" height="22" fill="#bfdbfe" stroke="#374151" stroke-width="1.2"/>
+  <rect x="82" y="60" width="22" height="22" fill="#86efac" stroke="#374151" stroke-width="1.2"/>
+  <!-- Row 4 -->
+  <rect x="16" y="82" width="22" height="22" fill="#f87171" stroke="#374151" stroke-width="1.2"/>
+  <rect x="38" y="82" width="22" height="22" fill="#bfdbfe" stroke="#374151" stroke-width="1.2"/>
+  <rect x="60" y="82" width="22" height="22" fill="#86efac" stroke="#374151" stroke-width="1.2"/>
+  <!-- Last piece almost in place — floating above its slot -->
+  <rect x="83" y="75" width="22" height="22" fill="#fde68a" stroke="#374151" stroke-width="1.5"/>
+  <!-- Arrow pointing down to the empty slot -->
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="5" markerHeight="5" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <path d="M93 98 L93 105" stroke="#374151" stroke-width="2" fill="none" stroke-linecap="round" marker-end="url(#arr)"/>
+  <!-- Empty slot outline -->
+  <rect x="82" y="82" width="22" height="22" fill="#f3f4f6" stroke="#374151" stroke-width="1.5" stroke-dasharray="4,2"/>
+</svg>

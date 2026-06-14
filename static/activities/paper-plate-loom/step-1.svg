@@ -1,0 +1,37 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Paper plate circle -->
+  <circle cx="60" cy="60" r="52" fill="#f9fafb" stroke="#374151" stroke-width="2.5"/>
+  <!-- Plate rim -->
+  <circle cx="60" cy="60" r="44" fill="none" stroke="#e5e7eb" stroke-width="3"/>
+  <!-- 9 warp threads radiating from centre to notches -->
+  <!-- Top (12 o'clock) -->
+  <line x1="60" y1="60" x2="60" y2="8" stroke="#93c5fd" stroke-width="2" stroke-linecap="round"/>
+  <!-- 1:20 o'clock -->
+  <line x1="60" y1="60" x2="94" y2="22" stroke="#86efac" stroke-width="2" stroke-linecap="round"/>
+  <!-- 2:40 o'clock -->
+  <line x1="60" y1="60" x2="108" y2="52" stroke="#fca5a5" stroke-width="2" stroke-linecap="round"/>
+  <!-- 4 o'clock -->
+  <line x1="60" y1="60" x2="108" y2="82" stroke="#fde68a" stroke-width="2" stroke-linecap="round"/>
+  <!-- 5:20 o'clock -->
+  <line x1="60" y1="60" x2="86" y2="108" stroke="#c4b5fd" stroke-width="2" stroke-linecap="round"/>
+  <!-- 6:40 o'clock -->
+  <line x1="60" y1="60" x2="36" y2="110" stroke="#f97316" stroke-width="2" stroke-linecap="round"/>
+  <!-- 8 o'clock -->
+  <line x1="60" y1="60" x2="12" y2="82" stroke="#22c55e" stroke-width="2" stroke-linecap="round"/>
+  <!-- 9:20 o'clock -->
+  <line x1="60" y1="60" x2="12" y2="48" stroke="#ef4444" stroke-width="2" stroke-linecap="round"/>
+  <!-- 10:40 o'clock -->
+  <line x1="60" y1="60" x2="32" y2="18" stroke="#3b82f6" stroke-width="2" stroke-linecap="round"/>
+  <!-- Notch marks at plate edge for each thread -->
+  <rect x="57" y="6" width="6" height="4" rx="1" fill="#374151"/>
+  <rect x="91" y="19" width="5" height="4" rx="1" fill="#374151" transform="rotate(30 93 21)"/>
+  <rect x="106" y="49" width="5" height="4" rx="1" fill="#374151" transform="rotate(60 108 51)"/>
+  <rect x="106" y="80" width="5" height="4" rx="1" fill="#374151" transform="rotate(-60 108 82)"/>
+  <rect x="84" y="105" width="5" height="4" rx="1" fill="#374151" transform="rotate(-30 86 107)"/>
+  <rect x="34" y="107" width="5" height="4" rx="1" fill="#374151" transform="rotate(30 36 109)"/>
+  <rect x="10" y="80" width="5" height="4" rx="1" fill="#374151" transform="rotate(60 12 82)"/>
+  <rect x="10" y="46" width="5" height="4" rx="1" fill="#374151" transform="rotate(-60 12 48)"/>
+  <rect x="30" y="16" width="5" height="4" rx="1" fill="#374151" transform="rotate(-30 32 18)"/>
+  <!-- Centre dot (string anchor point) -->
+  <circle cx="60" cy="60" r="4" fill="#374151" stroke="none"/>
+</svg>

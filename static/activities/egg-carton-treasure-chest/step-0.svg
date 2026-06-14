@@ -1,0 +1,53 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Egg carton open (hero) -->
+  <g transform="translate(12, 24)">
+    <!-- Bottom half -->
+    <rect x="0" y="30" width="70" height="22" rx="2" fill="#d1d5db" stroke="#374151" stroke-width="1.5"/>
+    <!-- Egg bumps inside bottom -->
+    <circle cx="12" cy="42" r="6" fill="#e5e7eb" stroke="#374151" stroke-width="0.6"/>
+    <circle cx="26" cy="42" r="6" fill="#e5e7eb" stroke="#374151" stroke-width="0.6"/>
+    <circle cx="40" cy="42" r="6" fill="#e5e7eb" stroke="#374151" stroke-width="0.6"/>
+    <circle cx="54" cy="42" r="6" fill="#e5e7eb" stroke="#374151" stroke-width="0.6"/>
+
+    <!-- Lid (open, tilted up) -->
+    <rect x="0" y="0" width="70" height="28" rx="2" fill="#d1d5db" stroke="#374151" stroke-width="1.5"/>
+    <!-- Lid bumps -->
+    <path d="M8,8 Q12,2 16,8" fill="none" stroke="#374151" stroke-width="0.6"/>
+    <path d="M22,8 Q26,2 30,8" fill="none" stroke="#374151" stroke-width="0.6"/>
+    <path d="M36,8 Q40,2 44,8" fill="none" stroke="#374151" stroke-width="0.6"/>
+    <path d="M50,8 Q54,2 58,8" fill="none" stroke="#374151" stroke-width="0.6"/>
+    <path d="M8,18 Q12,12 16,18" fill="none" stroke="#374151" stroke-width="0.6"/>
+    <path d="M22,18 Q26,12 30,18" fill="none" stroke="#374151" stroke-width="0.6"/>
+    <path d="M36,18 Q40,12 44,18" fill="none" stroke="#374151" stroke-width="0.6"/>
+    <path d="M50,18 Q54,12 58,18" fill="none" stroke="#374151" stroke-width="0.6"/>
+
+    <!-- Hinge between lid and base -->
+    <line x1="0" y1="28" x2="70" y2="28" stroke="#374151" stroke-width="1.5"/>
+  </g>
+
+  <!-- Scissors trimming edges -->
+  <g transform="translate(88, 38) rotate(15)">
+    <path d="M0,0 L-16,5" fill="none" stroke="#9ca3af" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M0,0 L-16,-5" fill="none" stroke="#9ca3af" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="0" cy="0" r="1.5" fill="#374151"/>
+    <ellipse cx="5" cy="3.5" rx="5" ry="3.5" fill="none" stroke="#ef4444" stroke-width="1.5"/>
+    <ellipse cx="5" cy="-3.5" rx="5" ry="3.5" fill="none" stroke="#ef4444" stroke-width="1.5"/>
+  </g>
+
+  <!-- Cut line -->
+  <line x1="82" y1="42" x2="82" y2="54" stroke="#ef4444" stroke-width="0.8" stroke-dasharray="2,2"/>
+
+  <!-- Trimmed scrap -->
+  <rect x="88" y="68" width="16" height="10" rx="1" fill="#d1d5db" stroke="#374151" stroke-width="0.4" opacity="0.4"/>
+
+  <!-- Arrow showing shape -->
+  <defs>
+    <marker id="arr" viewBox="0 0 6 6" refX="5" refY="3" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#374151"/>
+    </marker>
+  </defs>
+  <path d="M48,78 Q48,70 48,62" fill="none" stroke="#374151" stroke-width="0.8" stroke-dasharray="2,2" marker-end="url(#arr)"/>
+</svg>

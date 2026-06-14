@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Background — dark room -->
+  <rect width="120" height="120" fill="#1e1b4b"/>
+
+  <!-- White sheet (right side) — the projection screen -->
+  <rect x="78" y="8" width="36" height="104" rx="2" fill="#f9fafb" stroke="#374151" stroke-width="2"/>
+
+  <!-- Flashlight body (left side) -->
+  <rect x="6" y="52" width="30" height="16" rx="5" fill="#374151" stroke="#6b7280" stroke-width="1.5"/>
+  <!-- Grip ribbing -->
+  <line x1="14" y1="53" x2="14" y2="67" stroke="#6b7280" stroke-width="1" stroke-linecap="round"/>
+  <line x1="20" y1="53" x2="20" y2="67" stroke="#6b7280" stroke-width="1" stroke-linecap="round"/>
+  <!-- Button on top -->
+  <circle cx="11" cy="52" r="3" fill="#22c55e" stroke="#374151" stroke-width="1"/>
+
+  <!-- Flashlight head (lens end) -->
+  <path d="M36,48 L50,42 L50,78 L36,72 Z" fill="#4b5563" stroke="#374151" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Lens glass at front face (where light exits) -->
+  <ellipse cx="50" cy="60" rx="3" ry="18" fill="#fef9c3" stroke="#f59e0b" stroke-width="1.5"/>
+
+  <!-- Light beam cone — warm yellow -->
+  <path d="M50,42 L78,20 L78,100 L50,78 Z" fill="#fef9c3" opacity="0.35"/>
+  <!-- Beam edges -->
+  <line x1="50" y1="42" x2="78" y2="20" stroke="#fde68a" stroke-width="1.5" stroke-dasharray="5,3" stroke-linecap="round"/>
+  <line x1="50" y1="78" x2="78" y2="100" stroke="#fde68a" stroke-width="1.5" stroke-dasharray="5,3" stroke-linecap="round"/>
+  <!-- Centre beam axis -->
+  <line x1="50" y1="60" x2="78" y2="60" stroke="#fef9c3" stroke-width="2" stroke-dasharray="6,3" stroke-linecap="round"/>
+
+  <!-- Shadow on sheet (puppet person shadow — dark silhouette) -->
+  <!-- Head shadow -->
+  <circle cx="96" cy="38" r="9" fill="#6b7280"/>
+  <!-- Body shadow -->
+  <path d="M88,47 Q85,62 88,74 Q96,80 104,74 Q107,62 104,47 Z" fill="#6b7280"/>
+  <!-- Arm shadows -->
+  <line x1="86" y1="56" x2="79" y2="64" stroke="#6b7280" stroke-width="4" stroke-linecap="round"/>
+  <line x1="106" y1="56" x2="113" y2="64" stroke="#6b7280" stroke-width="4" stroke-linecap="round"/>
+  <!-- Leg shadows -->
+  <line x1="90" y1="74" x2="87" y2="88" stroke="#6b7280" stroke-width="4" stroke-linecap="round"/>
+  <line x1="102" y1="74" x2="105" y2="88" stroke="#6b7280" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- Distance measurement arrow -->
+  <line x1="50" y1="112" x2="78" y2="112" stroke="#fde68a" stroke-width="1.5" stroke-linecap="round"/>
+  <polygon points="50,109 44,112 50,115" fill="#fde68a"/>
+  <polygon points="78,109 84,112 78,115" fill="#fde68a"/>
+</svg>

@@ -1,0 +1,28 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2"
+            stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <!-- Bowl (large, front view) -->
+  <line x1="16" y1="68" x2="104" y2="68" stroke="#374151" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M16 68 Q16 106 60 106 Q104 106 104 68" stroke="#374151" stroke-width="2.5" fill="#dbeafe"/>
+  <!-- Balloon skin being stretched across bowl opening -->
+  <!-- Balloon skin (orange stretched membrane across opening) -->
+  <path d="M10 68 Q12 58 60 56 Q108 58 110 68" stroke="#374151" stroke-width="2.5" fill="#fdba74" stroke-linecap="round"/>
+  <!-- Left side of balloon being pulled outward-left -->
+  <path d="M10 68 Q6 60 4 52" stroke="#f97316" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- Right side pulled outward-right -->
+  <path d="M110 68 Q114 60 116 52" stroke="#f97316" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- Arrows pulling outward to show stretching -->
+  <path d="M18 62 Q10 54 6 48" stroke="#374151" stroke-width="1.5" fill="none" stroke-linecap="round" marker-end="url(#arr)"/>
+  <path d="M102 62 Q110 54 114 48" stroke="#374151" stroke-width="1.5" fill="none" stroke-linecap="round" marker-end="url(#arr)"/>
+  <!-- Rubber band snapped around rim -->
+  <ellipse cx="60" cy="68" rx="44" ry="5" fill="none" stroke="#22c55e" stroke-width="3" stroke-dasharray="6,4"/>
+  <!-- Tension wrinkle lines on balloon skin -->
+  <line x1="36" y1="58" x2="34" y2="68" stroke="#d97706" stroke-width="1" stroke-linecap="round"/>
+  <line x1="60" y1="56" x2="60" y2="68" stroke="#d97706" stroke-width="1" stroke-linecap="round"/>
+  <line x1="84" y1="58" x2="86" y2="68" stroke="#d97706" stroke-width="1" stroke-linecap="round"/>
+</svg>

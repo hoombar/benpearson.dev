@@ -1,0 +1,22 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table background -->
+  <rect x="0" y="0" width="120" height="120" fill="#fef3c7" />
+  
+  <!-- Top-down view of the box -->
+  <rect x="16" y="10" width="88" height="100" fill="#fbbf24" stroke="#374151" stroke-width="2.5" />
+  <rect x="16" y="100" width="88" height="10" fill="#d97706" stroke="#374151" stroke-width="2" />
+  
+  <!-- Left flipper (popsicle stick) -->
+  <g transform="translate(26, 94) rotate(-25)">
+    <rect x="0" y="-4" width="36" height="8" rx="4" fill="#fde68a" stroke="#374151" stroke-width="2" />
+    <!-- Tape -->
+    <rect x="6" y="-6" width="10" height="12" fill="#93c5fd" stroke="#374151" stroke-width="1.5" />
+  </g>
+  
+  <!-- Right flipper (popsicle stick) -->
+  <g transform="translate(94, 94) rotate(205)">
+    <rect x="0" y="-4" width="36" height="8" rx="4" fill="#fde68a" stroke="#374151" stroke-width="2" />
+    <!-- Tape -->
+    <rect x="6" y="-6" width="10" height="12" fill="#93c5fd" stroke="#374151" stroke-width="1.5" />
+  </g>
+</svg>

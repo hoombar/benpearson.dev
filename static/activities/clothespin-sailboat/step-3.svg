@@ -1,0 +1,38 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Water in bowl -->
+  <ellipse cx="60" cy="70" rx="52" ry="28" fill="#bfdbfe" stroke="#374151" stroke-width="1.5"/>
+  <!-- Bowl rim -->
+  <path d="M8,70 Q8,42 60,42 Q112,42 112,70" fill="none" stroke="#374151" stroke-width="1.5"/>
+  <!-- Water ripples -->
+  <path d="M20,68 Q30,64 40,68" fill="none" stroke="#93c5fd" stroke-width="0.8" stroke-linecap="round"/>
+  <path d="M70,72 Q80,68 90,72" fill="none" stroke="#93c5fd" stroke-width="0.8" stroke-linecap="round"/>
+
+  <!-- Sailboat floating (hero) -->
+  <g transform="translate(40, 48)">
+    <!-- Hull -->
+    <rect x="0" y="18" width="36" height="4" rx="2" fill="#f5deb3" stroke="#374151" stroke-width="0.8"/>
+    <!-- Clothespins on hull -->
+    <rect x="4" y="12" width="6" height="8" rx="1" fill="#f5deb3" stroke="#374151" stroke-width="0.5"/>
+    <rect x="15" y="12" width="6" height="8" rx="1" fill="#f5deb3" stroke="#374151" stroke-width="0.5"/>
+    <rect x="26" y="12" width="6" height="8" rx="1" fill="#f5deb3" stroke="#374151" stroke-width="0.5"/>
+    <!-- Mast -->
+    <rect x="16" y="-34" width="4" height="48" rx="1" fill="#f5deb3" stroke="#374151" stroke-width="0.8"/>
+    <!-- Sail -->
+    <polygon points="20,-30 20,8 46,-12" fill="#60a5fa" stroke="#374151" stroke-width="0.8"/>
+    <line x1="20" y1="-14" x2="36" y2="-14" stroke="#3b82f6" stroke-width="0.8"/>
+    <line x1="20" y1="0" x2="30" y2="0" stroke="#3b82f6" stroke-width="0.8"/>
+  </g>
+
+  <!-- Wind lines blowing -->
+  <line x1="4" y1="26" x2="20" y2="26" stroke="#374151" stroke-width="0.6" stroke-linecap="round"/>
+  <line x1="8" y1="32" x2="24" y2="32" stroke="#374151" stroke-width="0.6" stroke-linecap="round"/>
+  <line x1="6" y1="38" x2="22" y2="38" stroke="#374151" stroke-width="0.6" stroke-linecap="round"/>
+
+  <!-- Movement arrow -->
+  <defs>
+    <marker id="arr" viewBox="0 0 6 6" refX="5" refY="3" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#374151"/>
+    </marker>
+  </defs>
+  <line x1="82" y1="58" x2="94" y2="58" stroke="#374151" stroke-width="0.8" stroke-dasharray="2,2" marker-end="url(#arr)"/>
+</svg>

@@ -1,0 +1,33 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2"
+            stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <!-- Oven outline -->
+  <rect x="10" y="14" width="100" height="80" rx="4" stroke="#374151" stroke-width="2.5" fill="#f3f4f6"/>
+  <!-- Oven door window -->
+  <rect x="22" y="24" width="76" height="46" rx="3" stroke="#374151" stroke-width="2" fill="#e5e7eb"/>
+  <rect x="26" y="28" width="68" height="38" rx="2" stroke="#374151" stroke-width="1.5" fill="#dbeafe" opacity="0.5"/>
+  <!-- Oven handle -->
+  <line x1="30" y1="78" x2="90" y2="78" stroke="#374151" stroke-width="3" stroke-linecap="round"/>
+  <!-- Baking tray inside oven -->
+  <rect x="30" y="50" width="60" height="12" rx="2" stroke="#374151" stroke-width="1.5" fill="#e5e7eb"/>
+  <!-- Ornament shapes on tray (hardening) -->
+  <path d="M42 50 L44 46 L46 50 L50 50 L47 53 L48 57 L44 54 L40 57 L41 53 L38 50 Z"
+        stroke="#374151" stroke-width="1" fill="#fbbf24"/>
+  <circle cx="62" cy="51" r="5" stroke="#374151" stroke-width="1" fill="#fdba74"/>
+  <rect x="70" y="46" width="10" height="10" rx="2" stroke="#374151" stroke-width="1" fill="#86efac"/>
+  <!-- Heat waves rising from tray -->
+  <path d="M40 44 Q38 38 40 32" stroke="#f97316" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M60 44 Q58 36 60 28" stroke="#f97316" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M80 44 Q78 38 80 32" stroke="#f97316" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <!-- Oven controls at bottom -->
+  <circle cx="32" cy="100" r="5" stroke="#374151" stroke-width="1.5" fill="#e5e7eb"/>
+  <circle cx="60" cy="100" r="5" stroke="#374151" stroke-width="1.5" fill="#e5e7eb"/>
+  <circle cx="88" cy="100" r="5" stroke="#374151" stroke-width="1.5" fill="#e5e7eb"/>
+  <!-- Arrow pointing to oven (putting tray in) -->
+  <line x1="4" y1="60" x2="16" y2="60" stroke="#374151" stroke-width="2" stroke-linecap="round" marker-end="url(#arr)"/>
+</svg>

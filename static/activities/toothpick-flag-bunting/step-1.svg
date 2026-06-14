@@ -1,0 +1,49 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Completed flag (hero, large) -->
+  <g transform="translate(28, 10)">
+    <!-- Toothpick pole -->
+    <line x1="0" y1="0" x2="0" y2="70" stroke="#d4a574" stroke-width="2" stroke-linecap="round"/>
+    <!-- Flag triangle (front) -->
+    <polygon points="2,6 2,36 28,21" fill="#ef4444" stroke="#374151" stroke-width="0.8"/>
+    <!-- Sharp tip of toothpick -->
+    <line x1="0" y1="70" x2="0" y2="76" stroke="#d4a574" stroke-width="1" stroke-linecap="round"/>
+  </g>
+
+  <!-- Flag being assembled - showing sandwich technique -->
+  <g transform="translate(68, 18)">
+    <!-- Bottom triangle -->
+    <polygon points="2,0 2,26 24,13" fill="#3b82f6" stroke="#374151" stroke-width="0.8"/>
+    <!-- Toothpick between layers -->
+    <line x1="0" y1="-6" x2="0" y2="50" stroke="#d4a574" stroke-width="2" stroke-linecap="round"/>
+    <!-- Top triangle being pressed down (offset to show it coming together) -->
+    <polygon points="2,-8 2,18 24,5" fill="#3b82f6" stroke="#374151" stroke-width="0.8" opacity="0.7"/>
+    <!-- Arrow showing press together -->
+    <defs>
+      <marker id="arr" viewBox="0 0 6 6" refX="5" refY="3" markerWidth="4" markerHeight="4" orient="auto">
+        <path d="M0,0 L6,3 L0,6 Z" fill="#374151"/>
+      </marker>
+    </defs>
+    <line x1="14" y1="-14" x2="14" y2="-4" stroke="#374151" stroke-width="0.8" stroke-dasharray="2,2" marker-end="url(#arr)"/>
+  </g>
+
+  <!-- Glue bottle -->
+  <g transform="translate(96, 52)">
+    <rect x="0" y="8" width="12" height="22" rx="2" fill="#f9fafb" stroke="#374151" stroke-width="0.8"/>
+    <rect x="2" y="2" width="8" height="8" rx="1.5" fill="#f3f4f6" stroke="#374151" stroke-width="0.6"/>
+    <rect x="4" y="-2" width="4" height="5" rx="1" fill="#fbbf24" stroke="#374151" stroke-width="0.4"/>
+  </g>
+
+  <!-- Toothpicks pile -->
+  <line x1="10" y1="78" x2="10" y2="96" stroke="#d4a574" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="14" y1="76" x2="14" y2="96" stroke="#d4a574" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="18" y1="80" x2="18" y2="96" stroke="#d4a574" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="22" y1="78" x2="22" y2="96" stroke="#d4a574" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="26" y1="76" x2="26" y2="96" stroke="#d4a574" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- Extra triangles ready to use -->
+  <polygon points="44,80 56,80 50,68" fill="#fbbf24" stroke="#374151" stroke-width="0.6"/>
+  <polygon points="56,82 68,82 62,70" fill="#22c55e" stroke="#374151" stroke-width="0.6"/>
+</svg>

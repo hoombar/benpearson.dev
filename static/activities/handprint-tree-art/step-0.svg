@@ -1,0 +1,45 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Large paper sheet laid out (hero) -->
+  <rect x="10" y="16" width="76" height="72" rx="1" fill="white" stroke="#374151" stroke-width="1.2"/>
+
+  <!-- Newspaper underneath for protection -->
+  <rect x="6" y="12" width="84" height="80" rx="1" fill="#f3f4f6" stroke="#d1d5db" stroke-width="0.8"/>
+  <rect x="10" y="16" width="76" height="72" rx="1" fill="white" stroke="#374151" stroke-width="1.2"/>
+
+  <!-- Paint pots arranged -->
+  <g transform="translate(92, 14)">
+    <!-- Brown -->
+    <rect x="0" y="0" width="16" height="16" rx="2" fill="#e5e7eb" stroke="#374151" stroke-width="0.6"/>
+    <rect x="2" y="3" width="12" height="11" rx="1" fill="#92400e"/>
+  </g>
+  <g transform="translate(92, 34)">
+    <!-- Green -->
+    <rect x="0" y="0" width="16" height="16" rx="2" fill="#e5e7eb" stroke="#374151" stroke-width="0.6"/>
+    <rect x="2" y="3" width="12" height="11" rx="1" fill="#22c55e"/>
+  </g>
+  <g transform="translate(92, 54)">
+    <!-- Red -->
+    <rect x="0" y="0" width="16" height="16" rx="2" fill="#e5e7eb" stroke="#374151" stroke-width="0.6"/>
+    <rect x="2" y="3" width="12" height="11" rx="1" fill="#ef4444"/>
+  </g>
+  <g transform="translate(92, 74)">
+    <!-- Orange -->
+    <rect x="0" y="0" width="16" height="16" rx="2" fill="#e5e7eb" stroke="#374151" stroke-width="0.6"/>
+    <rect x="2" y="3" width="12" height="11" rx="1" fill="#f97316"/>
+  </g>
+
+  <!-- Paintbrush -->
+  <g transform="translate(30, 78) rotate(-10)">
+    <rect x="0" y="-2" width="28" height="4" rx="1" fill="#92400e" stroke="#374151" stroke-width="0.6"/>
+    <rect x="-3" y="-3" width="4" height="6" rx="1" fill="#d1d5db" stroke="#374151" stroke-width="0.4"/>
+  </g>
+
+  <!-- Paper towels -->
+  <g transform="translate(60, 82)">
+    <rect x="0" y="0" width="20" height="14" rx="1" fill="white" stroke="#d1d5db" stroke-width="0.6"/>
+    <rect x="2" y="2" width="16" height="10" rx="1" fill="white" stroke="#d1d5db" stroke-width="0.4"/>
+  </g>
+</svg>

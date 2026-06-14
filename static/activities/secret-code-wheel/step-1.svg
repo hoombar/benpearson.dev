@@ -1,0 +1,29 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Large circle (outer wheel) -->
+  <circle cx="60" cy="64" r="48" stroke="#374151" stroke-width="2.5" fill="#dbeafe"/>
+  <!-- Dividing lines (radial sections, 12 shown for clarity) -->
+  <line x1="60" y1="16" x2="60" y2="64" stroke="#374151" stroke-width="1" opacity="0.5"/>
+  <line x1="60" y1="64" x2="84" y2="20" stroke="#374151" stroke-width="1" opacity="0.5"/>
+  <line x1="60" y1="64" x2="104" y2="40" stroke="#374151" stroke-width="1" opacity="0.5"/>
+  <line x1="60" y1="64" x2="108" y2="64" stroke="#374151" stroke-width="1" opacity="0.5"/>
+  <line x1="60" y1="64" x2="104" y2="88" stroke="#374151" stroke-width="1" opacity="0.5"/>
+  <line x1="60" y1="64" x2="84" y2="108" stroke="#374151" stroke-width="1" opacity="0.5"/>
+  <line x1="60" y1="64" x2="60" y2="112" stroke="#374151" stroke-width="1" opacity="0.5"/>
+  <line x1="60" y1="64" x2="36" y2="108" stroke="#374151" stroke-width="1" opacity="0.5"/>
+  <line x1="60" y1="64" x2="16" y2="88" stroke="#374151" stroke-width="1" opacity="0.5"/>
+  <line x1="60" y1="64" x2="12" y2="64" stroke="#374151" stroke-width="1" opacity="0.5"/>
+  <line x1="60" y1="64" x2="16" y2="40" stroke="#374151" stroke-width="1" opacity="0.5"/>
+  <line x1="60" y1="64" x2="36" y2="20" stroke="#374151" stroke-width="1" opacity="0.5"/>
+  <!-- Letters around the edge (selected positions) -->
+  <text x="57" y="14" font-size="7" fill="#374151" font-family="monospace" font-weight="bold">A</text>
+  <text x="80" y="18" font-size="7" fill="#374151" font-family="monospace" font-weight="bold">B</text>
+  <text x="101" y="36" font-size="7" fill="#374151" font-family="monospace" font-weight="bold">C</text>
+  <text x="105" y="62" font-size="7" fill="#374151" font-family="monospace" font-weight="bold">D</text>
+  <text x="101" y="88" font-size="7" fill="#374151" font-family="monospace" font-weight="bold">E</text>
+  <text x="82" y="108" font-size="7" fill="#374151" font-family="monospace" font-weight="bold">F</text>
+  <text x="57" y="116" font-size="7" fill="#374151" font-family="monospace" font-weight="bold">G</text>
+  <!-- Pen drawing letters -->
+  <line x1="92" y1="10" x2="66" y2="16" stroke="#374151" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M64 17 L60 14 L66 12 Z" stroke="#374151" stroke-width="1.5" fill="#374151" stroke-linejoin="round"/>
+  <rect x="92" y="4" width="5" height="8" rx="1" fill="#fde68a" stroke="#374151" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,21 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="120" height="120" fill="#dcfce7"/>
+  <rect x="0" y="60" width="120" height="60" fill="#bbf7d0"/> <!-- Green floor -->
+  <!-- Box with archway in distance -->
+  <rect x="70" y="30" width="40" height="30" fill="#f59e0b" stroke="#374151" stroke-width="2"/>
+  <path d="M80,60 Q90,45 100,60" fill="#bbf7d0" stroke="#374151" stroke-width="2"/>
+  <!-- Club head -->
+  <g transform="translate(10, 50) rotate(-15)">
+    <rect x="15" y="0" width="10" height="40" fill="#d1d5db" stroke="#374151" stroke-width="2"/>
+    <polygon points="10,40 30,40 35,50 5,50" fill="#f59e0b" stroke="#374151" stroke-width="2" stroke-linejoin="round"/>
+  </g>
+  <!-- Marble -->
+  <circle cx="45" cy="85" r="5" fill="#3b82f6" stroke="#374151" stroke-width="1.5"/>
+  <path d="M43,82 Q45,86 48,84" fill="none" stroke="#bfdbfe" stroke-width="1"/>
+  <!-- Motion line and impact -->
+  <path d="M25,80 Q35,88 40,85" fill="none" stroke="#374151" stroke-width="2" stroke-dasharray="3,3"/>
+  <line x1="55" y1="85" x2="85" y2="70" stroke="#374151" stroke-width="1.5" stroke-dasharray="3,3"/>
+  <!-- Little impact sparks -->
+  <line x1="40" y1="80" x2="38" y2="78" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="38" y1="85" x2="35" y2="85" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

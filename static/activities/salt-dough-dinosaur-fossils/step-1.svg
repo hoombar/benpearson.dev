@@ -1,0 +1,27 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <!-- Table background -->
+  <rect x="0" y="60" width="120" height="60" fill="#fef3c7" />
+  <line x1="0" y1="60" x2="120" y2="60" stroke="#374151" stroke-width="2" />
+  
+  <!-- Dough ball (left) -->
+  <ellipse cx="30" cy="80" rx="16" ry="14" fill="#fde68a" stroke="#374151" stroke-width="2"/>
+  <!-- Action arrow pointing right to the next state -->
+  <path d="M52 80 L66 80" stroke="#374151" stroke-width="2" fill="none" marker-end="url(#arr)" stroke-linecap="round"/>
+  
+  <!-- Flattened disc (right) -->
+  <!-- Bottom half of cylinder for thickness -->
+  <path d="M68 86 L68 92 Q68 100 90 100 Q112 100 112 92 L112 86 Z" fill="#fde68a" stroke="#374151" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Top surface -->
+  <ellipse cx="90" cy="86" rx="22" ry="8" fill="#fde68a" stroke="#374151" stroke-width="2"/>
+  
+  <!-- Hand pressing down indicator (arrow pushing flat) -->
+  <line x1="90" y1="30" x2="90" y2="68" stroke="#374151" stroke-width="2.5" stroke-linecap="round" marker-end="url(#arr)"/>
+  <!-- Motion impact lines -->
+  <path d="M76 66 L82 72" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M104 66 L98 72" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

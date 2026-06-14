@@ -1,0 +1,27 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Large central jar (hero, ~35% of canvas) filled with blue water -->
+  <rect x="34" y="38" width="36" height="52" rx="2" stroke="#374151" stroke-width="2.5" fill="#f9fafb"/>
+  <rect x="35" y="52" width="34" height="37" rx="1" stroke="none" fill="#93c5fd"/>
+  <rect x="29" y="31" width="46" height="9" rx="2" stroke="#374151" stroke-width="2" fill="#e5e7eb"/>
+  <!-- Jar label band -->
+  <rect x="38" y="58" width="28" height="18" rx="2" stroke="#374151" stroke-width="1" fill="#dbeafe"/>
+  <!-- Water surface highlight line -->
+  <line x1="37" y1="52" x2="67" y2="52" stroke="#3b82f6" stroke-width="1" stroke-linecap="round"/>
+  <!-- Table surface -->
+  <line x1="10" y1="92" x2="110" y2="92" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+  <!-- Spoon hitting the rim — handle from upper right, bowl touching rim -->
+  <line x1="105" y1="12" x2="76" y2="33" stroke="#374151" stroke-width="3" stroke-linecap="round"/>
+  <ellipse cx="70" cy="34" rx="8" ry="5" stroke="#374151" stroke-width="2" fill="#e5e7eb" transform="rotate(-30 70 34)"/>
+  <!-- Sound waves as dashed arcs expanding upward-left from jar rim -->
+  <path d="M40 26 Q36 18 44 12" fill="none" stroke="#374151" stroke-width="1.5" stroke-dasharray="3,2" stroke-linecap="round"/>
+  <path d="M38 22 Q28 10 40 4" fill="none" stroke="#374151" stroke-width="1.5" stroke-dasharray="3,2" stroke-linecap="round"/>
+  <path d="M44 28 Q44 20 52 16" fill="none" stroke="#374151" stroke-width="1.5" stroke-dasharray="3,2" stroke-linecap="round"/>
+  <path d="M42 24 Q36 14 46 8" fill="none" stroke="#374151" stroke-width="1.5" stroke-dasharray="3,2" stroke-linecap="round"/>
+  <!-- Musical notes to show sound -->
+  <path d="M16 30 L16 18 L22 16 L22 28" stroke="#374151" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+  <circle cx="14" cy="30" r="2.5" fill="#374151"/>
+  <circle cx="20" cy="28" r="2.5" fill="#374151"/>
+  <path d="M24 26 L24 14 L30 12 L30 24" stroke="#374151" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+  <circle cx="22" cy="26" r="2.5" fill="#374151"/>
+  <circle cx="28" cy="24" r="2.5" fill="#374151"/>
+</svg>

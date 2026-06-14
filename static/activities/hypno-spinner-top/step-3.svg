@@ -1,0 +1,43 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="5" y="100" width="110" height="10" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Spinning top in action (hero) -->
+  <!-- Disc (blurred effect - concentric rings showing colour merge) -->
+  <circle cx="60" cy="70" r="30" fill="#e5e7eb" stroke="#374151" stroke-width="2.5"/>
+  <circle cx="60" cy="70" r="24" fill="#d1d5db" stroke="none"/>
+  <circle cx="60" cy="70" r="18" fill="#c4b5fd" stroke="none" opacity="0.5"/>
+  <circle cx="60" cy="70" r="12" fill="#dbeafe" stroke="none" opacity="0.5"/>
+  <circle cx="60" cy="70" r="6" fill="#fde68a" stroke="none" opacity="0.5"/>
+
+  <!-- Toothpick axle -->
+  <line x1="60" y1="48" x2="60" y2="68" stroke="#d97706" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Tip touching table -->
+  <line x1="60" y1="72" x2="60" y2="100" stroke="#d97706" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- Rotation motion lines (circular) -->
+  <path d="M32,60 Q28,70 32,80" stroke="#374151" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M88,60 Q92,70 88,80" stroke="#374151" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+
+  <!-- Speed blur lines around disc -->
+  <path d="M26,68 Q22,70 26,72" stroke="#93c5fd" stroke-width="1" fill="none" stroke-linecap="round"/>
+  <path d="M94,68 Q98,70 94,72" stroke="#93c5fd" stroke-width="1" fill="none" stroke-linecap="round"/>
+
+  <!-- Twisting action arrows at top of axle -->
+  <path d="M50,44 Q54,38 60,40" stroke="#374151" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M57 38 L60 41 L63 38" stroke="#374151" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+
+  <!-- Second spinner (smaller, waiting, unblurred showing rainbow pattern) -->
+  <circle cx="106" cy="86" r="10" fill="none" stroke="#374151" stroke-width="1.5"/>
+  <path d="M106,86 L106,76 A10,10 0 0,1 114.7,81 Z" fill="#ef4444" stroke="#374151" stroke-width="0.5"/>
+  <path d="M106,86 L114.7,81 A10,10 0 0,1 114.7,91 Z" fill="#f59e0b" stroke="#374151" stroke-width="0.5"/>
+  <path d="M106,86 L114.7,91 A10,10 0 0,1 106,96 Z" fill="#22c55e" stroke="#374151" stroke-width="0.5"/>
+  <path d="M106,86 L106,96 A10,10 0 0,1 97.3,91 Z" fill="#3b82f6" stroke="#374151" stroke-width="0.5"/>
+  <path d="M106,86 L97.3,91 A10,10 0 0,1 97.3,81 Z" fill="#a78bfa" stroke="#374151" stroke-width="0.5"/>
+  <path d="M106,86 L97.3,81 A10,10 0 0,1 106,76 Z" fill="#ec4899" stroke="#374151" stroke-width="0.5"/>
+  <line x1="106" y1="76" x2="106" y2="100" stroke="#d97706" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- Sparkle effects showing amazement -->
+  <path d="M40,30 L42,24 L44,30 L38,28 L46,28 Z" fill="#f59e0b" stroke="none"/>
+  <path d="M76,26 L78,20 L80,26 L74,24 L82,24 Z" fill="#f59e0b" stroke="none"/>
+</svg>

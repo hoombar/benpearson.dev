@@ -1,0 +1,37 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2"
+            stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <!-- Paper bag body -->
+  <rect x="22" y="30" width="68" height="84" rx="3" stroke="#374151" stroke-width="2.5" fill="#fde68a"/>
+  <!-- Flap -->
+  <rect x="22" y="30" width="68" height="20" rx="3" stroke="#374151" stroke-width="2" fill="#fbbf24"/>
+  <line x1="22" y1="50" x2="90" y2="50" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+  <!-- Googly eyes stuck on -->
+  <circle cx="42" cy="64" r="10" fill="white" stroke="#374151" stroke-width="2"/>
+  <circle cx="42" cy="64" r="6" fill="#374151"/>
+  <circle cx="40" cy="62" r="2" fill="white"/>
+  <circle cx="70" cy="64" r="10" fill="white" stroke="#374151" stroke-width="2"/>
+  <circle cx="70" cy="64" r="6" fill="#374151"/>
+  <circle cx="68" cy="62" r="2" fill="white"/>
+  <!-- Smile on bag body -->
+  <path d="M40 80 Q56 92 72 80" stroke="#374151" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- Tissue paper hair strips at top of bag (wild colours) -->
+  <path d="M26 30 Q24 18 22 10" stroke="#ef4444" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <path d="M34 30 Q33 16 34 8" stroke="#f97316" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <path d="M44 30 Q44 18 46 10" stroke="#fbbf24" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <path d="M54 30 Q53 16 54 8" stroke="#22c55e" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <path d="M64 30 Q64 18 66 10" stroke="#3b82f6" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <path d="M74 30 Q74 16 76 8" stroke="#a78bfa" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <path d="M84 30 Q86 18 86 10" stroke="#ef4444" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <!-- Tape strip holding hair -->
+  <rect x="22" y="27" width="68" height="6" rx="1" fill="#d1fae5" stroke="#374151" stroke-width="1" opacity="0.7"/>
+  <!-- Arrow showing tissue paper being attached -->
+  <line x1="8" y1="14" x2="28" y2="26" stroke="#374151" stroke-width="1.5" stroke-linecap="round" marker-end="url(#arr)"/>
+  <!-- Tissue paper roll source (left) -->
+  <rect x="4" y="8" width="10" height="8" rx="2" fill="#ef4444" stroke="#374151" stroke-width="1.5"/>
+</svg>

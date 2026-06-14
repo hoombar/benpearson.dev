@@ -1,0 +1,23 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <rect x="14" y="18" width="64" height="86" rx="4" fill="#f9fafb" stroke="#374151" stroke-width="2"/>
+  <path d="M24 90 C24 75 34 72 38 62 C42 52 54 52 58 42 C62 32 68 28 70 24" fill="none" stroke="#3b82f6" stroke-width="2.5" stroke-dasharray="5,4" stroke-linecap="round"/>
+  <path d="M24 48 L27 55 L35 56 L29 61 L31 69 L24 64 L17 69 L19 61 L13 56 L21 55 Z" fill="#fde68a" stroke="#374151" stroke-width="1.5" stroke-linejoin="round"/>
+  <circle cx="52" cy="74" r="7" fill="#86efac" stroke="#374151" stroke-width="1.5"/>
+  <rect x="60" y="30" width="10" height="10" rx="2" fill="#fca5a5" stroke="#374151" stroke-width="1.5"/>
+  <ellipse cx="26" cy="75" rx="5" ry="3" fill="none" stroke="#374151" stroke-width="1.5"/>
+  <ellipse cx="60" cy="54" rx="6" ry="3.5" fill="none" stroke="#374151" stroke-width="1.5"/>
+  <rect x="84" y="22" width="26" height="32" rx="3" fill="#ffffff" stroke="#374151" stroke-width="2"/>
+  <path d="M88 30 L91 36 L97 37 L92 41 L94 47 L88 43 L82 47 L84 41 L79 37 L85 36 Z" fill="#fef9c3" stroke="#374151" stroke-width="1.2" stroke-linejoin="round"/>
+  <circle cx="100" cy="45" r="5" fill="#d1fae5" stroke="#374151" stroke-width="1.2"/>
+  <rect x="96" y="60" width="12" height="18" rx="2" fill="#f3f4f6" stroke="#374151" stroke-width="1.5"/>
+  <rect x="86" y="64" width="8" height="8" rx="2" fill="#fca5a5" stroke="#374151" stroke-width="1.2"/>
+  <path d="M96 56 Q88 52 66 36" fill="none" stroke="#374151" stroke-width="1.8" stroke-linecap="round" marker-end="url(#arr)"/>
+  <path d="M88 74 Q78 74 58 72" fill="none" stroke="#374151" stroke-width="1.8" stroke-linecap="round" marker-end="url(#arr)"/>
+  <line x1="88" y1="28" x2="106" y2="28" stroke="#374151" stroke-width="1"/>
+  <line x1="88" y1="32" x2="106" y2="32" stroke="#374151" stroke-width="1"/>
+</svg>

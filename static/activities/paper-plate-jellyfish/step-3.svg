@@ -1,0 +1,31 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Hanging jellyfish (hero) — painted side out -->
+  <!-- String from top -->
+  <line x1="54" y1="0" x2="54" y2="18" stroke="#374151" stroke-width="0.8"/>
+
+  <!-- Dome body (painted, curved) -->
+  <path d="M22,42 Q22,14 54,14 Q86,14 86,42 Z" fill="#c084fc" stroke="#374151" stroke-width="1.5"/>
+  <!-- Paint detail swirls -->
+  <path d="M38,28 Q48,24 56,30" fill="none" stroke="#a855f7" stroke-width="1" stroke-linecap="round"/>
+  <path d="M44,36 Q54,32 62,38" fill="none" stroke="#7c3aed" stroke-width="0.8" stroke-linecap="round"/>
+
+  <!-- Googly eyes -->
+  <circle cx="42" cy="30" r="5" fill="white" stroke="#374151" stroke-width="0.8"/>
+  <circle cx="43" cy="31" r="2.5" fill="#374151"/>
+  <circle cx="64" cy="30" r="5" fill="white" stroke="#374151" stroke-width="0.8"/>
+  <circle cx="65" cy="31" r="2.5" fill="#374151"/>
+
+  <!-- Tentacles dangling -->
+  <path d="M30,42 Q32,56 28,68 Q26,78 30,88 Q32,94 28,100" fill="none" stroke="#c084fc" stroke-width="2.5" stroke-linecap="round" opacity="0.7"/>
+  <path d="M40,42 Q42,58 38,72 Q36,82 40,92 Q42,98 38,106" fill="none" stroke="#818cf8" stroke-width="2.5" stroke-linecap="round" opacity="0.7"/>
+  <path d="M50,42 Q52,56 48,70 Q46,80 50,90 Q52,96 48,104" fill="none" stroke="#f472b6" stroke-width="2.5" stroke-linecap="round" opacity="0.7"/>
+  <path d="M60,42 Q62,58 58,72 Q56,82 60,92 Q62,98 58,106" fill="none" stroke="#c084fc" stroke-width="2.5" stroke-linecap="round" opacity="0.7"/>
+  <path d="M70,42 Q72,56 68,68 Q66,78 70,88 Q72,94 68,100" fill="none" stroke="#818cf8" stroke-width="2.5" stroke-linecap="round" opacity="0.7"/>
+  <path d="M80,42 Q82,56 78,68 Q76,78 80,88 Q82,94 78,98" fill="none" stroke="#f472b6" stroke-width="2.5" stroke-linecap="round" opacity="0.7"/>
+
+  <!-- Motion lines showing sway -->
+  <line x1="18" y1="50" x2="14" y2="54" stroke="#374151" stroke-width="0.5" opacity="0.4"/>
+  <line x1="16" y1="58" x2="12" y2="62" stroke="#374151" stroke-width="0.5" opacity="0.4"/>
+  <line x1="92" y1="50" x2="96" y2="54" stroke="#374151" stroke-width="0.5" opacity="0.4"/>
+  <line x1="94" y1="58" x2="98" y2="62" stroke="#374151" stroke-width="0.5" opacity="0.4"/>
+</svg>

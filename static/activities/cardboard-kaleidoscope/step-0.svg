@@ -1,0 +1,36 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2"
+            stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <!-- Foil strip (flat, before folding) — top area -->
+  <rect x="10" y="10" width="100" height="18" rx="1" fill="#e5e7eb" stroke="#374151" stroke-width="2"/>
+  <!-- Shiny foil texture lines -->
+  <line x1="10" y1="15" x2="110" y2="15" stroke="#f9fafb" stroke-width="1" opacity="0.8"/>
+  <line x1="10" y1="22" x2="110" y2="22" stroke="#9ca3af" stroke-width="0.5" opacity="0.6"/>
+  <!-- Third-fold lines on the strip -->
+  <line x1="43" y1="10" x2="43" y2="28" stroke="#374151" stroke-width="1.5" stroke-dasharray="4,2"/>
+  <line x1="77" y1="10" x2="77" y2="28" stroke="#374151" stroke-width="1.5" stroke-dasharray="4,2"/>
+  <!-- Arrow: fold left panel down -->
+  <path d="M26 28 Q16 38 26 48" stroke="#374151" stroke-width="2" stroke-linecap="round" fill="none" marker-end="url(#arr)"/>
+  <!-- Arrow: fold right panel up/under -->
+  <path d="M94 28 Q104 38 94 48" stroke="#374151" stroke-width="2" stroke-linecap="round" fill="none" marker-end="url(#arr)"/>
+  <!-- Triangular prism result (hero — bottom half) -->
+  <!-- Left face of prism -->
+  <polygon points="60,56 30,96 60,96" fill="#e5e7eb" stroke="#374151" stroke-width="2.5"/>
+  <!-- Right face of prism -->
+  <polygon points="60,56 90,96 60,96" fill="#d1d5db" stroke="#374151" stroke-width="2.5"/>
+  <!-- Top face (narrow) -->
+  <polygon points="30,96 60,56 90,96" fill="none" stroke="#374151" stroke-width="2.5"/>
+  <!-- Foil shiny lines on faces -->
+  <line x1="60" y1="56" x2="45" y2="76" stroke="#f9fafb" stroke-width="1" opacity="0.7"/>
+  <line x1="60" y1="56" x2="75" y2="76" stroke="#f9fafb" stroke-width="1" opacity="0.7"/>
+  <!-- Labels showing mirror panels -->
+  <line x1="24" y1="76" x2="38" y2="76" stroke="#9ca3af" stroke-width="1" stroke-dasharray="2,2"/>
+  <line x1="82" y1="76" x2="96" y2="76" stroke="#9ca3af" stroke-width="1" stroke-dasharray="2,2"/>
+  <!-- Prism base label line -->
+  <line x1="36" y1="100" x2="84" y2="100" stroke="#9ca3af" stroke-width="1" stroke-dasharray="2,2"/>
+</svg>

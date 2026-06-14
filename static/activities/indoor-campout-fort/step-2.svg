@@ -1,0 +1,20 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(60, 65)">
+    <!-- Tubes under the tissue paper -->
+    <rect x="-35" y="-10" width="70" height="20" rx="4" fill="#d97706" stroke="#374151" stroke-width="2"/>
+    <rect x="-10" y="-35" width="20" height="70" rx="4" fill="#d97706" stroke="#374151" stroke-width="2"/>
+
+    <!-- Crumpled orange tissue paper -->
+    <path d="M -25 -5 Q -35 -20 -20 -30 Q -10 -45 5 -35 Q 20 -40 30 -25 Q 40 -5 20 10 Q 5 15 -10 10 Z" fill="#f97316" stroke="#374151" stroke-width="2" stroke-linejoin="round"/>
+    
+    <!-- Crumpled red tissue paper on top -->
+    <path d="M -15 0 Q -20 -15 -10 -25 Q 5 -40 15 -20 Q 30 -15 20 5 Q 10 15 -5 5 Z" fill="#ef4444" stroke="#374151" stroke-width="2" stroke-linejoin="round"/>
+    
+    <!-- Crumple lines -->
+    <path d="M -15 -10 L 0 -20 M 10 -5 L 5 -25 M -5 -5 L 15 -15" fill="none" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+    
+    <!-- Arrow showing dropping paper -->
+    <path d="M 0 -60 L 0 -50" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round" stroke-dasharray="4 4"/>
+    <polygon points="0,-50 -3,-55 3,-55" fill="#374151"/>
+  </g>
+</svg>

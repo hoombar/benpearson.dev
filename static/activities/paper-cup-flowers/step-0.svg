@@ -1,0 +1,55 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Paper cup with cuts being made (hero) -->
+  <g transform="translate(22, 12)">
+    <!-- Cup body (trapezoid) -->
+    <path d="M10,0 L0,68 L52,68 L42,0 Z" fill="white" stroke="#374151" stroke-width="1.5"/>
+    <!-- Cup rim -->
+    <ellipse cx="26" cy="0" rx="16" ry="4" fill="#f3f4f6" stroke="#374151" stroke-width="1"/>
+
+    <!-- Cut lines (petal strips) -->
+    <line x1="6" y1="0" x2="4" y2="58" stroke="#374151" stroke-width="0.5" stroke-dasharray="3,2"/>
+    <line x1="11" y1="0" x2="10" y2="58" stroke="#374151" stroke-width="0.5" stroke-dasharray="3,2"/>
+    <line x1="16" y1="0" x2="16" y2="58" stroke="#374151" stroke-width="0.5" stroke-dasharray="3,2"/>
+    <line x1="21" y1="0" x2="22" y2="58" stroke="#374151" stroke-width="0.5" stroke-dasharray="3,2"/>
+    <line x1="26" y1="0" x2="28" y2="58" stroke="#374151" stroke-width="0.5" stroke-dasharray="3,2"/>
+    <line x1="31" y1="0" x2="34" y2="58" stroke="#374151" stroke-width="0.5" stroke-dasharray="3,2"/>
+    <line x1="36" y1="0" x2="40" y2="58" stroke="#374151" stroke-width="0.5" stroke-dasharray="3,2"/>
+    <line x1="42" y1="0" x2="46" y2="58" stroke="#374151" stroke-width="0.5" stroke-dasharray="3,2"/>
+
+    <!-- Stop line near base -->
+    <line x1="2" y1="58" x2="50" y2="58" stroke="#ef4444" stroke-width="0.8" stroke-dasharray="2,2"/>
+  </g>
+
+  <!-- Scissors cutting -->
+  <g transform="translate(76, 26) rotate(10)">
+    <path d="M0,0 L16,5" fill="none" stroke="#9ca3af" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M0,0 L16,-5" fill="none" stroke="#9ca3af" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="0" cy="0" r="1.5" fill="#374151"/>
+    <ellipse cx="20" cy="6" rx="5" ry="4" fill="none" stroke="#ef4444" stroke-width="1.5"/>
+    <ellipse cx="20" cy="-6" rx="5" ry="4" fill="none" stroke="#ef4444" stroke-width="1.5"/>
+  </g>
+
+  <!-- Rounded petal tip example -->
+  <g transform="translate(82, 62)">
+    <rect x="0" y="0" width="10" height="24" rx="1" fill="white" stroke="#374151" stroke-width="0.8"/>
+    <path d="M0,0 Q5,-6 10,0" fill="white" stroke="#374151" stroke-width="0.8"/>
+  </g>
+
+  <!-- Arrow showing rounding -->
+  <defs>
+    <marker id="arr" viewBox="0 0 6 6" refX="5" refY="3" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#374151"/>
+    </marker>
+  </defs>
+  <line x1="100" y1="62" x2="100" y2="54" stroke="#374151" stroke-width="0.8" stroke-dasharray="2,2" marker-end="url(#arr)"/>
+
+  <!-- Warning -->
+  <g transform="translate(96, 4)">
+    <polygon points="8,0 0,14 16,14" fill="#fbbf24" stroke="#374151" stroke-width="0.8"/>
+    <line x1="8" y1="4" x2="8" y2="9" stroke="#374151" stroke-width="1.2" stroke-linecap="round"/>
+    <circle cx="8" cy="11.5" r="0.8" fill="#374151"/>
+  </g>
+</svg>

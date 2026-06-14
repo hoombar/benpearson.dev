@@ -1,0 +1,13 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Paper -->
+  <rect x="20" y="40" width="80" height="60" rx="2" stroke="#374151" stroke-width="2" fill="#f9fafb"/>
+  <!-- Spoon dripping paint (hero action) -->
+  <g transform="translate(60, 20)">
+    <line x1="15" y1="0" x2="5" y2="20" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+    <ellipse cx="0" cy="25" rx="8" ry="5" fill="#ef4444" stroke="#374151" stroke-width="1.5" transform="rotate(30)"/>
+    <!-- Drip line -->
+    <line x1="0" y1="30" x2="0" y2="60" stroke="#ef4444" stroke-width="1.5" stroke-dasharray="4,3" stroke-linecap="round"/>
+  </g>
+  <!-- Puddle on paper -->
+  <ellipse cx="60" cy="70" rx="10" ry="6" fill="#ef4444" stroke="#374151" stroke-width="1.5"/>
+</svg>

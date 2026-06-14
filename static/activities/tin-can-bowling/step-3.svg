@@ -1,0 +1,49 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Floor surface -->
+  <rect x="0" y="80" width="120" height="40" rx="2" fill="#e5e7eb" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Some cans knocked over (scattered) -->
+  <g transform="translate(30, 30) rotate(25)">
+    <rect x="0" y="0" width="14" height="24" rx="2" fill="#ef4444" stroke="#374151" stroke-width="1"/>
+  </g>
+  <g transform="translate(50, 22) rotate(-15)">
+    <rect x="0" y="0" width="14" height="24" rx="2" fill="#3b82f6" stroke="#374151" stroke-width="1"/>
+  </g>
+  <g transform="translate(18, 48) rotate(45)">
+    <rect x="0" y="0" width="14" height="24" rx="2" fill="#fbbf24" stroke="#374151" stroke-width="1"/>
+  </g>
+  <g transform="translate(42, 44) rotate(-30)">
+    <rect x="0" y="0" width="14" height="24" rx="2" fill="#a78bfa" stroke="#374151" stroke-width="1"/>
+  </g>
+
+  <!-- Cans still standing -->
+  <g transform="translate(64, 24)">
+    <rect x="0" y="0" width="14" height="24" rx="2" fill="#22c55e" stroke="#374151" stroke-width="1"/>
+    <ellipse cx="7" cy="0" rx="7" ry="2.5" fill="#86efac" stroke="#374151" stroke-width="0.6"/>
+  </g>
+  <g transform="translate(56, 48)">
+    <rect x="0" y="0" width="14" height="24" rx="2" fill="#ec4899" stroke="#374151" stroke-width="1"/>
+    <ellipse cx="7" cy="0" rx="7" ry="2.5" fill="#f9a8d4" stroke="#374151" stroke-width="0.6"/>
+  </g>
+
+  <!-- Sock ball rolling through -->
+  <circle cx="40" cy="76" r="8" fill="#93c5fd" stroke="#374151" stroke-width="1.2"/>
+  <!-- Sock texture -->
+  <path d="M34,74 Q40,70 46,74" fill="none" stroke="#60a5fa" stroke-width="0.8"/>
+  <path d="M34,78 Q40,82 46,78" fill="none" stroke="#60a5fa" stroke-width="0.8"/>
+
+  <!-- Motion lines showing ball direction -->
+  <line x1="92" y1="76" x2="52" y2="76" stroke="#374151" stroke-width="0.8" stroke-dasharray="3,3" stroke-linecap="round"/>
+
+  <!-- Hand that just released the ball -->
+  <g transform="translate(92, 62)">
+    <rect x="0" y="0" width="10" height="22" rx="5" fill="#fcd9b6" stroke="#374151" stroke-width="1"/>
+    <rect x="12" y="2" width="9" height="18" rx="4" fill="#fcd9b6" stroke="#374151" stroke-width="1"/>
+    <rect x="5" y="16" width="14" height="12" rx="5" fill="#fcd9b6" stroke="#374151" stroke-width="1"/>
+  </g>
+
+  <!-- Impact lines around knocked cans -->
+  <line x1="26" y1="36" x2="22" y2="32" stroke="#374151" stroke-width="0.8" stroke-linecap="round"/>
+  <line x1="28" y1="30" x2="24" y2="26" stroke="#374151" stroke-width="0.8" stroke-linecap="round"/>
+  <line x1="58" y1="28" x2="62" y2="24" stroke="#374151" stroke-width="0.8" stroke-linecap="round"/>
+</svg>

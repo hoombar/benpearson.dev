@@ -1,0 +1,46 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Finished stamped paper (hero) -->
+  <rect x="8" y="8" width="80" height="84" rx="2" fill="white" stroke="#374151" stroke-width="1.2"/>
+
+  <!-- Flower pattern — circle centre + petal stamps -->
+  <circle cx="30" cy="28" r="4" fill="#fbbf24" stroke="none" opacity="0.8"/>
+  <ellipse cx="30" cy="18" rx="3" ry="5" fill="#ef4444" stroke="none" opacity="0.7"/>
+  <ellipse cx="30" cy="38" rx="3" ry="5" fill="#ef4444" stroke="none" opacity="0.7"/>
+  <ellipse cx="20" cy="28" rx="5" ry="3" fill="#ef4444" stroke="none" opacity="0.7"/>
+  <ellipse cx="40" cy="28" rx="5" ry="3" fill="#ef4444" stroke="none" opacity="0.7"/>
+
+  <!-- Heart pattern row -->
+  <path d="M58,20 Q54,16 56,22 Q58,26 58,28 Q58,26 60,22 Q62,16 58,20 Z" fill="#f472b6" stroke="none" opacity="0.8"/>
+  <path d="M72,20 Q68,16 70,22 Q72,26 72,28 Q72,26 74,22 Q76,16 72,20 Z" fill="#f472b6" stroke="none" opacity="0.8"/>
+
+  <!-- Star pattern -->
+  <polygon points="22,58 23,62 27,62 24,64 25,68 22,66 19,68 20,64 17,62 21,62" fill="#3b82f6" stroke="none" opacity="0.8"/>
+  <polygon points="40,58 41,62 45,62 42,64 43,68 40,66 37,68 38,64 35,62 39,62" fill="#3b82f6" stroke="none" opacity="0.8"/>
+  <polygon points="58,58 59,62 63,62 60,64 61,68 58,66 55,68 56,64 53,62 57,62" fill="#3b82f6" stroke="none" opacity="0.8"/>
+
+  <!-- Circle stamps border -->
+  <circle cx="14" cy="14" r="3" fill="none" stroke="#22c55e" stroke-width="1.5" opacity="0.7"/>
+  <circle cx="14" cy="28" r="3" fill="none" stroke="#22c55e" stroke-width="1.5" opacity="0.7"/>
+  <circle cx="14" cy="42" r="3" fill="none" stroke="#22c55e" stroke-width="1.5" opacity="0.7"/>
+  <circle cx="14" cy="56" r="3" fill="none" stroke="#22c55e" stroke-width="1.5" opacity="0.7"/>
+  <circle cx="14" cy="70" r="3" fill="none" stroke="#22c55e" stroke-width="1.5" opacity="0.7"/>
+  <circle cx="14" cy="84" r="3" fill="none" stroke="#22c55e" stroke-width="1.5" opacity="0.7"/>
+
+  <!-- More flowers bottom -->
+  <circle cx="60" cy="78" r="3" fill="#fbbf24" stroke="none" opacity="0.7"/>
+  <ellipse cx="60" cy="70" rx="2" ry="4" fill="#a855f7" stroke="none" opacity="0.6"/>
+  <ellipse cx="60" cy="86" rx="2" ry="4" fill="#a855f7" stroke="none" opacity="0.6"/>
+  <ellipse cx="52" cy="78" rx="4" ry="2" fill="#a855f7" stroke="none" opacity="0.6"/>
+  <ellipse cx="68" cy="78" rx="4" ry="2" fill="#a855f7" stroke="none" opacity="0.6"/>
+
+  <!-- Stamp tubes to the side -->
+  <g transform="translate(94, 24)">
+    <rect x="0" y="0" width="12" height="30" rx="2" fill="#d4a574" stroke="#374151" stroke-width="0.6"/>
+  </g>
+  <g transform="translate(94, 60)">
+    <rect x="0" y="0" width="12" height="30" rx="2" fill="#d4a574" stroke="#374151" stroke-width="0.6"/>
+  </g>
+</svg>

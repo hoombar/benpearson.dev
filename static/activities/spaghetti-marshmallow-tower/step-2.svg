@@ -1,0 +1,38 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="4" y="108" width="112" height="8" rx="2" fill="#fbbf24" stroke="#374151" stroke-width="1.5"/>
+  <!-- Tower side-view: 3 levels of spaghetti + marshmallows -->
+  <!-- Level 1: bottom horizontal -->
+  <line x1="26" y1="105" x2="74" y2="105" stroke="#fde68a" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Level 1 verticals -->
+  <line x1="26" y1="83" x2="26" y2="97" stroke="#fde68a" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="74" y1="83" x2="74" y2="97" stroke="#fde68a" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Level 1 top horizontal -->
+  <line x1="26" y1="79" x2="74" y2="79" stroke="#fde68a" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Level 2 verticals -->
+  <line x1="26" y1="57" x2="26" y2="71" stroke="#fde68a" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="74" y1="57" x2="74" y2="71" stroke="#fde68a" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Level 2 top horizontal -->
+  <line x1="26" y1="53" x2="74" y2="53" stroke="#fde68a" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Level 3 verticals (growing) -->
+  <line x1="26" y1="33" x2="26" y2="45" stroke="#fde68a" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="74" y1="33" x2="74" y2="45" stroke="#fde68a" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Level 3 top horizontal (partial — still building) -->
+  <line x1="26" y1="29" x2="74" y2="29" stroke="#fde68a" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Marshmallows at each joint -->
+  <circle cx="26" cy="105" r="8" fill="white" stroke="#374151" stroke-width="2"/>
+  <circle cx="74" cy="105" r="8" fill="white" stroke="#374151" stroke-width="2"/>
+  <circle cx="26" cy="79" r="8" fill="white" stroke="#374151" stroke-width="2"/>
+  <circle cx="74" cy="79" r="8" fill="white" stroke="#374151" stroke-width="2"/>
+  <circle cx="26" cy="53" r="8" fill="white" stroke="#374151" stroke-width="2"/>
+  <circle cx="74" cy="53" r="8" fill="white" stroke="#374151" stroke-width="2"/>
+  <circle cx="26" cy="29" r="8" fill="white" stroke="#374151" stroke-width="2"/>
+  <circle cx="74" cy="29" r="8" fill="white" stroke="#374151" stroke-width="2"/>
+  <!-- Upward arrow showing growth direction -->
+  <line x1="96" y1="104" x2="96" y2="30" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M93 34 L96 27 L99 34" stroke="#374151" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+  <!-- New spaghetti stick being placed (dashed = planned) -->
+  <line x1="26" y1="14" x2="74" y2="14" stroke="#fde68a" stroke-width="2.5" stroke-dasharray="5,3" stroke-linecap="round"/>
+  <circle cx="26" cy="14" r="8" fill="#f3f4f6" stroke="#374151" stroke-width="2" stroke-dasharray="4,3"/>
+  <circle cx="74" cy="14" r="8" fill="#f3f4f6" stroke="#374151" stroke-width="2" stroke-dasharray="4,3"/>
+</svg>

@@ -1,0 +1,50 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Step 0: Draw your secret — white wax crayon pressed firmly on white paper -->
+
+  <!-- Paper (main surface) -->
+  <rect x="16" y="8" width="88" height="104" rx="2" fill="#f9fafb" stroke="#374151" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Subtle paper texture line -->
+  <line x1="18" y1="12" x2="102" y2="12" stroke="#f3f4f6" stroke-width="1" stroke-linecap="round"/>
+
+  <!-- Wax drawing: star (nearly invisible — very light grey wax marks on white) -->
+  <polygon points="60,24 63.5,34 74,34 65.5,40.5 68.5,51 60,45 51.5,51 54.5,40.5 46,34 56.5,34"
+    fill="#f3f4f6" stroke="#e5e7eb" stroke-width="2" stroke-linejoin="round"/>
+
+  <!-- Wax drawing: smiley sun below star -->
+  <circle cx="60" cy="70" r="16" fill="#f3f4f6" stroke="#e5e7eb" stroke-width="2"/>
+  <!-- Sun rays (wax, barely visible) -->
+  <line x1="60" y1="50" x2="60" y2="46" stroke="#e5e7eb" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="72" y1="56" x2="75" y2="53" stroke="#e5e7eb" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="76" y1="70" x2="80" y2="70" stroke="#e5e7eb" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="48" y1="56" x2="45" y2="53" stroke="#e5e7eb" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="44" y1="70" x2="40" y2="70" stroke="#e5e7eb" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Smiley eyes (wax) -->
+  <circle cx="54" cy="67" r="2" fill="#e5e7eb"/>
+  <circle cx="66" cy="67" r="2" fill="#e5e7eb"/>
+  <!-- Smile (wax) -->
+  <path d="M53,75 Q60,82 67,75" stroke="#e5e7eb" stroke-width="2" fill="none" stroke-linecap="round"/>
+
+  <!-- White wax crayon (hero tool, left side) -->
+  <g transform="translate(10, 60)">
+    <!-- Crayon body (white/ivory, vertical) -->
+    <rect x="-7" y="-32" width="14" height="44" rx="3" fill="#f9fafb" stroke="#374151" stroke-width="2"/>
+    <!-- Label band on crayon -->
+    <rect x="-7" y="-20" width="14" height="12" fill="#e5e7eb" stroke="none"/>
+    <!-- Label text lines -->
+    <line x1="-5" y1="-16" x2="5" y2="-16" stroke="#c9cdd3" stroke-width="0.8" stroke-linecap="round"/>
+    <line x1="-5" y1="-12" x2="3" y2="-12" stroke="#c9cdd3" stroke-width="0.8" stroke-linecap="round"/>
+    <!-- Pointed tip -->
+    <polygon points="-7,12 7,12 0,24" fill="#f3f4f6" stroke="#374151" stroke-width="1.5" stroke-linejoin="round"/>
+    <!-- Crayon wax tip circle -->
+    <circle cx="0" cy="23" r="1.5" fill="#e5e7eb" stroke="#374151" stroke-width="1"/>
+  </g>
+
+  <!-- Action arrow: crayon tip pressing onto paper (tip at 28,40, wings both behind tip) -->
+  <line x1="18" y1="50" x2="28" y2="40" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M26,46 L28,40 L22,42" fill="none" stroke="#374151" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Pressing force marks (short downward lines under crayon tip) -->
+  <line x1="6" y1="88" x2="6" y2="95" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+  <line x1="10" y1="87" x2="10" y2="94" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+  <line x1="14" y1="88" x2="14" y2="95" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+</svg>

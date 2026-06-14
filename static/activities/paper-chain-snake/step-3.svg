@@ -1,0 +1,66 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Long snake coiled on table -->
+  <!-- Body chain links in a wiggly S-curve -->
+  <!-- Row 1 - top -->
+  <ellipse cx="26" cy="22" rx="8" ry="10" fill="none" stroke="#4ade80" stroke-width="4"/>
+  <ellipse cx="40" cy="22" rx="8" ry="10" fill="none" stroke="#ef4444" stroke-width="4"/>
+  <ellipse cx="54" cy="22" rx="8" ry="10" fill="none" stroke="#fbbf24" stroke-width="4"/>
+  <ellipse cx="68" cy="22" rx="8" ry="10" fill="none" stroke="#3b82f6" stroke-width="4"/>
+
+  <!-- Curve down -->
+  <ellipse cx="78" cy="36" rx="8" ry="10" fill="none" stroke="#a78bfa" stroke-width="4"/>
+
+  <!-- Row 2 - middle, going back -->
+  <ellipse cx="68" cy="50" rx="8" ry="10" fill="none" stroke="#4ade80" stroke-width="4"/>
+  <ellipse cx="54" cy="50" rx="8" ry="10" fill="none" stroke="#ef4444" stroke-width="4"/>
+  <ellipse cx="40" cy="50" rx="8" ry="10" fill="none" stroke="#fbbf24" stroke-width="4"/>
+  <ellipse cx="26" cy="50" rx="8" ry="10" fill="none" stroke="#3b82f6" stroke-width="4"/>
+
+  <!-- Curve down -->
+  <ellipse cx="20" cy="64" rx="8" ry="10" fill="none" stroke="#a78bfa" stroke-width="4"/>
+
+  <!-- Row 3 - bottom -->
+  <ellipse cx="30" cy="78" rx="8" ry="10" fill="none" stroke="#4ade80" stroke-width="4"/>
+  <ellipse cx="44" cy="78" rx="8" ry="10" fill="none" stroke="#ef4444" stroke-width="4"/>
+  <ellipse cx="58" cy="78" rx="8" ry="10" fill="none" stroke="#fbbf24" stroke-width="4"/>
+
+  <!-- Stroke outlines -->
+  <ellipse cx="26" cy="22" rx="8" ry="10" fill="none" stroke="#374151" stroke-width="0.6"/>
+  <ellipse cx="40" cy="22" rx="8" ry="10" fill="none" stroke="#374151" stroke-width="0.6"/>
+  <ellipse cx="54" cy="22" rx="8" ry="10" fill="none" stroke="#374151" stroke-width="0.6"/>
+  <ellipse cx="68" cy="22" rx="8" ry="10" fill="none" stroke="#374151" stroke-width="0.6"/>
+  <ellipse cx="78" cy="36" rx="8" ry="10" fill="none" stroke="#374151" stroke-width="0.6"/>
+  <ellipse cx="68" cy="50" rx="8" ry="10" fill="none" stroke="#374151" stroke-width="0.6"/>
+  <ellipse cx="54" cy="50" rx="8" ry="10" fill="none" stroke="#374151" stroke-width="0.6"/>
+  <ellipse cx="40" cy="50" rx="8" ry="10" fill="none" stroke="#374151" stroke-width="0.6"/>
+  <ellipse cx="26" cy="50" rx="8" ry="10" fill="none" stroke="#374151" stroke-width="0.6"/>
+  <ellipse cx="20" cy="64" rx="8" ry="10" fill="none" stroke="#374151" stroke-width="0.6"/>
+  <ellipse cx="30" cy="78" rx="8" ry="10" fill="none" stroke="#374151" stroke-width="0.6"/>
+  <ellipse cx="44" cy="78" rx="8" ry="10" fill="none" stroke="#374151" stroke-width="0.6"/>
+  <ellipse cx="58" cy="78" rx="8" ry="10" fill="none" stroke="#374151" stroke-width="0.6"/>
+
+  <!-- Scale patterns on some links -->
+  <line x1="37" y1="18" x2="43" y2="18" stroke="#374151" stroke-width="0.5"/>
+  <line x1="51" y1="46" x2="57" y2="46" stroke="#374151" stroke-width="0.5"/>
+
+  <!-- Snake head at the front (top left) -->
+  <g transform="translate(6, 6)">
+    <ellipse cx="10" cy="12" rx="12" ry="10" fill="#4ade80" stroke="#374151" stroke-width="1.2"/>
+    <circle cx="6" cy="8" r="3" fill="#ffffff" stroke="#374151" stroke-width="0.6"/>
+    <circle cx="7" cy="7" r="1.5" fill="#374151" stroke="none"/>
+    <circle cx="14" cy="8" r="3" fill="#ffffff" stroke="#374151" stroke-width="0.6"/>
+    <circle cx="15" cy="7" r="1.5" fill="#374151" stroke="none"/>
+    <!-- Tongue -->
+    <path d="M2,16 L-4,20 L-6,24" fill="none" stroke="#ef4444" stroke-width="1.2" stroke-linecap="round"/>
+    <path d="M-4,20 L-2,24" fill="none" stroke="#ef4444" stroke-width="1.2" stroke-linecap="round"/>
+  </g>
+
+  <!-- Marker pen for decorating -->
+  <g transform="translate(82, 66) rotate(-20)">
+    <rect x="0" y="0" width="6" height="28" rx="2" fill="#a78bfa" stroke="#374151" stroke-width="0.8"/>
+    <rect x="0.5" y="28" width="5" height="4" rx="1" fill="#374151" stroke="#374151" stroke-width="0.5"/>
+  </g>
+</svg>

@@ -1,0 +1,26 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Side view of 6 egg cups as rounded bumps, painted in rainbow colours -->
+  <!-- Base/floor line -->
+  <line x1="4" y1="88" x2="116" y2="88" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- 6 painted cups as filled semicircles/bumps -->
+  <path d="M4 88 Q4 60 22 60 Q40 60 40 88 Z" stroke="#374151" stroke-width="1.5" fill="#ef4444"/>
+  <path d="M40 88 Q40 60 57 60 Q74 60 74 88 Z" stroke="#374151" stroke-width="1.5" fill="#f97316"/>
+  <path d="M74 88 Q74 62 88 62 Q102 62 102 88 Z" stroke="#374151" stroke-width="1.5" fill="#f59e0b"/>
+  <!-- Cups 4-6 continue off right, but let's fit 4 cups + paintbrush nicely -->
+  <!-- Actually let me redo with 4 cups and a paintbrush being dipped -->
+  <!-- Paint palette with 4 blobs -->
+  <ellipse cx="60" cy="106" rx="30" ry="10" stroke="#374151" stroke-width="1.5" fill="#f3f4f6"/>
+  <circle cx="44" cy="106" r="5" stroke="#374151" stroke-width="1" fill="#ef4444"/>
+  <circle cx="55" cy="106" r="5" stroke="#374151" stroke-width="1" fill="#f97316"/>
+  <circle cx="66" cy="106" r="5" stroke="#374151" stroke-width="1" fill="#f59e0b"/>
+  <circle cx="77" cy="106" r="5" stroke="#374151" stroke-width="1" fill="#22c55e"/>
+  <!-- Paintbrush held above the second (orange) cup, angled downward -->
+  <g transform="translate(57, 45) rotate(40)">
+    <rect x="-2" y="-30" width="4" height="24" rx="1" fill="#fbbf24" stroke="#374151" stroke-width="1.5"/>
+    <rect x="-3" y="-6" width="6" height="4" rx="1" fill="#e5e7eb" stroke="#374151" stroke-width="1"/>
+    <path d="M-2 -2 Q0 6 2 -2" stroke="#374151" stroke-width="1.5" fill="#f97316" stroke-linecap="round"/>
+  </g>
+  <!-- Arrow showing paint going onto cup -->
+  <line x1="56" y1="62" x2="50" y2="73" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M47 71 L50 75 L53 71" stroke="#374151" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+</svg>

@@ -1,0 +1,51 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Paper with scene -->
+  <rect x="12" y="6" width="74" height="88" rx="2" fill="#ffffff" stroke="#374151" stroke-width="1.5"/>
+  <!-- Sky -->
+  <rect x="13" y="7" width="72" height="52" fill="#60a5fa" stroke="none" opacity="0.85"/>
+  <!-- Sun -->
+  <circle cx="72" cy="18" r="7" fill="#fbbf24" stroke="#374151" stroke-width="0.5"/>
+  <!-- Ground -->
+  <path d="M13,60 Q30,48 50,58 Q70,68 85,56 L85,93 L13,93 Z" fill="#22c55e" stroke="none" opacity="0.8"/>
+  <path d="M13,66 Q40,56 60,64 Q80,72 85,62 L85,93 L13,93 Z" fill="#4ade80" stroke="none" opacity="0.6"/>
+  <!-- Trees -->
+  <line x1="28" y1="58" x2="28" y2="70" stroke="#92400e" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="28" cy="54" r="6" fill="#22c55e" stroke="#374151" stroke-width="0.5"/>
+
+  <!-- Cotton wool clouds glued onto sky (hero element) -->
+  <!-- Big fluffy cloud -->
+  <circle cx="30" cy="22" r="8" fill="#f9fafb" stroke="#e5e7eb" stroke-width="0.8"/>
+  <circle cx="40" cy="18" r="10" fill="#f9fafb" stroke="#e5e7eb" stroke-width="0.8"/>
+  <circle cx="50" cy="22" r="8" fill="#f9fafb" stroke="#e5e7eb" stroke-width="0.8"/>
+  <circle cx="38" cy="26" r="6" fill="#f3f4f6" stroke="#e5e7eb" stroke-width="0.5"/>
+  <circle cx="46" cy="26" r="5" fill="#f3f4f6" stroke="#e5e7eb" stroke-width="0.5"/>
+
+  <!-- Small wispy cloud -->
+  <ellipse cx="66" cy="34" rx="10" ry="4" fill="#f9fafb" stroke="#e5e7eb" stroke-width="0.6"/>
+  <ellipse cx="62" cy="32" rx="6" ry="3" fill="#f3f4f6" stroke="#e5e7eb" stroke-width="0.4"/>
+
+  <!-- Another puffy cloud -->
+  <circle cx="24" cy="42" r="6" fill="#f9fafb" stroke="#e5e7eb" stroke-width="0.6"/>
+  <circle cx="32" cy="40" r="7" fill="#f9fafb" stroke="#e5e7eb" stroke-width="0.6"/>
+  <circle cx="38" cy="44" r="5" fill="#f3f4f6" stroke="#e5e7eb" stroke-width="0.4"/>
+
+  <!-- Hand pressing cotton wool into place -->
+  <g transform="translate(44, 10)">
+    <ellipse cx="6" cy="6" rx="6" ry="7" fill="#fcd9b6" stroke="#374151" stroke-width="0.8"/>
+    <ellipse cx="6" cy="2" rx="4" ry="2" fill="#fce7d6" stroke="#374151" stroke-width="0.4"/>
+  </g>
+
+  <!-- Glue bottle -->
+  <g transform="translate(92, 40)">
+    <rect x="0" y="8" width="12" height="20" rx="2" fill="#f9fafb" stroke="#374151" stroke-width="0.8"/>
+    <rect x="2" y="2" width="8" height="8" rx="1.5" fill="#f3f4f6" stroke="#374151" stroke-width="0.6"/>
+  </g>
+
+  <!-- Loose cotton wool -->
+  <circle cx="98" cy="78" r="8" fill="#f9fafb" stroke="#e5e7eb" stroke-width="0.8"/>
+  <circle cx="95" cy="76" r="3" fill="#f3f4f6" stroke="none"/>
+  <circle cx="101" cy="80" r="3" fill="#f3f4f6" stroke="none"/>
+</svg>

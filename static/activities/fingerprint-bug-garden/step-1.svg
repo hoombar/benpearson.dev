@@ -1,0 +1,37 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2"
+            stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <!-- Paper sheet (the canvas) -->
+  <rect x="10" y="50" width="100" height="64" rx="2" fill="#f9fafb" stroke="#374151" stroke-width="2"/>
+  <!-- Three fingerprint bugs on the paper -->
+  <!-- Ladybird (round red thumbprint) -->
+  <ellipse cx="30" cy="78" rx="14" ry="16" fill="#ef4444" stroke="#374151" stroke-width="2"/>
+  <!-- Fingerprint ridges -->
+  <path d="M20 74 Q30 68 40 74" fill="none" stroke="#dc2626" stroke-width="0.8" stroke-linecap="round"/>
+  <path d="M18 80 Q30 74 42 80" fill="none" stroke="#dc2626" stroke-width="0.8" stroke-linecap="round"/>
+  <path d="M20 86 Q30 80 40 86" fill="none" stroke="#dc2626" stroke-width="0.8" stroke-linecap="round"/>
+  <!-- Bumblebee (yellow oval thumbprint) -->
+  <ellipse cx="66" cy="74" rx="12" ry="15" fill="#f59e0b" stroke="#374151" stroke-width="2"/>
+  <!-- Bee ridges -->
+  <path d="M56 70 Q66 64 76 70" fill="none" stroke="#d97706" stroke-width="0.8" stroke-linecap="round"/>
+  <path d="M55 76 Q66 70 77 76" fill="none" stroke="#d97706" stroke-width="0.8" stroke-linecap="round"/>
+  <!-- Caterpillar — line of four small prints -->
+  <ellipse cx="96" cy="66" rx="7" ry="9" fill="#22c55e" stroke="#374151" stroke-width="1.5"/>
+  <ellipse cx="96" cy="82" rx="7" ry="9" fill="#22c55e" stroke="#374151" stroke-width="1.5"/>
+  <ellipse cx="96" cy="98" rx="7" ry="9" fill="#22c55e" stroke="#374151" stroke-width="1.5"/>
+  <!-- Green fingerprint ridges (simplified) -->
+  <path d="M90 64 Q96 60 102 64" fill="none" stroke="#16a34a" stroke-width="0.8" stroke-linecap="round"/>
+  <path d="M90 80 Q96 76 102 80" fill="none" stroke="#16a34a" stroke-width="0.8" stroke-linecap="round"/>
+  <!-- Paint blobs (small) — showing where finger presses come from (top area) -->
+  <ellipse cx="30" cy="30" rx="14" ry="8" fill="#ef4444" stroke="#374151" stroke-width="1.5"/>
+  <ellipse cx="66" cy="30" rx="12" ry="8" fill="#f59e0b" stroke="#374151" stroke-width="1.5"/>
+  <!-- Arrows: finger pressing down onto paper -->
+  <path d="M30 40 L30 50" stroke="#374151" stroke-width="2.5" stroke-linecap="round" fill="none" marker-end="url(#arr)"/>
+  <path d="M66 40 L66 50" stroke="#374151" stroke-width="2.5" stroke-linecap="round" fill="none" marker-end="url(#arr)"/>
+  <path d="M96 40 L96 50" stroke="#22c55e" stroke-width="2.5" stroke-linecap="round" fill="none" marker-end="url(#arr)"/>
+</svg>

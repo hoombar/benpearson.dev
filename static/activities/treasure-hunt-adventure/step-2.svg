@@ -1,0 +1,58 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Step 2: Wrap the treasure — treasure chest with prize inside -->
+
+  <!-- Treasure chest (hero, large) -->
+  <g transform="translate(60, 72)">
+    <!-- Chest body -->
+    <rect x="-32" y="-22" width="64" height="38" rx="3" fill="#d97706" stroke="#374151" stroke-width="2.5"/>
+    <!-- Wood grain lines on body -->
+    <line x1="-32" y1="-8" x2="32" y2="-8" stroke="#b45309" stroke-width="1" stroke-linecap="round"/>
+    <line x1="-32" y1="2" x2="32" y2="2" stroke="#b45309" stroke-width="1" stroke-linecap="round"/>
+    <line x1="-32" y1="12" x2="32" y2="12" stroke="#b45309" stroke-width="1" stroke-linecap="round"/>
+    <!-- Vertical plank lines -->
+    <line x1="-12" y1="-22" x2="-12" y2="16" stroke="#b45309" stroke-width="0.8" stroke-linecap="round"/>
+    <line x1="12" y1="-22" x2="12" y2="16" stroke="#b45309" stroke-width="0.8" stroke-linecap="round"/>
+    <!-- Gold metal band -->
+    <rect x="-32" y="-4" width="64" height="6" fill="#f59e0b" stroke="#374151" stroke-width="1"/>
+
+    <!-- Chest lid (open, hinged back) -->
+    <path d="M-32,-22 Q-32,-40 0,-40 Q32,-40 32,-22 Z" fill="#fbbf24" stroke="#374151" stroke-width="2.5"/>
+    <!-- Lid grain -->
+    <path d="M-28,-30 Q0,-38 28,-30" stroke="#d97706" stroke-width="0.8" fill="none" stroke-linecap="round"/>
+    <path d="M-24,-24 Q0,-32 24,-24" stroke="#d97706" stroke-width="0.8" fill="none" stroke-linecap="round"/>
+
+    <!-- Lock/clasp on front -->
+    <rect x="-6" y="-8" width="12" height="10" rx="2" fill="#fbbf24" stroke="#374151" stroke-width="1.5"/>
+    <circle cx="0" cy="-2" r="3" fill="#f59e0b" stroke="#374151" stroke-width="1"/>
+    <rect x="-1.5" y="1" width="3" height="3" rx="0.5" fill="#374151"/>
+
+    <!-- Gold coins visible inside (spilling out) -->
+    <ellipse cx="-16" cy="-24" rx="6" ry="4" fill="#fbbf24" stroke="#f59e0b" stroke-width="1.5"/>
+    <ellipse cx="0" cy="-28" rx="6" ry="4" fill="#fde68a" stroke="#f59e0b" stroke-width="1.5"/>
+    <ellipse cx="16" cy="-24" rx="6" ry="4" fill="#fbbf24" stroke="#f59e0b" stroke-width="1.5"/>
+    <!-- Star marks on coins (SVG paths, no text) -->
+    <polygon points="-16,-25 -15,-22 -12,-22 -14.5,-20.5 -13.5,-17.5 -16,-19 -18.5,-17.5 -17.5,-20.5 -20,-22 -17,-22" fill="#d97706" stroke="none"/>
+    <polygon points="0,-29 1,-26 4,-26 1.5,-24.5 2.5,-21.5 0,-23 -2.5,-21.5 -1.5,-24.5 -4,-26 -1,-26" fill="#d97706" stroke="none"/>
+    <polygon points="16,-25 17,-22 20,-22 17.5,-20.5 18.5,-17.5 16,-19 13.5,-17.5 14.5,-20.5 12,-22 15,-22" fill="#d97706" stroke="none"/>
+  </g>
+
+  <!-- Tape roll (supporting element — securing the prize) -->
+  <g transform="translate(18, 28)">
+    <circle cx="0" cy="0" r="14" fill="#93c5fd" stroke="#374151" stroke-width="2"/>
+    <circle cx="0" cy="0" r="6" fill="#f9fafb" stroke="#374151" stroke-width="1.5"/>
+    <!-- Tape strip coming off -->
+    <path d="M14,0 L34,8" stroke="#93c5fd" stroke-width="3" stroke-linecap="round"/>
+    <path d="M34,8 L34,14" stroke="#93c5fd" stroke-width="3" stroke-linecap="round"/>
+    <!-- Torn edge on tape end -->
+    <path d="M30,8 L34,14 L38,8" stroke="#374151" stroke-width="1" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- Sticker/prize tag on top of chest -->
+  <g transform="translate(90, 24)">
+    <rect x="-12" y="-10" width="24" height="20" rx="3" fill="#fde68a" stroke="#f59e0b" stroke-width="2"/>
+    <!-- Star on tag -->
+    <path d="M0,-6 L2,0 L8,0 L3,4 L5,10 L0,6 L-5,10 L-3,4 L-8,0 L-2,0 Z" fill="#f59e0b" stroke="#d97706" stroke-width="0.8" stroke-linejoin="round"/>
+    <!-- String of tag -->
+    <line x1="0" y1="-10" x2="0" y2="-16" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+  </g>
+</svg>

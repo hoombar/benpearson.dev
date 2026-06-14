@@ -1,0 +1,18 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Paper plate (face down, back showing) - hero -->
+  <circle cx="60" cy="54" r="40" stroke="#374151" stroke-width="2.5" fill="#f9fafb"/>
+  <circle cx="60" cy="54" r="34" stroke="#374151" stroke-width="1" fill="none" opacity="0.4"/>
+  <circle cx="60" cy="54" r="28" stroke="#374151" stroke-width="1" fill="none" opacity="0.3"/>
+  <!-- Straw handle (taped to back of plate) -->
+  <rect x="56" y="58" width="8" height="52" rx="3" stroke="#374151" stroke-width="1.5" fill="#fbbf24"/>
+  <!-- Tape strips securing straw to plate -->
+  <rect x="48" y="60" width="24" height="6" rx="1" stroke="#374151" stroke-width="1" fill="#d1fae5" opacity="0.85"/>
+  <rect x="48" y="72" width="24" height="6" rx="1" stroke="#374151" stroke-width="1" fill="#d1fae5" opacity="0.85"/>
+  <rect x="48" y="84" width="24" height="6" rx="1" stroke="#374151" stroke-width="1" fill="#d1fae5" opacity="0.85"/>
+  <!-- Cross lines on tape showing adhesive -->
+  <line x1="50" y1="62" x2="70" y2="64" stroke="#374151" stroke-width="0.8" opacity="0.4"/>
+  <line x1="50" y1="74" x2="70" y2="76" stroke="#374151" stroke-width="0.8" opacity="0.4"/>
+  <!-- Exploded view label showing tape + straw + plate -->
+  <line x1="8" y1="28" x2="20" y2="36" stroke="#374151" stroke-width="1" stroke-dasharray="3,2" stroke-linecap="round"/>
+  <rect x="4" y="20" width="10" height="10" rx="1" fill="#d1fae5" stroke="#374151" stroke-width="1"/>
+</svg>

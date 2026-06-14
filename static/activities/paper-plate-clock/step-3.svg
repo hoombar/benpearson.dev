@@ -1,0 +1,54 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Floor -->
+  <rect x="0" y="100" width="120" height="20" fill="#f3f4f6" stroke="none"/>
+  <line x1="0" y1="100" x2="120" y2="100" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Stick figure holding clock up -->
+  <!-- Head -->
+  <circle cx="60" cy="22" r="6" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+  <!-- Body -->
+  <line x1="60" y1="28" x2="60" y2="64" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+  <!-- Legs -->
+  <line x1="60" y1="64" x2="52" y2="98" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="60" y1="64" x2="68" y2="98" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Left arm holding clock -->
+  <line x1="60" y1="38" x2="40" y2="52" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Right arm holding clock -->
+  <line x1="60" y1="38" x2="34" y2="40" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- Clock being held (left of figure) -->
+  <circle cx="26" cy="52" r="20" fill="#f9fafb" stroke="#374151" stroke-width="1.5"/>
+  <!-- Numbers (just the key ones) -->
+  <circle cx="26" cy="34" r="1.5" fill="#374151" stroke="none"/>
+  <circle cx="44" cy="52" r="1.5" fill="#374151" stroke="none"/>
+  <circle cx="26" cy="70" r="1.5" fill="#374151" stroke="none"/>
+  <circle cx="8" cy="52" r="1.5" fill="#374151" stroke="none"/>
+  <!-- Hands showing 7:00 -->
+  <line x1="26" y1="52" x2="18" y2="62" stroke="#ef4444" stroke-width="2" stroke-linecap="round"/>
+  <line x1="26" y1="52" x2="26" y2="34" stroke="#3b82f6" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="26" cy="52" r="1.5" fill="#e5e7eb" stroke="#374151" stroke-width="0.6"/>
+
+  <!-- Star sticker at certain positions on clock -->
+  <path d="M26,34 L27,31 L28,34 L31,34 L29,36 L30,39 L27,37 L24,39 L25,36 L22,34 Z"
+        fill="#f59e0b" stroke="#374151" stroke-width="0.3"/>
+
+  <!-- Moon sticker at 7 position -->
+  <path d="M16,64 Q12,60 16,56 Q14,60 16,64 Z" fill="#fbbf24" stroke="#374151" stroke-width="0.3"/>
+
+  <!-- Second stick figure (child) pointing at clock -->
+  <!-- Head -->
+  <circle cx="90" cy="44" r="5" fill="#fef3c7" stroke="#374151" stroke-width="1.2"/>
+  <!-- Body -->
+  <line x1="90" y1="49" x2="90" y2="72" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Legs -->
+  <line x1="90" y1="72" x2="84" y2="98" stroke="#374151" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="90" y1="72" x2="96" y2="98" stroke="#374151" stroke-width="1.2" stroke-linecap="round"/>
+  <!-- Arm pointing at clock -->
+  <line x1="90" y1="56" x2="68" y2="50" stroke="#374151" stroke-width="1.2" stroke-linecap="round"/>
+  <!-- Other arm -->
+  <line x1="90" y1="56" x2="100" y2="64" stroke="#374151" stroke-width="1.2" stroke-linecap="round"/>
+
+  <!-- Question mark (what time is it?) -->
+  <path d="M82,28 Q82,20 88,20 Q94,20 94,26 Q94,30 88,32" fill="none" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="88" cy="36" r="1" fill="#374151" stroke="none"/>
+</svg>

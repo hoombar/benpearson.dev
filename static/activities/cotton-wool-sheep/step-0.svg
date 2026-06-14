@@ -1,0 +1,38 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Sheet of paper -->
+  <rect x="10" y="10" width="80" height="82" rx="1" fill="white" stroke="#374151" stroke-width="1"/>
+
+  <!-- Sheep outline being drawn (hero) -->
+  <g transform="translate(16, 24)">
+    <!-- Cloud-like body outline -->
+    <path d="M20,40 Q2,38 4,24 Q6,12 18,8 Q28,4 38,8 Q48,4 56,10 Q66,14 64,26 Q68,36 56,42 Q44,48 32,46 Q22,46 20,40 Z" fill="none" stroke="#374151" stroke-width="1.5" stroke-dasharray="4,3"/>
+
+    <!-- Head circle -->
+    <circle cx="8" cy="44" r="12" fill="none" stroke="#374151" stroke-width="1.5" stroke-dasharray="4,3"/>
+  </g>
+
+  <!-- Marker drawing the outline -->
+  <g transform="translate(52, 54) rotate(30)">
+    <rect x="0" y="-4" width="34" height="8" rx="2" fill="#374151" stroke="#374151" stroke-width="0.8"/>
+    <rect x="-4" y="-3.5" width="5" height="7" rx="1.5" fill="#1f2937" stroke="#374151" stroke-width="0.4"/>
+    <polygon points="-4,-1.5 -4,1.5 -7,0" fill="#374151"/>
+  </g>
+
+  <!-- Drawing motion -->
+  <defs>
+    <marker id="arr" viewBox="0 0 6 6" refX="5" refY="3" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#374151"/>
+    </marker>
+  </defs>
+  <path d="M48,78 Q40,82 34,78" fill="none" stroke="#374151" stroke-width="0.8" stroke-dasharray="2,2" marker-end="url(#arr)"/>
+
+  <!-- Reference sheep silhouette (tiny, in corner) -->
+  <g transform="translate(94, 14)">
+    <ellipse cx="10" cy="10" rx="10" ry="8" fill="#e5e7eb" stroke="#374151" stroke-width="0.5"/>
+    <circle cx="3" cy="14" r="4" fill="#374151"/>
+    <circle cx="3" cy="13" r="1.5" fill="white"/>
+  </g>
+</svg>

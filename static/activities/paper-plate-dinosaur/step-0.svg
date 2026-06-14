@@ -1,0 +1,39 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Paper plate being cut in half -->
+  <ellipse cx="44" cy="40" rx="32" ry="30" fill="#f3f4f6" stroke="#374151" stroke-width="1.2"/>
+  <!-- Cut line -->
+  <line x1="12" y1="40" x2="76" y2="40" stroke="#ef4444" stroke-width="0.8" stroke-dasharray="3,2"/>
+
+  <!-- Scissors cutting -->
+  <g transform="translate(76, 34) rotate(5)">
+    <path d="M0,0 L14,5" fill="none" stroke="#9ca3af" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M0,0 L14,-5" fill="none" stroke="#9ca3af" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="0" cy="0" r="1.5" fill="#374151"/>
+    <ellipse cx="18" cy="6" rx="5" ry="3.5" fill="none" stroke="#ef4444" stroke-width="1.2"/>
+    <ellipse cx="18" cy="-6" rx="5" ry="3.5" fill="none" stroke="#ef4444" stroke-width="1.2"/>
+  </g>
+
+  <!-- Painted half plate (body) -->
+  <path d="M10,76 Q10,60 42,60 Q74,60 74,76 Z" fill="#22c55e" stroke="#374151" stroke-width="1"/>
+
+  <!-- Head/neck piece cut from other half -->
+  <g transform="translate(80, 60)">
+    <path d="M0,16 L12,0 Q18,-2 20,4 Q22,10 18,14 L14,16 Z" fill="#22c55e" stroke="#374151" stroke-width="0.8"/>
+  </g>
+
+  <!-- Paintbrush -->
+  <g transform="translate(82, 30) rotate(25)">
+    <rect x="0" y="-3" width="24" height="6" rx="2" fill="#92400e" stroke="#374151" stroke-width="0.8"/>
+    <rect x="-4" y="-4" width="6" height="8" rx="1" fill="#d1d5db" stroke="#374151" stroke-width="0.6"/>
+    <rect x="-10" y="-5" width="7" height="10" rx="1" fill="#22c55e" stroke="#374151" stroke-width="0.6"/>
+  </g>
+
+  <!-- Paint pot -->
+  <g transform="translate(96, 66)">
+    <rect x="0" y="0" width="16" height="16" rx="2" fill="#e5e7eb" stroke="#374151" stroke-width="0.6"/>
+    <rect x="2" y="3" width="12" height="11" rx="1" fill="#22c55e"/>
+  </g>
+</svg>

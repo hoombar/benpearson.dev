@@ -1,0 +1,56 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Floor surface -->
+  <rect x="0" y="80" width="120" height="40" rx="2" fill="#e5e7eb" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Bowling pin pyramid arrangement (front view) -->
+  <!-- Back row (4 cans) -->
+  <g transform="translate(18, 10)">
+    <rect x="0" y="0" width="14" height="24" rx="2" fill="#ef4444" stroke="#374151" stroke-width="1"/>
+    <ellipse cx="7" cy="0" rx="7" ry="2.5" fill="#fca5a5" stroke="#374151" stroke-width="0.6"/>
+  </g>
+  <g transform="translate(34, 10)">
+    <rect x="0" y="0" width="14" height="24" rx="2" fill="#3b82f6" stroke="#374151" stroke-width="1"/>
+    <ellipse cx="7" cy="0" rx="7" ry="2.5" fill="#93c5fd" stroke="#374151" stroke-width="0.6"/>
+  </g>
+  <g transform="translate(50, 10)">
+    <rect x="0" y="0" width="14" height="24" rx="2" fill="#fbbf24" stroke="#374151" stroke-width="1"/>
+    <ellipse cx="7" cy="0" rx="7" ry="2.5" fill="#fde68a" stroke="#374151" stroke-width="0.6"/>
+  </g>
+  <g transform="translate(66, 10)">
+    <rect x="0" y="0" width="14" height="24" rx="2" fill="#22c55e" stroke="#374151" stroke-width="1"/>
+    <ellipse cx="7" cy="0" rx="7" ry="2.5" fill="#86efac" stroke="#374151" stroke-width="0.6"/>
+  </g>
+
+  <!-- Middle row (3 cans) -->
+  <g transform="translate(26, 36)">
+    <rect x="0" y="0" width="14" height="24" rx="2" fill="#a78bfa" stroke="#374151" stroke-width="1"/>
+    <ellipse cx="7" cy="0" rx="7" ry="2.5" fill="#c4b5fd" stroke="#374151" stroke-width="0.6"/>
+  </g>
+  <g transform="translate(42, 36)">
+    <rect x="0" y="0" width="14" height="24" rx="2" fill="#f97316" stroke="#374151" stroke-width="1"/>
+    <ellipse cx="7" cy="0" rx="7" ry="2.5" fill="#fdba74" stroke="#374151" stroke-width="0.6"/>
+  </g>
+  <g transform="translate(58, 36)">
+    <rect x="0" y="0" width="14" height="24" rx="2" fill="#ec4899" stroke="#374151" stroke-width="1"/>
+    <ellipse cx="7" cy="0" rx="7" ry="2.5" fill="#f9a8d4" stroke="#374151" stroke-width="0.6"/>
+  </g>
+
+  <!-- Front row (2 cans) -->
+  <g transform="translate(34, 56)">
+    <rect x="0" y="0" width="14" height="24" rx="2" fill="#14b8a6" stroke="#374151" stroke-width="1"/>
+    <ellipse cx="7" cy="0" rx="7" ry="2.5" fill="#5eead4" stroke="#374151" stroke-width="0.6"/>
+  </g>
+  <g transform="translate(50, 56)">
+    <rect x="0" y="0" width="14" height="24" rx="2" fill="#ef4444" stroke="#374151" stroke-width="1"/>
+    <ellipse cx="7" cy="0" rx="7" ry="2.5" fill="#fca5a5" stroke="#374151" stroke-width="0.6"/>
+  </g>
+
+  <!-- Front pin (1 can) -->
+  <g transform="translate(42, 76)">
+    <rect x="0" y="0" width="14" height="24" rx="2" fill="#3b82f6" stroke="#374151" stroke-width="1.2"/>
+    <ellipse cx="7" cy="0" rx="7" ry="2.5" fill="#93c5fd" stroke="#374151" stroke-width="0.8"/>
+  </g>
+
+  <!-- Bowling line on floor -->
+  <line x1="90" y1="86" x2="90" y2="116" stroke="#374151" stroke-width="1.5" stroke-dasharray="4,3"/>
+</svg>

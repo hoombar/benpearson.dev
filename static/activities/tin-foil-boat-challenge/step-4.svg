@@ -1,0 +1,38 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2"
+            stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <!-- Foil boat top-down view (the hero, centred) -->
+  <!-- Outer tray including walls -->
+  <rect x="20" y="42" width="80" height="62" rx="2" fill="#d1d5db" stroke="#374151" stroke-width="2.5"/>
+  <!-- Inner base of boat -->
+  <rect x="28" y="50" width="64" height="46" rx="1" fill="#e5e7eb" stroke="#374151" stroke-width="1.5"/>
+  <!-- Shimmer lines on base -->
+  <line x1="34" y1="62" x2="86" y2="65" stroke="#9ca3af" stroke-width="0.75" stroke-linecap="round"/>
+  <line x1="32" y1="76" x2="88" y2="78" stroke="#9ca3af" stroke-width="0.75" stroke-linecap="round"/>
+  <!-- Coins already loaded (golden circles) -->
+  <circle cx="48" cy="68" r="8" fill="#fde68a" stroke="#374151" stroke-width="1.5"/>
+  <circle cx="48" cy="68" r="5" fill="none" stroke="#d97706" stroke-width="1"/>
+  <circle cx="72" cy="68" r="8" fill="#fde68a" stroke="#374151" stroke-width="1.5"/>
+  <circle cx="72" cy="68" r="5" fill="none" stroke="#d97706" stroke-width="1"/>
+  <circle cx="60" cy="82" r="8" fill="#fde68a" stroke="#374151" stroke-width="1.5"/>
+  <circle cx="60" cy="82" r="5" fill="none" stroke="#d97706" stroke-width="1"/>
+  <circle cx="48" cy="82" r="8" fill="#fde68a" stroke="#374151" stroke-width="1.5"/>
+  <circle cx="48" cy="82" r="5" fill="none" stroke="#d97706" stroke-width="1"/>
+  <!-- One coin descending from above (the next one being placed) -->
+  <circle cx="72" cy="26" r="8" fill="#f59e0b" stroke="#374151" stroke-width="2"/>
+  <circle cx="72" cy="26" r="5" fill="none" stroke="#d97706" stroke-width="1"/>
+  <!-- Arrow showing coin being placed down -->
+  <line x1="72" y1="36" x2="72" y2="48" stroke="#374151" stroke-width="2" stroke-linecap="round" marker-end="url(#arr)"/>
+  <!-- Count tally marks (top left area) -->
+  <line x1="20" y1="16" x2="20" y2="28" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="24" y1="16" x2="24" y2="28" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="28" y1="16" x2="28" y2="28" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="32" y1="16" x2="32" y2="28" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Diagonal tally cross line -->
+  <line x1="17" y1="28" x2="35" y2="16" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

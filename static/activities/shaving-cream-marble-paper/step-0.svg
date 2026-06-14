@@ -1,0 +1,40 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2"
+            stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <!-- Baking tray (hero) -->
+  <rect x="8" y="52" width="104" height="52" rx="4" fill="#e5e7eb" stroke="#374151" stroke-width="2.5"/>
+  <!-- Inner tray surface -->
+  <rect x="14" y="58" width="92" height="40" rx="2" fill="#f9fafb" stroke="#374151" stroke-width="1"/>
+  <!-- Shaving cream being squeezed in — white foam -->
+  <rect x="18" y="62" width="84" height="32" rx="2" fill="white" stroke="#e5e7eb" stroke-width="1"/>
+  <!-- Foam texture — bumpy top surface -->
+  <path d="M18 66 Q24 60 30 66 Q36 60 42 66 Q48 60 54 66 Q60 60 66 66 Q72 60 78 66 Q84 60 90 66 Q96 60 102 66" fill="none" stroke="#d1d5db" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Ruler being used to level the cream -->
+  <rect x="8" y="42" width="104" height="8" rx="2" fill="#fde68a" stroke="#374151" stroke-width="2"/>
+  <!-- Ruler markings -->
+  <line x1="20" y1="42" x2="20" y2="46" stroke="#374151" stroke-width="1"/>
+  <line x1="32" y1="42" x2="32" y2="46" stroke="#374151" stroke-width="1"/>
+  <line x1="44" y1="42" x2="44" y2="46" stroke="#374151" stroke-width="1"/>
+  <line x1="56" y1="42" x2="56" y2="46" stroke="#374151" stroke-width="1"/>
+  <line x1="68" y1="42" x2="68" y2="46" stroke="#374151" stroke-width="1"/>
+  <line x1="80" y1="42" x2="80" y2="46" stroke="#374151" stroke-width="1"/>
+  <line x1="92" y1="42" x2="92" y2="46" stroke="#374151" stroke-width="1"/>
+  <!-- Arrow: ruler moving across cream to level it -->
+  <path d="M20 46 L20 56" stroke="#374151" stroke-width="2" stroke-linecap="round" fill="none" marker-end="url(#arr)"/>
+  <!-- Shaving cream can (top left) -->
+  <g transform="translate(14, 12)">
+    <path d="M-6,16 Q-8,16 -8,10 L-8,-22 C-8,-34 -3,-34 -3,-44 L3,-44 C3,-34 8,-34 8,-22 L8,10 Q8,16 6,16 Z"
+          fill="#f9fafb" stroke="#374151" stroke-width="2" stroke-linejoin="round"/>
+    <!-- Can label -->
+    <rect x="-6" y="-12" width="12" height="16" fill="#dbeafe" stroke="#374151" stroke-width="1"/>
+    <!-- Nozzle and cap at top -->
+    <rect x="-2" y="-48" width="4" height="6" rx="1" fill="#374151" stroke="#374151" stroke-width="1"/>
+  </g>
+  <!-- Dashed lines: cream squeezing into tray -->
+  <line x1="14" y1="28" x2="18" y2="58" stroke="#374151" stroke-width="1.5" stroke-dasharray="4,3" stroke-linecap="round"/>
+</svg>

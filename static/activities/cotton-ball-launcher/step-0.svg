@@ -1,0 +1,39 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="5" y="100" width="110" height="10" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Paper cup (hero, centre) -->
+  <path d="M36,30 L32,90 L88,90 L84,30 Z" fill="#f9fafb" stroke="#374151" stroke-width="2"/>
+  <!-- Cup rim -->
+  <ellipse cx="60" cy="30" rx="24" ry="6" fill="#f3f4f6" stroke="#374151" stroke-width="1.5"/>
+  <!-- Cup bottom -->
+  <ellipse cx="60" cy="90" rx="28" ry="5" fill="#e5e7eb" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Dashed cut line around cup bottom -->
+  <ellipse cx="60" cy="86" rx="26" ry="4" fill="none" stroke="#ef4444" stroke-width="1.5" stroke-dasharray="4,3"/>
+
+  <!-- Scissors nearby -->
+  <g transform="translate(100,60) rotate(30)">
+    <!-- Blade 1 -->
+    <path d="M0,0 L-18,-4" stroke="#374151" stroke-width="2" stroke-linecap="round" fill="none"/>
+    <!-- Blade 2 -->
+    <path d="M0,0 L-18,4" stroke="#374151" stroke-width="2" stroke-linecap="round" fill="none"/>
+    <!-- Handle 1 -->
+    <ellipse cx="2" cy="-4" rx="5" ry="3" fill="#ef4444" stroke="#374151" stroke-width="1"/>
+    <!-- Handle 2 -->
+    <ellipse cx="2" cy="4" rx="5" ry="3" fill="#ef4444" stroke="#374151" stroke-width="1"/>
+    <!-- Pivot -->
+    <circle cx="0" cy="0" r="1.5" fill="#374151" stroke="none"/>
+  </g>
+
+  <!-- Arrow from scissors to cut line -->
+  <defs>
+    <marker id="arr" viewBox="0 0 6 6" refX="5" refY="3" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#374151"/>
+    </marker>
+  </defs>
+  <path d="M94,70 Q88,80 82,84" fill="none" stroke="#374151" stroke-width="1.2" marker-end="url(#arr)"/>
+
+  <!-- Cut-off bottom piece shown separated below -->
+  <ellipse cx="60" cy="98" rx="22" ry="3" fill="#e5e7eb" stroke="#374151" stroke-width="1" opacity="0.5"/>
+</svg>

@@ -1,0 +1,44 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Paper sheet -->
+  <rect x="8" y="36" width="72" height="56" rx="1" fill="white" stroke="#374151" stroke-width="1"/>
+
+  <!-- Stamped prints on paper -->
+  <!-- Heart print -->
+  <path d="M24,50 Q18,46 20,52 Q22,56 24,60 Q26,56 28,52 Q30,46 24,50 Z" fill="#ef4444" stroke="none" opacity="0.8"/>
+  <!-- Star print -->
+  <polygon points="50,48 51,52 55,52 52,55 53,59 50,56 47,59 48,55 45,52 49,52" fill="#3b82f6" stroke="none" opacity="0.8"/>
+  <!-- Circle print -->
+  <circle cx="68" cy="54" r="6" fill="none" stroke="#22c55e" stroke-width="2" opacity="0.8"/>
+
+  <!-- Tube being pressed down (hero) -->
+  <g transform="translate(32, 4)">
+    <rect x="0" y="0" width="16" height="40" rx="2" fill="#d4a574" stroke="#374151" stroke-width="1.2"/>
+    <!-- Heart-shaped bottom -->
+    <path d="M8,40 Q2,36 4,42 Q6,46 8,50 Q10,46 12,42 Q14,36 8,40 Z" fill="#ef4444" stroke="#374151" stroke-width="0.6"/>
+  </g>
+
+  <!-- Hand pressing tube -->
+  <g transform="translate(28, 0)">
+    <rect x="0" y="0" width="10" height="14" rx="5" fill="#fcd9b6" stroke="#374151" stroke-width="0.8"/>
+    <rect x="12" y="2" width="8" height="10" rx="4" fill="#fcd9b6" stroke="#374151" stroke-width="0.8"/>
+    <rect x="22" y="4" width="8" height="8" rx="4" fill="#fcd9b6" stroke="#374151" stroke-width="0.8"/>
+  </g>
+
+  <!-- Arrow showing press down -->
+  <defs>
+    <marker id="arr" viewBox="0 0 6 6" refX="5" refY="3" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#374151"/>
+    </marker>
+  </defs>
+  <line x1="60" y1="18" x2="60" y2="28" stroke="#374151" stroke-width="0.8" stroke-dasharray="2,2" marker-end="url(#arr)"/>
+
+  <!-- Paint pad off to the side -->
+  <g transform="translate(86, 50)">
+    <ellipse cx="14" cy="12" rx="14" ry="10" fill="#f3f4f6" stroke="#374151" stroke-width="0.6"/>
+    <ellipse cx="10" cy="10" rx="6" ry="4" fill="#ef4444" stroke="none" opacity="0.6"/>
+    <ellipse cx="18" cy="14" rx="6" ry="4" fill="#3b82f6" stroke="none" opacity="0.6"/>
+  </g>
+</svg>

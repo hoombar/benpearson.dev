@@ -1,0 +1,37 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Step 0: Design the Relic Base -->
+  <!-- Table background -->
+  <rect x="0" y="0" width="120" height="120" fill="#fef3c7" />
+
+  <!-- Main Cardboard Shield Base -->
+  <path d="M40,20 L80,20 L90,50 Q80,100 60,110 Q40,100 30,50 Z" fill="#d97706" stroke="#374151" stroke-width="2" />
+  <path d="M40,20 L80,20 L90,50 Q80,100 60,110 Q40,100 30,50 Z" fill="none" stroke="#b45309" stroke-width="1.5" transform="scale(0.9) translate(6, 6)" />
+
+  <!-- Glued String Design (Swirls) -->
+  <path d="M60,40 Q80,40 70,60 Q50,80 60,60 Q65,50 60,40" fill="none" stroke="#fef9c3" stroke-width="3" stroke-linecap="round" />
+  <circle cx="60" cy="60" r="1.5" fill="#fef9c3" />
+  
+  <!-- Glued Cardboard Stars -->
+  <polygon points="45,40 48,46 54,46 49,50 51,56 45,52 39,56 41,50 36,46 42,46" fill="#fbbf24" stroke="#374151" stroke-width="1.5" />
+  <polygon points="75,70 78,76 84,76 79,80 81,86 75,82 69,86 71,80 66,76 72,76" fill="#fbbf24" stroke="#374151" stroke-width="1.5" />
+
+  <!-- Glue Bottle -->
+  <g transform="translate(15, 70) rotate(-45)">
+    <!-- Bottle body -->
+    <rect x="-10" y="0" width="20" height="35" rx="4" fill="#ffffff" stroke="#374151" stroke-width="1.5" />
+    <!-- Label -->
+    <rect x="-10" y="10" width="20" height="15" fill="#3b82f6" />
+    <!-- Cap -->
+    <path d="M-6,0 L6,0 L3,-10 L-3,-10 Z" fill="#f97316" stroke="#374151" stroke-width="1.5" />
+    <!-- Glue drop coming out -->
+    <path d="M0,-12 Q3,-16 0,-20 Q-3,-16 0,-12" fill="#ffffff" stroke="#374151" stroke-width="1" />
+  </g>
+  
+  <!-- Scissors resting on table -->
+  <g transform="translate(95, 30) rotate(20)">
+    <line x1="-15" y1="-5" x2="15" y2="-5" stroke="#374151" stroke-width="2.5" stroke-linecap="round" />
+    <line x1="-15" y1="5" x2="15" y2="5" stroke="#374151" stroke-width="2.5" stroke-linecap="round" />
+    <circle cx="-15" cy="-8" r="6" fill="#ef4444" stroke="#374151" stroke-width="2" />
+    <circle cx="-15" cy="8" r="6" fill="#ef4444" stroke="#374151" stroke-width="2" />
+  </g>
+</svg>

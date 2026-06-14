@@ -1,0 +1,52 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Snake head - wider, flatter link (hero) -->
+  <g transform="translate(36, 20)">
+    <!-- Head shape - wider oval -->
+    <ellipse cx="22" cy="20" rx="22" ry="16" fill="#4ade80" stroke="#374151" stroke-width="1.5"/>
+    <!-- Googly eye left -->
+    <circle cx="14" cy="14" r="5" fill="#ffffff" stroke="#374151" stroke-width="1"/>
+    <circle cx="15" cy="13" r="2.5" fill="#374151" stroke="none"/>
+    <!-- Googly eye right -->
+    <circle cx="30" cy="14" r="5" fill="#ffffff" stroke="#374151" stroke-width="1"/>
+    <circle cx="31" cy="13" r="2.5" fill="#374151" stroke="none"/>
+    <!-- Nostrils -->
+    <circle cx="18" cy="24" r="1" fill="#374151" stroke="none"/>
+    <circle cx="26" cy="24" r="1" fill="#374151" stroke="none"/>
+    <!-- Forked tongue -->
+    <path d="M22,36 L22,46 L18,52" fill="none" stroke="#ef4444" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M22,46 L26,52" fill="none" stroke="#ef4444" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+
+  <!-- Chain body links trailing from head -->
+  <ellipse cx="36" cy="56" rx="8" ry="10" fill="none" stroke="#ef4444" stroke-width="4"/>
+  <ellipse cx="36" cy="56" rx="8" ry="10" fill="none" stroke="#374151" stroke-width="0.8"/>
+
+  <ellipse cx="36" cy="72" rx="8" ry="10" fill="none" stroke="#fbbf24" stroke-width="4"/>
+  <ellipse cx="36" cy="72" rx="8" ry="10" fill="none" stroke="#374151" stroke-width="0.8"/>
+
+  <ellipse cx="36" cy="88" rx="8" ry="10" fill="none" stroke="#3b82f6" stroke-width="4"/>
+  <ellipse cx="36" cy="88" rx="8" ry="10" fill="none" stroke="#374151" stroke-width="0.8"/>
+
+  <!-- Googly eyes packet -->
+  <g transform="translate(82, 18)">
+    <rect x="0" y="0" width="24" height="30" rx="2" fill="#f9fafb" stroke="#374151" stroke-width="1"/>
+    <!-- Eyes in packet -->
+    <circle cx="8" cy="10" r="4" fill="#ffffff" stroke="#374151" stroke-width="0.6"/>
+    <circle cx="9" cy="9" r="2" fill="#374151" stroke="none"/>
+    <circle cx="18" cy="10" r="4" fill="#ffffff" stroke="#374151" stroke-width="0.6"/>
+    <circle cx="19" cy="9" r="2" fill="#374151" stroke="none"/>
+    <circle cx="8" cy="22" r="4" fill="#ffffff" stroke="#374151" stroke-width="0.6"/>
+    <circle cx="9" cy="21" r="2" fill="#374151" stroke="none"/>
+    <circle cx="18" cy="22" r="4" fill="#ffffff" stroke="#374151" stroke-width="0.6"/>
+    <circle cx="19" cy="21" r="2" fill="#374151" stroke="none"/>
+  </g>
+
+  <!-- Small red paper strip for tongue -->
+  <rect x="86" y="60" width="20" height="4" rx="1" fill="#ef4444" stroke="#374151" stroke-width="0.6"/>
+  <!-- Forked cut on end -->
+  <path d="M106,60 L110,58" fill="none" stroke="#ef4444" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M106,64 L110,66" fill="none" stroke="#ef4444" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

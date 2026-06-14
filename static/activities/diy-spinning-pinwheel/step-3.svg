@@ -1,0 +1,31 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2"
+            stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <!-- Straw handle -->
+  <rect x="55" y="70" width="8" height="44" rx="3" stroke="#374151" stroke-width="1.5" fill="#fde68a"/>
+  <!-- Tape stopper -->
+  <rect x="52" y="80" width="14" height="5" rx="2" stroke="#374151" stroke-width="1.5" fill="#dbeafe"/>
+  <!-- Pinwheel: 4 coloured blades radiating from centre at 60,60 -->
+  <!-- Blade 1 (red) — top-left -->
+  <path d="M60 60 L28 28 L54 54 Z" fill="#ef4444" stroke="#374151" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Blade 2 (yellow) — top-right -->
+  <path d="M60 60 L92 28 L66 54 Z" fill="#f59e0b" stroke="#374151" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Blade 3 (blue) — bottom-right -->
+  <path d="M60 60 L92 92 L66 66 Z" fill="#3b82f6" stroke="#374151" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Blade 4 (green) — bottom-left -->
+  <path d="M60 60 L28 92 L54 66 Z" fill="#22c55e" stroke="#374151" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Centre circle -->
+  <circle cx="60" cy="60" r="6" stroke="#374151" stroke-width="2" fill="#e5e7eb"/>
+  <!-- Spin motion arcs -->
+  <path d="M38 28 Q22 44 22 62" stroke="#374151" stroke-width="1.5" stroke-dasharray="4,3" stroke-linecap="round" fill="none" marker-end="url(#arr)"/>
+  <path d="M94 42 Q108 58 106 76" stroke="#374151" stroke-width="1.5" stroke-dasharray="4,3" stroke-linecap="round" fill="none" marker-end="url(#arr)"/>
+  <!-- Wind lines -->
+  <line x1="4" y1="30" x2="24" y2="30" stroke="#93c5fd" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="8" y1="38" x2="20" y2="38" stroke="#93c5fd" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="4" y1="46" x2="18" y2="46" stroke="#93c5fd" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

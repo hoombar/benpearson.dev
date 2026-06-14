@@ -1,0 +1,37 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- White paper strip (hero) -->
+  <rect x="8" y="30" width="80" height="14" rx="1" fill="white" stroke="#374151" stroke-width="0.8"/>
+
+  <!-- Zigzag cut line -->
+  <polyline points="8,37 16,30 24,44 32,30 40,44 48,30 56,44 64,30 72,44 80,30 88,44" fill="none" stroke="#ef4444" stroke-width="0.8" stroke-dasharray="3,2"/>
+
+  <!-- Finished zigzag strip -->
+  <g transform="translate(8, 56)">
+    <polygon points="0,14 8,0 16,14 24,0 32,14 40,0 48,14 56,0 64,14 72,0 80,14" fill="white" stroke="#374151" stroke-width="0.8"/>
+  </g>
+
+  <!-- Second zigzag strip -->
+  <g transform="translate(8, 76)">
+    <polygon points="0,14 8,0 16,14 24,0 32,14 40,0 48,14 56,0 64,14 72,0 80,14" fill="white" stroke="#374151" stroke-width="0.8"/>
+  </g>
+
+  <!-- Scissors cutting zigzag -->
+  <g transform="translate(86, 28) rotate(10)">
+    <path d="M0,0 L14,5" fill="none" stroke="#9ca3af" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M0,0 L14,-5" fill="none" stroke="#9ca3af" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="0" cy="0" r="1.5" fill="#374151"/>
+    <ellipse cx="18" cy="6" rx="5" ry="3.5" fill="none" stroke="#ef4444" stroke-width="1.2"/>
+    <ellipse cx="18" cy="-6" rx="5" ry="3.5" fill="none" stroke="#ef4444" stroke-width="1.2"/>
+  </g>
+
+  <!-- Arrow showing cut direction -->
+  <defs>
+    <marker id="arr" viewBox="0 0 6 6" refX="5" refY="3" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#374151"/>
+    </marker>
+  </defs>
+  <line x1="52" y1="48" x2="52" y2="54" stroke="#374151" stroke-width="0.8" stroke-dasharray="2,2" marker-end="url(#arr)"/>
+</svg>

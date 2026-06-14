@@ -1,0 +1,60 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <!-- Table / Environment background -->
+  <rect x="0" y="50" width="120" height="70" fill="#fef3c7" />
+  <line x1="0" y1="50" x2="120" y2="50" stroke="#374151" stroke-width="2" />
+  <!-- Dirt/sand texture on the table to show excavation -->
+  <path d="M0 80 Q30 70 60 85 T120 75 L120 120 L0 120 Z" fill="#d97706" opacity="0.3"/>
+  
+  <!-- Baking tray / Metal sheet (angled) -->
+  <g transform="translate(60, 65)">
+    <!-- Base -->
+    <path d="M-45 -10 L35 -10 L45 25 L-35 25 Z" fill="#9ca3af" stroke="#374151" stroke-width="2" stroke-linejoin="round"/>
+    <!-- Rim inner -->
+    <path d="M-40 -5 L30 -5 L38 20 L-28 20 Z" fill="#e5e7eb" stroke="#374151" stroke-width="1.5" stroke-linejoin="round"/>
+    
+    <!-- Fossil 1 -->
+    <g transform="translate(-15, 0)">
+      <path d="M-10 2 L-10 6 Q-10 12 0 12 Q10 12 10 6 L10 2 Z" fill="#d97706" stroke="#374151" stroke-width="1.5" stroke-linejoin="round"/>
+      <ellipse cx="0" cy="2" rx="10" ry="4" fill="#fbbf24" stroke="#374151" stroke-width="1.5"/>
+      <!-- Small skeleton imprint -->
+      <path d="M-4 2 L4 2 M0 0 L0 4 M-2 0 L-2 4 M2 0 L2 4" stroke="#b45309" stroke-width="1"/>
+      <!-- Heat waves -->
+      <path d="M-2 -8 Q0 -12 -2 -16 T-2 -24" stroke="#ef4444" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+    </g>
+    
+    <!-- Fossil 2 -->
+    <g transform="translate(15, 8)">
+      <path d="M-12 2 L-12 6 Q-12 13 0 13 Q12 13 12 6 L12 2 Z" fill="#d97706" stroke="#374151" stroke-width="1.5" stroke-linejoin="round"/>
+      <ellipse cx="0" cy="2" rx="12" ry="5" fill="#fbbf24" stroke="#374151" stroke-width="1.5"/>
+      <!-- Footprint imprint -->
+      <circle cx="0" cy="2" r="2" fill="#b45309"/>
+      <circle cx="-3" cy="0" r="1" fill="#b45309"/>
+      <circle cx="3" cy="0" r="1" fill="#b45309"/>
+      <circle cx="0" cy="-2" r="1" fill="#b45309"/>
+      <!-- Heat waves -->
+      <path d="M0 -10 Q2 -14 0 -18 T0 -26" stroke="#ef4444" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+    </g>
+  </g>
+  
+  <!-- Brush for excavating (lying next to tray) -->
+  <g transform="translate(20, 100) rotate(-20)">
+    <!-- Handle -->
+    <rect x="-15" y="-3" width="20" height="6" rx="3" fill="#fcd34d" stroke="#374151" stroke-width="1.5"/>
+    <!-- Bristles -->
+    <path d="M5 -4 L15 -5 L16 5 L5 4 Z" fill="#fef3c7" stroke="#374151" stroke-width="1.5" stroke-linejoin="round"/>
+    <line x1="8" y1="-3" x2="14" y2="-4" stroke="#374151" stroke-width="0.5"/>
+    <line x1="8" y1="3" x2="14" y2="4" stroke="#374151" stroke-width="0.5"/>
+  </g>
+  
+  <!-- Magnifying Glass -->
+  <g transform="translate(100, 95) rotate(30)">
+    <line x1="0" y1="0" x2="0" y2="15" stroke="#374151" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="0" cy="-10" r="10" fill="#e0f2fe" stroke="#374151" stroke-width="2"/>
+    <path d="M-4 -14 Q-2 -16 2 -16" stroke="#ffffff" stroke-width="2" stroke-linecap="round" fill="none"/>
+  </g>
+</svg>

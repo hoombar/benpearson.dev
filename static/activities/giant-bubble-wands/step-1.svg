@@ -1,0 +1,29 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="5" markerHeight="5" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <!-- Finished wand (hero, centre) -->
+  <!-- Handle (straight pipe cleaner) -->
+  <line x1="60" y1="110" x2="60" y2="62" stroke="#c4b5fd" stroke-width="4" stroke-linecap="round"/>
+  <!-- Loop at top -->
+  <circle cx="60" cy="44" r="18" stroke="#c4b5fd" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <!-- Wrap at join point (base of loop) -->
+  <circle cx="60" cy="62" r="4" fill="#a78bfa" stroke="#374151" stroke-width="1.5"/>
+  <!-- Construction sequence (left side, small) -->
+  <!-- Step A: straight pipe cleaner -->
+  <line x1="12" y1="30" x2="12" y2="90" stroke="#c4b5fd" stroke-width="3" stroke-linecap="round"/>
+  <text x="6" y="22" font-size="7" fill="#374151" font-family="sans-serif">1.</text>
+  <!-- Step B: bent into circle with handle -->
+  <circle cx="34" cy="44" r="10" stroke="#c4b5fd" stroke-width="3" fill="none"/>
+  <line x1="34" y1="54" x2="34" y2="82" stroke="#c4b5fd" stroke-width="3" stroke-linecap="round"/>
+  <text x="28" y="22" font-size="7" fill="#374151" font-family="sans-serif">2.</text>
+  <!-- Arrow pointing to finished wand -->
+  <line x1="46" y1="56" x2="56" y2="52" stroke="#374151" stroke-width="1.5" stroke-linecap="round" marker-end="url(#arr)"/>
+  <!-- Dimension hint: 4cm circle -->
+  <line x1="84" y1="44" x2="100" y2="44" stroke="#374151" stroke-width="1" stroke-linecap="round" stroke-dasharray="3,2"/>
+  <line x1="84" y1="40" x2="84" y2="48" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+  <line x1="100" y1="40" x2="100" y2="48" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+</svg>

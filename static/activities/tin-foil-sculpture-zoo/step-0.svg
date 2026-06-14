@@ -1,0 +1,33 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="5" y="90" width="110" height="12" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Foil roll -->
+  <rect x="14" y="18" width="92" height="30" rx="4" fill="#e5e7eb" stroke="#374151" stroke-width="2"/>
+  <!-- Roll end circles -->
+  <ellipse cx="14" cy="33" rx="4" ry="15" fill="#d1d5db" stroke="#374151" stroke-width="1.5"/>
+  <ellipse cx="106" cy="33" rx="4" ry="15" fill="#d1d5db" stroke="#374151" stroke-width="1.5"/>
+  <!-- Foil sheen lines -->
+  <line x1="30" y1="24" x2="30" y2="42" stroke="#f9fafb" stroke-width="0.75" opacity="0.5"/>
+  <line x1="50" y1="24" x2="50" y2="42" stroke="#f9fafb" stroke-width="0.75" opacity="0.5"/>
+  <line x1="70" y1="24" x2="70" y2="42" stroke="#f9fafb" stroke-width="0.75" opacity="0.5"/>
+  <line x1="90" y1="24" x2="90" y2="42" stroke="#f9fafb" stroke-width="0.75" opacity="0.5"/>
+
+  <!-- Torn sheets laid out on table -->
+  <rect x="10" y="56" width="30" height="32" rx="1" fill="#e5e7eb" stroke="#374151" stroke-width="1.5"/>
+  <!-- Sheen -->
+  <line x1="16" y1="60" x2="16" y2="84" stroke="#f9fafb" stroke-width="1" opacity="0.4"/>
+  <line x1="28" y1="60" x2="28" y2="84" stroke="#f9fafb" stroke-width="1" opacity="0.4"/>
+
+  <rect x="46" y="56" width="30" height="32" rx="1" fill="#e5e7eb" stroke="#374151" stroke-width="1.5"/>
+  <line x1="52" y1="60" x2="52" y2="84" stroke="#f9fafb" stroke-width="1" opacity="0.4"/>
+  <line x1="64" y1="60" x2="64" y2="84" stroke="#f9fafb" stroke-width="1" opacity="0.4"/>
+
+  <rect x="82" y="56" width="30" height="32" rx="1" fill="#e5e7eb" stroke="#374151" stroke-width="1.5"/>
+  <line x1="88" y1="60" x2="88" y2="84" stroke="#f9fafb" stroke-width="1" opacity="0.4"/>
+  <line x1="100" y1="60" x2="100" y2="84" stroke="#f9fafb" stroke-width="1" opacity="0.4"/>
+
+  <!-- Torn edge on sheets -->
+  <path d="M40,56 L42,62 L38,68 L41,74 L39,80 L40,88" stroke="#374151" stroke-width="1" fill="none"/>
+  <path d="M76,56 L78,62 L74,68 L77,74 L75,80 L76,88" stroke="#374151" stroke-width="1" fill="none"/>
+</svg>

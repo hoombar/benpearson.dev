@@ -1,0 +1,32 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="4" y="106" width="112" height="6" rx="2" fill="#e5e7eb" stroke="#374151" stroke-width="1.5"/>
+  <!-- Base bundle (simplified side view) -->
+  <rect x="10" y="90" width="76" height="14" rx="3" fill="#fbbf24" stroke="#374151" stroke-width="2"/>
+  <!-- Tape on base ends -->
+  <rect x="10" y="90" width="12" height="14" rx="1" fill="#d1fae5" stroke="#374151" stroke-width="1" opacity="0.8"/>
+  <!-- Two upright pivot straws at right end -->
+  <rect x="80" y="46" width="6" height="46" rx="3" fill="#fbbf24" stroke="#374151" stroke-width="1.5"/>
+  <rect x="88" y="46" width="6" height="46" rx="3" fill="#60a5fa" stroke="#374151" stroke-width="1.5"/>
+  <!-- Rubber band looped around uprights -->
+  <path d="M80 68 Q70 60 60 68 Q70 76 80 68 Z" fill="#f87171" fill-opacity="0.5" stroke="#f87171" stroke-width="2"/>
+  <path d="M94 68 Q104 60 110 68 Q104 76 94 68 Z" fill="#f87171" fill-opacity="0.5" stroke="#f87171" stroke-width="2" transform="scale(-1,1) translate(-120,0)"/>
+  <!-- Actually: rubber band as a simple loop shape -->
+  <!-- Rubber band drawn as stretched oval around both uprights -->
+  <ellipse cx="87" cy="68" rx="12" ry="8" fill="none" stroke="#ef4444" stroke-width="2.5"/>
+  <!-- Catapult arm (spoon-straw) at rest position, horizontal -->
+  <rect x="14" y="86" width="72" height="5" rx="2" fill="#4ade80" stroke="#374151" stroke-width="1.5"/>
+  <!-- Spoon bowl at left end of arm -->
+  <ellipse cx="14" cy="88" rx="10" ry="7" fill="#d1d5db" stroke="#374151" stroke-width="1.5"/>
+  <ellipse cx="14" cy="88" rx="6" ry="4" fill="#e5e7eb" stroke="#374151" stroke-width="1"/>
+  <!-- Arm crossing under rubber band — indicated with dot at intersection -->
+  <circle cx="87" cy="88" r="4" fill="#374151"/>
+  <!-- Tension arrow showing rubber band pulling arm up -->
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="5" markerHeight="5" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <path d="M108 80 L96 74" stroke="#374151" stroke-width="2" fill="none" stroke-linecap="round" marker-end="url(#arr)"/>
+</svg>

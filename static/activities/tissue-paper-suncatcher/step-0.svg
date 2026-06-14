@@ -1,0 +1,27 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="5" markerHeight="5" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <!-- Table surface -->
+  <rect x="6" y="72" width="108" height="6" rx="2" fill="#e5e7eb" stroke="#374151" stroke-width="1.5"/>
+  <!-- Cling film sheet (hero) — transparent blue tint -->
+  <rect x="22" y="26" width="76" height="46" rx="2" fill="#dbeafe" fill-opacity="0.45" stroke="#374151" stroke-width="2" stroke-dasharray="5,3"/>
+  <!-- Sticky texture lines on cling film -->
+  <line x1="30" y1="38" x2="88" y2="38" stroke="#93c5fd" stroke-width="0.8" opacity="0.6"/>
+  <line x1="30" y1="50" x2="88" y2="50" stroke="#93c5fd" stroke-width="0.8" opacity="0.6"/>
+  <line x1="30" y1="62" x2="88" y2="62" stroke="#93c5fd" stroke-width="0.8" opacity="0.6"/>
+  <!-- Tape strips at corners -->
+  <rect x="18" y="22" width="14" height="7" rx="1" fill="#d1fae5" stroke="#374151" stroke-width="1" opacity="0.85"/>
+  <rect x="88" y="22" width="14" height="7" rx="1" fill="#d1fae5" stroke="#374151" stroke-width="1" opacity="0.85"/>
+  <rect x="18" y="67" width="14" height="7" rx="1" fill="#d1fae5" stroke="#374151" stroke-width="1" opacity="0.85"/>
+  <rect x="88" y="67" width="14" height="7" rx="1" fill="#d1fae5" stroke="#374151" stroke-width="1" opacity="0.85"/>
+  <!-- Arrow pointing down to sticky surface -->
+  <path d="M60 8 L60 20" stroke="#374151" stroke-width="2" fill="none" stroke-linecap="round" marker-end="url(#arr)"/>
+  <!-- Cling film roll above -->
+  <rect x="44" y="4" width="32" height="8" rx="3" fill="#bfdbfe" stroke="#374151" stroke-width="1.5"/>
+  <ellipse cx="44" cy="8" rx="4" ry="4" fill="#93c5fd" stroke="#374151" stroke-width="1.5"/>
+  <ellipse cx="76" cy="8" rx="4" ry="4" fill="#93c5fd" stroke="#374151" stroke-width="1.5"/>
+</svg>

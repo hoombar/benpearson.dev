@@ -1,0 +1,35 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="5" y="100" width="110" height="10" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Assembled butterfly (hero, large) -->
+  <!-- Left wing -->
+  <path d="M56,52 Q36,28 26,42 Q16,56 36,64 Q46,68 56,52 Z" fill="#c4b5fd" stroke="#374151" stroke-width="1.5" opacity="0.7"/>
+  <path d="M56,52 Q38,30 30,44 Q22,58 40,64 Q48,66 56,52 Z" fill="#fbcfe8" stroke="none" opacity="0.5"/>
+
+  <!-- Right wing -->
+  <path d="M64,52 Q84,28 94,42 Q104,56 84,64 Q74,68 64,52 Z" fill="#c4b5fd" stroke="#374151" stroke-width="1.5" opacity="0.7"/>
+  <path d="M64,52 Q82,30 90,44 Q98,58 80,64 Q72,66 64,52 Z" fill="#fbcfe8" stroke="none" opacity="0.5"/>
+
+  <!-- Clothespin body (vertical, centre) -->
+  <rect x="56" y="38" width="8" height="52" rx="3" fill="#a855f7" stroke="#374151" stroke-width="2"/>
+  <!-- Split -->
+  <line x1="60" y1="72" x2="60" y2="90" stroke="#374151" stroke-width="1"/>
+  <!-- Spring -->
+  <circle cx="60" cy="68" r="2" fill="#e5e7eb" stroke="#374151" stroke-width="0.8"/>
+
+  <!-- Pipe cleaner antennae -->
+  <path d="M58,38 Q52,24 46,16" fill="none" stroke="#22c55e" stroke-width="2" stroke-linecap="round"/>
+  <!-- Left antenna spiral -->
+  <circle cx="44" cy="14" r="3" fill="none" stroke="#22c55e" stroke-width="2"/>
+
+  <path d="M62,38 Q68,24 74,16" fill="none" stroke="#22c55e" stroke-width="2" stroke-linecap="round"/>
+  <!-- Right antenna spiral -->
+  <circle cx="76" cy="14" r="3" fill="none" stroke="#22c55e" stroke-width="2"/>
+
+  <!-- Googly eyes -->
+  <circle cx="57" cy="42" r="3" fill="#f9fafb" stroke="#374151" stroke-width="1"/>
+  <circle cx="57" cy="43" r="1.5" fill="#374151" stroke="none"/>
+  <circle cx="63" cy="42" r="3" fill="#f9fafb" stroke="#374151" stroke-width="1"/>
+  <circle cx="63" cy="43" r="1.5" fill="#374151" stroke="none"/>
+</svg>

@@ -1,0 +1,60 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Complete totem pole - stacked tubes -->
+
+  <!-- Bottom: Fish (yellow) -->
+  <rect x="36" y="72" width="30" height="26" rx="4" fill="#eab308" stroke="#374151" stroke-width="1.2"/>
+  <!-- Fish eyes -->
+  <circle cx="44" cy="80" r="2.5" fill="white" stroke="#374151" stroke-width="0.6"/>
+  <circle cx="58" cy="80" r="2.5" fill="white" stroke="#374151" stroke-width="0.6"/>
+  <circle cx="44.5" cy="80.5" r="1.2" fill="#374151"/>
+  <circle cx="58.5" cy="80.5" r="1.2" fill="#374151"/>
+  <!-- Fish mouth -->
+  <ellipse cx="51" cy="86" rx="2.5" ry="1.5" fill="#fca5a5" stroke="#374151" stroke-width="0.5"/>
+  <!-- Fish fins -->
+  <path d="M36,78 L28,74 L28,82 Z" fill="#eab308" stroke="#374151" stroke-width="0.6"/>
+  <path d="M66,78 L74,74 L74,82 Z" fill="#eab308" stroke="#374151" stroke-width="0.6"/>
+  <!-- Scales -->
+  <path d="M40,90 Q44,88 48,90 Q52,88 56,90 Q60,88 62,90" fill="none" stroke="#a16207" stroke-width="0.5"/>
+
+  <!-- Middle: Bear (blue) -->
+  <rect x="36" y="46" width="30" height="26" rx="4" fill="#3b82f6" stroke="#374151" stroke-width="1.2"/>
+  <!-- Bear ears -->
+  <circle cx="38" cy="48" r="5" fill="#3b82f6" stroke="#374151" stroke-width="0.8"/>
+  <circle cx="64" cy="48" r="5" fill="#3b82f6" stroke="#374151" stroke-width="0.8"/>
+  <circle cx="38" cy="48" r="2.5" fill="#93c5fd" stroke="#374151" stroke-width="0.4"/>
+  <circle cx="64" cy="48" r="2.5" fill="#93c5fd" stroke="#374151" stroke-width="0.4"/>
+  <!-- Bear eyes -->
+  <circle cx="44" cy="54" r="2.5" fill="white" stroke="#374151" stroke-width="0.6"/>
+  <circle cx="58" cy="54" r="2.5" fill="white" stroke="#374151" stroke-width="0.6"/>
+  <circle cx="44.5" cy="54.5" r="1.2" fill="#374151"/>
+  <circle cx="58.5" cy="54.5" r="1.2" fill="#374151"/>
+  <!-- Bear nose -->
+  <ellipse cx="51" cy="60" rx="3.5" ry="2.5" fill="#1e3a5f" stroke="#374151" stroke-width="0.6"/>
+  <!-- Bear mouth -->
+  <path d="M47,64 Q51,67 55,64" fill="none" stroke="#374151" stroke-width="0.6" stroke-linecap="round"/>
+
+  <!-- Top: Eagle (red) -->
+  <rect x="36" y="16" width="30" height="30" rx="4" fill="#ef4444" stroke="#374151" stroke-width="1.2"/>
+  <ellipse cx="51" cy="16" rx="15" ry="5" fill="#fca5a5" stroke="#374151" stroke-width="1"/>
+  <!-- Eagle eyes -->
+  <circle cx="44" cy="26" r="3" fill="white" stroke="#374151" stroke-width="0.6"/>
+  <circle cx="58" cy="26" r="3" fill="white" stroke="#374151" stroke-width="0.6"/>
+  <circle cx="44.5" cy="26.5" r="1.5" fill="#374151"/>
+  <circle cx="58.5" cy="26.5" r="1.5" fill="#374151"/>
+  <!-- Fierce eyebrows -->
+  <line x1="41" y1="22" x2="47" y2="23.5" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+  <line x1="61" y1="22" x2="55" y2="23.5" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+  <!-- Beak -->
+  <polygon points="51,30 48,36 54,36" fill="#f97316" stroke="#374151" stroke-width="0.6"/>
+  <!-- Wings spread wide -->
+  <path d="M36,24 L16,18 L12,26 L20,30 L36,34" fill="#ef4444" stroke="#374151" stroke-width="0.8"/>
+  <path d="M66,24 L86,18 L90,26 L82,30 L66,34" fill="#ef4444" stroke="#374151" stroke-width="0.8"/>
+  <!-- Wing feather details -->
+  <line x1="18" y1="20" x2="22" y2="28" stroke="#374151" stroke-width="0.4"/>
+  <line x1="24" y1="20" x2="26" y2="30" stroke="#374151" stroke-width="0.4"/>
+  <line x1="84" y1="20" x2="80" y2="28" stroke="#374151" stroke-width="0.4"/>
+  <line x1="78" y1="20" x2="76" y2="30" stroke="#374151" stroke-width="0.4"/>
+</svg>

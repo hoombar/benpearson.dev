@@ -1,0 +1,30 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2"
+            stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <!-- String stretched across scene (hero) -->
+  <line x1="10" y1="56" x2="110" y2="56" stroke="#374151" stroke-width="3" stroke-linecap="round"/>
+  <!-- Left anchor point -->
+  <circle cx="10" cy="56" r="4" fill="#374151"/>
+  <!-- Right anchor point -->
+  <circle cx="110" cy="56" r="4" fill="#374151"/>
+  <!-- Straw threaded on string (hero centre piece) -->
+  <rect x="46" y="50" width="28" height="12" rx="5" stroke="#374151" stroke-width="2.5" fill="#fbbf24"/>
+  <!-- String visible through straw (inner line) -->
+  <line x1="10" y1="56" x2="46" y2="56" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="74" y1="56" x2="110" y2="56" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Slide arrows showing straw can move left/right -->
+  <line x1="40" y1="56" x2="22" y2="56" stroke="#374151" stroke-width="2" stroke-linecap="round" marker-end="url(#arr)"/>
+  <line x1="80" y1="56" x2="98" y2="56" stroke="#374151" stroke-width="2" stroke-linecap="round" marker-end="url(#arr)"/>
+  <!-- String threading through straw detail (exploded view below) -->
+  <line x1="30" y1="86" x2="90" y2="86" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+  <rect x="50" y="80" width="20" height="12" rx="5" stroke="#374151" stroke-width="2" fill="#fbbf24"/>
+  <line x1="10" y1="78" x2="30" y2="86" stroke="#374151" stroke-width="1" stroke-dasharray="3,2" stroke-linecap="round"/>
+  <text x="10" y="76" font-size="6" fill="#374151" font-family="monospace">thread</text>
+  <!-- Arrow from exploded view to main diagram -->
+  <line x1="60" y1="78" x2="60" y2="70" stroke="#374151" stroke-width="1.5" stroke-linecap="round" marker-end="url(#arr)"/>
+</svg>

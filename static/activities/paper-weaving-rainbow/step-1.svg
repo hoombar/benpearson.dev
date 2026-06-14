@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Background -->
+  <rect width="120" height="120" fill="#f9fafb"/>
+
+  <!-- Table surface -->
+  <rect x="0" y="96" width="120" height="24" fill="#e5e7eb" stroke="#374151" stroke-width="1"/>
+
+  <!-- Six rainbow strips, fanned/stacked slightly with shadows for depth -->
+  <!-- Red strip -->
+  <rect x="8" y="14" width="86" height="12" rx="2" fill="#ef4444" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+  <!-- highlight sheen -->
+  <rect x="10" y="15" width="40" height="4" rx="1" fill="#fca5a5" opacity="0.6"/>
+
+  <!-- Orange strip -->
+  <rect x="8" y="29" width="86" height="12" rx="2" fill="#f97316" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+  <rect x="10" y="30" width="40" height="4" rx="1" fill="#fdba74" opacity="0.6"/>
+
+  <!-- Yellow strip -->
+  <rect x="8" y="44" width="86" height="12" rx="2" fill="#f59e0b" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+  <rect x="10" y="45" width="40" height="4" rx="1" fill="#fde68a" opacity="0.6"/>
+
+  <!-- Green strip -->
+  <rect x="8" y="59" width="86" height="12" rx="2" fill="#22c55e" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+  <rect x="10" y="60" width="40" height="4" rx="1" fill="#86efac" opacity="0.6"/>
+
+  <!-- Blue strip -->
+  <rect x="8" y="74" width="86" height="12" rx="2" fill="#3b82f6" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+  <rect x="10" y="75" width="40" height="4" rx="1" fill="#93c5fd" opacity="0.6"/>
+
+  <!-- Purple strip -->
+  <rect x="8" y="89" width="86" height="12" rx="2" fill="#a78bfa" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+  <rect x="10" y="90" width="40" height="4" rx="1" fill="#c4b5fd" opacity="0.6"/>
+
+  <!-- Scissors at right — cutting a strip, blades pointing left -->
+  <g transform="translate(108,50) rotate(175)">
+    <line x1="0" y1="0" x2="16" y2="0" stroke="#374151" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="0" y1="0" x2="14" y2="4" stroke="#374151" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="-4" cy="-4" r="4" fill="#e5e7eb" stroke="#374151" stroke-width="2"/>
+    <circle cx="-4" cy="4" r="4" fill="#e5e7eb" stroke="#374151" stroke-width="2"/>
+  </g>
+</svg>

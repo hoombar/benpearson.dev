@@ -1,0 +1,45 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#374151"/>
+    </marker>
+  </defs>
+  <!-- Table surface -->
+  <line x1="5" y1="105" x2="115" y2="105" stroke="#e5e7eb" stroke-width="2"/>
+  <!-- Paper rectangle (the sail) -->
+  <rect x="20" y="15" width="38" height="50" rx="1" fill="#f9fafb" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+  <!-- Decorative stripes on sail -->
+  <line x1="22" y1="25" x2="56" y2="25" stroke="#3b82f6" stroke-width="3" stroke-linecap="round"/>
+  <line x1="22" y1="35" x2="56" y2="35" stroke="#ef4444" stroke-width="3" stroke-linecap="round"/>
+  <line x1="22" y1="45" x2="56" y2="45" stroke="#22c55e" stroke-width="3" stroke-linecap="round"/>
+  <line x1="22" y1="55" x2="56" y2="55" stroke="#f59e0b" stroke-width="3" stroke-linecap="round"/>
+  <!-- Hole near top -->
+  <circle cx="39" cy="19" r="2.5" fill="#e5e7eb" stroke="#374151" stroke-width="1.5"/>
+  <!-- Hole near bottom -->
+  <circle cx="39" cy="61" r="2.5" fill="#e5e7eb" stroke="#374151" stroke-width="1.5"/>
+  <!-- Arrow pointing to top hole -->
+  <line x1="55" y1="12" x2="43" y2="18" stroke="#374151" stroke-width="1" marker-end="url(#arr)" stroke-linecap="round"/>
+  <!-- Arrow pointing to bottom hole -->
+  <line x1="55" y1="68" x2="43" y2="62" stroke="#374151" stroke-width="1" marker-end="url(#arr)" stroke-linecap="round"/>
+  <!-- Scissors cutting paper from a sheet -->
+  <g transform="translate(14, 72) rotate(0)">
+    <path d="M0,0 L16,0" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M0,0 L15,5" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+    <circle cx="0" cy="0" r="1.5" fill="#e5e7eb" stroke="#374151" stroke-width="1"/>
+    <ellipse cx="-5" cy="-2" rx="4" ry="3" fill="none" stroke="#ef4444" stroke-width="1.5"/>
+    <ellipse cx="-5" cy="3.5" rx="4" ry="3" fill="none" stroke="#ef4444" stroke-width="1.5"/>
+  </g>
+  <!-- Paper sheet being cut -->
+  <rect x="28" y="75" width="50" height="22" rx="1" fill="#f9fafb" stroke="#374151" stroke-width="1.5"/>
+  <!-- Dashed cut line -->
+  <line x1="28" y1="75" x2="28" y2="97" stroke="#374151" stroke-width="1" stroke-dasharray="3,2"/>
+  <!-- Markers for decorating -->
+  <g transform="translate(88, 25)">
+    <!-- Red marker -->
+    <rect x="0" y="0" width="8" height="30" rx="2" fill="#ef4444" stroke="#374151" stroke-width="1.5"/>
+    <rect x="0" y="24" width="8" height="8" rx="1" fill="#fca5a5" stroke="#374151" stroke-width="1"/>
+    <!-- Blue marker -->
+    <rect x="14" y="5" width="8" height="30" rx="2" fill="#3b82f6" stroke="#374151" stroke-width="1.5"/>
+    <rect x="14" y="29" width="8" height="8" rx="1" fill="#93c5fd" stroke="#374151" stroke-width="1"/>
+  </g>
+</svg>

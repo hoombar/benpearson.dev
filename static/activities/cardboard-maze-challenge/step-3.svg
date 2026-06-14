@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Step 3: Test and Time the Run — marble rolling through maze, tilt arrows, stopwatch -->
+
+  <!-- Box outer (top-down, slightly smaller to leave room for UI) -->
+  <rect x="6" y="8" width="92" height="88" rx="3" fill="#fef3c7" stroke="#374151" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- box inner floor -->
+  <rect x="13" y="15" width="78" height="74" rx="2" fill="#fbbf24" opacity="0.2" stroke="#d97706" stroke-width="1" stroke-linecap="round"/>
+
+  <!-- Maze walls (simplified) -->
+  <rect x="13" y="30" width="40" height="6" rx="1" fill="#fbbf24" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <rect x="38" y="36" width="6" height="34" rx="1" fill="#fbbf24" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <rect x="52" y="48" width="38" height="6" rx="1" fill="#fbbf24" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <rect x="68" y="24" width="6" height="26" rx="1" fill="#fbbf24" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <rect x="13" y="64" width="38" height="6" rx="1" fill="#fbbf24" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- Entry hole green -->
+  <rect x="2" y="18" width="9" height="14" rx="2" fill="#22c55e" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Exit hole red -->
+  <rect x="89" y="80" width="9" height="14" rx="2" fill="#ef4444" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- Marble trail — dashed path from entry through corridors to marble position -->
+  <!-- Route: right along top (above Wall1) → down east of Wall1 (x=55) → left above Wall3
+       → down east of Wall2 (x=45) → right above Wall5 → down east of Wall5 to marble -->
+  <path d="M11,25 L55,25 L55,47 L45,47 L45,63 L52,63 L52,74"
+        fill="none" stroke="#374151" stroke-width="1.5" stroke-dasharray="4,3" stroke-linecap="round"/>
+
+  <!-- Marble (hero — vivid blue sphere, mid-route) -->
+  <circle cx="52" cy="74" r="9" fill="#3b82f6" stroke="#374151" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- marble highlight -->
+  <circle cx="49" cy="71" r="3" fill="#dbeafe" opacity="0.85"/>
+  <!-- marble shadow -->
+  <ellipse cx="54" cy="82" rx="7" ry="2.5" fill="#374151" opacity="0.18"/>
+
+  <!-- Tilt arrows — marker auto-aligns to path tangent, no hand-placed polygons -->
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2"
+            stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <!-- left side tilt down: tangent at (4,66) = (4−0, 66−60) = (4,6) → right-down -->
+  <path d="M4,54 Q0,60 4,66" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round" marker-end="url(#arr)"/>
+  <!-- right side tilt up: tangent at (98,34) = (98−102, 34−40) = (−4,−6) → up-left -->
+  <path d="M98,46 Q102,40 98,34" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round" marker-end="url(#arr)"/>
+
+  <!-- Stopwatch, top-right of canvas -->
+  <g transform="translate(108, 38)">
+    <!-- watch body -->
+    <circle cx="0" cy="0" r="12" fill="#f9fafb" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+    <!-- watch face ring -->
+    <circle cx="0" cy="0" r="9.5" fill="#f3f4f6" stroke="#d1d5db" stroke-width="1" stroke-linecap="round"/>
+    <!-- tick marks -->
+    <line x1="0" y1="-9.5" x2="0" y2="-7.5" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+    <line x1="9.5" y1="0" x2="7.5" y2="0" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+    <line x1="0" y1="9.5" x2="0" y2="7.5" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+    <line x1="-9.5" y1="0" x2="-7.5" y2="0" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+    <!-- minute hand -->
+    <line x1="0" y1="0" x2="0" y2="-7" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+    <!-- second hand red -->
+    <line x1="0" y1="0" x2="6" y2="-5" stroke="#ef4444" stroke-width="1.5" stroke-linecap="round"/>
+    <!-- crown -->
+    <rect x="-2" y="-14" width="4" height="4" rx="1" fill="#e5e7eb" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+    <!-- button -->
+    <rect x="-3" y="-18" width="6" height="4" rx="1" fill="#374151"/>
+  </g>
+</svg>

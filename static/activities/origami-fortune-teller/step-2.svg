@@ -1,0 +1,27 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="5" markerHeight="5" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <!-- Flipped square — now smaller after first fold (plain side up) -->
+  <rect x="22" y="22" width="76" height="76" rx="2" fill="#f3f4f6" stroke="#374151" stroke-width="2"/>
+  <!-- Four plain square sections visible after flipping -->
+  <line x1="60" y1="22" x2="60" y2="98" stroke="#374151" stroke-width="1.5" stroke-dasharray="4,3"/>
+  <line x1="22" y1="60" x2="98" y2="60" stroke="#374151" stroke-width="1.5" stroke-dasharray="4,3"/>
+  <!-- Centre point -->
+  <circle cx="60" cy="60" r="3" fill="#374151"/>
+  <!-- Second round of corners folding to centre (highlighted triangles) -->
+  <polygon points="22,22 60,22 60,60" fill="#bfdbfe" fill-opacity="0.6" stroke="#374151" stroke-width="1"/>
+  <polygon points="98,22 98,60 60,60" fill="#fde68a" fill-opacity="0.6" stroke="#374151" stroke-width="1"/>
+  <polygon points="22,98 60,98 60,60" fill="#86efac" fill-opacity="0.6" stroke="#374151" stroke-width="1"/>
+  <polygon points="98,98 60,98 60,60" fill="#f9a8d4" fill-opacity="0.6" stroke="#374151" stroke-width="1"/>
+  <!-- Arrows for second fold -->
+  <path d="M32 32 L54 54" stroke="#374151" stroke-width="2" fill="none" stroke-linecap="round" marker-end="url(#arr)"/>
+  <path d="M88 32 L66 54" stroke="#374151" stroke-width="2" fill="none" stroke-linecap="round" marker-end="url(#arr)"/>
+  <path d="M32 88 L54 66" stroke="#374151" stroke-width="2" fill="none" stroke-linecap="round" marker-end="url(#arr)"/>
+  <path d="M88 88 L66 66" stroke="#374151" stroke-width="2" fill="none" stroke-linecap="round" marker-end="url(#arr)"/>
+  <!-- Flip indicator in corner -->
+  <path d="M104 14 Q112 20 104 28" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round" marker-end="url(#arr)"/>
+</svg>

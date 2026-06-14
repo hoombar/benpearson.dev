@@ -1,0 +1,24 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Scissors (hero) -->
+  <g transform="translate(60,60) rotate(-30)">
+    <!-- Blade top -->
+    <ellipse cx="0" cy="-22" rx="4" ry="18" fill="#e5e7eb" stroke="#374151" stroke-width="1.5"/>
+    <!-- Blade bottom -->
+    <ellipse cx="0" cy="22" rx="4" ry="18" fill="#e5e7eb" stroke="#374151" stroke-width="1.5"/>
+    <!-- Handle top -->
+    <ellipse cx="0" cy="-46" rx="7" ry="8" fill="none" stroke="#374151" stroke-width="2"/>
+    <!-- Handle bottom -->
+    <ellipse cx="0" cy="46" rx="7" ry="8" fill="none" stroke="#374151" stroke-width="2"/>
+    <!-- Pivot screw -->
+    <circle cx="0" cy="0" r="3" fill="#9ca3af" stroke="#374151" stroke-width="1.5"/>
+  </g>
+  <!-- Cut puzzle pieces scattered below -->
+  <!-- Piece 1 — bottom left -->
+  <path d="M10 78 L10 100 Q16 100 16 92 Q16 84 22 84 L22 78 Z" fill="#bfdbfe" stroke="#374151" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Piece 2 -->
+  <path d="M26 80 L26 100 L50 100 L50 94 Q44 94 44 88 Q44 82 50 82 L50 80 Z" fill="#86efac" stroke="#374151" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Piece 3 -->
+  <path d="M54 78 L54 84 Q60 84 60 90 Q60 96 54 96 L54 104 L74 104 L74 78 Z" fill="#fde68a" stroke="#374151" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Piece 4 -->
+  <path d="M78 80 L78 104 L100 104 L100 80 Q94 80 94 86 Q94 92 88 92 Q82 92 82 86 Q82 80 78 80 Z" fill="#f87171" stroke="#374151" stroke-width="1.5" stroke-linejoin="round"/>
+</svg>

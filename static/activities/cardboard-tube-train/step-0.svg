@@ -1,0 +1,52 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Engine tube (hero) -->
+  <g transform="translate(20, 40)">
+    <!-- Tube body -->
+    <rect x="0" y="0" width="55" height="30" rx="4" fill="#ef4444" stroke="#374151" stroke-width="1.5"/>
+    <!-- Tube end circle visible -->
+    <ellipse cx="55" cy="15" rx="4" ry="15" fill="#dc2626" stroke="#374151" stroke-width="1"/>
+
+    <!-- Smokestack cone on top -->
+    <polygon points="10,-14 6,0 14,0" fill="#6b7280" stroke="#374151" stroke-width="1"/>
+    <!-- Smokestack base -->
+    <rect x="5" y="-2" width="10" height="4" rx="1" fill="#9ca3af" stroke="#374151" stroke-width="0.8"/>
+
+    <!-- Front face -->
+    <rect x="-4" y="4" width="8" height="22" rx="2" fill="#fbbf24" stroke="#374151" stroke-width="1"/>
+    <!-- Headlight -->
+    <circle cx="0" cy="12" r="3" fill="#fef3c7" stroke="#374151" stroke-width="0.8"/>
+  </g>
+
+  <!-- Tape roll nearby -->
+  <g transform="translate(90, 52)">
+    <ellipse cx="0" cy="0" rx="10" ry="10" fill="#d1fae5" stroke="#374151" stroke-width="1"/>
+    <ellipse cx="0" cy="0" rx="4" ry="4" fill="#fef3c7" stroke="#374151" stroke-width="0.6"/>
+  </g>
+
+  <!-- Arrow from tape to smokestack -->
+  <defs>
+    <marker id="arr" viewBox="0 0 6 6" refX="5" refY="3" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#374151"/>
+    </marker>
+  </defs>
+  <path d="M80,48 Q60,30 36,30" fill="none" stroke="#374151" stroke-width="0.8" stroke-dasharray="2,2" marker-end="url(#arr)"/>
+
+  <!-- Paper sheet for cone -->
+  <g transform="translate(86, 72)">
+    <rect x="0" y="0" width="22" height="18" rx="1" fill="white" stroke="#374151" stroke-width="0.8"/>
+    <!-- Cone outline drawn on paper -->
+    <polygon points="11,2 6,16 16,16" fill="none" stroke="#9ca3af" stroke-width="0.6" stroke-dasharray="2,1"/>
+  </g>
+
+  <!-- Scissors -->
+  <g transform="translate(14, 80)">
+    <path d="M0,0 L12,5" fill="none" stroke="#9ca3af" stroke-width="2" stroke-linecap="round"/>
+    <path d="M0,0 L12,-5" fill="none" stroke="#9ca3af" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="0" cy="0" r="1.2" fill="#374151"/>
+    <ellipse cx="-4" cy="3" rx="4" ry="3" fill="none" stroke="#ef4444" stroke-width="1.2"/>
+    <ellipse cx="-4" cy="-3" rx="4" ry="3" fill="none" stroke="#ef4444" stroke-width="1.2"/>
+  </g>
+</svg>

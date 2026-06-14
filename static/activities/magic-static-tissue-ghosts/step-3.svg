@@ -1,0 +1,25 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="120" height="120" fill="#fef3c7"/>
+  <rect x="0" y="90" width="120" height="30" fill="#fde68a"/> <!-- Table -->
+  <!-- Balloon hovering -->
+  <ellipse cx="60" cy="30" rx="30" ry="20" fill="#ef4444" stroke="#374151" stroke-width="2"/>
+  <path d="M90,30 L95,25 L95,35 Z" fill="#ef4444" stroke="#374151" stroke-width="2"/>
+  <path d="M95,30 Q100,25 105,35" fill="none" stroke="#374151" stroke-width="1.5"/>
+  <!-- Static electricity waves/lines pulling ghosts -->
+  <path d="M40,55 L40,45 M60,55 L60,45 M80,55 L80,45" stroke="#eab308" stroke-width="2" stroke-dasharray="2,2"/>
+  <path d="M35,60 L45,50 M55,60 L65,50 M75,60 L85,50" stroke="#eab308" stroke-width="1.5"/>
+  
+  <!-- Ghost 1 lifted up -->
+  <path d="M30,70 Q40,50 50,70 L50,90 Q45,85 40,90 Q35,85 30,90 Z" fill="#ffffff" stroke="#374151" stroke-width="1.5"/>
+  <circle cx="35" cy="65" r="2" fill="#374151"/>
+  <circle cx="45" cy="65" r="2" fill="#374151"/>
+  <ellipse cx="40" cy="75" rx="3" ry="5" fill="#374151"/>
+  <rect x="35" y="85" width="10" height="10" rx="1" fill="#9ca3af" stroke="#374151" stroke-width="1.5" opacity="0.8"/>
+  
+  <!-- Ghost 2 lifted up -->
+  <path d="M60,65 Q70,45 80,65 L80,90 Q75,85 70,90 Q65,85 60,90 Z" fill="#ffffff" stroke="#374151" stroke-width="1.5"/>
+  <circle cx="65" cy="60" r="2" fill="#374151"/>
+  <circle cx="75" cy="60" r="2" fill="#374151"/>
+  <ellipse cx="70" cy="70" rx="3" ry="5" fill="#374151"/>
+  <rect x="65" y="85" width="10" height="10" rx="1" fill="#9ca3af" stroke="#374151" stroke-width="1.5" opacity="0.8"/>
+</svg>

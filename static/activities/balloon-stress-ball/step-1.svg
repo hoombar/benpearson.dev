@@ -1,0 +1,42 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Funnel with balloon (hero) -->
+  <g transform="translate(36, 8)">
+    <!-- Funnel top -->
+    <rect x="10" y="0" width="16" height="10" rx="3" fill="#dbeafe" stroke="#374151" stroke-width="0.8" opacity="0.5"/>
+    <path d="M4,10 L32,10 L26,26 L10,26 Z" fill="#dbeafe" stroke="#374151" stroke-width="0.8" opacity="0.5"/>
+    <!-- Balloon neck stretched over bottom -->
+    <path d="M8,26 Q6,24 10,22 L26,22 Q30,24 28,26" fill="#f87171" stroke="#374151" stroke-width="0.5"/>
+    <!-- Balloon filling up with flour -->
+    <ellipse cx="18" cy="48" rx="18" ry="22" fill="#f87171" stroke="#374151" stroke-width="1.2"/>
+    <!-- Flour inside (visible through balloon) -->
+    <ellipse cx="18" cy="52" rx="14" ry="16" fill="#fef3c7" stroke="none" opacity="0.4"/>
+  </g>
+
+  <!-- Spoon pouring flour into funnel -->
+  <g transform="translate(68, 2) rotate(25)">
+    <ellipse cx="6" cy="4" rx="8" ry="4" fill="#e5e7eb" stroke="#374151" stroke-width="0.8"/>
+    <rect x="4" y="4" width="4" height="30" rx="1" fill="#e5e7eb" stroke="#374151" stroke-width="0.6"/>
+    <!-- Flour in spoon -->
+    <ellipse cx="6" cy="2" rx="5" ry="3" fill="#fef3c7" stroke="#d4a574" stroke-width="0.4"/>
+  </g>
+
+  <!-- Flour falling (dashed lines) -->
+  <line x1="52" y1="16" x2="52" y2="8" stroke="#d4a574" stroke-width="0.6" stroke-dasharray="2,2"/>
+  <line x1="56" y1="18" x2="56" y2="10" stroke="#d4a574" stroke-width="0.6" stroke-dasharray="2,2"/>
+
+  <!-- Flour bag -->
+  <g transform="translate(82, 48)">
+    <rect x="0" y="0" width="24" height="30" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="0.8"/>
+    <rect x="2" y="2" width="20" height="8" rx="1" fill="#f5f5f4" stroke="#374151" stroke-width="0.4"/>
+    <!-- Flour visible at top -->
+    <path d="M4,0 Q12,-4 20,0" fill="#fef3c7" stroke="#d4a574" stroke-width="0.5"/>
+  </g>
+
+  <!-- Hand holding funnel steady -->
+  <g transform="translate(26, 22)">
+    <rect x="0" y="0" width="10" height="18" rx="5" fill="#fcd9b6" stroke="#374151" stroke-width="0.8"/>
+  </g>
+</svg>

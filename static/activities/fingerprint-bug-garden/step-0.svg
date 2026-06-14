@@ -1,0 +1,35 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Paint palette setup — 4 colour blobs in container sections (hero) -->
+  <!-- Container lid / palette tray -->
+  <rect x="12" y="36" width="96" height="72" rx="6" fill="#e5e7eb" stroke="#374151" stroke-width="2.5"/>
+  <!-- Divider lines -->
+  <line x1="60" y1="36" x2="60" y2="108" stroke="#374151" stroke-width="1.5"/>
+  <line x1="12" y1="72" x2="108" y2="72" stroke="#374151" stroke-width="1.5"/>
+  <!-- Red paint blob (top-left section) -->
+  <ellipse cx="36" cy="54" rx="18" ry="12" fill="#ef4444" stroke="#374151" stroke-width="1.5"/>
+  <!-- Yellow paint blob (top-right section) -->
+  <ellipse cx="84" cy="54" rx="18" ry="12" fill="#f59e0b" stroke="#374151" stroke-width="1.5"/>
+  <!-- Blue paint blob (bottom-left) -->
+  <ellipse cx="36" cy="90" rx="18" ry="12" fill="#3b82f6" stroke="#374151" stroke-width="1.5"/>
+  <!-- Green paint blob (bottom-right) -->
+  <ellipse cx="84" cy="90" rx="18" ry="12" fill="#22c55e" stroke="#374151" stroke-width="1.5"/>
+  <!-- Fingerprint test mark (top-right, outside palette) -->
+  <ellipse cx="96" cy="18" rx="8" ry="10" fill="#ef4444" stroke="#374151" stroke-width="1.5"/>
+  <!-- Fingerprint ridges on test mark -->
+  <path d="M90 16 Q96 12 102 16" fill="none" stroke="#c53030" stroke-width="0.8" stroke-linecap="round"/>
+  <path d="M89 20 Q96 16 103 20" fill="none" stroke="#c53030" stroke-width="0.8" stroke-linecap="round"/>
+  <path d="M90 24 Q96 20 102 24" fill="none" stroke="#c53030" stroke-width="0.8" stroke-linecap="round"/>
+  <!-- Paint tubes/bottles beside palette -->
+  <!-- Red tube -->
+  <rect x="14" y="10" width="8" height="22" rx="3" fill="#f9fafb" stroke="#374151" stroke-width="1.5"/>
+  <rect x="14" y="6" width="8" height="6" rx="2" fill="#ef4444" stroke="#374151" stroke-width="1.5"/>
+  <!-- Yellow tube -->
+  <rect x="26" y="10" width="8" height="22" rx="3" fill="#f9fafb" stroke="#374151" stroke-width="1.5"/>
+  <rect x="26" y="6" width="8" height="6" rx="2" fill="#f59e0b" stroke="#374151" stroke-width="1.5"/>
+  <!-- Blue tube -->
+  <rect x="38" y="10" width="8" height="22" rx="3" fill="#f9fafb" stroke="#374151" stroke-width="1.5"/>
+  <rect x="38" y="6" width="8" height="6" rx="2" fill="#3b82f6" stroke="#374151" stroke-width="1.5"/>
+  <!-- Green tube -->
+  <rect x="50" y="10" width="8" height="22" rx="3" fill="#f9fafb" stroke="#374151" stroke-width="1.5"/>
+  <rect x="50" y="6" width="8" height="6" rx="2" fill="#22c55e" stroke="#374151" stroke-width="1.5"/>
+</svg>

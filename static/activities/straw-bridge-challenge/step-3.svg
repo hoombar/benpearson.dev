@@ -1,0 +1,67 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Left cup -->
+  <g transform="translate(10, 58)">
+    <path d="M0,0 L4,40 L28,40 L32,0 Z" fill="#fef3c7" stroke="#374151" stroke-width="1.2"/>
+    <ellipse cx="16" cy="0" rx="16" ry="4" fill="#fef3c7" stroke="#374151" stroke-width="1"/>
+  </g>
+
+  <!-- Right cup -->
+  <g transform="translate(78, 58)">
+    <path d="M0,0 L4,40 L28,40 L32,0 Z" fill="#fef3c7" stroke="#374151" stroke-width="1.2"/>
+    <ellipse cx="16" cy="0" rx="16" ry="4" fill="#fef3c7" stroke="#374151" stroke-width="1"/>
+  </g>
+
+  <!-- Bridge with truss (slightly bowing under weight) -->
+  <!-- Top deck with slight sag -->
+  <path d="M18,52 Q60,54 102,52" fill="none" stroke="#22c55e" stroke-width="3" stroke-linecap="round"/>
+  <path d="M18,56 Q60,58 102,56" fill="none" stroke="#3b82f6" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Bottom chord -->
+  <path d="M26,68 Q60,70 94,68" fill="none" stroke="#ef4444" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- Diagonal braces -->
+  <line x1="26" y1="54" x2="42" y2="68" stroke="#fbbf24" stroke-width="2" stroke-linecap="round"/>
+  <line x1="42" y1="68" x2="58" y2="54" stroke="#fbbf24" stroke-width="2" stroke-linecap="round"/>
+  <line x1="58" y1="54" x2="74" y2="68" stroke="#fbbf24" stroke-width="2" stroke-linecap="round"/>
+  <line x1="74" y1="68" x2="94" y2="54" stroke="#fbbf24" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Stack of coins on the bridge (hero focus) -->
+  <g transform="translate(52, 38)">
+    <ellipse cx="8" cy="14" rx="8" ry="3" fill="#fbbf24" stroke="#374151" stroke-width="0.6"/>
+    <ellipse cx="8" cy="12" rx="8" ry="3" fill="#fbbf24" stroke="#374151" stroke-width="0.6"/>
+    <ellipse cx="8" cy="10" rx="8" ry="3" fill="#fbbf24" stroke="#374151" stroke-width="0.6"/>
+    <ellipse cx="8" cy="8" rx="8" ry="3" fill="#fbbf24" stroke="#374151" stroke-width="0.6"/>
+    <ellipse cx="8" cy="6" rx="8" ry="3" fill="#fde68a" stroke="#374151" stroke-width="0.6"/>
+  </g>
+
+  <!-- Hand adding another coin -->
+  <g transform="translate(68, 10)">
+    <rect x="0" y="0" width="12" height="20" rx="6" fill="#fcd9b6" stroke="#374151" stroke-width="0.8"/>
+    <rect x="14" y="2" width="10" height="18" rx="5" fill="#fcd9b6" stroke="#374151" stroke-width="0.8"/>
+  </g>
+
+  <!-- Coin being placed -->
+  <ellipse cx="72" cy="32" rx="7" ry="3" fill="#fde68a" stroke="#374151" stroke-width="0.8"/>
+
+  <!-- Arrow showing coin going down -->
+  <defs>
+    <marker id="arr" viewBox="0 0 6 6" refX="5" refY="3" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#374151"/>
+    </marker>
+  </defs>
+  <path d="M72,36 Q66,38 62,40" fill="none" stroke="#374151" stroke-width="0.8" stroke-dasharray="2,2" marker-end="url(#arr)"/>
+
+  <!-- More coins waiting -->
+  <g transform="translate(8, 12)">
+    <ellipse cx="8" cy="10" rx="8" ry="3" fill="#fbbf24" stroke="#374151" stroke-width="0.6"/>
+    <ellipse cx="8" cy="8" rx="8" ry="3" fill="#fbbf24" stroke="#374151" stroke-width="0.6"/>
+    <ellipse cx="8" cy="6" rx="8" ry="3" fill="#fde68a" stroke="#374151" stroke-width="0.6"/>
+  </g>
+
+  <!-- Stress lines near centre -->
+  <line x1="56" y1="62" x2="58" y2="64" stroke="#ef4444" stroke-width="0.5" opacity="0.4"/>
+  <line x1="64" y1="62" x2="62" y2="64" stroke="#ef4444" stroke-width="0.5" opacity="0.4"/>
+</svg>

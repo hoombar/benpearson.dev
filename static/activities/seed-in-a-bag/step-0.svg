@@ -1,0 +1,59 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2"
+            stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <!-- Cup body (hero ~35% canvas width) -->
+  <path d="M30,52 L36,108 Q60,114 84,108 L90,52 Z"
+        fill="#f3f4f6" stroke="#374151" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Cup rim -->
+  <rect x="28" y="46" width="64" height="8" rx="2"
+        fill="#e5e7eb" stroke="#374151" stroke-width="2"/>
+  <!-- Water inside cup -->
+  <path d="M37,90 Q60,96 83,90 L84,108 Q60,114 36,108 Z"
+        fill="#93c5fd" stroke="none"/>
+  <!-- Water surface line -->
+  <path d="M37,90 Q60,84 83,90"
+        stroke="#3b82f6" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+
+  <!-- Three bean seeds (kidney-bean shape) at various heights above cup -->
+  <!-- Seed A - falling left -->
+  <ellipse cx="38" cy="22" rx="7" ry="5" fill="#d97706" stroke="#374151" stroke-width="1.5"
+           transform="rotate(-20 38 22)"/>
+  <path d="M34,20 Q38,17 42,20" fill="none" stroke="#92400e" stroke-width="1" stroke-linecap="round"/>
+  <!-- Dashed fall line A -->
+  <line x1="38" y1="28" x2="46" y2="44"
+        stroke="#374151" stroke-width="1.2" stroke-dasharray="3,3" stroke-linecap="round"/>
+
+  <!-- Seed B - falling centre -->
+  <ellipse cx="60" cy="16" rx="7" ry="5" fill="#d97706" stroke="#374151" stroke-width="1.5"
+           transform="rotate(5 60 16)"/>
+  <path d="M56,14 Q60,11 64,14" fill="none" stroke="#92400e" stroke-width="1" stroke-linecap="round"/>
+  <!-- Dashed fall line B -->
+  <line x1="60" y1="22" x2="60" y2="43"
+        stroke="#374151" stroke-width="1.2" stroke-dasharray="3,3" stroke-linecap="round"/>
+
+  <!-- Seed C - falling right -->
+  <ellipse cx="82" cy="24" rx="7" ry="5" fill="#d97706" stroke="#374151" stroke-width="1.5"
+           transform="rotate(15 82 24)"/>
+  <path d="M78,22 Q82,19 86,22" fill="none" stroke="#92400e" stroke-width="1" stroke-linecap="round"/>
+  <!-- Dashed fall line C -->
+  <line x1="78" y1="29" x2="70" y2="44"
+        stroke="#374151" stroke-width="1.2" stroke-dasharray="3,3" stroke-linecap="round"/>
+
+  <!-- One seed already submerged in water -->
+  <ellipse cx="60" cy="100" rx="7" ry="5" fill="#b45309" stroke="#374151" stroke-width="1.5"
+           transform="rotate(-10 60 100)"/>
+
+  <!-- Moon/clock symbol top-right: curved arrow indicating overnight wait -->
+  <path d="M100,14 Q112,24 104,36 Q96,48 84,44"
+        fill="none" stroke="#374151" stroke-width="1.5" stroke-linecap="round"
+        marker-end="url(#arr)"/>
+  <!-- Moon crescent -->
+  <path d="M104,10 Q116,18 112,30 Q106,20 104,10 Z"
+        fill="#fde68a" stroke="#374151" stroke-width="1.2"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Surface (table line) -->
+  <line x1="10" y1="100" x2="110" y2="100" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+  <!-- Paper (hero) -->
+  <rect x="20" y="40" width="80" height="50" rx="2" stroke="#374151" stroke-width="2.5" fill="#f9fafb"/>
+  <!-- Sun/Light source (top right) -->
+  <circle cx="100" cy="20" r="10" fill="#fde68a" stroke="#374151" stroke-width="1.5"/>
+  <line x1="85" y1="20" x2="75" y2="20" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="90" y1="35" x2="83" y2="42" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="100" y1="35" x2="100" y2="45" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Downward arrow to show placement -->
+  <line x1="60" y1="15" x2="60" y2="30" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+  <path d="M56 26 L60 31 L64 26" stroke="#374151" stroke-width="2" stroke-linecap="round" fill="none"/>
+</svg>

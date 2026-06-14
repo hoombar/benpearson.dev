@@ -1,0 +1,36 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2"
+            stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <!-- Complete kaleidoscope tube (hero) -->
+  <rect x="14" y="50" width="76" height="26" rx="2" fill="#fbbf24" stroke="#374151" stroke-width="2.5"/>
+  <!-- Left end: viewing end with pinhole -->
+  <ellipse cx="14" cy="63" rx="5" ry="13" fill="#d97706" stroke="#374151" stroke-width="2"/>
+  <circle cx="14" cy="63" r="2" fill="#374151"/>
+  <!-- Right end: cling film cap (slightly translucent) -->
+  <ellipse cx="90" cy="63" rx="5" ry="13" fill="#dbeafe" stroke="#374151" stroke-width="2" opacity="0.8"/>
+  <!-- Tissue paper pieces showing through cling film -->
+  <ellipse cx="88" cy="58" rx="4" ry="3" fill="#ef4444" stroke="none" opacity="0.7"/>
+  <ellipse cx="92" cy="66" rx="3" ry="3" fill="#3b82f6" stroke="none" opacity="0.7"/>
+  <ellipse cx="90" cy="60" rx="3" ry="2" fill="#f59e0b" stroke="none" opacity="0.7"/>
+  <ellipse cx="88" cy="68" rx="3" ry="2" fill="#22c55e" stroke="none" opacity="0.7"/>
+  <!-- Tape ring securing cling film -->
+  <rect x="86" y="50" width="8" height="26" rx="1" fill="none" stroke="#fde68a" stroke-width="2.5"/>
+  <!-- Tissue pieces being placed (top left) -->
+  <!-- Torn tissue pieces -->
+  <polygon points="8,10 16,8 18,16 10,20" fill="#ef4444" stroke="none" opacity="0.85"/>
+  <polygon points="26,14 34,10 36,20 28,22" fill="#3b82f6" stroke="none" opacity="0.85"/>
+  <polygon points="44,8 52,12 50,22 40,18" fill="#f59e0b" stroke="none" opacity="0.85"/>
+  <polygon points="60,10 68,8 70,18 62,20" fill="#22c55e" stroke="none" opacity="0.85"/>
+  <!-- Arrow: tissue pieces going into tube end -->
+  <path d="M60 22 Q78 36 88 50" stroke="#374151" stroke-width="2" stroke-linecap="round" fill="none" marker-end="url(#arr)"/>
+  <!-- Cling film roll (right side) -->
+  <rect x="98" y="28" width="16" height="30" rx="3" fill="#dbeafe" stroke="#374151" stroke-width="2" opacity="0.9"/>
+  <rect x="96" y="24" width="20" height="8" rx="2" fill="#93c5fd" stroke="#374151" stroke-width="1.5" opacity="0.9"/>
+  <!-- Arrow: cling film being stretched over end -->
+  <path d="M98 58 L96 66" stroke="#374151" stroke-width="1.5" stroke-linecap="round" fill="none" marker-end="url(#arr)"/>
+</svg>

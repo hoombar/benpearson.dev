@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Step 1: Blow a Bubble Mountain — straw into red mix, dome rising above rim -->
+
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" fill="#f3f4f6" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+
+  <!-- Container with red bubble paint mixture -->
+  <g transform="translate(60, 85)">
+    <path d="M-22,0 L-24,15 L24,15 L22,0 Z" fill="#fee2e2" stroke="#374151" stroke-width="2.5" stroke-linecap="round"/>
+    <ellipse cx="0" cy="0" rx="22" ry="7" fill="#fca5a5" stroke="#374151" stroke-width="2.5" stroke-linecap="round"/>
+    <ellipse cx="0" cy="1" rx="18" ry="5.5" fill="#ef4444" opacity="0.8"/>
+  </g>
+
+  <!-- Bubble dome rising above rim — overlapping coloured spheres (hero) -->
+  <!-- back layer -->
+  <circle cx="44" cy="65" r="6" fill="#fde68a" stroke="#374151" stroke-width="1" stroke-linecap="round" opacity="0.82"/>
+  <circle cx="56" cy="62" r="5.5" fill="#93c5fd" stroke="#374151" stroke-width="1" stroke-linecap="round" opacity="0.82"/>
+  <circle cx="68" cy="61" r="6.5" fill="#86efac" stroke="#374151" stroke-width="1" stroke-linecap="round" opacity="0.82"/>
+  <circle cx="80" cy="64" r="5" fill="#fde68a" stroke="#374151" stroke-width="1" stroke-linecap="round" opacity="0.82"/>
+
+  <!-- mid layer -->
+  <circle cx="47" cy="54" r="7.5" fill="#fbbf24" stroke="#374151" stroke-width="1.5" stroke-linecap="round" opacity="0.88"/>
+  <circle cx="61" cy="50" r="8" fill="#ef4444" stroke="#374151" stroke-width="1.5" stroke-linecap="round" opacity="0.88"/>
+  <circle cx="75" cy="53" r="7" fill="#fca5a5" stroke="#374151" stroke-width="1.5" stroke-linecap="round" opacity="0.88"/>
+
+  <!-- front layer (largest, most vivid) -->
+  <circle cx="50" cy="42" r="9" fill="#fca5a5" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="65" cy="38" r="10" fill="#ef4444" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="79" cy="43" r="8.5" fill="#fdba74" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- peak bubbles -->
+  <circle cx="58" cy="28" r="7.5" fill="#fee2e2" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="71" cy="26" r="6" fill="#fca5a5" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- glints -->
+  <circle cx="62" cy="25" r="2" fill="white" opacity="0.7"/>
+  <circle cx="52" cy="39" r="2.5" fill="white" opacity="0.55"/>
+  <circle cx="67" cy="35" r="2" fill="white" opacity="0.55"/>
+
+  <!-- Rising bubble trail inside liquid near straw tip -->
+  <circle cx="58" cy="75" r="2" fill="none" stroke="#fca5a5" stroke-width="1" stroke-linecap="round" opacity="0.7"/>
+  <circle cx="60" cy="70" r="2.5" fill="none" stroke="#ef4444" stroke-width="1" stroke-linecap="round" opacity="0.7"/>
+  <circle cx="57" cy="65" r="3" fill="none" stroke="#ef4444" stroke-width="1" stroke-linecap="round" opacity="0.7"/>
+
+  <!-- Straw (yellow striped, going down into bowl) -->
+  <g transform="translate(55, 8) rotate(5)">
+    <rect x="-2.5" y="0" width="5" height="72" fill="#fef9c3" stroke="#374151" stroke-width="1.5" stroke-linecap="round" rx="2.5"/>
+    <!-- red stripes -->
+    <rect x="-2.5" y="8" width="5" height="5" fill="#ef4444"/>
+    <rect x="-2.5" y="22" width="5" height="5" fill="#ef4444"/>
+    <rect x="-2.5" y="36" width="5" height="5" fill="#ef4444"/>
+    <rect x="-2.5" y="50" width="5" height="5" fill="#ef4444"/>
+    <rect x="-2.5" y="64" width="5" height="5" fill="#ef4444"/>
+  </g>
+
+  <!-- Child's face — puffed cheeks blowing -->
+  <g transform="translate(46, 9)">
+    <ellipse cx="0" cy="0" rx="11" ry="9" fill="#fef3c7" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+    <!-- puffed cheeks -->
+    <ellipse cx="-7" cy="3" rx="5" ry="4" fill="#fca5a5" opacity="0.5"/>
+    <ellipse cx="7" cy="3" rx="5" ry="4" fill="#fca5a5" opacity="0.5"/>
+    <!-- mouth open blowing -->
+    <ellipse cx="0" cy="5" rx="3.5" ry="2.5" fill="#374151" opacity="0.15"/>
+    <path d="M-3,4 Q0,7 3,4" fill="none" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+    <!-- eyes focused downward -->
+    <circle cx="-4" cy="-2" r="1.2" fill="#374151"/>
+    <circle cx="4" cy="-2" r="1.2" fill="#374151"/>
+  </g>
+
+  <!-- Breath arc arrows from mouth down along straw -->
+  <path d="M46,18 Q50,26 53,32" fill="none" stroke="#374151" stroke-width="1" stroke-linecap="round" stroke-dasharray="2,2"/>
+  <polygon points="51,32 54,37 57,32" fill="#374151"/>
+</svg>

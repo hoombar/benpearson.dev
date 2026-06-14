@@ -341,6 +341,251 @@ time,
   content: "\201D";
 }
 
+.activities-section {
+  padding-bottom: 42px;
+}
+
+.activities-heading p,
+.activity-hero p {
+  max-width: 700px;
+  color: var(--muted);
+  font-size: 1.05rem;
+}
+
+.activity-controls {
+  background: color-mix(in srgb, var(--card) 88%, var(--border));
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  margin: 10px 0 22px;
+  padding: 18px;
+}
+
+.activity-controls label,
+.activity-controls legend {
+  display: block;
+  font-weight: 800;
+  margin-bottom: 8px;
+}
+
+.search-control input {
+  width: 100%;
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  background: var(--bg);
+  color: var(--text);
+  font: inherit;
+  padding: 0.8rem 0.9rem;
+}
+
+.filter-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 14px;
+  margin-top: 16px;
+}
+
+.range-filter,
+.location-filter {
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  margin: 0;
+  padding: 14px;
+}
+
+.range-filter label {
+  color: var(--muted);
+  font-size: 0.82rem;
+  font-weight: 700;
+  margin: 10px 0 2px;
+}
+
+.range-filter input[type="range"] {
+  accent-color: var(--accent);
+  width: 100%;
+}
+
+.range-values {
+  color: var(--accent);
+  font-weight: 900;
+  margin-bottom: 4px;
+}
+
+.location-filter label {
+  align-items: center;
+  color: var(--muted);
+  display: flex;
+  gap: 8px;
+  margin: 10px 0 0;
+}
+
+.location-filter input {
+  accent-color: var(--accent);
+}
+
+.result-count {
+  color: var(--muted);
+  margin: 10px 0 0;
+}
+
+.activity-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 16px;
+  margin-bottom: 42px;
+}
+
+.activity-card,
+.activity-panel,
+.step-card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 20px;
+}
+
+.activity-card a {
+  display: grid;
+  gap: 14px;
+  height: 100%;
+  padding: 18px;
+  text-decoration: none;
+}
+
+.activity-card h2 {
+  color: var(--text);
+  font-size: 1.3rem;
+  line-height: 1.1;
+  margin: 0;
+}
+
+.activity-card p {
+  color: var(--muted);
+  margin: 8px 0 0;
+}
+
+.activity-thumb {
+  align-self: start;
+  background: color-mix(in srgb, var(--card) 80%, var(--accent));
+  border-radius: 16px;
+  height: 120px;
+  object-fit: contain;
+  padding: 12px;
+  width: 120px;
+}
+
+.meta-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 14px;
+}
+
+.meta-row span {
+  background: color-mix(in srgb, var(--card) 78%, var(--accent));
+  border-radius: 999px;
+  color: var(--accent);
+  font-size: 0.82rem;
+  font-weight: 800;
+  padding: 0.32rem 0.62rem;
+}
+
+.meta-row.large span {
+  font-size: 0.95rem;
+}
+
+.activity-detail {
+  max-width: 760px;
+  margin: 32px auto 80px;
+}
+
+.back-link {
+  display: inline-block;
+  margin-bottom: 14px;
+}
+
+.activity-hero h1 {
+  max-width: 780px;
+  font-size: clamp(2rem, 4.4vw, 3.45rem);
+  line-height: 1;
+  letter-spacing: -0.06em;
+}
+
+.activity-panel {
+  margin: 22px 0;
+  padding: 22px;
+}
+
+.material-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  list-style: none;
+  padding: 0;
+}
+
+.material-list li {
+  background: color-mix(in srgb, var(--card) 80%, var(--border));
+  border-radius: 999px;
+  padding: 0.45rem 0.72rem;
+}
+
+.material-list em {
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+
+.setup-steps {
+  margin: 32px 0;
+}
+
+.step-card {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr) 132px;
+  gap: 16px;
+  align-items: center;
+  margin: 14px 0;
+  padding: 16px;
+}
+
+.step-number {
+  align-items: center;
+  background: var(--accent);
+  border-radius: 999px;
+  color: var(--bg);
+  display: flex;
+  font-weight: 900;
+  height: 2.4rem;
+  justify-content: center;
+  width: 2.4rem;
+}
+
+.step-card h3,
+.step-card p {
+  margin: 0;
+}
+
+.step-card p {
+  color: var(--muted);
+}
+
+.step-card img {
+  background: color-mix(in srgb, var(--card) 88%, var(--accent));
+  border-radius: 14px;
+  height: 112px;
+  object-fit: contain;
+  padding: 8px;
+  width: 132px;
+}
+
+.activity-body {
+  border-top: 1px solid var(--border);
+  margin-top: 34px;
+  padding-top: 20px;
+}
+
+.activity-body img {
+  max-width: 100%;
+}
+
 .site-footer {
   border-top: 1px solid var(--border);
   color: var(--muted);
@@ -383,5 +628,18 @@ time,
 
   .hero {
     padding-top: 18px;
+  }
+
+  .filter-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .step-card {
+    grid-template-columns: auto minmax(0, 1fr);
+  }
+
+  .step-card img {
+    grid-column: 1 / -1;
+    width: 100%;
   }
 }

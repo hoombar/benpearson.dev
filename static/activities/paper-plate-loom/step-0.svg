@@ -1,0 +1,32 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Paper plate (large circle, front view) -->
+  <circle cx="58" cy="62" r="48" fill="#f9fafb" stroke="#374151" stroke-width="2.5"/>
+  <!-- Plate rim ring -->
+  <circle cx="58" cy="62" r="40" fill="none" stroke="#e5e7eb" stroke-width="4"/>
+  <!-- 9 evenly-spaced notches cut into the rim (V notches shown as small indentations) -->
+  <!-- Notch at top (90°) -->
+  <path d="M54 14 L58 10 L62 14" fill="#f9fafb" stroke="#374151" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Notch at 130° -->
+  <path d="M30 22 L26 20 L28 26" fill="#f9fafb" stroke="#374151" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Notch at 170° -->
+  <path d="M12 44 L8 44 L10 50" fill="#f9fafb" stroke="#374151" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Notch at 210° -->
+  <path d="M10 80 L6 82 L10 86" fill="#f9fafb" stroke="#374151" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Notch at 250° -->
+  <path d="M28 104 L26 108 L32 108" fill="#f9fafb" stroke="#374151" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Notch at 290° (bottom right) -->
+  <path d="M80 112 L84 114 L86 108" fill="#f9fafb" stroke="#374151" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Notch at 330° -->
+  <path d="M104 96 L108 96 L106 90" fill="#f9fafb" stroke="#374151" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Notch at 10° -->
+  <path d="M108 48 L112 46 L110 52" fill="#f9fafb" stroke="#374151" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Notch at 50° -->
+  <path d="M88 20 L90 16 L84 18" fill="#f9fafb" stroke="#374151" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Scissors approaching top notch -->
+  <!-- Handle rings -->
+  <circle cx="68" cy="8" r="6" fill="#dbeafe" stroke="#374151" stroke-width="1.5"/>
+  <circle cx="78" cy="14" r="6" fill="#dbeafe" stroke="#374151" stroke-width="1.5"/>
+  <!-- Blades pointing toward notch -->
+  <line x1="64" y1="12" x2="56" y2="18" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+  <line x1="74" y1="18" x2="58" y2="20" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,26 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(15, 20)">
+    <!-- Box from top-ish angle to see inside -->
+    <!-- Front panel -->
+    <polygon points="10,25 80,25 65,70 25,70" fill="#fca5a5" stroke="#374151" stroke-width="2" stroke-linejoin="round"/>
+    
+    <!-- Dashboard / front inside edge -->
+    <line x1="10" y1="25" x2="80" y2="25" stroke="#374151" stroke-width="3" stroke-linecap="round"/>
+    
+    <!-- Steering Wheel (Paper Plate) taped inside -->
+    <circle cx="45" cy="15" r="16" fill="#f3f4f6" stroke="#374151" stroke-width="2"/>
+    <!-- Steering wheel inner details -->
+    <circle cx="45" cy="15" r="12" fill="none" stroke="#374151" stroke-width="1"/>
+    <line x1="45" y1="3" x2="45" y2="27" stroke="#374151" stroke-width="1.5"/>
+    <line x1="33" y1="15" x2="57" y2="15" stroke="#374151" stroke-width="1.5"/>
+    
+    <!-- Tape holding the steering wheel -->
+    <rect x="41" y="20" width="8" height="12" fill="#d1d5db" stroke="#374151" stroke-width="1"/>
+    
+    <!-- Action rotation lines -->
+    <path d="M 25 15 A 20 20 0 0 1 35 -2" fill="none" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+    <polygon points="35,-2 32,1 30,-3" fill="#374151"/>
+    <path d="M 65 15 A 20 20 0 0 1 55 32" fill="none" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+    <polygon points="55,32 58,29 60,33" fill="#374151"/>
+  </g>
+</svg>

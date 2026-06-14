@@ -1,0 +1,57 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Ladybird body (hero) -->
+  <g transform="translate(14, 16)">
+    <!-- Folded plate body -->
+    <path d="M0,68 Q40,-8 80,68" fill="#ef4444" stroke="#374151" stroke-width="1.5"/>
+    <line x1="0" y1="68" x2="80" y2="68" stroke="#374151" stroke-width="1.5"/>
+    <!-- Centre line -->
+    <line x1="40" y1="6" x2="40" y2="68" stroke="#374151" stroke-width="1" stroke-dasharray="3,3"/>
+    <!-- Black head -->
+    <path d="M30,66 Q40,54 50,66" fill="#374151" stroke="#374151" stroke-width="1"/>
+    <!-- Spots -->
+    <circle cx="22" cy="36" r="5" fill="#374151"/>
+    <circle cx="16" cy="52" r="4.5" fill="#374151"/>
+    <circle cx="30" cy="54" r="4" fill="#374151"/>
+    <circle cx="58" cy="36" r="5" fill="#374151"/>
+    <circle cx="64" cy="52" r="4.5" fill="#374151"/>
+    <circle cx="50" cy="54" r="4" fill="#374151"/>
+
+    <!-- Pipe cleaner antennae -->
+    <path d="M38,56 Q32,40 22,28 Q16,22 18,16" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+    <!-- Left antenna spiral -->
+    <circle cx="18" cy="14" r="4" fill="none" stroke="#374151" stroke-width="2"/>
+
+    <path d="M42,56 Q48,40 58,28 Q64,22 62,16" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+    <!-- Right antenna spiral -->
+    <circle cx="62" cy="14" r="4" fill="none" stroke="#374151" stroke-width="2"/>
+  </g>
+
+  <!-- Pipe cleaner piece being inserted -->
+  <g transform="translate(86, 38)">
+    <!-- Pipe cleaner segment -->
+    <rect x="0" y="-2" width="22" height="4" rx="2" fill="#374151" stroke="#374151" stroke-width="0.6"/>
+    <!-- Fuzzy texture -->
+    <line x1="4" y1="-3" x2="4" y2="3" stroke="#1f2937" stroke-width="0.4"/>
+    <line x1="8" y1="-3" x2="8" y2="3" stroke="#1f2937" stroke-width="0.4"/>
+    <line x1="12" y1="-3" x2="12" y2="3" stroke="#1f2937" stroke-width="0.4"/>
+    <line x1="16" y1="-3" x2="16" y2="3" stroke="#1f2937" stroke-width="0.4"/>
+  </g>
+
+  <!-- Arrow showing insertion -->
+  <defs>
+    <marker id="arr" viewBox="0 0 6 6" refX="5" refY="3" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#374151"/>
+    </marker>
+  </defs>
+  <line x1="86" y1="38" x2="74" y2="48" stroke="#374151" stroke-width="0.8" stroke-dasharray="2,2" marker-end="url(#arr)"/>
+
+  <!-- Warning symbol -->
+  <g transform="translate(96, 6)">
+    <polygon points="10,0 0,18 20,18" fill="#fbbf24" stroke="#374151" stroke-width="0.8"/>
+    <line x1="10" y1="5" x2="10" y2="12" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+    <circle cx="10" cy="15" r="1" fill="#374151"/>
+  </g>
+</svg>

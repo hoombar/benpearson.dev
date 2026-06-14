@@ -1,0 +1,22 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <!-- Paper Plate (hero) -->
+  <ellipse cx="60" cy="65" rx="50" ry="40" fill="#f9fafb" stroke="#374151" stroke-width="2.5"/>
+  <ellipse cx="60" cy="65" rx="35" ry="28" fill="none" stroke="#e5e7eb" stroke-width="1.5"/>
+
+  <!-- Pen poking hole -->
+  <g transform="translate(60, 65) rotate(-30)">
+    <!-- Shaft -->
+    <rect x="-3" y="-50" width="6" height="40" fill="#fde68a" stroke="#374151" stroke-width="2"/>
+    <!-- Tip -->
+    <polygon points="-3,-10 3,-10 0,0" fill="#374151"/>
+  </g>
+
+  <!-- Action arrow -->
+  <path d="M50,40 Q60,50 60,60" fill="none" stroke="#374151" stroke-width="2" marker-end="url(#arr)" stroke-linecap="round"/>
+</svg>

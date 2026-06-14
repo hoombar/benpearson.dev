@@ -1,0 +1,29 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <!-- Plate -->
+  <ellipse cx="60" cy="85" rx="45" ry="15" fill="#f3f4f6" stroke="#374151" stroke-width="2"/>
+  <ellipse cx="60" cy="85" rx="30" ry="10" fill="none" stroke="#e5e7eb" stroke-width="2"/>
+
+  <!-- Paint puddle on plate -->
+  <path d="M45,85 Q50,75 60,82 Q75,78 75,85 Q75,92 60,90 Q40,92 45,85 Z" fill="#ef4444" stroke="#374151" stroke-width="1.5" stroke-linejoin="round"/>
+
+  <!-- Paint bottle tilted -->
+  <g transform="translate(60, 40) rotate(-120)">
+    <!-- Bottle body -->
+    <path d="M-20,-15 L20,-15 C25,-15 30,-10 30,0 C30,10 25,15 20,15 L-20,15 C-25,15 -25,-15 -20,-15 Z" fill="#dbeafe" stroke="#374151" stroke-width="2" stroke-linejoin="round"/>
+    <!-- Label -->
+    <rect x="-10" y="-15" width="20" height="30" fill="#ffffff" stroke="#374151" stroke-width="1.5"/>
+    <circle cx="0" cy="0" r="5" fill="#ef4444" stroke="none"/>
+    <!-- Neck and cap -->
+    <rect x="30" y="-8" width="10" height="16" fill="#dbeafe" stroke="#374151" stroke-width="2"/>
+    <rect x="40" y="-10" width="8" height="20" rx="2" fill="#ef4444" stroke="#374151" stroke-width="2"/>
+  </g>
+
+  <!-- Paint pouring down -->
+  <path d="M60,55 Q58,65 60,80" fill="none" stroke="#ef4444" stroke-width="4" stroke-linecap="round"/>
+</svg>

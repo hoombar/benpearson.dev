@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Background -->
+  <rect width="120" height="120" fill="#f9fafb"/>
+
+  <!-- Table surface -->
+  <rect x="0" y="106" width="120" height="14" fill="#e5e7eb" stroke="#374151" stroke-width="1"/>
+
+  <!-- Puppet silhouette (dark card) — person shape, centred high -->
+  <!-- Head -->
+  <circle cx="60" cy="26" r="13" fill="#374151" stroke="#374151" stroke-width="1.5"/>
+  <!-- Crown points (king puppet) -->
+  <path d="M48,16 L52,8 L56,16 M60,14 L60,6 L64,14 M68,16 L72,8 L74,16"
+        fill="#d97706" stroke="#d97706" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Body -->
+  <path d="M48,38 Q44,54 48,66 Q60,72 72,66 Q76,54 72,38 Z" fill="#374151"/>
+  <!-- Arms -->
+  <line x1="46" y1="48" x2="30" y2="58" stroke="#374151" stroke-width="5" stroke-linecap="round"/>
+  <line x1="74" y1="48" x2="90" y2="58" stroke="#374151" stroke-width="5" stroke-linecap="round"/>
+  <!-- Legs -->
+  <line x1="52" y1="66" x2="48" y2="82" stroke="#374151" stroke-width="5" stroke-linecap="round"/>
+  <line x1="68" y1="66" x2="72" y2="82" stroke="#374151" stroke-width="5" stroke-linecap="round"/>
+  <!-- Eye whites -->
+  <circle cx="55" cy="24" r="3" fill="#f9fafb"/>
+  <circle cx="65" cy="24" r="3" fill="#f9fafb"/>
+  <!-- Pupils -->
+  <circle cx="56" cy="25" r="1.5" fill="#374151"/>
+  <circle cx="66" cy="25" r="1.5" fill="#374151"/>
+
+  <!-- Tape band attaching stick to puppet bottom -->
+  <rect x="52" y="80" width="16" height="7" rx="2" fill="#93c5fd" stroke="#3b82f6" stroke-width="1.5"/>
+  <!-- Tape label lines -->
+  <line x1="54" y1="83" x2="66" y2="83" stroke="#3b82f6" stroke-width="1" stroke-linecap="round"/>
+
+  <!-- Stick / handle (wooden, tan) -->
+  <rect x="57" y="87" width="6" height="30" rx="2" fill="#fbbf24" stroke="#d97706" stroke-width="2"/>
+  <!-- Grip marks on stick -->
+  <line x1="57" y1="96"  x2="63" y2="96"  stroke="#d97706" stroke-width="1" stroke-linecap="round"/>
+  <line x1="57" y1="103" x2="63" y2="103" stroke="#d97706" stroke-width="1" stroke-linecap="round"/>
+  <line x1="57" y1="110" x2="63" y2="110" stroke="#d97706" stroke-width="1" stroke-linecap="round"/>
+
+  <!-- Arrow pointing to tape area — showing where to attach -->
+  <line x1="96" y1="80" x2="72" y2="83" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <polygon points="73,80 68,84 74,87" fill="#374151"/>
+</svg>

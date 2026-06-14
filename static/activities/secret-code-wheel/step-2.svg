@@ -1,0 +1,29 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Outer wheel (larger circle) -->
+  <circle cx="60" cy="62" r="46" stroke="#374151" stroke-width="2.5" fill="#dbeafe"/>
+  <!-- Outer wheel letters (selected) -->
+  <text x="57" y="18" font-size="7" fill="#374151" font-family="monospace" font-weight="bold">A</text>
+  <text x="100" y="36" font-size="7" fill="#374151" font-family="monospace" font-weight="bold">D</text>
+  <text x="104" y="64" font-size="7" fill="#374151" font-family="monospace" font-weight="bold">G</text>
+  <text x="57" y="110" font-size="7" fill="#374151" font-family="monospace" font-weight="bold">N</text>
+  <text x="13" y="64" font-size="7" fill="#374151" font-family="monospace" font-weight="bold">T</text>
+  <!-- Inner wheel (smaller circle, on top) -->
+  <circle cx="60" cy="62" r="30" stroke="#374151" stroke-width="2" fill="#fef9c3"/>
+  <!-- Inner wheel letters (selected) -->
+  <text x="57" y="34" font-size="7" fill="#374151" font-family="monospace" font-weight="bold">A</text>
+  <text x="82" y="46" font-size="7" fill="#374151" font-family="monospace" font-weight="bold">E</text>
+  <text x="85" y="66" font-size="7" fill="#374151" font-family="monospace" font-weight="bold">I</text>
+  <text x="57" y="94" font-size="7" fill="#374151" font-family="monospace" font-weight="bold">O</text>
+  <text x="30" y="66" font-size="7" fill="#374151" font-family="monospace" font-weight="bold">U</text>
+  <!-- Divider lines on inner wheel -->
+  <line x1="60" y1="32" x2="60" y2="62" stroke="#374151" stroke-width="0.8" opacity="0.4"/>
+  <line x1="60" y1="62" x2="84" y2="44" stroke="#374151" stroke-width="0.8" opacity="0.4"/>
+  <line x1="60" y1="62" x2="86" y2="62" stroke="#374151" stroke-width="0.8" opacity="0.4"/>
+  <!-- Paper clip at centre -->
+  <circle cx="60" cy="62" r="4" fill="#e5e7eb" stroke="#374151" stroke-width="2"/>
+  <circle cx="60" cy="62" r="2" fill="#374151"/>
+  <!-- Paper clip wire shape coming from centre -->
+  <path d="M62 62 Q68 58 70 62 Q68 66 62 62" stroke="#374151" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <!-- Arrow showing layers being placed together -->
+  <line x1="14" y1="28" x2="28" y2="44" stroke="#374151" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="4,2"/>
+</svg>

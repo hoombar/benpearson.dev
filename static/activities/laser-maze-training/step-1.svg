@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="100%" height="100%">
+  <defs>
+    <linearGradient id="wall" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#e2e8f0"/>
+      <stop offset="100%" stop-color="#cbd5e1"/>
+    </linearGradient>
+    <linearGradient id="floor" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#b45309"/>
+      <stop offset="100%" stop-color="#78350f"/>
+    </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="2" dy="4" stdDeviation="4" flood-color="#000" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  <!-- Background: Hallway Floor -->
+  <rect x="0" y="400" width="800" height="200" fill="url(#floor)"/>
+  <path d="M 0 400 L 800 400" stroke="#451a03" stroke-width="10"/>
+  <!-- Floor boards -->
+  <line x1="100" y1="400" x2="50" y2="600" stroke="#92400e" stroke-width="4"/>
+  <line x1="300" y1="400" x2="250" y2="600" stroke="#92400e" stroke-width="4"/>
+  <line x1="500" y1="400" x2="550" y2="600" stroke="#92400e" stroke-width="4"/>
+  <line x1="700" y1="400" x2="750" y2="600" stroke="#92400e" stroke-width="4"/>
+  
+  <!-- Walls -->
+  <rect x="0" y="0" width="800" height="400" fill="url(#wall)"/>
+  <!-- Baseboard -->
+  <rect x="0" y="380" width="800" height="20" fill="#f8fafc"/>
+  
+  <!-- Tape pieces on the wall -->
+  <rect x="150" y="200" width="40" height="20" fill="#fef08a" transform="rotate(-15 170 210)" filter="url(#shadow)"/>
+  <rect x="250" y="100" width="40" height="20" fill="#fef08a" transform="rotate(10 270 110)" filter="url(#shadow)"/>
+  <rect x="180" y="300" width="40" height="20" fill="#fef08a" transform="rotate(-5 200 310)" filter="url(#shadow)"/>
+
+  <!-- Hand placing tape -->
+  <g transform="translate(450, 150)">
+    <!-- Arm -->
+    <path d="M 350 250 L 150 100" stroke="#fcd34d" stroke-width="40" stroke-linecap="round"/>
+    <!-- Sleeve -->
+    <path d="M 350 250 L 200 137" stroke="#3b82f6" stroke-width="44" stroke-linecap="round"/>
+    <!-- Hand -->
+    <circle cx="150" cy="100" r="30" fill="#fcd34d" filter="url(#shadow)"/>
+    <!-- Fingers -->
+    <path d="M 130 90 L 100 80 M 130 110 L 100 120" stroke="#fcd34d" stroke-width="12" stroke-linecap="round"/>
+    <!-- Tape in hand -->
+    <rect x="80" y="80" width="50" height="20" fill="#fef08a" transform="rotate(-20 105 90)"/>
+  </g>
+
+  <!-- Motion lines for action -->
+  <path d="M 530 210 Q 500 180 470 210" fill="none" stroke="#64748b" stroke-width="3" stroke-dasharray="5,5"/>
+  <path d="M 550 230 Q 520 200 490 230" fill="none" stroke="#64748b" stroke-width="3" stroke-dasharray="5,5"/>
+</svg>

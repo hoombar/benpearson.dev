@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="100%" height="100%">
+  <!-- Background: Cozy living room table -->
+  <rect width="800" height="600" fill="#f4f1ea"/>
+  <!-- Wall in background -->
+  <rect width="800" height="200" fill="#d1e8e2"/>
+  <rect y="200" width="800" height="20" fill="#a0c4bc"/>
+  
+  <!-- Table surface -->
+  <path d="M 0 300 Q 400 350 800 300 L 800 600 L 0 600 Z" fill="#e2c293"/>
+  <path d="M 0 350 Q 400 400 800 350 L 800 600 L 0 600 Z" fill="#d0b080"/>
+  
+  <!-- Shadow on table -->
+  <ellipse cx="400" cy="480" rx="250" ry="60" fill="rgba(0,0,0,0.1)"/>
+  
+  <!-- Cardboard tubes stack -->
+  <g transform="translate(150, 420)">
+    <rect x="-30" y="-80" width="60" height="120" rx="10" fill="#c49a6c" transform="rotate(-15)"/>
+    <ellipse cx="-45" cy="-25" rx="30" ry="10" fill="#a67c52" transform="rotate(-15)"/>
+    <ellipse cx="15" cy="95" rx="30" ry="10" fill="#886038" transform="rotate(-15)"/>
+    
+    <rect x="50" y="-70" width="60" height="120" rx="10" fill="#b38a5c" transform="rotate(10)"/>
+    <ellipse cx="60" cy="-70" rx="30" ry="10" fill="#956c3e" transform="rotate(10)"/>
+    
+    <rect x="0" y="-20" width="160" height="50" rx="10" fill="#d6ab7d"/>
+    <ellipse cx="0" cy="5" rx="10" ry="25" fill="#b88d5f"/>
+    <ellipse cx="160" cy="5" rx="10" ry="25" fill="#9a6f41"/>
+  </g>
+  
+  <!-- Scissors in action cutting a tube in half -->
+  <g transform="translate(480, 400)">
+    <!-- Shadow -->
+    <rect x="-20" y="-60" width="140" height="50" rx="10" fill="rgba(0,0,0,0.15)" transform="rotate(15)"/>
+    
+    <!-- Tube being cut -->
+    <rect x="-20" y="-60" width="140" height="50" rx="10" fill="#d6ab7d" transform="rotate(15)"/>
+    <!-- Cut line -->
+    <line x1="-15" y1="-35" x2="60" y2="-35" stroke="#fff" stroke-width="2" stroke-dasharray="4,4" transform="rotate(15)"/>
+    
+    <!-- Scissors -->
+    <g transform="rotate(-20) translate(20, -50)">
+      <path d="M 0 0 L 80 -10 L 100 -5 L 0 5 Z" fill="#b0bec5"/>
+      <path d="M 0 10 L 80 20 L 100 15 L 0 5 Z" fill="#90a4ae"/>
+      <circle cx="20" cy="5" r="4" fill="#546e7a"/>
+      <!-- Handles -->
+      <path d="M -20 -15 C -40 -30 -50 0 -20 0 Z" fill="#ef5350" stroke="#c62828" stroke-width="4"/>
+      <path d="M -20 25 C -40 40 -50 10 -20 10 Z" fill="#ef5350" stroke="#c62828" stroke-width="4"/>
+    </g>
+    
+    <!-- Motion lines for cutting -->
+    <path d="M 10 -100 Q 30 -120 50 -100" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+    <path d="M -10 -80 Q 5 -100 20 -80" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  
+  <!-- Roll of tape -->
+  <g transform="translate(650, 480)">
+    <ellipse cx="0" cy="15" rx="40" ry="20" fill="rgba(0,0,0,0.15)"/>
+    <path d="M -30 0 L -30 -20 A 30 15 0 0 1 30 -20 L 30 0 A 30 15 0 0 1 -30 0" fill="#bbdefb"/>
+    <ellipse cx="0" cy="-20" rx="30" ry="15" fill="#90caf9"/>
+    <ellipse cx="0" cy="-20" rx="20" ry="10" fill="#e2c293"/>
+    <!-- Tape piece extending -->
+    <path d="M -25 -15 L -60 10 L -40 20 L -10 0 Z" fill="rgba(255,255,255,0.7)"/>
+  </g>
+
+  <!-- Marbles scattered -->
+  <circle cx="200" cy="520" r="15" fill="#ff7043"/>
+  <ellipse cx="200" cy="535" rx="12" ry="4" fill="rgba(0,0,0,0.2)"/>
+  <circle cx="195" cy="515" r="4" fill="#fff" opacity="0.6"/>
+
+  <circle cx="250" cy="490" r="12" fill="#42a5f5"/>
+  <ellipse cx="250" cy="502" rx="10" ry="3" fill="rgba(0,0,0,0.2)"/>
+  <circle cx="246" cy="486" r="3" fill="#fff" opacity="0.6"/>
+
+  <circle cx="680" cy="380" r="14" fill="#66bb6a"/>
+  <ellipse cx="680" cy="394" rx="12" ry="4" fill="rgba(0,0,0,0.2)"/>
+  <circle cx="676" cy="376" r="3" fill="#fff" opacity="0.6"/>
+
+</svg>

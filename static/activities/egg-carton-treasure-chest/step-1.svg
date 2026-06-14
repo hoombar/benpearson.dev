@@ -1,0 +1,50 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface (protected with paper) -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Egg carton being painted gold/brown (hero) -->
+  <g transform="translate(12, 24)">
+    <!-- Bottom half painted -->
+    <rect x="0" y="30" width="70" height="22" rx="2" fill="#b45309" stroke="#374151" stroke-width="1.5"/>
+    <!-- Wood plank lines -->
+    <line x1="4" y1="38" x2="66" y2="38" stroke="#92400e" stroke-width="0.8"/>
+    <line x1="4" y1="44" x2="66" y2="44" stroke="#92400e" stroke-width="0.8"/>
+
+    <!-- Lid painted gold -->
+    <rect x="0" y="0" width="70" height="28" rx="2" fill="#d97706" stroke="#374151" stroke-width="1.5"/>
+    <!-- Lid bumps (now painted) -->
+    <path d="M8,8 Q12,2 16,8" fill="none" stroke="#92400e" stroke-width="0.6"/>
+    <path d="M22,8 Q26,2 30,8" fill="none" stroke="#92400e" stroke-width="0.6"/>
+    <path d="M36,8 Q40,2 44,8" fill="none" stroke="#92400e" stroke-width="0.6"/>
+    <path d="M50,8 Q54,2 58,8" fill="none" stroke="#92400e" stroke-width="0.6"/>
+    <!-- Wood plank lines on lid -->
+    <line x1="4" y1="14" x2="66" y2="14" stroke="#92400e" stroke-width="0.8"/>
+    <line x1="4" y1="22" x2="66" y2="22" stroke="#92400e" stroke-width="0.8"/>
+
+    <!-- Hinge -->
+    <line x1="0" y1="28" x2="70" y2="28" stroke="#374151" stroke-width="1.5"/>
+  </g>
+
+  <!-- Paintbrush painting -->
+  <g transform="translate(76, 14)">
+    <rect x="0" y="0" width="6" height="30" rx="2" fill="#d4a574" stroke="#374151" stroke-width="0.8"/>
+    <rect x="-1" y="28" width="8" height="5" rx="1" fill="#9ca3af" stroke="#374151" stroke-width="0.5"/>
+    <rect x="0" y="32" width="6" height="7" rx="2" fill="#d97706" stroke="#374151" stroke-width="0.5"/>
+  </g>
+
+  <!-- Hand -->
+  <g transform="translate(84, 10)">
+    <rect x="0" y="0" width="12" height="20" rx="6" fill="#fcd9b6" stroke="#374151" stroke-width="0.8"/>
+    <rect x="14" y="2" width="10" height="18" rx="5" fill="#fcd9b6" stroke="#374151" stroke-width="0.8"/>
+  </g>
+
+  <!-- Paint pots -->
+  <g transform="translate(8, 74)">
+    <rect x="0" y="0" width="16" height="20" rx="3" fill="#d97706" stroke="#374151" stroke-width="0.8"/>
+    <ellipse cx="8" cy="2" rx="8" ry="3" fill="#b45309" stroke="#374151" stroke-width="0.6"/>
+  </g>
+  <g transform="translate(30, 76)">
+    <rect x="0" y="0" width="14" height="18" rx="3" fill="#92400e" stroke="#374151" stroke-width="0.8"/>
+    <ellipse cx="7" cy="2" rx="7" ry="2.5" fill="#78350f" stroke="#374151" stroke-width="0.5"/>
+  </g>
+</svg>

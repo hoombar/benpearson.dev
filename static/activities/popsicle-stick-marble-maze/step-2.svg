@@ -1,0 +1,43 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Cardboard base (hero) -->
+  <rect x="12" y="14" width="76" height="76" rx="2" fill="#d4a574" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Popsicle stick walls (solid, glued down) -->
+  <!-- Horizontal sticks -->
+  <rect x="16" y="30" width="36" height="4" rx="1" fill="#f5deb3" stroke="#374151" stroke-width="0.8"/>
+  <rect x="36" y="44" width="44" height="4" rx="1" fill="#f5deb3" stroke="#374151" stroke-width="0.8"/>
+  <rect x="16" y="58" width="44" height="4" rx="1" fill="#f5deb3" stroke="#374151" stroke-width="0.8"/>
+  <rect x="40" y="70" width="40" height="4" rx="1" fill="#f5deb3" stroke="#374151" stroke-width="0.8"/>
+
+  <!-- Vertical sticks -->
+  <rect x="34" y="18" width="4" height="16" rx="1" fill="#f5deb3" stroke="#374151" stroke-width="0.8"/>
+  <rect x="58" y="30" width="4" height="18" rx="1" fill="#f5deb3" stroke="#374151" stroke-width="0.8"/>
+  <rect x="34" y="44" width="4" height="18" rx="1" fill="#f5deb3" stroke="#374151" stroke-width="0.8"/>
+  <rect x="58" y="58" width="4" height="16" rx="1" fill="#f5deb3" stroke="#374151" stroke-width="0.8"/>
+
+  <!-- Border sticks -->
+  <rect x="14" y="16" width="4" height="72" rx="1" fill="#f5deb3" stroke="#374151" stroke-width="0.6"/>
+  <rect x="82" y="16" width="4" height="72" rx="1" fill="#f5deb3" stroke="#374151" stroke-width="0.6"/>
+  <rect x="16" y="14" width="68" height="4" rx="1" fill="#f5deb3" stroke="#374151" stroke-width="0.6"/>
+  <rect x="16" y="84" width="68" height="4" rx="1" fill="#f5deb3" stroke="#374151" stroke-width="0.6"/>
+
+  <!-- PVA glue bottle -->
+  <g transform="translate(94, 28)">
+    <rect x="0" y="8" width="16" height="22" rx="3" fill="#f0f9ff" stroke="#374151" stroke-width="0.8"/>
+    <rect x="4" y="0" width="8" height="10" rx="2" fill="#dbeafe" stroke="#374151" stroke-width="0.6"/>
+    <circle cx="8" cy="0" r="2" fill="#f97316" stroke="#374151" stroke-width="0.5"/>
+  </g>
+
+  <!-- Glue drops -->
+  <circle cx="38" cy="38" r="1.5" fill="#fef9c3" stroke="#374151" stroke-width="0.3" opacity="0.7"/>
+  <circle cx="60" cy="52" r="1.5" fill="#fef9c3" stroke="#374151" stroke-width="0.3" opacity="0.7"/>
+
+  <!-- Hand pressing stick -->
+  <g transform="translate(50, 66)">
+    <rect x="0" y="0" width="10" height="16" rx="5" fill="#fcd9b6" stroke="#374151" stroke-width="0.6"/>
+    <rect x="12" y="2" width="8" height="12" rx="4" fill="#fcd9b6" stroke="#374151" stroke-width="0.6"/>
+  </g>
+</svg>

@@ -1,0 +1,47 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Scrap paper (hero) with warm paper fill -->
+  <rect x="14" y="8" width="82" height="100" rx="2" fill="#f3f4f6" stroke="#374151" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Paper edge shadow lines -->
+  <line x1="16" y1="14" x2="94" y2="14" stroke="#e5e7eb" stroke-width="1" stroke-linecap="round"/>
+  <line x1="16" y1="18" x2="94" y2="18" stroke="#e5e7eb" stroke-width="1" stroke-linecap="round"/>
+
+  <!-- Hero character 1: coloured stick figure (the hero) -->
+  <circle cx="38" cy="38" r="11" fill="#fde68a" stroke="#374151" stroke-width="2"/>
+  <!-- Face details -->
+  <circle cx="35" cy="37" r="1.5" fill="#374151"/>
+  <circle cx="41" cy="37" r="1.5" fill="#374151"/>
+  <path d="M35,42 Q38,45 41,42" stroke="#374151" stroke-width="1" fill="none" stroke-linecap="round"/>
+  <!-- Body -->
+  <line x1="38" y1="49" x2="38" y2="65" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+  <!-- Arms -->
+  <line x1="28" y1="56" x2="48" y2="56" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Cape/clothes: coloured shirt -->
+  <path d="M30,55 Q38,70 46,55" fill="#3b82f6" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+  <!-- Legs -->
+  <line x1="38" y1="65" x2="32" y2="76" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="38" y1="65" x2="44" y2="76" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- Hero character 2: dragon/monster (the problem) -->
+  <ellipse cx="76" cy="42" rx="14" ry="11" fill="#86efac" stroke="#374151" stroke-width="2"/>
+  <!-- Dragon eye -->
+  <circle cx="71" cy="40" r="2" fill="#374151"/>
+  <!-- Spikes on back -->
+  <polygon points="67,32 70,38 63,36" fill="#22c55e" stroke="#374151" stroke-width="1"/>
+  <polygon points="74,29 76,36 70,34" fill="#22c55e" stroke="#374151" stroke-width="1"/>
+  <polygon points="81,31 82,38 77,35" fill="#22c55e" stroke="#374151" stroke-width="1"/>
+  <!-- Mouth / snout -->
+  <path d="M80,44 Q84,46 82,50" stroke="#374151" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+
+  <!-- Writing lines (plan notes) -->
+  <line x1="22" y1="84" x2="90" y2="84" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="22" y1="92" x2="80" y2="92" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="22" y1="100" x2="86" y2="100" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- Pencil (planning tool) -->
+  <g transform="translate(104,18) rotate(135)">
+    <rect x="-4" y="-22" width="8" height="28" rx="1" fill="#fbbf24" stroke="#374151" stroke-width="1.5"/>
+    <rect x="-4" y="-22" width="8" height="5" fill="#f9fafb" stroke="#374151" stroke-width="1"/>
+    <polygon points="-4,6 4,6 0,14" fill="#fde68a" stroke="#374151" stroke-width="1.5" stroke-linejoin="round"/>
+    <circle cx="0" cy="13" r="1.5" fill="#374151"/>
+  </g>
+</svg>

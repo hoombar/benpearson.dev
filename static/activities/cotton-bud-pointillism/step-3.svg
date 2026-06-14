@@ -1,0 +1,77 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#374151"/>
+    </marker>
+  </defs>
+  <!-- Completed pointillist painting on paper — hero -->
+  <rect x="15" y="10" width="70" height="85" rx="2" fill="#f9fafb" stroke="#374151" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Densely filled flower (many dots) -->
+  <!-- Petal area - dense red/pink dots -->
+  <circle cx="47" cy="32" r="2" fill="#ef4444"/>
+  <circle cx="51" cy="30" r="2" fill="#fca5a5"/>
+  <circle cx="43" cy="30" r="2" fill="#ef4444"/>
+  <circle cx="39" cy="34" r="2" fill="#fca5a5"/>
+  <circle cx="55" cy="34" r="2" fill="#ef4444"/>
+  <circle cx="47" cy="28" r="2" fill="#fca5a5"/>
+  <circle cx="42" cy="26" r="2" fill="#ef4444"/>
+  <circle cx="52" cy="26" r="2" fill="#ef4444"/>
+  <circle cx="37" cy="38" r="2" fill="#ef4444"/>
+  <circle cx="57" cy="38" r="2" fill="#fca5a5"/>
+  <circle cx="47" cy="42" r="2" fill="#ef4444"/>
+  <circle cx="42" cy="40" r="2" fill="#fca5a5"/>
+  <circle cx="52" cy="40" r="2" fill="#ef4444"/>
+  <circle cx="36" cy="30" r="2" fill="#ef4444"/>
+  <circle cx="58" cy="30" r="2" fill="#fca5a5"/>
+  <circle cx="47" cy="24" r="2" fill="#ef4444"/>
+  <circle cx="40" cy="44" r="2" fill="#fca5a5"/>
+  <circle cx="54" cy="44" r="2" fill="#ef4444"/>
+  <!-- Centre - yellow dots -->
+  <circle cx="47" cy="35" r="2" fill="#f59e0b"/>
+  <circle cx="44" cy="37" r="2" fill="#fde68a"/>
+  <circle cx="50" cy="37" r="2" fill="#fde68a"/>
+  <circle cx="47" cy="38" r="2" fill="#f59e0b"/>
+  <!-- Stem - green dots -->
+  <circle cx="47" cy="48" r="2" fill="#22c55e"/>
+  <circle cx="47" cy="52" r="2" fill="#22c55e"/>
+  <circle cx="47" cy="56" r="2" fill="#86efac"/>
+  <circle cx="47" cy="60" r="2" fill="#22c55e"/>
+  <circle cx="47" cy="64" r="2" fill="#22c55e"/>
+  <circle cx="47" cy="68" r="2" fill="#86efac"/>
+  <circle cx="47" cy="72" r="2" fill="#22c55e"/>
+  <circle cx="47" cy="76" r="2" fill="#22c55e"/>
+  <!-- Leaf dots -->
+  <circle cx="52" cy="56" r="2" fill="#86efac"/>
+  <circle cx="56" cy="54" r="2" fill="#22c55e"/>
+  <circle cx="54" cy="58" r="2" fill="#22c55e"/>
+  <circle cx="58" cy="56" r="2" fill="#86efac"/>
+  <circle cx="42" cy="64" r="2" fill="#22c55e"/>
+  <circle cx="38" cy="62" r="2" fill="#86efac"/>
+  <circle cx="40" cy="66" r="2" fill="#86efac"/>
+  <!-- Background sky dots (sparse blue) -->
+  <circle cx="25" cy="22" r="1.5" fill="#dbeafe"/>
+  <circle cx="30" cy="28" r="1.5" fill="#93c5fd"/>
+  <circle cx="65" cy="20" r="1.5" fill="#dbeafe"/>
+  <circle cx="70" cy="26" r="1.5" fill="#93c5fd"/>
+  <circle cx="28" cy="45" r="1.5" fill="#dbeafe"/>
+  <circle cx="68" cy="48" r="1.5" fill="#dbeafe"/>
+  <!-- Ground dots (brown) -->
+  <circle cx="25" cy="80" r="1.5" fill="#fbbf24"/>
+  <circle cx="35" cy="82" r="1.5" fill="#d97706"/>
+  <circle cx="60" cy="80" r="1.5" fill="#fbbf24"/>
+  <circle cx="70" cy="82" r="1.5" fill="#d97706"/>
+  <!-- Person stepping back (small, to the right) -->
+  <g transform="translate(98, 55)">
+    <!-- Head -->
+    <circle cx="0" cy="0" r="5" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+    <!-- Body -->
+    <line x1="0" y1="5" x2="0" y2="25" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+    <!-- Arms pointing at painting -->
+    <line x1="0" y1="12" x2="-10" y2="8" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+    <!-- Legs -->
+    <line x1="0" y1="25" x2="-4" y2="38" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+    <line x1="0" y1="25" x2="4" y2="38" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+  <!-- Arrow from person to painting -->
+  <path d="M90,58 Q88,50 86,48" fill="none" stroke="#374151" stroke-width="1" marker-end="url(#arr)" stroke-linecap="round"/>
+</svg>

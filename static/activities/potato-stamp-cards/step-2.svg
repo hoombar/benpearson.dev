@@ -1,0 +1,30 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2"
+            stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <!-- Table surface -->
+  <rect x="4" y="108" width="112" height="8" rx="2" fill="#fbbf24" stroke="#374151" stroke-width="1.5"/>
+  <!-- Paper on table -->
+  <rect x="20" y="76" width="80" height="30" rx="2" fill="#f9fafb" stroke="#374151" stroke-width="1.5"/>
+  <!-- Star impression already printed on paper -->
+  <path d="M60 84 L62 90 L68 90 L63 94 L65 100 L60 96 L55 100 L57 94 L52 90 L58 90 Z"
+        fill="#ef4444" stroke="none"/>
+  <!-- Potato stamp coming down (front view) -->
+  <!-- Potato outer skin (brown oval) -->
+  <path d="M36 24 Q34 52 60 54 Q86 52 84 24 Q76 14 60 12 Q44 14 36 24 Z"
+        fill="#fde68a" stroke="#374151" stroke-width="2.5"/>
+  <!-- Flat bottom of potato (cut surface) with heart -->
+  <ellipse cx="60" cy="54" rx="24" ry="8" fill="#fef9c3" stroke="#374151" stroke-width="1.5"/>
+  <!-- Heart on stamp surface -->
+  <path d="M54 52 Q54 47 60 47 Q66 47 66 52 Q66 57 60 62 Q54 57 54 52 Z"
+        fill="#ef4444" stroke="#374151" stroke-width="1.5"/>
+  <!-- Arrow pressing down -->
+  <path d="M60 62 L60 72" stroke="#374151" stroke-width="2" stroke-linecap="round" marker-end="url(#arr)"/>
+  <!-- Paint coat on stamp (red dots) -->
+  <circle cx="48" cy="50" r="2" fill="#dc2626" stroke="none"/>
+  <circle cx="72" cy="50" r="2" fill="#dc2626" stroke="none"/>
+</svg>

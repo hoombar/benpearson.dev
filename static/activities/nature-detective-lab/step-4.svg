@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Background -->
+  <rect x="0" y="0" width="120" height="120" fill="#fef9c3"/>
+
+  <!-- Hero: detective bag/kit bag centre -->
+  <!-- Bag body -->
+  <rect x="28" y="54" width="64" height="58" rx="6" fill="#d97706" stroke="#374151" stroke-width="2.5"/>
+  <!-- Bag front panel -->
+  <rect x="34" y="62" width="52" height="42" rx="4" fill="#fbbf24" stroke="#374151" stroke-width="1.5"/>
+  <!-- Bag handle -->
+  <path d="M42,54 Q42,38 60,38 Q78,38 78,54" fill="none" stroke="#374151" stroke-width="3" stroke-linecap="round"/>
+  <!-- Bag clasp/buckle -->
+  <rect x="52" y="60" width="16" height="8" rx="2" fill="#e5e7eb" stroke="#374151" stroke-width="2"/>
+  <rect x="56" y="62" width="8" height="4" rx="1" fill="#f9fafb" stroke="#374151" stroke-width="1"/>
+
+  <!-- Marker defs — auto-align diagonal arrows to their direction -->
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2"
+            stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <!-- Magnifying glass: top-left, going into bag -->
+  <circle cx="22" cy="26" r="14" fill="#dbeafe" stroke="#374151" stroke-width="2.5"/>
+  <circle cx="22" cy="26" r="10" fill="none" stroke="#93c5fd" stroke-width="1.5"/>
+  <line x1="32" y1="36" x2="42" y2="48" stroke="#d97706" stroke-width="4" stroke-linecap="round"/>
+  <line x1="36" y1="40" x2="38" y2="43" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+  <!-- Magnifier arrow: straight vertical down — hand-placed V fine -->
+  <line x1="38" y1="50" x2="38" y2="60" stroke="#374151" stroke-width="1.5" stroke-dasharray="3,2" stroke-linecap="round"/>
+  <polyline points="35,57 38,62 41,57" fill="none" stroke="#374151" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Notebook: top-right, going into bag -->
+  <rect x="84" y="14" width="28" height="36" rx="2" fill="#f3f4f6" stroke="#374151" stroke-width="2"/>
+  <circle cx="84" cy="22" r="3" fill="#f9fafb" stroke="#374151" stroke-width="1.5"/>
+  <circle cx="84" cy="32" r="3" fill="#f9fafb" stroke="#374151" stroke-width="1.5"/>
+  <circle cx="84" cy="42" r="3" fill="#f9fafb" stroke="#374151" stroke-width="1.5"/>
+  <line x1="90" y1="22" x2="108" y2="22" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+  <line x1="90" y1="28" x2="108" y2="28" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+  <line x1="90" y1="34" x2="108" y2="34" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+  <line x1="90" y1="40" x2="104" y2="40" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+  <!-- Notebook arrow: diagonal (−6,10) = left-down 121°, marker auto-aligns -->
+  <line x1="90" y1="52" x2="84" y2="62" stroke="#374151" stroke-width="1.5" stroke-dasharray="3,2" stroke-linecap="round" marker-end="url(#arr)"/>
+
+  <!-- Small container/jar bottom-left going into bag -->
+  <rect x="8" y="72" width="16" height="18" rx="3" fill="#d1fae5" stroke="#374151" stroke-width="2"/>
+  <ellipse cx="16" cy="72" rx="8" ry="3" fill="#86efac" stroke="#374151" stroke-width="1.5"/>
+  <!-- Container arrow: curves from container toward bag opening -->
+  <path d="M26,75 Q34,68 40,64" fill="none" stroke="#374151" stroke-width="1.5" stroke-dasharray="3,2" stroke-linecap="round" marker-end="url(#arr)"/>
+</svg>

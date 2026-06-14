@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Paper (hero) -->
+  <rect x="10" y="8" width="82" height="104" rx="2" fill="#f9fafb" stroke="#374151" stroke-width="2.5"/>
+  <!-- paper shadow -->
+  <rect x="12" y="10" width="82" height="104" rx="2" fill="#e5e7eb" stroke="none" opacity="0.3"/>
+  <rect x="10" y="8" width="82" height="104" rx="2" fill="#f9fafb" stroke="#374151" stroke-width="2.5"/>
+  <!-- ruled lines (background context) -->
+  <line x1="18" y1="22" x2="84" y2="22" stroke="#dbeafe" stroke-width="1"/>
+  <line x1="18" y1="36" x2="84" y2="36" stroke="#dbeafe" stroke-width="1"/>
+  <line x1="18" y1="50" x2="84" y2="50" stroke="#dbeafe" stroke-width="1"/>
+  <line x1="18" y1="64" x2="84" y2="64" stroke="#dbeafe" stroke-width="1"/>
+  <line x1="18" y1="78" x2="84" y2="78" stroke="#dbeafe" stroke-width="1"/>
+  <line x1="18" y1="92" x2="84" y2="92" stroke="#dbeafe" stroke-width="1"/>
+
+  <!-- Dried invisible ink lines (dashed = vanished/dried) -->
+  <line x1="18" y1="28" x2="82" y2="28" stroke="#e5e7eb" stroke-width="2" stroke-dasharray="5,3" stroke-linecap="round"/>
+  <line x1="18" y1="42" x2="70" y2="42" stroke="#e5e7eb" stroke-width="2" stroke-dasharray="5,3" stroke-linecap="round"/>
+  <line x1="18" y1="56" x2="78" y2="56" stroke="#e5e7eb" stroke-width="2" stroke-dasharray="5,3" stroke-linecap="round"/>
+  <line x1="18" y1="70" x2="60" y2="70" stroke="#e5e7eb" stroke-width="2" stroke-dasharray="5,3" stroke-linecap="round"/>
+
+  <!-- Current wet line being written (lemon-juice yellow = wet, visible) -->
+  <line x1="18" y1="84" x2="56" y2="84" stroke="#fde68a" stroke-width="3" stroke-linecap="round"/>
+  <!-- wet shimmer on wet line -->
+  <line x1="18" y1="84" x2="56" y2="84" stroke="#fef9c3" stroke-width="1.5" stroke-linecap="round" opacity="0.6"/>
+
+  <!-- Juice drops along the wet line — it's still drying -->
+  <circle cx="30" cy="84" r="2" fill="#fde68a" stroke="#f59e0b" stroke-width="1"/>
+  <circle cx="44" cy="84" r="1.5" fill="#fde68a" stroke="#f59e0b" stroke-width="1"/>
+
+  <!-- Pen/cotton bud writing (action, right side) -->
+  <g transform="translate(104,48) rotate(35)">
+    <!-- pen body -->
+    <rect x="-3" y="-4" width="6" height="26" rx="1.5" fill="#c4b5fd" stroke="#374151" stroke-width="2"/>
+    <rect x="3" y="2" width="2" height="12" rx="1" fill="#a78bfa" stroke="#374151" stroke-width="1"/>
+    <!-- tip -->
+    <polygon points="-3,22 3,22 0,30" fill="#374151" stroke="#374151" stroke-width="1"/>
+    <!-- cap end -->
+    <rect x="-3" y="-10" width="6" height="7" rx="1.5" fill="#7c3aed" stroke="#374151" stroke-width="1.5"/>
+  </g>
+
+  <!-- Tiny lemon juice container to the right of paper (context) -->
+  <g transform="translate(104,88)">
+    <rect x="-7" y="-14" width="14" height="18" rx="2" fill="#f9fafb" stroke="#374151" stroke-width="1.5"/>
+    <!-- juice level -->
+    <rect x="-5" y="-2" width="10" height="4" rx="1" fill="#fef9c3" stroke="none"/>
+    <line x1="-5" y1="-2" x2="5" y2="-2" stroke="#fde68a" stroke-width="1"/>
+    <ellipse cx="0" cy="-14" rx="7" ry="2" fill="#e5e7eb" stroke="#374151" stroke-width="1"/>
+  </g>
+
+  <!-- Writing motion arc near pen tip -->
+  <path d="M92,76 Q98,70 96,62" fill="none" stroke="#374151" stroke-width="1" stroke-dasharray="2,2" stroke-linecap="round"/>
+</svg>

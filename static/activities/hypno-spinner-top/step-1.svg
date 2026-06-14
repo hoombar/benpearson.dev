@@ -1,0 +1,31 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="5" y="100" width="110" height="10" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Card circle (hero) with rainbow pie pattern -->
+  <circle cx="60" cy="52" r="32" fill="none" stroke="#374151" stroke-width="2.5"/>
+  <!-- Rainbow wedges -->
+  <path d="M60,52 L60,20 A32,32 0 0,1 87.7,36 Z" fill="#ef4444" stroke="#374151" stroke-width="1"/>
+  <path d="M60,52 L87.7,36 A32,32 0 0,1 92,52 Z" fill="#f97316" stroke="#374151" stroke-width="1"/>
+  <path d="M60,52 L92,52 A32,32 0 0,1 87.7,68 Z" fill="#f59e0b" stroke="#374151" stroke-width="1"/>
+  <path d="M60,52 L87.7,68 A32,32 0 0,1 60,84 Z" fill="#22c55e" stroke="#374151" stroke-width="1"/>
+  <path d="M60,52 L60,84 A32,32 0 0,1 32.3,68 Z" fill="#3b82f6" stroke="#374151" stroke-width="1"/>
+  <path d="M60,52 L32.3,68 A32,32 0 0,1 28,52 Z" fill="#a78bfa" stroke="#374151" stroke-width="1"/>
+  <path d="M60,52 L28,52 A32,32 0 0,1 32.3,36 Z" fill="#ec4899" stroke="#374151" stroke-width="1"/>
+  <path d="M60,52 L32.3,36 A32,32 0 0,1 60,20 Z" fill="#ef4444" stroke="#374151" stroke-width="1"/>
+
+  <!-- Centre dot -->
+  <circle cx="60" cy="52" r="2" fill="#374151" stroke="none"/>
+
+  <!-- Marker being used to colour -->
+  <line x1="96" y1="30" x2="80" y2="44" stroke="#ef4444" stroke-width="3.5" stroke-linecap="round"/>
+  <circle cx="79" cy="45" r="1.5" fill="#ef4444" stroke="none"/>
+
+  <!-- More markers lying below -->
+  <line x1="20" y1="92" x2="42" y2="88" stroke="#3b82f6" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="19" cy="92" r="1.5" fill="#3b82f6" stroke="none"/>
+  <line x1="50" y1="94" x2="72" y2="90" stroke="#22c55e" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="49" cy="94" r="1.5" fill="#22c55e" stroke="none"/>
+  <line x1="80" y1="92" x2="100" y2="88" stroke="#f59e0b" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="79" cy="92" r="1.5" fill="#f59e0b" stroke="none"/>
+</svg>

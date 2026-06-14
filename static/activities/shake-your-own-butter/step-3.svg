@@ -1,0 +1,25 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Plate / surface -->
+  <ellipse cx="60" cy="100" rx="48" ry="10" stroke="#374151" stroke-width="1.5" fill="#f9fafb"/>
+  <!-- Slice of bread (hero, on plate) -->
+  <path d="M24,62 Q22,50 26,44 Q30,36 38,34 Q46,32 74,34 Q82,36 88,44 Q92,50 90,62 L90,88 Q88,92 84,92 L30,92 Q26,92 24,88 Z"
+        stroke="#374151" stroke-width="2.5" fill="#fde68a"/>
+  <!-- Bread crust edge -->
+  <path d="M26,66 Q24,54 28,48 Q32,40 40,38 Q48,36 72,38 Q80,40 84,48 Q88,54 86,66"
+        stroke="#d97706" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- Butter blob being spread (golden yellow, lighter than crust) -->
+  <path d="M34,62 Q42,54 58,56 Q72,54 82,64 Q76,72 58,70 Q40,72 34,62 Z"
+        fill="#fbbf24" stroke="#d97706" stroke-width="1.5"/>
+  <!-- Butter swirl/spread marks -->
+  <path d="M42 64 Q52 60 62 64 Q70 60 76 64" stroke="#d97706" stroke-width="1" fill="none" stroke-linecap="round"/>
+  <!-- Knife spreading (coming from right) -->
+  <rect x="86" y="52" width="26" height="6" rx="1" fill="#e5e7eb" stroke="#374151" stroke-width="1.5"/>
+  <path d="M86 52 L80 56 L86 58 Z" fill="#e5e7eb" stroke="#374151" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Spreading motion arc -->
+  <path d="M80 64 Q72 72 60 68" stroke="#374151" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-dasharray="4,2"/>
+  <!-- Crumbs around bread -->
+  <circle cx="22" cy="80" r="2" fill="#fde68a" stroke="#d97706" stroke-width="0.8"/>
+  <circle cx="18" cy="88" r="1.5" fill="#fde68a" stroke="#d97706" stroke-width="0.8"/>
+  <circle cx="96" cy="78" r="2" fill="#fde68a" stroke="#d97706" stroke-width="0.8"/>
+  <circle cx="100" cy="88" r="1.5" fill="#fde68a" stroke="#d97706" stroke-width="0.8"/>
+</svg>

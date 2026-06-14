@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <defs>
+    <filter id="shadow2" x="-10%" y="-10%" width="130%" height="130%">
+      <feDropShadow dx="2" dy="4" stdDeviation="3" flood-color="#000" flood-opacity="0.3"/>
+    </filter>
+    <pattern id="wood2" x="0" y="0" width="100" height="20" patternUnits="userSpaceOnUse">
+      <rect width="100" height="20" fill="#cd853f"/>
+      <path d="M 0 10 Q 25 5, 50 10 T 100 10" fill="none" stroke="#a0522d" stroke-width="1" opacity="0.5"/>
+    </pattern>
+  </defs>
+  <rect width="400" height="300" fill="url(#wood2)"/>
+  
+  <!-- Paper, partially cut and folded -->
+  <g filter="url(#shadow2)">
+    <path d="M 120 60 L 280 60 L 280 240 L 120 240 Z" fill="#ffffff" stroke="#ddd" stroke-width="1"/>
+    
+    <!-- Top cut section -->
+    <path d="M 200 60 L 200 150" stroke="#000" stroke-width="2" fill="none"/>
+    <path d="M 120 150 L 160 150" stroke="#000" stroke-width="2" fill="none"/>
+    <path d="M 280 150 L 240 150" stroke="#000" stroke-width="2" fill="none"/>
+    
+    <!-- One flap slightly folded up -->
+    <polygon points="120,60 200,60 200,150 140,140" fill="#f0f0f0" stroke="#ddd" stroke-width="1"/>
+  </g>
+  
+  <!-- Scissors -->
+  <g transform="translate(195, 110) rotate(-20)" filter="url(#shadow2)">
+    <!-- Blades -->
+    <polygon points="0,0 -10,-60 5,-60 2,-10" fill="#silver" stroke="#999" stroke-width="1"/>
+    <polygon points="0,0 -5,-60 10,-60 -2,-10" fill="#silver" stroke="#999" stroke-width="1"/>
+    <!-- Pivot -->
+    <circle cx="0" cy="0" r="3" fill="#333"/>
+    <!-- Handles -->
+    <path d="M -5,5 C -25,20 -20,40 -5,40 C 5,40 5,20 -5,5" fill="none" stroke="#ff4500" stroke-width="8"/>
+    <path d="M 5,5 C 25,20 20,40 5,40 C -5,40 -5,20 5,5" fill="none" stroke="#ff4500" stroke-width="8"/>
+  </g>
+</svg>

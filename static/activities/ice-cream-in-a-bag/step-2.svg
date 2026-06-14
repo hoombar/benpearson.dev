@@ -1,0 +1,50 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Step 2: The Big Freeze -->
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+    </marker>
+  </defs>
+
+  <!-- Shake motion background (dynamic action) -->
+  <path d="M10,20 L110,100" fill="none" stroke="#e5e7eb" stroke-width="1" stroke-dasharray="4,4" />
+  <path d="M110,20 L10,100" fill="none" stroke="#e5e7eb" stroke-width="1" stroke-dasharray="4,4" />
+
+  <!-- The large bag being shaken, tilted -->
+  <g transform="translate(60, 60) rotate(15)">
+    <path d="M-35,-40 L35,-40 L35,40 Q35,45 30,45 L-30,45 Q-35,45 -35,40 Z" fill="#f9fafb" opacity="0.9" stroke="#374151" stroke-width="2" stroke-linejoin="round" />
+    <line x1="-35" y1="-32" x2="35" y2="-32" stroke="#ef4444" stroke-width="2.5" />
+    
+    <!-- Small bag inside -->
+    <path d="M-15,-10 L15,-10 L15,30 Q15,35 10,35 L-10,35 Q-15,35 -15,30 Z" fill="#ffffff" stroke="#9ca3af" stroke-width="1.5" />
+    <line x1="-15" y1="-5" x2="15" y2="-5" stroke="#ef4444" stroke-width="1.5" />
+    <path d="M-13,10 L13,10 L13,30 Q13,33 10,33 L-10,33 Q-13,33 -13,30 Z" fill="#fef9c3" opacity="0.8" />
+    
+    <!-- Ice cubes inside around the small bag -->
+    <rect x="-25" y="10" width="10" height="10" rx="2" fill="#dbeafe" stroke="#374151" stroke-width="1" transform="rotate(-15 -20 15)" />
+    <rect x="15" y="15" width="12" height="12" rx="2" fill="#dbeafe" stroke="#374151" stroke-width="1" transform="rotate(25 21 21)" />
+    <rect x="-5" y="30" width="10" height="10" rx="2" fill="#dbeafe" stroke="#374151" stroke-width="1" transform="rotate(10 0 35)" />
+    <rect x="-20" y="-15" width="10" height="10" rx="2" fill="#dbeafe" stroke="#374151" stroke-width="1" />
+    <rect x="20" y="-5" width="12" height="12" rx="2" fill="#dbeafe" stroke="#374151" stroke-width="1" transform="rotate(-20 26 1)" />
+
+    <!-- Cold mist / frost lines on bag -->
+    <path d="M-30,-20 Q-20,-10 -30,0" fill="none" stroke="#60a5fa" stroke-width="1.5" />
+    <path d="M30,0 Q20,10 30,20" fill="none" stroke="#60a5fa" stroke-width="1.5" />
+  </g>
+
+  <!-- Shaking Action Arrows -->
+  <path d="M20,40 Q10,60 20,80" fill="none" stroke="#111827" stroke-width="2" marker-end="url(#arr)" stroke-linecap="round" />
+  <path d="M100,80 Q110,60 100,40" fill="none" stroke="#111827" stroke-width="2" marker-end="url(#arr)" stroke-linecap="round" />
+  
+  <!-- Snowflakes / Cold indication -->
+  <g transform="translate(15, 20) scale(0.6)" stroke="#3b82f6" stroke-width="2" stroke-linecap="round">
+    <line x1="0" y1="-10" x2="0" y2="10" />
+    <line x1="-8.6" y1="-5" x2="8.6" y2="5" />
+    <line x1="-8.6" y1="5" x2="8.6" y2="-5" />
+  </g>
+  <g transform="translate(100, 100) scale(0.6)" stroke="#3b82f6" stroke-width="2" stroke-linecap="round">
+    <line x1="0" y1="-10" x2="0" y2="10" />
+    <line x1="-8.6" y1="-5" x2="8.6" y2="5" />
+    <line x1="-8.6" y1="5" x2="8.6" y2="-5" />
+  </g>
+</svg>

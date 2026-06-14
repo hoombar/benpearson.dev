@@ -1,0 +1,30 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="5" y="100" width="110" height="10" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Paper clip character (hero, large, centre) -->
+  <!-- Main clip shape (bent to stand up) -->
+  <path d="M52,90 L52,40 Q52,30 60,30 Q68,30 68,40 L68,60 Q68,66 62,66 Q56,66 56,60 L56,46"
+        fill="none" stroke="#9ca3af" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Little paper flag/cape attached -->
+  <path d="M60,30 L60,16 L78,22 L60,28" fill="#ef4444" stroke="#374151" stroke-width="1"/>
+
+  <!-- Flat paper clips nearby (unused) -->
+  <path d="M16,70 L16,50 Q16,46 20,46 Q24,46 24,50 L24,60 Q24,62 22,62 Q20,62 20,60 L20,52"
+        fill="none" stroke="#9ca3af" stroke-width="2" stroke-linecap="round"/>
+
+  <path d="M100,72 L100,54 Q100,50 104,50 Q108,50 108,54 L108,64 Q108,66 106,66 Q104,66 104,64 L104,56"
+        fill="none" stroke="#9ca3af" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Arrow showing bending action -->
+  <defs>
+    <marker id="arr" viewBox="0 0 6 6" refX="5" refY="3" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#374151"/>
+    </marker>
+  </defs>
+  <path d="M30,60 Q38,56 46,50" fill="none" stroke="#374151" stroke-width="1.2" marker-end="url(#arr)"/>
+
+  <!-- Tape attaching flag -->
+  <rect x="58" y="28" width="5" height="4" rx="1" fill="#fde68a" stroke="#374151" stroke-width="0.4"/>
+</svg>

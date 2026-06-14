@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Yarn ball (hero) -->
+  <circle cx="38" cy="72" r="30" fill="#f97316" stroke="#374151" stroke-width="2.5"/>
+  <!-- Yarn spiral lines on ball -->
+  <path d="M18,60 Q28,45 48,55 Q60,62 50,78 Q38,90 22,82" fill="none" stroke="#ea580c" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M25,50 Q40,38 55,50 Q64,58 55,72" fill="none" stroke="#ea580c" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Yarn tail coming off ball -->
+  <path d="M60,55 Q75,42 88,35" fill="none" stroke="#f97316" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Hand outline (palm visible, fingers pointing up) -->
+  <g transform="translate(72,30)">
+    <!-- Palm -->
+    <rect x="0" y="35" width="36" height="28" rx="6" fill="#fde8d0" stroke="#374151" stroke-width="1.5"/>
+    <!-- Index finger -->
+    <rect x="2" y="8" width="8" height="30" rx="4" fill="#fde8d0" stroke="#374151" stroke-width="1.5"/>
+    <!-- Middle finger -->
+    <rect x="12" y="4" width="8" height="34" rx="4" fill="#fde8d0" stroke="#374151" stroke-width="1.5"/>
+    <!-- Ring finger -->
+    <rect x="22" y="8" width="8" height="30" rx="4" fill="#fde8d0" stroke="#374151" stroke-width="1.5"/>
+    <!-- Little finger -->
+    <rect x="32" y="14" width="7" height="24" rx="3.5" fill="#fde8d0" stroke="#374151" stroke-width="1.5"/>
+    <!-- Thumb -->
+    <rect x="-8" y="40" width="10" height="18" rx="5" fill="#fde8d0" stroke="#374151" stroke-width="1.5" transform="rotate(-20,-3,49)"/>
+    <!-- Yarn tail resting across palm -->
+    <path d="M-5,48 Q8,44 14,38 Q22,30 28,28" fill="none" stroke="#f97316" stroke-width="2" stroke-linecap="round"/>
+  </g>
+</svg>

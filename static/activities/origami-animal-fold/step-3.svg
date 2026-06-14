@@ -1,0 +1,82 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="120" height="120" fill="#f9fafb"/>
+
+  <!-- Shelf -->
+  <rect x="6" y="88" width="108" height="8" rx="2" fill="#fbbf24" stroke="#374151" stroke-width="2.5"/>
+  <!-- Shelf supports -->
+  <rect x="10" y="96" width="6" height="18" rx="1" fill="#fbbf24" stroke="#374151" stroke-width="1.5"/>
+  <rect x="104" y="96" width="6" height="18" rx="1" fill="#fbbf24" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Animal 1: Origami CRANE (left, orange) on shelf -->
+  <g transform="translate(10, 50)">
+    <!-- Body -->
+    <path d="M16 38 L28 22 L40 38" fill="#f97316" stroke="#374151" stroke-width="2" stroke-linejoin="round"/>
+    <!-- Wings spread -->
+    <path d="M4 34 L16 38 L28 22" fill="#fdba74" stroke="#374151" stroke-width="1.8" stroke-linejoin="round"/>
+    <path d="M52 34 L40 38 L28 22" fill="#fdba74" stroke="#374151" stroke-width="1.8" stroke-linejoin="round"/>
+    <!-- Neck -->
+    <path d="M28 22 L24 12" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+    <!-- Head -->
+    <circle cx="22" cy="10" r="3.5" fill="#f97316" stroke="#374151" stroke-width="1.8"/>
+    <!-- Beak -->
+    <path d="M19 9 L14 8 L19 11 Z" fill="#f59e0b" stroke="#374151" stroke-width="1" stroke-linejoin="round"/>
+    <!-- Tail -->
+    <path d="M28 22 L32 12" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+    <!-- Fold creases on wing -->
+    <line x1="10" y1="35" x2="28" y2="27" stroke="#374151" stroke-width="0.8" stroke-dasharray="2,2" stroke-linecap="round"/>
+    <!-- Eye dot -->
+    <circle cx="21" cy="9" r="1" fill="#374151"/>
+  </g>
+
+  <!-- Animal 2: Origami FROG (centre, green) on shelf -->
+  <g transform="translate(42, 50)">
+    <!-- Body -->
+    <path d="M18 38 L18 22 L30 18 L42 22 L42 38 Z" fill="#22c55e" stroke="#374151" stroke-width="2" stroke-linejoin="round"/>
+    <!-- Front legs -->
+    <path d="M18 32 L8 28 L4 34" stroke="#374151" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M42 32 L52 28 L56 34" stroke="#374151" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- Back legs -->
+    <path d="M18 38 L10 44 L6 38" stroke="#374151" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M42 38 L50 44 L54 38" stroke="#374151" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- Eyes -->
+    <circle cx="24" cy="20" r="4" fill="#86efac" stroke="#374151" stroke-width="1.8"/>
+    <circle cx="36" cy="20" r="4" fill="#86efac" stroke="#374151" stroke-width="1.8"/>
+    <circle cx="24" cy="20" r="1.5" fill="#374151"/>
+    <circle cx="36" cy="20" r="1.5" fill="#374151"/>
+    <!-- Fold creases on body -->
+    <line x1="18" y1="28" x2="42" y2="28" stroke="#374151" stroke-width="0.8" stroke-dasharray="2,2" stroke-linecap="round"/>
+    <line x1="30" y1="18" x2="30" y2="38" stroke="#374151" stroke-width="0.8" stroke-dasharray="2,2" stroke-linecap="round"/>
+  </g>
+
+  <!-- Animal 3: Origami BIRD/CAT silhouette (right, blue) on shelf -->
+  <g transform="translate(80, 50)">
+    <!-- Cat body -->
+    <path d="M8 38 L8 20 L18 12 L28 20 L28 38 Z" fill="#3b82f6" stroke="#374151" stroke-width="2" stroke-linejoin="round"/>
+    <!-- Cat ears (pointed) -->
+    <path d="M8 20 L4 10 L14 16" fill="#93c5fd" stroke="#374151" stroke-width="1.8" stroke-linejoin="round"/>
+    <path d="M28 20 L32 10 L22 16" fill="#93c5fd" stroke="#374151" stroke-width="1.8" stroke-linejoin="round"/>
+    <!-- Cat face -->
+    <circle cx="14" cy="22" r="2.5" fill="#dbeafe" stroke="#374151" stroke-width="1.2"/>
+    <circle cx="22" cy="22" r="2.5" fill="#dbeafe" stroke="#374151" stroke-width="1.2"/>
+    <circle cx="14" cy="22" r="1" fill="#374151"/>
+    <circle cx="22" cy="22" r="1" fill="#374151"/>
+    <!-- Nose and whiskers -->
+    <circle cx="18" cy="26" r="1" fill="#ef4444"/>
+    <line x1="12" y1="26" x2="7" y2="25" stroke="#374151" stroke-width="0.8" stroke-linecap="round"/>
+    <line x1="24" y1="26" x2="29" y2="25" stroke="#374151" stroke-width="0.8" stroke-linecap="round"/>
+    <!-- Tail -->
+    <path d="M28 36 Q36 32 34 24" stroke="#374151" stroke-width="2" fill="none" stroke-linecap="round"/>
+  </g>
+
+  <!-- Markers in hand above animals -->
+  <g transform="rotate(-25 16 20)">
+    <rect x="12" y="10" width="5" height="18" rx="1.5" fill="#ef4444" stroke="#374151" stroke-width="1.2"/>
+    <path d="M12 28 L14.5 34 L17 28 Z" fill="#374151" stroke="#374151" stroke-width="0.8" stroke-linejoin="round"/>
+    <rect x="12" y="8" width="5" height="3" rx="0.5" fill="#fca5a5" stroke="#374151" stroke-width="0.8"/>
+  </g>
+  <g transform="rotate(-10 30 14)">
+    <rect x="27" y="8" width="5" height="18" rx="1.5" fill="#a78bfa" stroke="#374151" stroke-width="1.2"/>
+    <path d="M27 26 L29.5 32 L32 26 Z" fill="#374151" stroke="#374151" stroke-width="0.8" stroke-linejoin="round"/>
+  </g>
+</svg>

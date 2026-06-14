@@ -1,0 +1,58 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Dark sky background -->
+  <rect x="0" y="0" width="120" height="100" fill="#1e293b"/>
+  <!-- Ground -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#365314" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Moon -->
+  <circle cx="100" cy="18" r="10" fill="#fde68a" stroke="#374151" stroke-width="0.5"/>
+
+  <!-- Stars -->
+  <circle cx="14" cy="10" r="1" fill="white"/>
+  <circle cx="40" cy="6" r="0.8" fill="white"/>
+  <circle cx="70" cy="12" r="1" fill="white"/>
+
+  <!-- Branch -->
+  <path d="M0,80 Q30,74 60,78 Q90,82 120,76" fill="none" stroke="#92400e" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- Completed owl on branch (hero) -->
+  <g transform="translate(24, 14)">
+    <!-- Main plate body -->
+    <ellipse cx="36" cy="34" rx="34" ry="32" fill="#92400e" stroke="#374151" stroke-width="1.5"/>
+    <!-- Wing folds -->
+    <path d="M4,10 L14,10 L14,58 L4,58 Z" fill="#78350f" stroke="#374151" stroke-width="0.6"/>
+    <path d="M58,10 L68,10 L68,58 L58,58 Z" fill="#78350f" stroke="#374151" stroke-width="0.6"/>
+
+    <!-- Ear tufts -->
+    <polygon points="16,2 20,-8 24,2" fill="#78350f" stroke="#374151" stroke-width="0.6"/>
+    <polygon points="48,2 52,-8 56,2" fill="#78350f" stroke="#374151" stroke-width="0.6"/>
+
+    <!-- Eyes -->
+    <circle cx="26" cy="22" r="10" fill="white" stroke="#374151" stroke-width="0.8"/>
+    <circle cx="26" cy="22" r="7" fill="#eab308" stroke="#374151" stroke-width="0.4"/>
+    <circle cx="26" cy="22" r="3.5" fill="#374151"/>
+    <circle cx="46" cy="22" r="10" fill="white" stroke="#374151" stroke-width="0.8"/>
+    <circle cx="46" cy="22" r="7" fill="#eab308" stroke="#374151" stroke-width="0.4"/>
+    <circle cx="46" cy="22" r="3.5" fill="#374151"/>
+
+    <!-- Eyebrows (V shapes) -->
+    <polyline points="18,12 22,8 28,12" fill="none" stroke="#374151" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <polyline points="44,12 48,8 54,12" fill="none" stroke="#374151" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <!-- Beak -->
+    <polygon points="36,32 32,38 40,38" fill="#f97316" stroke="#374151" stroke-width="0.6"/>
+
+    <!-- Feather patterns (scallops) -->
+    <path d="M18,44 Q22,40 26,44" fill="none" stroke="#78350f" stroke-width="1" stroke-linecap="round"/>
+    <path d="M26,44 Q30,40 34,44" fill="none" stroke="#78350f" stroke-width="1" stroke-linecap="round"/>
+    <path d="M34,44 Q38,40 42,44" fill="none" stroke="#78350f" stroke-width="1" stroke-linecap="round"/>
+    <path d="M42,44 Q46,40 50,44" fill="none" stroke="#78350f" stroke-width="1" stroke-linecap="round"/>
+    <path d="M20,50 Q24,46 28,50" fill="none" stroke="#78350f" stroke-width="1" stroke-linecap="round"/>
+    <path d="M28,50 Q32,46 36,50" fill="none" stroke="#78350f" stroke-width="1" stroke-linecap="round"/>
+    <path d="M36,50 Q40,46 44,50" fill="none" stroke="#78350f" stroke-width="1" stroke-linecap="round"/>
+
+    <!-- Feet -->
+    <path d="M28,66 L24,72 M28,66 L28,72 M28,66 L32,72" fill="none" stroke="#f97316" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M44,66 L40,72 M44,66 L44,72 M44,66 L48,72" fill="none" stroke="#f97316" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+</svg>

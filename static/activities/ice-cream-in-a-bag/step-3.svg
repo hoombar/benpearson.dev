@@ -1,0 +1,37 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Step 3: Taste the Magic -->
+  <!-- Table background -->
+  <rect x="0" y="80" width="120" height="40" fill="#fef3c7" />
+  <line x1="0" y1="80" x2="120" y2="80" stroke="#d97706" stroke-width="2" />
+
+  <!-- The small bag, now open and sitting on a towel -->
+  <!-- Towel -->
+  <path d="M20,95 L100,95 L110,110 L10,110 Z" fill="#93c5fd" stroke="#374151" stroke-width="1.5" stroke-linejoin="round" />
+  <line x1="30" y1="95" x2="20" y2="110" stroke="#60a5fa" stroke-width="1.5" />
+  <line x1="50" y1="95" x2="40" y2="110" stroke="#60a5fa" stroke-width="1.5" />
+  <line x1="70" y1="95" x2="60" y2="110" stroke="#60a5fa" stroke-width="1.5" />
+  <line x1="90" y1="95" x2="80" y2="110" stroke="#60a5fa" stroke-width="1.5" />
+
+  <!-- Bag -->
+  <path d="M35,60 L85,60 L80,105 L40,105 Z" fill="#f9fafb" opacity="0.9" stroke="#374151" stroke-width="2" stroke-linejoin="round" />
+  <!-- Folded down top edge -->
+  <path d="M35,60 Q60,70 85,60 Q60,50 35,60" fill="#ffffff" stroke="#374151" stroke-width="1.5" />
+
+  <!-- Solid Ice Cream Scoop inside -->
+  <ellipse cx="60" cy="85" rx="18" ry="12" fill="#fef9c3" stroke="#d97706" stroke-width="1.5" />
+  <path d="M45,85 Q50,75 60,80 Q70,75 75,85" fill="none" stroke="#d97706" stroke-width="1.5" stroke-linecap="round" />
+
+  <!-- Spoon dipping in -->
+  <g transform="translate(60, 40) rotate(15)">
+    <!-- Handle -->
+    <rect x="-2" y="-30" width="4" height="40" rx="2" fill="#f3f4f6" stroke="#374151" stroke-width="1.5" />
+    <!-- Bowl of spoon -->
+    <ellipse cx="0" cy="15" rx="8" ry="12" fill="#e5e7eb" stroke="#374151" stroke-width="1.5" />
+    <!-- Chunk of ice cream on spoon -->
+    <path d="M-6,12 Q0,5 6,12 Q8,20 0,22 Q-8,20 -6,12 Z" fill="#fef9c3" stroke="#d97706" stroke-width="1" />
+  </g>
+
+  <!-- Sparkles -->
+  <path d="M85,30 L90,20 L95,30 L105,35 L95,40 L90,50 L85,40 L75,35 Z" fill="#fbbf24" stroke="#d97706" stroke-width="1" />
+  <path d="M30,40 L32,35 L34,40 L39,42 L34,44 L32,49 L30,44 L25,42 Z" fill="#fbbf24" stroke="#d97706" stroke-width="1" />
+</svg>

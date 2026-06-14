@@ -1,0 +1,43 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Complete stegosaurus (hero) -->
+  <!-- Body -->
+  <path d="M22,58 Q22,38 52,38 Q82,38 82,58 Z" fill="#22c55e" stroke="#374151" stroke-width="1.2"/>
+  <!-- Belly detail -->
+  <path d="M28,58 Q52,64 76,58" fill="#bbf7d0" stroke="none" opacity="0.5"/>
+
+  <!-- Back plates -->
+  <polygon points="32,38 29,28 35,28" fill="#f97316" stroke="#374151" stroke-width="0.6"/>
+  <polygon points="42,38 39,26 45,26" fill="#16a34a" stroke="#374151" stroke-width="0.6"/>
+  <polygon points="52,38 49,24 55,24" fill="#f97316" stroke="#374151" stroke-width="0.6"/>
+  <polygon points="62,38 59,26 65,26" fill="#16a34a" stroke="#374151" stroke-width="0.6"/>
+  <polygon points="72,38 69,28 75,28" fill="#f97316" stroke="#374151" stroke-width="0.6"/>
+
+  <!-- Legs -->
+  <rect x="30" y="58" width="7" height="16" rx="2" fill="#22c55e" stroke="#374151" stroke-width="0.6"/>
+  <rect x="40" y="58" width="7" height="16" rx="2" fill="#22c55e" stroke="#374151" stroke-width="0.6"/>
+  <rect x="58" y="58" width="7" height="16" rx="2" fill="#22c55e" stroke="#374151" stroke-width="0.6"/>
+  <rect x="68" y="58" width="7" height="16" rx="2" fill="#22c55e" stroke="#374151" stroke-width="0.6"/>
+  <!-- Feet -->
+  <ellipse cx="33" cy="74" rx="5" ry="2" fill="#22c55e" stroke="#374151" stroke-width="0.4"/>
+  <ellipse cx="43" cy="74" rx="5" ry="2" fill="#22c55e" stroke="#374151" stroke-width="0.4"/>
+  <ellipse cx="61" cy="74" rx="5" ry="2" fill="#22c55e" stroke="#374151" stroke-width="0.4"/>
+  <ellipse cx="71" cy="74" rx="5" ry="2" fill="#22c55e" stroke="#374151" stroke-width="0.4"/>
+
+  <!-- Tail with spikes -->
+  <polygon points="82,42 106,32 82,52" fill="#22c55e" stroke="#374151" stroke-width="0.8"/>
+  <polygon points="96,36 94,28 100,30" fill="#f97316" stroke="#374151" stroke-width="0.4"/>
+  <polygon points="102,34 100,26 106,28" fill="#f97316" stroke="#374151" stroke-width="0.4"/>
+
+  <!-- Head and neck -->
+  <path d="M22,50 L10,40 Q6,36 8,32 Q12,28 16,32 L18,38 Z" fill="#22c55e" stroke="#374151" stroke-width="1"/>
+  <!-- Googly eye -->
+  <circle cx="12" cy="32" r="3" fill="white" stroke="#374151" stroke-width="0.6"/>
+  <circle cx="12.5" cy="32.5" r="1.5" fill="#374151"/>
+  <!-- Smile -->
+  <path d="M8,36 Q10,38 14,36" fill="none" stroke="#374151" stroke-width="0.6" stroke-linecap="round"/>
+  <!-- Nostril -->
+  <circle cx="8" cy="33" r="0.8" fill="#15803d"/>
+</svg>

@@ -1,0 +1,76 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Step 1: Mix your paint wash — paint tube + container + water + stir -->
+
+  <!-- Container / jar (hero) -->
+  <rect x="38" y="52" width="44" height="54" rx="4" fill="#f9fafb" stroke="#374151" stroke-width="2.5"/>
+  <!-- Jar rim (double line for depth) -->
+  <line x1="34" y1="52" x2="82" y2="52" stroke="#374151" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="38" y1="47" x2="78" y2="47" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- Deep blue paint wash inside jar -->
+  <rect x="40" y="68" width="40" height="36" rx="2" fill="#3b82f6"/>
+  <!-- Wavy paint surface -->
+  <path d="M40,68 Q50,62 60,68 Q70,74 80,68" fill="none" stroke="#93c5fd" stroke-width="2" stroke-linecap="round"/>
+  <!-- Ripple lines in wash -->
+  <path d="M44,78 Q60,72 76,78" fill="none" stroke="#60a5fa" stroke-width="1" stroke-linecap="round"/>
+  <path d="M44,88 Q60,82 76,88" fill="none" stroke="#60a5fa" stroke-width="1" stroke-linecap="round"/>
+
+  <!-- Stirring stick inside -->
+  <line x1="72" y1="48" x2="62" y2="100" stroke="#d97706" stroke-width="2" stroke-linecap="round"/>
+  <!-- Stir arc — marker auto-aligns to tangent (70−56,74−62) = (14,12) = 40° right-down -->
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2"
+            stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <path d="M46,78 Q56,62 70,74" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round" marker-end="url(#arr)"/>
+
+  <!-- Paint tube (upper-left, being squeezed) -->
+  <g transform="translate(18, 30) rotate(-20)">
+    <!-- Tube body -->
+    <rect x="-10" y="-8" width="26" height="16" rx="8" fill="#3b82f6" stroke="#374151" stroke-width="2"/>
+    <!-- Tube highlight stripe -->
+    <rect x="-6" y="-4" width="14" height="4" rx="2" fill="#60a5fa" stroke="none"/>
+    <!-- Nozzle/cap end (right) -->
+    <rect x="16" y="-6" width="10" height="12" rx="2" fill="#1d4ed8" stroke="#374151" stroke-width="1.5"/>
+    <!-- Crimped left end (squeezed) -->
+    <path d="M-10,-6 Q-14,-2 -14,0 Q-14,2 -10,6" fill="none" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+    <!-- Squeeze fold lines -->
+    <line x1="-10" y1="-3" x2="-6" y2="-3" stroke="#1d4ed8" stroke-width="1" stroke-linecap="round"/>
+    <line x1="-10" y1="3" x2="-6" y2="3" stroke="#1d4ed8" stroke-width="1" stroke-linecap="round"/>
+  </g>
+
+  <!-- Dashed drip line from tube nozzle into jar -->
+  <line x1="32" y1="36" x2="44" y2="50" stroke="#3b82f6" stroke-width="2" stroke-dasharray="3,2" stroke-linecap="round"/>
+  <!-- Paint drops -->
+  <circle cx="36" cy="40" r="2" fill="#3b82f6"/>
+  <circle cx="40" cy="46" r="1.5" fill="#3b82f6"/>
+
+  <!-- Water drops (upper-right — water being added) -->
+  <g transform="translate(96, 22)">
+    <!-- Large drop -->
+    <path d="M0,-14 Q6,-6 6,0 Q6,8 0,8 Q-6,8 -6,0 Q-6,-6 0,-14" fill="#dbeafe" stroke="#3b82f6" stroke-width="2"/>
+    <!-- Small drop -->
+    <path d="M12,-8 Q16,-2 16,2 Q16,7 12,7 Q8,7 8,2 Q8,-2 12,-8" fill="#dbeafe" stroke="#93c5fd" stroke-width="1.5"/>
+  </g>
+  <!-- Water dashed drop line to jar -->
+  <line x1="92" y1="36" x2="82" y2="48" stroke="#93c5fd" stroke-width="1.5" stroke-dasharray="3,2" stroke-linecap="round"/>
+
+  <!-- Paintbrush (right side, testing consistency) -->
+  <g transform="translate(108, 18) rotate(150)">
+    <!-- Handle -->
+    <rect x="-3" y="-28" width="6" height="36" rx="1" fill="#d97706" stroke="#374151" stroke-width="1.5"/>
+    <!-- Handle top cap -->
+    <rect x="-3" y="-28" width="6" height="5" rx="2" fill="#fbbf24" stroke="#374151" stroke-width="1"/>
+    <!-- Ferrule -->
+    <rect x="-4" y="8" width="8" height="8" rx="1" fill="#9ca3af" stroke="#374151" stroke-width="1.5"/>
+    <!-- Bristles -->
+    <path d="M-4,16 L-6,28 L0,24 L6,28 L4,16 Z" fill="#3b82f6" stroke="#374151" stroke-width="1.5" stroke-linejoin="round"/>
+    <!-- Bristle tips -->
+    <line x1="-4" y1="24" x2="-6" y2="28" stroke="#1d4ed8" stroke-width="0.8" stroke-linecap="round"/>
+    <line x1="0" y1="24" x2="0" y2="29" stroke="#1d4ed8" stroke-width="0.8" stroke-linecap="round"/>
+    <line x1="4" y1="24" x2="6" y2="28" stroke="#1d4ed8" stroke-width="0.8" stroke-linecap="round"/>
+  </g>
+</svg>

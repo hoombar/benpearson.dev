@@ -1,0 +1,59 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="120" height="120" fill="#f9fafb"/>
+
+  <!-- STEP: fold square into triangle, then open-and-squash for bird base -->
+
+  <!-- Marker defs — auto-align all arrowheads to path direction -->
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2"
+            stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+    <marker id="arr-blue" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#3b82f6" stroke-width="2"
+            stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <!-- Source square (top-left, small inset showing start state) -->
+  <rect x="6" y="8" width="32" height="32" rx="1" fill="#f97316" stroke="#374151" stroke-width="1.8"/>
+  <!-- Diagonal fold line on source square -->
+  <line x1="6" y1="8" x2="38" y2="40" stroke="#374151" stroke-width="1.2" stroke-dasharray="4,3" stroke-linecap="round"/>
+  <!-- Arrow: fold top-right corner down to bottom-left — tangent = (10−20,36−20) = (−10,16) -->
+  <path d="M34 12 Q20 20 10 36" stroke="#374151" stroke-width="1.5" fill="none" stroke-linecap="round" marker-end="url(#arr)"/>
+
+  <!-- Transform arrow (middle) — straight horizontal, hand-placed V fine -->
+  <line x1="42" y1="30" x2="56" y2="30" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+  <path d="M53 27 L57 30 L53 33" stroke="#374151" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- HERO: Main paper in mid-fold (bird base being formed, large) -->
+  <path d="M60 110 L60 28 L100 70 Z" fill="#f97316" stroke="#374151" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Left flap (being squash-folded open) -->
+  <path d="M60 110 L60 28 L18 70 Z" fill="#fdba74" stroke="#374151" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Centre crease line (vertical) -->
+  <line x1="60" y1="28" x2="60" y2="110" stroke="#374151" stroke-width="1.5" stroke-dasharray="5,4" stroke-linecap="round"/>
+  <!-- Horizontal fold crease at mid level -->
+  <line x1="18" y1="70" x2="100" y2="70" stroke="#374151" stroke-width="1.2" stroke-dasharray="4,3" stroke-linecap="round"/>
+
+  <!-- Arrow showing LEFT flap being pushed open — tangent at (28,80) = (28−22,80−65) = (6,15) -->
+  <path d="M38 55 Q22 65 28 80" stroke="#3b82f6" stroke-width="2.5" fill="none" stroke-linecap="round" marker-end="url(#arr-blue)"/>
+  <!-- Mirror arrow for right flap — tangent at (92,80) = (92−98,80−65) = (−6,15) -->
+  <path d="M82 55 Q98 65 92 80" stroke="#374151" stroke-width="1.8" fill="none" stroke-linecap="round" marker-end="url(#arr)"/>
+
+  <!-- Thumbnail crease press indicator -->
+  <path d="M60 108 Q56 100 58 92" stroke="#374151" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <circle cx="58" cy="91" r="3" fill="#fbbf24" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Result inset (top-right corner): bird-base diamond shape -->
+  <rect x="82" y="8" width="32" height="32" rx="1" fill="#f3f4f6" stroke="#374151" stroke-width="1.5"/>
+  <path d="M98 12 L110 24 L98 36 L86 24 Z" fill="#f97316" stroke="#374151" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Centre crease of result -->
+  <line x1="98" y1="12" x2="98" y2="36" stroke="#374151" stroke-width="1" stroke-dasharray="3,2" stroke-linecap="round"/>
+  <line x1="86" y1="24" x2="110" y2="24" stroke="#374151" stroke-width="1" stroke-dasharray="3,2" stroke-linecap="round"/>
+  <!-- Small arrow to result — straight horizontal left, hand-placed V fine -->
+  <line x1="82" y1="24" x2="76" y2="24" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M79 21 L75 24 L79 27" stroke="#374151" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

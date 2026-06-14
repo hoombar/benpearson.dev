@@ -1,0 +1,27 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Colourful suncatcher behind the frame -->
+  <rect x="18" y="18" width="84" height="84" rx="2" fill="#fde68a" fill-opacity="0.5"/>
+  <rect x="24" y="24" width="20" height="18" rx="1" fill="#f87171" fill-opacity="0.75"/>
+  <rect x="42" y="20" width="22" height="20" rx="1" fill="#60a5fa" fill-opacity="0.75"/>
+  <rect x="62" y="24" width="22" height="18" rx="1" fill="#4ade80" fill-opacity="0.75"/>
+  <rect x="24" y="42" width="22" height="20" rx="1" fill="#a78bfa" fill-opacity="0.75"/>
+  <rect x="44" y="40" width="20" height="22" rx="1" fill="#fb923c" fill-opacity="0.75"/>
+  <rect x="62" y="42" width="22" height="20" rx="1" fill="#f472b6" fill-opacity="0.75"/>
+  <rect x="24" y="62" width="20" height="22" rx="1" fill="#facc15" fill-opacity="0.75"/>
+  <rect x="42" y="60" width="22" height="22" rx="1" fill="#34d399" fill-opacity="0.75"/>
+  <rect x="62" y="62" width="22" height="20" rx="1" fill="#f87171" fill-opacity="0.75"/>
+  <!-- Paper frame overlay (white/light border around coloured centre) -->
+  <rect x="14" y="14" width="92" height="92" rx="3" fill="none" stroke="#374151" stroke-width="3"/>
+  <rect x="20" y="20" width="80" height="80" rx="2" fill="none" stroke="#374151" stroke-width="1.5"/>
+  <!-- Frame fill (opaque white borders) -->
+  <rect x="14" y="14" width="92" height="10" rx="2" fill="#f9fafb" stroke="#374151" stroke-width="1.5"/>
+  <rect x="14" y="96" width="92" height="10" rx="2" fill="#f9fafb" stroke="#374151" stroke-width="1.5"/>
+  <rect x="14" y="14" width="10" height="92" rx="2" fill="#f9fafb" stroke="#374151" stroke-width="1.5"/>
+  <rect x="96" y="14" width="10" height="92" rx="2" fill="#f9fafb" stroke="#374151" stroke-width="1.5"/>
+  <!-- Fold guides on paper -->
+  <line x1="60" y1="14" x2="60" y2="10" stroke="#374151" stroke-width="1" stroke-dasharray="3,2"/>
+  <line x1="14" y1="60" x2="10" y2="60" stroke="#374151" stroke-width="1" stroke-dasharray="3,2"/>
+  <!-- Tape on cling film edges -->
+  <rect x="44" y="10" width="16" height="6" rx="1" fill="#d1fae5" stroke="#374151" stroke-width="1" opacity="0.85"/>
+  <rect x="44" y="104" width="16" height="6" rx="1" fill="#d1fae5" stroke="#374151" stroke-width="1" opacity="0.85"/>
+</svg>

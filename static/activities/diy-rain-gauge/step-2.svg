@@ -1,0 +1,37 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Step 2: Secure the Observatory -->
+  <!-- Outdoor scene: Grass and mud -->
+  <path d="M0,90 Q30,85 60,90 T120,95 L120,120 L0,120 Z" fill="#86efac" stroke="#22c55e" stroke-width="2" />
+  <!-- Soil patch around the jar -->
+  <ellipse cx="60" cy="100" rx="35" ry="12" fill="#d97706" />
+
+  <!-- The Jar -->
+  <path d="M40,30 L40,95 Q40,105 50,105 L70,105 Q80,105 80,95 L80,30" fill="#f9fafb" opacity="0.8" stroke="#374151" stroke-width="2" />
+  <path d="M35,30 L85,30" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round" />
+  <line x1="48" y1="85" x2="55" y2="85" stroke="#111827" stroke-width="1.5" stroke-linecap="round" />
+  <line x1="48" y1="70" x2="55" y2="70" stroke="#111827" stroke-width="1.5" stroke-linecap="round" />
+  <line x1="48" y1="55" x2="55" y2="55" stroke="#111827" stroke-width="1.5" stroke-linecap="round" />
+
+  <!-- Blue concentrated dye at the very bottom -->
+  <path d="M42,95 L78,95 Q77,103 70,103 L50,103 Q43,103 42,95 Z" fill="#3b82f6" opacity="0.9" />
+
+  <!-- Pebbles holding it down -->
+  <circle cx="35" cy="100" r="8" fill="#9ca3af" stroke="#374151" stroke-width="1.5" />
+  <ellipse cx="48" cy="106" rx="10" ry="6" fill="#d1d5db" stroke="#374151" stroke-width="1.5" />
+  <ellipse cx="70" cy="104" rx="12" ry="7" fill="#6b7280" stroke="#374151" stroke-width="1.5" />
+  <circle cx="85" cy="98" r="7" fill="#9ca3af" stroke="#374151" stroke-width="1.5" />
+
+  <!-- Rain clouds -->
+  <path d="M10,25 Q15,10 30,15 Q40,5 50,15 Q60,10 65,25 Z" fill="#e5e7eb" stroke="#9ca3af" stroke-width="2" />
+  <path d="M70,30 Q75,15 90,20 Q100,10 110,20 Q115,25 115,35 Z" fill="#d1d5db" stroke="#9ca3af" stroke-width="2" />
+
+  <!-- Rain drops hitting the jar -->
+  <line x1="35" y1="40" x2="30" y2="50" stroke="#3b82f6" stroke-width="2" stroke-linecap="round" />
+  <line x1="50" y1="30" x2="45" y2="45" stroke="#3b82f6" stroke-width="2" stroke-linecap="round" />
+  <line x1="85" y1="45" x2="80" y2="55" stroke="#3b82f6" stroke-width="2" stroke-linecap="round" />
+  <line x1="60" y1="20" x2="55" y2="35" stroke="#3b82f6" stroke-width="2" stroke-linecap="round" />
+  
+  <!-- Wind lines -->
+  <path d="M5,70 Q20,65 30,75" fill="none" stroke="#9ca3af" stroke-width="1.5" stroke-dasharray="4,4" />
+  <path d="M90,80 Q105,75 115,85" fill="none" stroke="#9ca3af" stroke-width="1.5" stroke-dasharray="4,4" />
+</svg>

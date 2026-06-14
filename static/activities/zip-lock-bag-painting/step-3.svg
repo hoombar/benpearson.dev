@@ -1,0 +1,49 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Sealed bag with finger-drawn picture (hero) -->
+  <g transform="translate(8, 16)">
+    <!-- Bag body -->
+    <rect x="0" y="8" width="84" height="72" rx="1" fill="#e0f2fe" stroke="#374151" stroke-width="1.2" opacity="0.5"/>
+    <!-- Zip-lock seal -->
+    <rect x="0" y="4" width="84" height="6" rx="1" fill="#3b82f6" stroke="#374151" stroke-width="0.8"/>
+    <!-- Tape strip -->
+    <rect x="0" y="4" width="84" height="5" rx="1" fill="#d1fae5" stroke="none" opacity="0.5"/>
+
+    <!-- Spread paint background -->
+    <rect x="4" y="14" width="76" height="60" rx="1" fill="#a855f7" opacity="0.4"/>
+    <rect x="4" y="14" width="38" height="60" rx="1" fill="#ef4444" opacity="0.3"/>
+    <rect x="42" y="14" width="38" height="60" rx="1" fill="#3b82f6" opacity="0.3"/>
+
+    <!-- Finger-drawn smiley face (cleared paint showing bag underneath) -->
+    <!-- Left eye -->
+    <circle cx="30" cy="36" r="4" fill="#e0f2fe" stroke="#374151" stroke-width="0.5"/>
+    <!-- Right eye -->
+    <circle cx="54" cy="36" r="4" fill="#e0f2fe" stroke="#374151" stroke-width="0.5"/>
+    <!-- Smile -->
+    <path d="M28,52 Q42,64 56,52" fill="none" stroke="#e0f2fe" stroke-width="4" stroke-linecap="round"/>
+  </g>
+
+  <!-- Finger drawing on the bag -->
+  <g transform="translate(60, 46)">
+    <rect x="0" y="-4" width="8" height="20" rx="4" fill="#fcd9b6" stroke="#374151" stroke-width="0.8"/>
+    <!-- Fingernail -->
+    <ellipse cx="4" cy="-2" rx="3" ry="2" fill="#fde0c8" stroke="#374151" stroke-width="0.4"/>
+  </g>
+
+  <!-- Arrow showing drawing motion -->
+  <defs>
+    <marker id="arr" viewBox="0 0 6 6" refX="5" refY="3" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#374151"/>
+    </marker>
+  </defs>
+  <path d="M72,56 Q78,62 72,68" fill="none" stroke="#374151" stroke-width="0.8" stroke-dasharray="2,2" marker-end="url(#arr)"/>
+
+  <!-- "Reset" hint — flat palm icon -->
+  <g transform="translate(96, 68)">
+    <ellipse cx="10" cy="10" rx="12" ry="10" fill="#fcd9b6" stroke="#374151" stroke-width="0.6"/>
+    <!-- Circular arrow for "reset" -->
+    <path d="M4,4 Q14,0 18,8" fill="none" stroke="#374151" stroke-width="0.8" marker-end="url(#arr)"/>
+  </g>
+</svg>

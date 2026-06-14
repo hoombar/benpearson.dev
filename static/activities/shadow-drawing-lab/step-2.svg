@@ -1,0 +1,14 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Paper -->
+  <rect x="20" y="50" width="80" height="50" rx="2" stroke="#374151" stroke-width="2" fill="#f9fafb"/>
+  <!-- Flashlight (hero action) -->
+  <g transform="translate(15, 20) rotate(15)">
+    <rect x="0" y="0" width="30" height="12" rx="2" fill="#3b82f6" stroke="#374151" stroke-width="2"/>
+    <rect x="30" y="-4" width="8" height="20" rx="1" fill="#e5e7eb" stroke="#374151" stroke-width="2"/>
+    <!-- Light beam (dashed) -->
+    <path d="M40 0 L80 -20 M40 12 L80 32" stroke="#f59e0b" stroke-width="1.5" stroke-dasharray="4,2"/>
+  </g>
+  <!-- Toy and shadow -->
+  <path d="M50 75 Q50 65 60 62 Q70 60 75 75 Z" fill="#22c55e" stroke="#374151" stroke-width="1.5"/>
+  <path d="M75 75 Q100 70 110 85 L75 85 Z" fill="#e5e7eb" stroke="none" opacity="0.6"/>
+</svg>

@@ -1,0 +1,66 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="5" y="105" width="110" height="10" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Snow globe (jar upside down, hero) -->
+  <!-- Lid/base at bottom -->
+  <rect x="32" y="90" width="56" height="10" rx="3" fill="#e5e7eb" stroke="#374151" stroke-width="2"/>
+  <!-- Grip lines on lid -->
+  <line x1="38" y1="92" x2="38" y2="98" stroke="#374151" stroke-width="0.75"/>
+  <line x1="44" y1="92" x2="44" y2="98" stroke="#374151" stroke-width="0.75"/>
+  <line x1="50" y1="92" x2="50" y2="98" stroke="#374151" stroke-width="0.75"/>
+  <line x1="56" y1="92" x2="56" y2="98" stroke="#374151" stroke-width="0.75"/>
+  <line x1="62" y1="92" x2="62" y2="98" stroke="#374151" stroke-width="0.75"/>
+  <line x1="68" y1="92" x2="68" y2="98" stroke="#374151" stroke-width="0.75"/>
+  <line x1="74" y1="92" x2="74" y2="98" stroke="#374151" stroke-width="0.75"/>
+  <line x1="80" y1="92" x2="80" y2="98" stroke="#374151" stroke-width="0.75"/>
+
+  <!-- Jar dome (upside down) -->
+  <path d="M34,90 L34,30 Q34,14 60,14 Q86,14 86,30 L86,90"
+        fill="#dbeafe" stroke="#374151" stroke-width="2.5" fill-opacity="0.25"/>
+  <!-- Dome top curve -->
+  <path d="M34,14 Q34,14 60,14 Q86,14 86,14" fill="none" stroke="#374151" stroke-width="2"/>
+
+  <!-- Water fill -->
+  <rect x="36" y="18" width="48" height="70" rx="1" fill="#dbeafe" stroke="none" opacity="0.3"/>
+
+  <!-- Dinosaur figurine standing inside (on lid) -->
+  <g transform="translate(60, 72)">
+    <ellipse cx="0" cy="0" rx="8" ry="5" fill="#22c55e" stroke="#374151" stroke-width="1.5"/>
+    <ellipse cx="10" cy="-5" rx="5" ry="4" fill="#22c55e" stroke="#374151" stroke-width="1.5"/>
+    <circle cx="12" cy="-7" r="1.2" fill="#374151" stroke="none"/>
+    <line x1="-3" y1="4" x2="-3" y2="14" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+    <line x1="3" y1="4" x2="3" y2="14" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M-8,0 Q-14,-4 -16,2" stroke="#374151" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  </g>
+
+  <!-- Swirling glitter/snow particles (in motion!) -->
+  <circle cx="44" cy="30" r="1.5" fill="#e5e7eb" stroke="none"/>
+  <circle cx="52" cy="24" r="1" fill="#f59e0b" stroke="none"/>
+  <circle cx="68" cy="28" r="1.5" fill="#e5e7eb" stroke="none"/>
+  <circle cx="76" cy="34" r="1" fill="#f59e0b" stroke="none"/>
+  <circle cx="40" cy="42" r="1" fill="#f59e0b" stroke="none"/>
+  <circle cx="56" cy="38" r="1.5" fill="#e5e7eb" stroke="none"/>
+  <circle cx="72" cy="44" r="1" fill="#e5e7eb" stroke="none"/>
+  <circle cx="48" cy="52" r="1.5" fill="#f59e0b" stroke="none"/>
+  <circle cx="64" cy="48" r="1" fill="#e5e7eb" stroke="none"/>
+  <circle cx="78" cy="54" r="1.5" fill="#f59e0b" stroke="none"/>
+  <circle cx="42" cy="62" r="1" fill="#e5e7eb" stroke="none"/>
+  <circle cx="74" cy="66" r="1" fill="#f59e0b" stroke="none"/>
+  <circle cx="58" cy="58" r="1.5" fill="#e5e7eb" stroke="none"/>
+  <!-- Star sequin -->
+  <path d="M50,34 L51,31 L52,34 L55,34 L52.5,36 L53.5,39 L51,37 L48.5,39 L49.5,36 L47,34 Z" fill="#f59e0b" stroke="none"/>
+  <path d="M70,50 L71,47 L72,50 L75,50 L72.5,52 L73.5,55 L71,53 L68.5,55 L69.5,52 L67,50 Z" fill="#e5e7eb" stroke="none"/>
+
+  <!-- Swirl motion curves (showing snow in motion) -->
+  <path d="M42,35 Q50,28 58,35" stroke="#93c5fd" stroke-width="0.75" fill="none" stroke-linecap="round" opacity="0.5"/>
+  <path d="M62,45 Q70,38 78,45" stroke="#93c5fd" stroke-width="0.75" fill="none" stroke-linecap="round" opacity="0.5"/>
+
+  <!-- Shake motion lines on sides -->
+  <line x1="26" y1="40" x2="20" y2="40" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+  <line x1="26" y1="50" x2="18" y2="50" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="26" y1="60" x2="20" y2="60" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+  <line x1="94" y1="40" x2="100" y2="40" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+  <line x1="94" y1="50" x2="102" y2="50" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="94" y1="60" x2="100" y2="60" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,33 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Necklace hanging in circular shape (hero) -->
+  <!-- String forming oval loop -->
+  <ellipse cx="60" cy="62" rx="44" ry="34" fill="none" stroke="#374151" stroke-width="2" stroke-dasharray="2,16"/>
+  <!-- Pasta beads around the ellipse at even intervals -->
+  <!-- Top -->
+  <ellipse cx="60" cy="28" rx="9" ry="6" fill="#f87171" stroke="#374151" stroke-width="1.5"/>
+  <ellipse cx="60" cy="28" rx="3" ry="2" fill="#f9fafb" stroke="#374151" stroke-width="0.8"/>
+  <!-- Top right -->
+  <ellipse cx="88" cy="38" rx="9" ry="6" fill="#fbbf24" stroke="#374151" stroke-width="1.5"/>
+  <ellipse cx="88" cy="38" rx="3" ry="2" fill="#f9fafb" stroke="#374151" stroke-width="0.8"/>
+  <!-- Right -->
+  <ellipse cx="104" cy="62" rx="9" ry="6" fill="#4ade80" stroke="#374151" stroke-width="1.5"/>
+  <ellipse cx="104" cy="62" rx="3" ry="2" fill="#f9fafb" stroke="#374151" stroke-width="0.8"/>
+  <!-- Bottom right -->
+  <ellipse cx="88" cy="86" rx="9" ry="6" fill="#60a5fa" stroke="#374151" stroke-width="1.5"/>
+  <ellipse cx="88" cy="86" rx="3" ry="2" fill="#f9fafb" stroke="#374151" stroke-width="0.8"/>
+  <!-- Bottom -->
+  <ellipse cx="60" cy="96" rx="9" ry="6" fill="#a78bfa" stroke="#374151" stroke-width="1.5"/>
+  <ellipse cx="60" cy="96" rx="3" ry="2" fill="#f9fafb" stroke="#374151" stroke-width="0.8"/>
+  <!-- Bottom left -->
+  <ellipse cx="32" cy="86" rx="9" ry="6" fill="#f87171" stroke="#374151" stroke-width="1.5"/>
+  <ellipse cx="32" cy="86" rx="3" ry="2" fill="#f9fafb" stroke="#374151" stroke-width="0.8"/>
+  <!-- Left -->
+  <ellipse cx="16" cy="62" rx="9" ry="6" fill="#fbbf24" stroke="#374151" stroke-width="1.5"/>
+  <ellipse cx="16" cy="62" rx="3" ry="2" fill="#f9fafb" stroke="#374151" stroke-width="0.8"/>
+  <!-- Top left -->
+  <ellipse cx="32" cy="38" rx="9" ry="6" fill="#4ade80" stroke="#374151" stroke-width="1.5"/>
+  <ellipse cx="32" cy="38" rx="3" ry="2" fill="#f9fafb" stroke="#374151" stroke-width="0.8"/>
+  <!-- Knot at top of necklace -->
+  <circle cx="60" cy="18" r="5" fill="#374151" stroke="#374151" stroke-width="1"/>
+  <path d="M56 18 Q55 10 60 12 Q65 10 64 18" fill="none" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,31 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2"
+            stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <!-- Cornflour bag (left) — large white bag -->
+  <path d="M8 20 Q10 12 18 12 L34 12 Q42 12 42 20 L44 82 Q44 90 36 90 L16 90 Q8 90 8 82 Z"
+        fill="#f9fafb" stroke="#374151" stroke-width="2"/>
+  <!-- Bag top pinch -->
+  <path d="M14 12 Q26 6 38 12" stroke="#374151" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- Bag texture lines -->
+  <line x1="14" y1="40" x2="38" y2="40" stroke="#e5e7eb" stroke-width="1"/>
+  <line x1="14" y1="52" x2="38" y2="52" stroke="#e5e7eb" stroke-width="1"/>
+  <line x1="14" y1="64" x2="38" y2="64" stroke="#e5e7eb" stroke-width="1"/>
+  <!-- Oil bottle (right) -->
+  <path d="M82 16 Q82 8 88 8 L94 8 Q100 8 100 16 L100 36 Q106 40 106 48 L106 90 Q106 96 100 96 L82 96 Q76 96 76 90 L76 48 Q76 40 82 36 Z"
+        fill="#fef9c3" stroke="#374151" stroke-width="2"/>
+  <!-- Bottle label area -->
+  <rect x="78" y="52" width="26" height="28" rx="2" fill="#fde68a" stroke="#374151" stroke-width="1"/>
+  <!-- Oil colour (yellow tint) -->
+  <rect x="78" y="56" width="26" height="20" rx="1" fill="#fef08a" stroke="none"/>
+  <!-- Large bowl at bottom centre -->
+  <line x1="34" y1="108" x2="86" y2="108" stroke="#374151" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M34 108 Q34 118 60 118 Q86 118 86 108" stroke="#374151" stroke-width="2.5" fill="#dbeafe"/>
+  <!-- Arrows from bag and bottle into bowl -->
+  <path d="M44 80 Q52 96 50 104" stroke="#374151" stroke-width="1.5" fill="none" stroke-linecap="round" marker-end="url(#arr)"/>
+  <path d="M76 86 Q68 96 70 104" stroke="#374151" stroke-width="1.5" fill="none" stroke-linecap="round" marker-end="url(#arr)"/>
+</svg>

@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Step 2: Discover the Rainbow Layers — tall container with oil floating above coloured water -->
+
+  <!-- Marker defs at SVG level — auto-align all arrowheads -->
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2"
+            stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+    <marker id="arr-lblue" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#93c5fd" stroke-width="2"
+            stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <!-- Table -->
+  <rect x="0" y="106" width="120" height="14" fill="#f3f4f6" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+
+  <!-- Tall clear container (hero) -->
+  <g transform="translate(60, 60)">
+    <!-- shadow -->
+    <ellipse cx="2" cy="48" rx="22" ry="6" fill="#d1d5db" opacity="0.3"/>
+    <!-- container body -->
+    <rect x="-20" y="-52" width="40" height="100" rx="4" fill="#f9fafb" stroke="#374151" stroke-width="2.5" stroke-linecap="round"/>
+    <!-- container rim top -->
+    <rect x="-22" y="-56" width="44" height="7" rx="3" fill="#e5e7eb" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+    <!-- glass highlight left edge -->
+    <line x1="-16" y1="-48" x2="-16" y2="44" stroke="#dbeafe" stroke-width="1.5" stroke-linecap="round" opacity="0.6"/>
+
+    <!-- WATER layer (bottom, vivid blue) -->
+    <rect x="-18" y="4" width="36" height="42" rx="2" fill="#3b82f6" opacity="0.8"/>
+    <!-- water surface -->
+    <line x1="-18" y1="4" x2="18" y2="4" stroke="#93c5fd" stroke-width="1.5" stroke-linecap="round"/>
+
+    <!-- OIL layer (top, golden/amber, floats above) -->
+    <rect x="-18" y="-40" width="36" height="44" rx="1" fill="#fbbf24" opacity="0.7"/>
+    <!-- oil-water boundary line (the hero discovery) -->
+    <line x1="-18" y1="4" x2="18" y2="4" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+    <!-- oil surface -->
+    <line x1="-18" y1="-40" x2="18" y2="-40" stroke="#fde68a" stroke-width="1.5" stroke-linecap="round"/>
+
+    <!-- colour swirl in water — tangent at (6,32) = (6−14,32−26) = (−8,6) = left-down 143° -->
+    <path d="M-8,18 Q0,12 8,18 Q14,26 6,32" fill="none" stroke="#93c5fd" stroke-width="1.5" stroke-linecap="round" marker-end="url(#arr-lblue)"/>
+
+    <!-- coloured water blobs sinking through blue water -->
+    <ellipse cx="-6" cy="28" rx="3" ry="4" fill="#ef4444" stroke="#374151" stroke-width="1" stroke-linecap="round" opacity="0.8"/>
+    <ellipse cx="8" cy="34" rx="2.5" ry="3.5" fill="#f59e0b" stroke="#374151" stroke-width="1" stroke-linecap="round" opacity="0.8"/>
+  </g>
+
+  <!-- OIL callout arrow right — straight horizontal, hand-placed V fine -->
+  <line x1="80" y1="22" x2="90" y2="22" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <polygon points="89,20 94,22 89,24" fill="#374151"/>
+  <ellipse cx="102" cy="22" rx="8" ry="5" fill="#fbbf24" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- WATER callout arrow right — straight horizontal, hand-placed V fine -->
+  <line x1="80" y1="72" x2="90" y2="72" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <polygon points="89,70 94,72 89,74" fill="#374151"/>
+  <ellipse cx="102" cy="72" rx="8" ry="5" fill="#3b82f6" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- Oil bottle being poured in, top-left -->
+  <g transform="translate(20, 24) rotate(-20)">
+    <rect x="-5" y="0" width="10" height="26" fill="#fef9c3" stroke="#374151" stroke-width="1.5" stroke-linecap="round" rx="3"/>
+    <rect x="-4" y="6" width="8" height="8" fill="#d1fae5" stroke="#374151" stroke-width="1" rx="1" stroke-linecap="round"/>
+    <rect x="-3" y="-6" width="6" height="8" fill="#fef9c3" stroke="#374151" stroke-width="1.5" stroke-linecap="round" rx="2"/>
+    <rect x="-2" y="-10" width="4" height="6" fill="#86efac" stroke="#374151" stroke-width="1.5" stroke-linecap="round" rx="1"/>
+    <!-- pouring stream -->
+    <path d="M0,-10 Q0,-14 0,-18" fill="none" stroke="#fbbf24" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="2,2"/>
+    <ellipse cx="0" cy="-20" rx="2" ry="2" fill="#fbbf24" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+  </g>
+  <!-- arrow oil → container — tangent at (40,8) = (40−34,8−4) = (6,4) = right-down 34° -->
+  <path d="M24,10 Q34,4 40,8" fill="none" stroke="#374151" stroke-width="1.5" stroke-linecap="round" marker-end="url(#arr)"/>
+</svg>

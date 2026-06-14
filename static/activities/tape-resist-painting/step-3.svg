@@ -1,0 +1,46 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Wall background -->
+  <rect x="0" y="0" width="120" height="120" fill="#f3f4f6" stroke="none"/>
+
+  <!-- Finished painting displayed on wall -->
+  <rect x="18" y="8" width="70" height="86" rx="2" fill="#ffffff" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Tape holding it up -->
+  <rect x="46" y="4" width="14" height="6" rx="1" fill="#fde68a" stroke="#374151" stroke-width="0.6"/>
+
+  <!-- Paint sections with white resist lines -->
+  <!-- Blue section -->
+  <rect x="19" y="9" width="34" height="42" fill="#60a5fa" opacity="0.85"/>
+  <!-- Red section -->
+  <rect x="53" y="9" width="34" height="42" fill="#f87171" opacity="0.85"/>
+  <!-- Green section -->
+  <rect x="19" y="51" width="34" height="42" fill="#4ade80" opacity="0.85"/>
+  <!-- Yellow section -->
+  <rect x="53" y="51" width="34" height="42" fill="#fbbf24" opacity="0.85"/>
+
+  <!-- White resist lines where tape was (star/cross pattern) -->
+  <!-- Horizontal white strip -->
+  <rect x="20" y="42" width="66" height="7" fill="#ffffff"/>
+  <!-- Vertical white strip -->
+  <rect x="49" y="10" width="7" height="82" fill="#ffffff"/>
+  <!-- Diagonal white strips -->
+  <rect x="0" y="44" width="60" height="6" fill="#ffffff" transform="rotate(-40 28 47)"/>
+  <rect x="28" y="44" width="60" height="6" fill="#ffffff" transform="rotate(40 58 47)"/>
+
+  <!-- Sparkle effects showing the reveal -->
+  <g fill="#374151" stroke="none">
+    <!-- Star sparkle top-left -->
+    <line x1="28" y1="22" x2="28" y2="30" stroke="#374151" stroke-width="0.8"/>
+    <line x1="24" y1="26" x2="32" y2="26" stroke="#374151" stroke-width="0.8"/>
+    <!-- Star sparkle bottom-right -->
+    <line x1="70" y1="64" x2="70" y2="72" stroke="#374151" stroke-width="0.8"/>
+    <line x1="66" y1="68" x2="74" y2="68" stroke="#374151" stroke-width="0.8"/>
+    <!-- Small sparkle -->
+    <line x1="34" y1="60" x2="34" y2="64" stroke="#374151" stroke-width="0.6"/>
+    <line x1="32" y1="62" x2="36" y2="62" stroke="#374151" stroke-width="0.6"/>
+  </g>
+
+  <!-- Peeled tape strips in a pile below -->
+  <path d="M40,98 Q50,94 60,98" fill="none" stroke="#fde68a" stroke-width="3" stroke-linecap="round"/>
+  <path d="M36,96 Q42,100 56,96" fill="none" stroke="#fde68a" stroke-width="2.5" stroke-linecap="round" opacity="0.7"/>
+</svg>

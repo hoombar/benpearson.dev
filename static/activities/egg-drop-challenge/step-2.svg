@@ -1,0 +1,27 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Container cross-section showing egg cushioned inside (hero) -->
+  <!-- Outer box wall -->
+  <rect x="20" y="18" width="80" height="84" rx="3" fill="#fde68a" stroke="#374151" stroke-width="2.5"/>
+  <!-- Cotton wool layer (outer) — fluffy irregular shapes -->
+  <ellipse cx="38" cy="38" rx="18" ry="10" fill="white" stroke="#d1d5db" stroke-width="1.2"/>
+  <ellipse cx="56" cy="32" rx="16" ry="10" fill="white" stroke="#d1d5db" stroke-width="1.2"/>
+  <ellipse cx="76" cy="36" rx="18" ry="10" fill="white" stroke="#d1d5db" stroke-width="1.2"/>
+  <ellipse cx="34" cy="90" rx="16" ry="10" fill="white" stroke="#d1d5db" stroke-width="1.2"/>
+  <ellipse cx="60" cy="96" rx="18" ry="10" fill="white" stroke="#d1d5db" stroke-width="1.2"/>
+  <ellipse cx="84" cy="90" rx="16" ry="10" fill="white" stroke="#d1d5db" stroke-width="1.2"/>
+  <ellipse cx="26" cy="60" rx="10" ry="18" fill="white" stroke="#d1d5db" stroke-width="1.2"/>
+  <ellipse cx="94" cy="60" rx="10" ry="18" fill="white" stroke="#d1d5db" stroke-width="1.2"/>
+  <!-- More cotton puffs filling gaps -->
+  <ellipse cx="44" cy="50" rx="10" ry="8" fill="#f9fafb" stroke="#d1d5db" stroke-width="1"/>
+  <ellipse cx="76" cy="50" rx="10" ry="8" fill="#f9fafb" stroke="#d1d5db" stroke-width="1"/>
+  <ellipse cx="44" cy="80" rx="10" ry="8" fill="#f9fafb" stroke="#d1d5db" stroke-width="1"/>
+  <ellipse cx="76" cy="80" rx="10" ry="8" fill="#f9fafb" stroke="#d1d5db" stroke-width="1"/>
+  <!-- Raw egg in centre (hero inside hero) -->
+  <ellipse cx="60" cy="60" rx="16" ry="20" fill="#fef9c3" stroke="#374151" stroke-width="2"/>
+  <!-- Egg highlight -->
+  <ellipse cx="54" cy="52" rx="5" ry="4" fill="white" fill-opacity="0.6"/>
+  <!-- Tape sealing the top -->
+  <rect x="36" y="14" width="48" height="8" rx="2" fill="#d1fae5" stroke="#374151" stroke-width="1.5" opacity="0.9"/>
+  <!-- Cross on tape -->
+  <line x1="38" y1="16" x2="82" y2="20" stroke="#374151" stroke-width="0.8" opacity="0.5"/>
+</svg>

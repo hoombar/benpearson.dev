@@ -1,0 +1,65 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Sock laid flat (hero) -->
+  <g transform="translate(10, 36)">
+    <!-- Sock body -->
+    <rect x="0" y="0" width="60" height="24" rx="4" fill="#ef4444" stroke="#374151" stroke-width="1.5"/>
+    <!-- Toe end rounded -->
+    <ellipse cx="0" cy="12" rx="6" ry="12" fill="#ef4444" stroke="#374151" stroke-width="1.5"/>
+    <!-- Sock opening -->
+    <ellipse cx="60" cy="12" rx="4" ry="12" fill="#dc2626" stroke="#374151" stroke-width="1"/>
+    <!-- Stripe pattern -->
+    <line x1="20" y1="2" x2="20" y2="22" stroke="#fbbf24" stroke-width="2" opacity="0.6"/>
+    <line x1="40" y1="2" x2="40" y2="22" stroke="#fbbf24" stroke-width="2" opacity="0.6"/>
+  </g>
+
+  <!-- Paper funnel in sock opening -->
+  <g transform="translate(62, 22)">
+    <polygon points="0,0 16,0 12,18 4,18" fill="#f5f5f4" stroke="#374151" stroke-width="0.8"/>
+  </g>
+
+  <!-- Rice being poured into funnel -->
+  <circle cx="72" cy="16" r="1" fill="#fef3c7" stroke="#374151" stroke-width="0.3"/>
+  <circle cx="68" cy="14" r="0.8" fill="#fef3c7" stroke="#374151" stroke-width="0.3"/>
+  <circle cx="74" cy="12" r="0.8" fill="#fef3c7" stroke="#374151" stroke-width="0.3"/>
+  <circle cx="70" cy="18" r="1" fill="#fef3c7" stroke="#374151" stroke-width="0.3"/>
+  <circle cx="72" cy="10" r="0.8" fill="#fef3c7" stroke="#374151" stroke-width="0.3"/>
+  <circle cx="66" cy="12" r="0.8" fill="#fef3c7" stroke="#374151" stroke-width="0.3"/>
+
+  <!-- Hand pouring rice from cup -->
+  <g transform="translate(80, 2)">
+    <!-- Cup -->
+    <rect x="0" y="0" width="18" height="22" rx="3" fill="#fef3c7" stroke="#374151" stroke-width="1"/>
+    <ellipse cx="9" cy="2" rx="9" ry="3" fill="#fef3c7" stroke="#374151" stroke-width="0.8"/>
+    <!-- Rice inside cup -->
+    <ellipse cx="9" cy="8" rx="7" ry="3" fill="#f5f5dc" stroke="none"/>
+    <circle cx="6" cy="7" r="0.6" fill="#e5e0c0" stroke="none"/>
+    <circle cx="10" cy="8" r="0.6" fill="#e5e0c0" stroke="none"/>
+    <circle cx="13" cy="7" r="0.6" fill="#e5e0c0" stroke="none"/>
+  </g>
+
+  <!-- Rice pouring stream from cup to funnel -->
+  <path d="M82,22 Q78,20 74,22" fill="none" stroke="#d1d5db" stroke-width="1.5" stroke-linecap="round" opacity="0.5"/>
+
+  <!-- Rice bag nearby -->
+  <g transform="translate(14, 70)">
+    <rect x="0" y="0" width="28" height="24" rx="3" fill="#f5f5dc" stroke="#374151" stroke-width="1"/>
+    <rect x="4" y="0" width="20" height="6" rx="2" fill="#d4a574" stroke="#374151" stroke-width="0.6"/>
+    <!-- Rice grains visible -->
+    <circle cx="10" cy="14" r="0.8" fill="#e5e0c0" stroke="#374151" stroke-width="0.2"/>
+    <circle cx="14" cy="12" r="0.8" fill="#e5e0c0" stroke="#374151" stroke-width="0.2"/>
+    <circle cx="18" cy="14" r="0.8" fill="#e5e0c0" stroke="#374151" stroke-width="0.2"/>
+    <circle cx="12" cy="18" r="0.8" fill="#e5e0c0" stroke="#374151" stroke-width="0.2"/>
+    <circle cx="16" cy="16" r="0.8" fill="#e5e0c0" stroke="#374151" stroke-width="0.2"/>
+  </g>
+
+  <!-- Arrow showing rice going into sock -->
+  <defs>
+    <marker id="arr" viewBox="0 0 6 6" refX="5" refY="3" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#374151"/>
+    </marker>
+  </defs>
+  <path d="M70,40 Q58,42 48,46" fill="none" stroke="#374151" stroke-width="0.8" stroke-dasharray="2,2" marker-end="url(#arr)"/>
+</svg>

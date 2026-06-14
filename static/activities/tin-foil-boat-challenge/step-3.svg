@@ -1,0 +1,38 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2"
+            stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <!-- Large bowl (side view, hero) -->
+  <!-- Rim line -->
+  <line x1="10" y1="60" x2="110" y2="60" stroke="#374151" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Bowl body curve -->
+  <path d="M10 60 Q10 106 60 106 Q110 106 110 60" stroke="#374151" stroke-width="2.5" fill="none"/>
+  <!-- Water fill inside bowl -->
+  <path d="M11 68 Q11 104 60 104 Q109 104 109 68 Z" fill="#dbeafe" stroke="none"/>
+  <!-- Water surface line -->
+  <line x1="11" y1="68" x2="109" y2="68" stroke="#93c5fd" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Gentle water ripple lines -->
+  <path d="M30 74 Q40 70 50 74" fill="none" stroke="#93c5fd" stroke-width="1" stroke-linecap="round"/>
+  <path d="M70 76 Q82 72 94 76" fill="none" stroke="#93c5fd" stroke-width="1" stroke-linecap="round"/>
+  <!-- Foil boat floating on water (silver tray shape, side view) -->
+  <!-- Boat base sitting on water surface -->
+  <rect x="36" y="58" width="48" height="8" rx="1" fill="#e5e7eb" stroke="#374151" stroke-width="2"/>
+  <!-- Boat left wall -->
+  <line x1="36" y1="58" x2="36" y2="50" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+  <!-- Boat right wall -->
+  <line x1="84" y1="58" x2="84" y2="50" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+  <!-- Boat top rim -->
+  <line x1="34" y1="50" x2="86" y2="50" stroke="#374151" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Shimmer on boat -->
+  <line x1="42" y1="56" x2="76" y2="58" stroke="#9ca3af" stroke-width="0.75" stroke-linecap="round"/>
+  <!-- Arrow from above showing "lower gently onto water" -->
+  <line x1="60" y1="28" x2="60" y2="46" stroke="#374151" stroke-width="2" stroke-linecap="round" marker-end="url(#arr)"/>
+  <!-- Depth indicator ticks on bowl interior (10cm depth mark) -->
+  <line x1="14" y1="68" x2="18" y2="68" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+  <line x1="14" y1="86" x2="18" y2="86" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+  <line x1="14" y1="60" x2="18" y2="60" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+</svg>

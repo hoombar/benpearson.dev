@@ -1,0 +1,24 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" markerWidth="6" markerHeight="6" refX="3" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#374151" />
+    </marker>
+  </defs>
+
+  <!-- Container (Glass Cup) -->
+  <path d="M40,30 L45,90 Q47,95 55,95 L65,95 Q73,95 75,90 L80,30" fill="none" stroke="#374151" stroke-width="2" />
+  
+  <!-- Water -->
+  <path d="M44,80 L76,80 Q73,95 65,95 L55,95 Q47,95 44,80" fill="#bfdbfe" opacity="0.6" stroke="#3b82f6" stroke-width="1" />
+  
+  <!-- Water Level Line -->
+  <line x1="44" y1="80" x2="76" y2="80" stroke="#3b82f6" stroke-width="1.5" stroke-dasharray="2,2" />
+  
+  <!-- Label/Indicator for 1cm -->
+  <line x1="85" y1="80" x2="85" y2="95" stroke="#374151" stroke-width="1" />
+  <line x1="82" y1="80" x2="88" y2="80" stroke="#374151" stroke-width="1" />
+  <line x1="82" y1="95" x2="88" y2="95" stroke="#374151" stroke-width="1" />
+  
+  <!-- Action (Pouring Water) -->
+  <path d="M10,10 Q25,10 30,30" fill="none" stroke="#3b82f6" stroke-width="2" marker-end="url(#arr)" />
+</svg>

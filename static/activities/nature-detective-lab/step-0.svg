@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Background -->
+  <rect x="0" y="0" width="120" height="120" fill="#fef9c3"/>
+
+  <!-- Notebook hero: large centre-left -->
+  <!-- Cover -->
+  <rect x="18" y="12" width="72" height="92" rx="3" fill="#3b82f6" stroke="#374151" stroke-width="2.5"/>
+  <!-- Cover shine highlight -->
+  <rect x="22" y="16" width="60" height="80" rx="2" fill="#60a5fa" stroke="none"/>
+  <!-- Spine strip -->
+  <rect x="18" y="12" width="14" height="92" rx="3" fill="#1d4ed8" stroke="#374151" stroke-width="2.5"/>
+
+  <!-- Spiral binding rings on left edge -->
+  <circle cx="18" cy="28" r="5" fill="#f9fafb" stroke="#374151" stroke-width="1.5"/>
+  <circle cx="18" cy="44" r="5" fill="#f9fafb" stroke="#374151" stroke-width="1.5"/>
+  <circle cx="18" cy="60" r="5" fill="#f9fafb" stroke="#374151" stroke-width="1.5"/>
+  <circle cx="18" cy="76" r="5" fill="#f9fafb" stroke="#374151" stroke-width="1.5"/>
+  <circle cx="18" cy="92" r="5" fill="#f9fafb" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Cover label area (white rectangle for title) -->
+  <rect x="30" y="24" width="52" height="30" rx="2" fill="#f9fafb" stroke="#374151" stroke-width="1.5"/>
+  <!-- Title lines (representing text) -->
+  <line x1="34" y1="32" x2="78" y2="32" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+  <line x1="34" y1="38" x2="72" y2="38" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+  <line x1="34" y1="44" x2="66" y2="44" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Section tabs on right edge (5 coloured tabs) -->
+  <rect x="86" y="22" width="10" height="12" rx="2" fill="#22c55e" stroke="#374151" stroke-width="1.5"/>
+  <rect x="86" y="38" width="10" height="12" rx="2" fill="#ef4444" stroke="#374151" stroke-width="1.5"/>
+  <rect x="86" y="54" width="10" height="12" rx="2" fill="#f59e0b" stroke="#374151" stroke-width="1.5"/>
+  <rect x="86" y="70" width="10" height="12" rx="2" fill="#a78bfa" stroke="#374151" stroke-width="1.5"/>
+  <rect x="86" y="86" width="10" height="12" rx="2" fill="#93c5fd" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Pencil writing on cover (tip at top → after rotate(-30) points upper-left toward notebook) -->
+  <!-- Tip -->
+  <polygon points="95,10 92,16 98,16" fill="#374151" transform="rotate(-30 95 27)"/>
+  <!-- Shaft -->
+  <rect x="92" y="16" width="6" height="30" rx="1" fill="#fde68a" stroke="#374151" stroke-width="1.5" transform="rotate(-30 95 27)"/>
+  <!-- Eraser end — x=92 matches shaft x=92 so they are collinear after rotation -->
+  <rect x="92" y="46" width="6" height="6" rx="1" fill="#fca5a5" stroke="#374151" stroke-width="1.5" transform="rotate(-30 95 27)"/>
+
+  <!-- Motion arc from pencil to notebook cover — marker auto-aligns to tangent (76−84,50−46) = (-8,4) = left-down -->
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2"
+            stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <path d="M88,38 Q84,46 76,50" fill="none" stroke="#374151" stroke-width="1.5" stroke-linecap="round" marker-end="url(#arr)"/>
+</svg>

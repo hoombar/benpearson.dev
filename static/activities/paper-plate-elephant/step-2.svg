@@ -1,0 +1,38 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Left ear (behind plate) -->
+  <path d="M10,30 Q0,48 10,66 Q18,66 22,48 Q18,30 10,30 Z" fill="#9ca3af" stroke="#374151" stroke-width="1"/>
+
+  <!-- Right ear (behind plate) -->
+  <path d="M84,30 Q94,48 84,66 Q76,66 72,48 Q76,30 84,30 Z" fill="#9ca3af" stroke="#374151" stroke-width="1"/>
+
+  <!-- Grey painted plate (head, hero) -->
+  <ellipse cx="48" cy="42" rx="30" ry="28" fill="#9ca3af" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Trunk glued at bottom centre -->
+  <path d="M44,68 Q40,80 42,88 Q44,92 48,88 Q50,80 48,68" fill="#9ca3af" stroke="#374151" stroke-width="1.2"/>
+  <!-- Trunk curl -->
+  <path d="M44,88 Q40,94 44,98" fill="none" stroke="#9ca3af" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Glue drops -->
+  <circle cx="46" cy="70" r="1.5" fill="#fef9c3" stroke="#374151" stroke-width="0.3" opacity="0.7"/>
+  <circle cx="14" cy="48" r="1.2" fill="#fef9c3" stroke="#374151" stroke-width="0.3" opacity="0.7"/>
+  <circle cx="80" cy="48" r="1.2" fill="#fef9c3" stroke="#374151" stroke-width="0.3" opacity="0.7"/>
+
+  <!-- PVA glue bottle -->
+  <g transform="translate(92, 34)">
+    <rect x="0" y="8" width="14" height="20" rx="3" fill="#f0f9ff" stroke="#374151" stroke-width="0.8"/>
+    <rect x="3" y="0" width="8" height="10" rx="2" fill="#dbeafe" stroke="#374151" stroke-width="0.6"/>
+    <circle cx="7" cy="0" r="2" fill="#f97316" stroke="#374151" stroke-width="0.5"/>
+  </g>
+
+  <!-- Arrow showing curl -->
+  <defs>
+    <marker id="arr" viewBox="0 0 6 6" refX="5" refY="3" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#374151"/>
+    </marker>
+  </defs>
+  <path d="M36,94 Q32,98 36,100" fill="none" stroke="#374151" stroke-width="0.8" stroke-dasharray="2,2" marker-end="url(#arr)"/>
+</svg>

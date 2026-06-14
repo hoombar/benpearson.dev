@@ -1,0 +1,54 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="5" y="100" width="110" height="10" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Large shell being crushed (hero, centre) -->
+  <path d="M50,36 Q46,46 48,54 Q52,60 60,60 Q68,60 72,54 Q74,46 70,36 Q60,28 50,36 Z"
+        fill="#fca5a5" stroke="#374151" stroke-width="1.5"/>
+  <!-- Crack lines -->
+  <line x1="55" y1="38" x2="58" y2="48" stroke="#374151" stroke-width="0.8"/>
+  <line x1="62" y1="36" x2="64" y2="50" stroke="#374151" stroke-width="0.8"/>
+  <line x1="52" y1="46" x2="66" y2="44" stroke="#374151" stroke-width="0.8"/>
+  <line x1="56" y1="50" x2="68" y2="52" stroke="#374151" stroke-width="0.8"/>
+
+  <!-- Hand/finger pressing down -->
+  <defs>
+    <marker id="arr" viewBox="0 0 6 6" refX="5" refY="3" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#374151"/>
+    </marker>
+  </defs>
+  <path d="M60,18 Q60,24 60,30" fill="none" stroke="#374151" stroke-width="1.5" marker-end="url(#arr)"/>
+
+  <!-- Sorted piles of crushed shell pieces -->
+  <!-- Red pile -->
+  <circle cx="16" cy="80" r="2" fill="#ef4444" stroke="#374151" stroke-width="0.5"/>
+  <circle cx="20" cy="82" r="2.5" fill="#fca5a5" stroke="#374151" stroke-width="0.5"/>
+  <circle cx="14" cy="84" r="2" fill="#ef4444" stroke="#374151" stroke-width="0.5"/>
+  <circle cx="18" cy="86" r="1.5" fill="#fca5a5" stroke="#374151" stroke-width="0.5"/>
+  <circle cx="22" cy="78" r="1.5" fill="#ef4444" stroke="#374151" stroke-width="0.5"/>
+  <circle cx="12" cy="78" r="1.5" fill="#fca5a5" stroke="#374151" stroke-width="0.5"/>
+
+  <!-- Blue pile -->
+  <circle cx="44" cy="80" r="2" fill="#3b82f6" stroke="#374151" stroke-width="0.5"/>
+  <circle cx="48" cy="82" r="2.5" fill="#93c5fd" stroke="#374151" stroke-width="0.5"/>
+  <circle cx="42" cy="84" r="2" fill="#3b82f6" stroke="#374151" stroke-width="0.5"/>
+  <circle cx="46" cy="86" r="1.5" fill="#93c5fd" stroke="#374151" stroke-width="0.5"/>
+  <circle cx="50" cy="78" r="1.5" fill="#3b82f6" stroke="#374151" stroke-width="0.5"/>
+  <circle cx="40" cy="80" r="1.5" fill="#93c5fd" stroke="#374151" stroke-width="0.5"/>
+
+  <!-- Green pile -->
+  <circle cx="72" cy="80" r="2" fill="#22c55e" stroke="#374151" stroke-width="0.5"/>
+  <circle cx="76" cy="82" r="2.5" fill="#86efac" stroke="#374151" stroke-width="0.5"/>
+  <circle cx="70" cy="84" r="2" fill="#22c55e" stroke="#374151" stroke-width="0.5"/>
+  <circle cx="74" cy="86" r="1.5" fill="#86efac" stroke="#374151" stroke-width="0.5"/>
+  <circle cx="78" cy="78" r="1.5" fill="#22c55e" stroke="#374151" stroke-width="0.5"/>
+  <circle cx="68" cy="80" r="1.5" fill="#86efac" stroke="#374151" stroke-width="0.5"/>
+
+  <!-- White/natural pile -->
+  <circle cx="100" cy="80" r="2" fill="#fef3c7" stroke="#374151" stroke-width="0.5"/>
+  <circle cx="104" cy="82" r="2.5" fill="#fef3c7" stroke="#374151" stroke-width="0.5"/>
+  <circle cx="98" cy="84" r="2" fill="#fef3c7" stroke="#374151" stroke-width="0.5"/>
+  <circle cx="102" cy="86" r="1.5" fill="#fef3c7" stroke="#374151" stroke-width="0.5"/>
+  <circle cx="106" cy="78" r="1.5" fill="#fef3c7" stroke="#374151" stroke-width="0.5"/>
+  <circle cx="96" cy="80" r="1.5" fill="#fef3c7" stroke="#374151" stroke-width="0.5"/>
+</svg>

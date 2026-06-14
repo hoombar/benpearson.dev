@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Step 0: Design the Maze Layout — sketching top-down map on paper with entry/exit/corridors -->
+
+  <!-- Table surface -->
+  <rect x="0" y="106" width="120" height="14" fill="#f3f4f6" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+
+  <!-- Paper sheet (slightly angled) hero -->
+  <g transform="translate(60, 62) rotate(-3)">
+    <!-- shadow -->
+    <rect x="-46" y="-52" width="92" height="106" rx="3" fill="#d1d5db" opacity="0.35" transform="translate(2,3)"/>
+    <!-- paper body -->
+    <rect x="-46" y="-52" width="92" height="106" rx="3" fill="#f9fafb" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+    <!-- faint ruled lines -->
+    <line x1="-40" y1="-38" x2="40" y2="-38" stroke="#dbeafe" stroke-width="1"/>
+    <line x1="-40" y1="-30" x2="40" y2="-30" stroke="#dbeafe" stroke-width="1"/>
+    <line x1="-40" y1="30" x2="40" y2="30" stroke="#dbeafe" stroke-width="1"/>
+    <line x1="-40" y1="38" x2="40" y2="38" stroke="#dbeafe" stroke-width="1"/>
+
+    <!-- Maze sketch (top-down, pencil lines on paper) -->
+    <!-- outer box of maze sketch -->
+    <rect x="-34" y="-22" width="68" height="58" rx="1" fill="#fef3c7" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+
+    <!-- internal corridor walls (dashed = planned, not yet built) -->
+    <!-- horizontal wall top-left section -->
+    <line x1="-34" y1="0" x2="-10" y2="0" stroke="#374151" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="4,2"/>
+    <!-- vertical wall left-centre -->
+    <line x1="-10" y1="0" x2="-10" y2="24" stroke="#374151" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="4,2"/>
+    <!-- vertical wall centre -->
+    <line x1="6" y1="-22" x2="6" y2="12" stroke="#374151" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="4,2"/>
+    <!-- horizontal wall centre-right -->
+    <line x1="6" y1="12" x2="34" y2="12" stroke="#374151" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="4,2"/>
+    <!-- vertical wall right -->
+    <line x1="20" y1="-4" x2="20" y2="-22" stroke="#374151" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="4,2"/>
+    <!-- horizontal lower wall -->
+    <line x1="-34" y1="20" x2="6" y2="20" stroke="#374151" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="4,2"/>
+
+    <!-- Entry marker — green filled circle top-left wall -->
+    <circle cx="-34" cy="-10" r="5" fill="#22c55e" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+    <!-- entry arrow pointing in -->
+    <line x1="-44" y1="-10" x2="-39" y2="-10" stroke="#22c55e" stroke-width="1.5" stroke-linecap="round"/>
+    <polygon points="-39,-12 -34,-10 -39,-8" fill="#22c55e"/>
+
+    <!-- Exit marker — red filled circle bottom-right -->
+    <circle cx="34" cy="28" r="5" fill="#ef4444" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+    <!-- exit arrow pointing out -->
+    <line x1="39" y1="28" x2="48" y2="28" stroke="#ef4444" stroke-width="1.5" stroke-linecap="round"/>
+    <polygon points="47,26 52,28 47,30" fill="#ef4444"/>
+
+    <!-- 2cm path width dimension tick marks -->
+    <line x1="-34" y1="28" x2="-12" y2="28" stroke="#374151" stroke-width="1" stroke-linecap="round" stroke-dasharray="2,2"/>
+    <line x1="-34" y1="26" x2="-34" y2="30" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+    <line x1="-12" y1="26" x2="-12" y2="30" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+  </g>
+
+  <!-- Pencil resting on paper, top-right area -->
+  <g transform="translate(100, 22) rotate(38)">
+    <rect x="-3.5" y="-32" width="7" height="56" rx="1" fill="#f59e0b" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+    <!-- eraser -->
+    <rect x="-3.5" y="-40" width="7" height="9" rx="1" fill="#fca5a5" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+    <!-- eraser band -->
+    <line x1="-3.5" y1="-32" x2="3.5" y2="-32" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+    <!-- tip section -->
+    <path d="M-3.5,24 L0,38 L3.5,24 Z" fill="#fef3c7" stroke="#374151" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+    <!-- graphite dot -->
+    <circle cx="0" cy="38" r="1.5" fill="#374151"/>
+  </g>
+</svg>

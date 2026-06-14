@@ -1,0 +1,27 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Container being built — cardboard box with straw cage structure (hero) -->
+  <!-- Cardboard box walls -->
+  <rect x="28" y="30" width="64" height="70" rx="2" fill="#fde68a" stroke="#374151" stroke-width="2"/>
+  <!-- Inner cavity -->
+  <rect x="36" y="38" width="48" height="54" rx="1" fill="#fef9c3" stroke="#374151" stroke-width="1"/>
+  <!-- Straw rods on exterior — horizontal bands -->
+  <rect x="28" y="44" width="64" height="5" rx="2" fill="#60a5fa" stroke="#374151" stroke-width="1.2"/>
+  <rect x="28" y="60" width="64" height="5" rx="2" fill="#4ade80" stroke="#374151" stroke-width="1.2"/>
+  <rect x="28" y="76" width="64" height="5" rx="2" fill="#f87171" stroke="#374151" stroke-width="1.2"/>
+  <!-- Vertical straw rods at corners -->
+  <rect x="28" y="30" width="5" height="70" rx="2" fill="#fbbf24" stroke="#374151" stroke-width="1.2"/>
+  <rect x="87" y="30" width="5" height="70" rx="2" fill="#fbbf24" stroke="#374151" stroke-width="1.2"/>
+  <!-- Tape holding straws -->
+  <rect x="24" y="42" width="10" height="8" rx="1" fill="#d1fae5" stroke="#374151" stroke-width="1" opacity="0.85"/>
+  <rect x="86" y="42" width="10" height="8" rx="1" fill="#d1fae5" stroke="#374151" stroke-width="1" opacity="0.85"/>
+  <!-- Scissors cutting cardboard (top right) -->
+  <g transform="translate(100,16) rotate(45)">
+    <ellipse cx="0" cy="-10" rx="3" ry="8" fill="#e5e7eb" stroke="#374151" stroke-width="1.5"/>
+    <ellipse cx="0" cy="10" rx="3" ry="8" fill="#e5e7eb" stroke="#374151" stroke-width="1.5"/>
+    <ellipse cx="0" cy="-22" rx="5" ry="6" fill="none" stroke="#374151" stroke-width="1.5"/>
+    <ellipse cx="0" cy="22" rx="5" ry="6" fill="none" stroke="#374151" stroke-width="1.5"/>
+    <circle cx="0" cy="0" r="2.5" fill="#9ca3af" stroke="#374151" stroke-width="1.2"/>
+  </g>
+  <!-- Open top flap of box -->
+  <path d="M28 30 L36 14 L84 14 L92 30" fill="#fde68a" stroke="#374151" stroke-width="1.5" stroke-linejoin="round"/>
+</svg>

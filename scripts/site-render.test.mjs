@@ -30,6 +30,20 @@ test("homepage renders m10c-inspired sidebar shell", async () => {
   assert.match(html, /Recent Writing/);
 });
 
+test("sidebar keeps activities unlisted", async () => {
+  const destination = await mkdtemp(path.join(tmpdir(), "benpearson-site-"));
+
+  await execFileAsync("/tmp/opencode/hugo", ["--destination", destination], {
+    cwd: process.cwd(),
+  });
+
+  const html = await readFile(path.join(destination, "index.html"), "utf8");
+  const sidebar = html.match(/<aside class="site-sidebar">[\s\S]*?<\/aside>/)?.[0] ?? "";
+
+  assert.doesNotMatch(sidebar, /href="\/activities\/"/);
+  assert.doesNotMatch(sidebar, />Activities</);
+});
+
 test("homepage does not repeat the sidebar description as an eyebrow", async () => {
   const destination = await mkdtemp(path.join(tmpdir(), "benpearson-site-"));
 
@@ -134,4 +148,53 @@ sensor.garmin_device_battery_level
   assert.match(html, /<div class="highlight"><pre/);
   assert.match(html, /sensor\.garmin_device_battery_level/);
   assert.doesNotMatch(html, /\{\d+ \d+ <div class="highlight">/);
+});
+
+test("activities section renders searchable filters and activity cards", async () => {
+  const destination = await mkdtemp(path.join(tmpdir(), "benpearson-site-"));
+
+  await execFileAsync("/tmp/opencode/hugo", ["--destination", destination], {
+    cwd: process.cwd(),
+  });
+
+  const html = await readFile(path.join(destination, "activities", "index.html"), "utf8");
+
+  assert.match(html, /At Home Activities/);
+  assert.match(html, /data-activity-search/);
+  assert.match(html, /data-age-min/);
+  assert.match(html, /data-duration-max/);
+  assert.match(html, /data-indoor-filter/);
+  assert.match(html, /data-outdoor-filter/);
+  assert.match(html, /data-activity-card/);
+});
+
+test("activities JSON index is generated for client-side search", async () => {
+  const destination = await mkdtemp(path.join(tmpdir(), "benpearson-site-"));
+
+  await execFileAsync("/tmp/opencode/hugo", ["--destination", destination], {
+    cwd: process.cwd(),
+  });
+
+  const index = JSON.parse(await readFile(path.join(destination, "activities", "index.json"), "utf8"));
+
+  assert.equal(index.length >= 200, true);
+  assert.equal(typeof index[0].title, "string");
+  assert.equal(typeof index[0].url, "string");
+  assert.ok(Array.isArray(index[0].materials));
+});
+
+test("activity detail pages render metadata, materials, and SVG steps", async () => {
+  const destination = await mkdtemp(path.join(tmpdir(), "benpearson-site-"));
+
+  await execFileAsync("/tmp/opencode/hugo", ["--destination", destination], {
+    cwd: process.cwd(),
+  });
+
+  const html = await readFile(path.join(destination, "activities", "paper-plate-owl", "index.html"), "utf8");
+
+  assert.match(html, /Paper Plate Owl/);
+  assert.match(html, /Ages /);
+  assert.match(html, /Materials/);
+  assert.match(html, /Illustrated Steps/);
+  assert.match(html, /src="\/activities\/paper-plate-owl\/step-0\.svg"/);
 });

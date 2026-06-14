@@ -1,0 +1,48 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Step 3: Record the Storm -->
+  <!-- Indoor table -->
+  <rect x="0" y="85" width="120" height="35" fill="#fef3c7" />
+  
+  <!-- Jar with high water level, now entirely blue -->
+  <path d="M15,25 L15,95 Q15,105 25,105 L45,105 Q55,105 55,95 L55,25" fill="#f9fafb" opacity="0.9" stroke="#374151" stroke-width="2" />
+  <path d="M10,25 L60,25" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round" />
+  
+  <!-- Water inside the jar -->
+  <path d="M17,60 L53,60 L53,95 Q53,103 45,103 L25,103 Q17,103 17,95 Z" fill="#93c5fd" opacity="0.8" />
+  <line x1="17" y1="60" x2="53" y2="60" stroke="#3b82f6" stroke-width="1.5" />
+  
+  <!-- Markings -->
+  <line x1="22" y1="90" x2="30" y2="90" stroke="#111827" stroke-width="2" />
+  <line x1="22" y1="75" x2="30" y2="75" stroke="#111827" stroke-width="2" />
+  <line x1="22" y1="60" x2="30" y2="60" stroke="#111827" stroke-width="2" />
+  <line x1="22" y1="45" x2="30" y2="45" stroke="#111827" stroke-width="2" />
+  
+  <!-- Notebook / Weather Log -->
+  <rect x="65" y="45" width="45" height="55" fill="#ffffff" stroke="#374151" stroke-width="2" />
+  <!-- Spiral binding -->
+  <circle cx="65" cy="55" r="2" fill="#e5e7eb" stroke="#374151" stroke-width="1" />
+  <circle cx="65" cy="70" r="2" fill="#e5e7eb" stroke="#374151" stroke-width="1" />
+  <circle cx="65" cy="85" r="2" fill="#e5e7eb" stroke="#374151" stroke-width="1" />
+  
+  <!-- Graph drawn inside -->
+  <line x1="75" y1="90" x2="105" y2="90" stroke="#9ca3af" stroke-width="1.5" />
+  <line x1="75" y1="90" x2="75" y2="60" stroke="#9ca3af" stroke-width="1.5" />
+  <rect x="80" y="70" width="6" height="20" fill="#3b82f6" />
+  <rect x="90" y="55" width="6" height="35" fill="#3b82f6" />
+  
+  <!-- Pencil -->
+  <g transform="translate(100, 25) rotate(-35)">
+    <!-- Graphite Tip -->
+    <path d="M0,0 L6,0 L3,8 Z" fill="#374151" />
+    <!-- Wood -->
+    <path d="M0,-8 L6,-8 L6,0 L0,0 Z" fill="#fde68a" stroke="#374151" stroke-width="1" />
+    <!-- Body -->
+    <rect x="0" y="-35" width="6" height="27" fill="#f59e0b" stroke="#374151" stroke-width="1.5" />
+    <!-- Eraser -->
+    <rect x="0" y="-42" width="6" height="7" fill="#fca5a5" stroke="#374151" stroke-width="1.5" />
+  </g>
+  
+  <!-- Arrow from jar water level to notebook chart -->
+  <path d="M55,60 Q70,40 85,50" fill="none" stroke="#374151" stroke-width="1.5" stroke-dasharray="3,3" />
+  <path d="M82,47 L86,51 L88,46" fill="none" stroke="#374151" stroke-width="1.5" stroke-linecap="round" />
+</svg>

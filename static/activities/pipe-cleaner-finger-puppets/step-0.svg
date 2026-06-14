@@ -1,0 +1,45 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Finger (hero) -->
+  <rect x="42" y="40" width="16" height="50" rx="8" fill="#fcd9b6" stroke="#374151" stroke-width="1.2"/>
+  <!-- Fingernail -->
+  <ellipse cx="50" cy="42" rx="5" ry="3" fill="#fce7d6" stroke="#374151" stroke-width="0.6"/>
+
+  <!-- Pipe cleaner being wrapped around finger -->
+  <!-- Part already wrapped -->
+  <path d="M38,62 Q34,62 34,56 Q34,50 42,50" fill="none" stroke="#ef4444" stroke-width="3" stroke-linecap="round"/>
+  <!-- Wrap continuing around back -->
+  <path d="M58,50 Q64,50 64,56 Q64,62 58,62" fill="none" stroke="#ef4444" stroke-width="3" stroke-linecap="round"/>
+  <!-- Twist point -->
+  <path d="M38,62 Q36,66 34,68" fill="none" stroke="#ef4444" stroke-width="3" stroke-linecap="round"/>
+  <path d="M40,62 Q38,66 36,68" fill="none" stroke="#ef4444" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Free ends sticking up -->
+  <line x1="34" y1="68" x2="28" y2="90" stroke="#ef4444" stroke-width="3" stroke-linecap="round"/>
+  <line x1="36" y1="68" x2="44" y2="90" stroke="#ef4444" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Arrow showing wrap direction -->
+  <defs>
+    <marker id="arr" viewBox="0 0 6 6" refX="5" refY="3" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#374151"/>
+    </marker>
+  </defs>
+  <path d="M28,48 Q24,52 28,56" fill="none" stroke="#374151" stroke-width="1" stroke-dasharray="2,2" marker-end="url(#arr)"/>
+
+  <!-- Loose pipe cleaners on table -->
+  <line x1="72" y1="80" x2="72" y2="96" stroke="#3b82f6" stroke-width="3" stroke-linecap="round"/>
+  <line x1="82" y1="76" x2="82" y2="96" stroke="#22c55e" stroke-width="3" stroke-linecap="round"/>
+  <line x1="92" y1="78" x2="92" y2="96" stroke="#fbbf24" stroke-width="3" stroke-linecap="round"/>
+  <line x1="102" y1="82" x2="102" y2="96" stroke="#a78bfa" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Bundle of pipe cleaners -->
+  <g transform="translate(70, 20)">
+    <line x1="0" y1="0" x2="0" y2="48" stroke="#ef4444" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="6" y1="2" x2="6" y2="50" stroke="#3b82f6" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="12" y1="0" x2="12" y2="46" stroke="#22c55e" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="18" y1="4" x2="18" y2="48" stroke="#fbbf24" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="24" y1="2" x2="24" y2="50" stroke="#a78bfa" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+</svg>

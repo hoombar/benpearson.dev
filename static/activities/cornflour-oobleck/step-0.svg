@@ -1,0 +1,32 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Step 0: Measure the Cornflour — pouring into bowl -->
+  <!-- Table surface -->
+  <line x1="4" y1="108" x2="116" y2="108" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Large bowl (hero) -->
+  <path d="M10 62 Q10 102 60 102 Q110 102 110 62 Z" stroke="#374151" stroke-width="2" fill="#f9fafb"/>
+  <!-- Bowl rim ellipse -->
+  <ellipse cx="60" cy="62" rx="50" ry="10" stroke="#374151" stroke-width="2" fill="#f3f4f6"/>
+  <!-- Cornflour inside bowl (white powder pile) -->
+  <path d="M24 74 Q60 68 96 74 Q96 98 60 98 Q24 98 24 74 Z" fill="white" stroke="#e5e7eb" stroke-width="1"/>
+  <!-- White powder surface highlight -->
+  <path d="M30 72 Q60 68 90 72" stroke="white" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- Measuring cup (upper right, tilted, pouring) -->
+  <g transform="translate(88, 28) rotate(30)">
+    <!-- Cup body -->
+    <path d="M-12 -2 L-14 24 L14 24 L12 -2 Z" stroke="#374151" stroke-width="1.5" fill="#e0f2fe"/>
+    <!-- Handle -->
+    <path d="M12 6 Q20 6 20 14 Q20 22 12 20" stroke="#374151" stroke-width="1.5" fill="none"/>
+    <!-- Cup rim -->
+    <line x1="-12" y1="-2" x2="12" y2="-2" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+    <!-- Cornflour inside cup -->
+    <path d="M-12 -2 L-13 12 L13 12 L12 -2 Z" fill="white" fill-opacity="0.8" stroke="none"/>
+    <!-- Measurement lines -->
+    <line x1="-14" y1="6" x2="-10" y2="6" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+    <line x1="-14" y1="16" x2="-10" y2="16" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+  </g>
+  <!-- Cornflour pouring stream (white cascade) -->
+  <path d="M76 42 Q68 52 64 62" stroke="white" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M80 44 Q72 54 66 62" stroke="#e5e7eb" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- Cornflour dust cloud at pour point -->
+  <ellipse cx="64" cy="64" rx="8" ry="4" fill="white" fill-opacity="0.6" stroke="none"/>
+</svg>

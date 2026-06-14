@@ -1,0 +1,58 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Painted tube with curling tentacles (hero) -->
+  <g transform="translate(30, 10)">
+    <!-- Tube body top half -->
+    <rect x="0" y="0" width="34" height="40" rx="2" fill="#a855f7" stroke="#374151" stroke-width="1.5"/>
+    <!-- Top opening -->
+    <ellipse cx="17" cy="2" rx="17" ry="5" fill="#9333ea" stroke="#374151" stroke-width="1.2"/>
+
+    <!-- Curling tentacles (8 strips curling outward) -->
+    <!-- Left tentacles -->
+    <path d="M2,40 Q-8,58 -4,72" fill="none" stroke="#a855f7" stroke-width="3" stroke-linecap="round"/>
+    <path d="M6,40 Q-4,55 2,68" fill="none" stroke="#9333ea" stroke-width="3" stroke-linecap="round"/>
+    <!-- Center-left tentacles -->
+    <path d="M11,40 Q6,58 10,72" fill="none" stroke="#a855f7" stroke-width="3" stroke-linecap="round"/>
+    <path d="M15,40 Q14,56 16,70" fill="none" stroke="#9333ea" stroke-width="3" stroke-linecap="round"/>
+    <!-- Center-right tentacles -->
+    <path d="M19,40 Q20,56 18,70" fill="none" stroke="#a855f7" stroke-width="3" stroke-linecap="round"/>
+    <path d="M23,40 Q28,58 24,72" fill="none" stroke="#9333ea" stroke-width="3" stroke-linecap="round"/>
+    <!-- Right tentacles -->
+    <path d="M28,40 Q38,55 32,68" fill="none" stroke="#a855f7" stroke-width="3" stroke-linecap="round"/>
+    <path d="M32,40 Q42,58 38,72" fill="none" stroke="#9333ea" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <!-- Pencil being used to curl a tentacle -->
+  <g transform="translate(74, 56)">
+    <!-- Pencil body -->
+    <rect x="0" y="-3" width="34" height="6" rx="1" fill="#fbbf24" stroke="#374151" stroke-width="0.8"/>
+    <!-- Pencil tip -->
+    <polygon points="34,-3 34,3 40,0" fill="#fde68a" stroke="#374151" stroke-width="0.6"/>
+    <polygon points="38,-1.5 38,1.5 40,0" fill="#374151"/>
+    <!-- Eraser end -->
+    <rect x="-3" y="-3" width="4" height="6" rx="1" fill="#fb7185" stroke="#374151" stroke-width="0.6"/>
+  </g>
+
+  <!-- Strip being wrapped around pencil -->
+  <path d="M68,72 Q74,64 78,58 Q82,52 86,56" fill="none" stroke="#a855f7" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- Curved arrow showing wrapping motion -->
+  <defs>
+    <marker id="arr" viewBox="0 0 6 6" refX="5" refY="3" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#374151"/>
+    </marker>
+  </defs>
+  <path d="M82,46 Q78,42 74,46" fill="none" stroke="#374151" stroke-width="0.8" stroke-dasharray="2,2" marker-end="url(#arr)"/>
+
+  <!-- Before/after comparison - straight strip becoming curled -->
+  <g transform="translate(6, 82)">
+    <!-- Straight strip -->
+    <rect x="0" y="0" width="20" height="4" rx="1" fill="#a855f7" stroke="#374151" stroke-width="0.6"/>
+    <!-- Arrow -->
+    <line x1="24" y1="2" x2="34" y2="2" stroke="#374151" stroke-width="0.8" marker-end="url(#arr)"/>
+    <!-- Curled strip -->
+    <path d="M38,4 Q42,-2 46,4 Q50,10 54,4" fill="none" stroke="#a855f7" stroke-width="3" stroke-linecap="round"/>
+  </g>
+</svg>

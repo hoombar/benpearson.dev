@@ -1,0 +1,48 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2"
+            stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <!-- Table surface -->
+  <rect x="5" y="105" width="110" height="10" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Card disc (hero, side view showing toothpick going through) -->
+  <!-- Disc shown at slight angle -->
+  <ellipse cx="60" cy="52" rx="32" ry="4" fill="#f59e0b" stroke="#374151" stroke-width="2.5"/>
+  <!-- Rainbow colour segments visible on edge -->
+  <path d="M28,52 A32,4 0 0,1 44,48.5" fill="none" stroke="#ef4444" stroke-width="2.5"/>
+  <path d="M44,48.5 A32,4 0 0,1 60,48" fill="none" stroke="#22c55e" stroke-width="2.5"/>
+  <path d="M60,48 A32,4 0 0,1 76,48.5" fill="none" stroke="#3b82f6" stroke-width="2.5"/>
+  <path d="M76,48.5 A32,4 0 0,1 92,52" fill="none" stroke="#a78bfa" stroke-width="2.5"/>
+
+  <!-- Toothpick going through centre -->
+  <!-- Top part (short, 1cm above disc) -->
+  <line x1="60" y1="38" x2="60" y2="50" stroke="#d97706" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Bottom part (longer axle below) -->
+  <line x1="60" y1="54" x2="60" y2="100" stroke="#d97706" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Pointed tip at bottom -->
+  <path d="M58,98 L60,104 L62,98" fill="#d97706" stroke="#374151" stroke-width="1"/>
+
+  <!-- Arrow showing toothpick being pushed through -->
+  <path d="M74,28 L64,40" stroke="#374151" stroke-width="1.5" fill="none"
+        stroke-linecap="round" marker-end="url(#arr)"/>
+
+  <!-- Centre hole indication -->
+  <circle cx="60" cy="52" r="2" fill="#374151" stroke="none"/>
+
+  <!-- Measurement marks showing 1cm above -->
+  <line x1="52" y1="38" x2="56" y2="38" stroke="#374151" stroke-width="0.75"/>
+  <line x1="52" y1="50" x2="56" y2="50" stroke="#374151" stroke-width="0.75"/>
+  <path d="M54,38 L54,50" stroke="#374151" stroke-width="0.75" fill="none"/>
+
+  <!-- Top-down view reference (small, showing centre) -->
+  <circle cx="22" cy="24" r="14" fill="none" stroke="#374151" stroke-width="1.5"/>
+  <!-- Crosshair at centre -->
+  <line x1="22" y1="18" x2="22" y2="30" stroke="#374151" stroke-width="0.75" stroke-dasharray="2,2"/>
+  <line x1="16" y1="24" x2="28" y2="24" stroke="#374151" stroke-width="0.75" stroke-dasharray="2,2"/>
+  <circle cx="22" cy="24" r="1.5" fill="#374151" stroke="none"/>
+</svg>

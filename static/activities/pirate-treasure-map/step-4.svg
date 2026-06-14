@@ -1,0 +1,54 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2"
+            stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <!-- Flat map (before, top-left) — partially visible, being rolled -->
+  <path d="M10 16 L50 16 L50 56 L10 56 Z" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+  <!-- Map details on the flat portion -->
+  <path d="M18 28 L28 24 L36 30 L42 26" stroke="#374151" stroke-width="0.8" fill="none" opacity="0.5"/>
+  <line x1="22" y1="36" x2="28" y2="44" stroke="#ef4444" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="28" y1="36" x2="22" y2="44" stroke="#ef4444" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Curl at the right edge showing rolling action -->
+  <path d="M50 16 Q58 16 58 24 Q58 32 50 32" stroke="#374151" stroke-width="1.5" fill="#fef3c7"/>
+
+  <!-- Rolling arrow (arc showing the rolling motion) -->
+  <path d="M54 10 Q66 20 54 36" stroke="#374151" stroke-width="1.5" fill="none" marker-end="url(#arr)"/>
+
+  <!-- Finished scroll (hero, bottom-centre) — large rolled cylinder -->
+  <g transform="translate(60, 82)">
+    <!-- Scroll body (cylinder seen from slight angle) -->
+    <rect x="-30" y="-12" width="60" height="24" rx="3" fill="#fef3c7" stroke="#374151" stroke-width="2"/>
+    <!-- Left end spiral (shows it's rolled) -->
+    <ellipse cx="-30" cy="0" rx="4" ry="12" fill="#fde68a" stroke="#374151" stroke-width="1.5"/>
+    <path d="M-30 -6 Q-26 -6 -26 0 Q-26 6 -30 6" stroke="#374151" stroke-width="1" fill="none"/>
+    <!-- Right end spiral -->
+    <ellipse cx="30" cy="0" rx="4" ry="12" fill="#fde68a" stroke="#374151" stroke-width="1.5"/>
+    <path d="M30 -6 Q34 -6 34 0 Q34 6 30 6" stroke="#374151" stroke-width="1" fill="none"/>
+    <!-- String/ribbon tied around the middle -->
+    <rect x="-4" y="-14" width="8" height="28" rx="1" fill="none" stroke="#d97706" stroke-width="2"/>
+    <!-- Bow knot on top -->
+    <path d="M-4 -14 Q-12 -20 -4 -22" stroke="#d97706" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+    <path d="M4 -14 Q12 -20 4 -22" stroke="#d97706" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  </g>
+
+  <!-- Arrow from flat map down to scroll -->
+  <path d="M30 58 Q30 64 44 68" stroke="#374151" stroke-width="1.5" fill="none" marker-end="url(#arr)"/>
+
+  <!-- Small tape dispenser (top-right as reference) -->
+  <g transform="translate(96, 28)">
+    <circle cx="0" cy="0" r="10" fill="#e5e7eb" stroke="#374151" stroke-width="1.5"/>
+    <circle cx="0" cy="0" r="5" fill="#f9fafb" stroke="#374151" stroke-width="1"/>
+    <!-- Tape pulling out -->
+    <line x1="10" y1="0" x2="16" y2="4" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+    <!-- Serrated edge -->
+    <path d="M14 2 L18 6 L16 4" stroke="#374151" stroke-width="1" fill="none"/>
+  </g>
+
+  <!-- Table surface -->
+  <line x1="4" y1="108" x2="116" y2="108" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

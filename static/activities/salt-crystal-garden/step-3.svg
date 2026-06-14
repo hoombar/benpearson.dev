@@ -1,0 +1,31 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Jar (hero — the crystal grower setup) -->
+  <rect x="28" y="54" width="64" height="58" rx="3" stroke="#374151" stroke-width="2.5" fill="#dbeafe"/>
+  <!-- Jar rim -->
+  <rect x="24" y="46" width="72" height="10" rx="2" stroke="#374151" stroke-width="2" fill="#e5e7eb"/>
+  <!-- Coloured solution surface inside jar -->
+  <line x1="28" y1="70" x2="92" y2="70" stroke="#374151" stroke-width="1" stroke-dasharray="4,3" stroke-linecap="round"/>
+  <!-- Ruler resting across the top of the jar (hero element) -->
+  <rect x="8" y="38" width="104" height="10" rx="2" stroke="#374151" stroke-width="2.5" fill="#fef9c3"/>
+  <!-- Ruler ticks -->
+  <line x1="20" y1="38" x2="20" y2="42" stroke="#374151" stroke-width="1"/>
+  <line x1="32" y1="38" x2="32" y2="42" stroke="#374151" stroke-width="1"/>
+  <line x1="44" y1="38" x2="44" y2="42" stroke="#374151" stroke-width="1"/>
+  <line x1="56" y1="38" x2="56" y2="42" stroke="#374151" stroke-width="1"/>
+  <line x1="68" y1="38" x2="68" y2="42" stroke="#374151" stroke-width="1"/>
+  <line x1="80" y1="38" x2="80" y2="42" stroke="#374151" stroke-width="1"/>
+  <line x1="92" y1="38" x2="92" y2="42" stroke="#374151" stroke-width="1"/>
+  <line x1="104" y1="38" x2="104" y2="42" stroke="#374151" stroke-width="1"/>
+  <!-- Three strings hanging from ruler down into solution -->
+  <!-- String knots at ruler -->
+  <circle cx="44" cy="42" r="3" stroke="#374151" stroke-width="1.5" fill="#d97706"/>
+  <circle cx="60" cy="42" r="3" stroke="#374151" stroke-width="1.5" fill="#d97706"/>
+  <circle cx="76" cy="42" r="3" stroke="#374151" stroke-width="1.5" fill="#d97706"/>
+  <!-- Strings hanging in solution -->
+  <line x1="44" y1="45" x2="44" y2="104" stroke="#d97706" stroke-width="2" stroke-linecap="round"/>
+  <line x1="60" y1="45" x2="60" y2="104" stroke="#d97706" stroke-width="2" stroke-linecap="round"/>
+  <line x1="76" y1="45" x2="76" y2="104" stroke="#d97706" stroke-width="2" stroke-linecap="round"/>
+  <!-- Gap indicators showing strings not touching jar walls -->
+  <line x1="28" y1="90" x2="38" y2="90" stroke="#374151" stroke-width="1" stroke-dasharray="2,2"/>
+  <line x1="82" y1="90" x2="92" y2="90" stroke="#374151" stroke-width="1" stroke-dasharray="2,2"/>
+</svg>

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="100%" height="100%">
+  <!-- Background: Wall and Floor -->
+  <rect width="800" height="450" fill="#d1e8e2"/>
+  <rect y="450" width="800" height="150" fill="#e2c293"/>
+  <rect y="450" width="800" height="10" fill="#d0b080"/>
+  
+  <!-- The full track -->
+  <g transform="translate(100, 50)">
+    <!-- Tube 1 -->
+    <rect x="0" y="0" width="150" height="40" rx="10" fill="#d6ab7d" transform="rotate(30)"/>
+    <!-- Tube 2 -->
+    <rect x="130" y="80" width="150" height="40" rx="10" fill="#b38a5c" transform="rotate(-20)"/>
+    <!-- Tube 3 -->
+    <rect x="180" y="200" width="150" height="40" rx="10" fill="#c49a6c" transform="rotate(40)"/>
+    <!-- Tube 4 -->
+    <rect x="300" y="250" width="200" height="40" rx="10" fill="#d6ab7d" transform="rotate(-15)"/>
+    <!-- Tube 5 (Exit) -->
+    <rect x="450" y="300" width="150" height="40" rx="10" fill="#a67c52" transform="rotate(10)"/>
+    
+    <!-- Tapes -->
+    <rect x="50" y="20" width="20" height="60" fill="rgba(255,255,255,0.7)" transform="rotate(30)"/>
+    <rect x="150" y="100" width="20" height="60" fill="rgba(255,255,255,0.7)" transform="rotate(-20)"/>
+    <rect x="220" y="220" width="20" height="60" fill="rgba(255,255,255,0.7)" transform="rotate(40)"/>
+    <rect x="400" y="230" width="20" height="60" fill="rgba(255,255,255,0.7)" transform="rotate(-15)"/>
+  </g>
+  
+  <!-- The catching bowl -->
+  <g transform="translate(650, 480)">
+    <ellipse cx="0" cy="20" rx="70" ry="20" fill="rgba(0,0,0,0.2)"/>
+    <path d="M -70 0 C -70 40 70 40 70 0 Z" fill="#81d4fa"/>
+    <ellipse cx="0" cy="0" rx="70" ry="15" fill="#4fc3f7"/>
+    <ellipse cx="0" cy="0" rx="60" ry="10" fill="#29b6f6"/>
+    
+    <!-- Marbles inside bowl -->
+    <circle cx="-20" cy="5" r="12" fill="#ff7043"/>
+    <circle cx="20" cy="2" r="12" fill="#66bb6a"/>
+  </g>
+  
+  <!-- The final marble zooming out -->
+  <g transform="translate(560, 440)">
+    <circle cx="0" cy="0" r="15" fill="#42a5f5"/>
+    <circle cx="-5" cy="-5" r="4" fill="#fff" opacity="0.6"/>
+    
+    <!-- Motion lines -->
+    <path d="M -60 -20 Q -30 -10 -15 -5" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+    <path d="M -50 -35 Q -20 -15 -10 -10" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+    <!-- Splash stars -->
+    <path d="M 20 0 L 30 -10 L 25 5 L 40 10 L 25 15 L 30 30 L 15 20 L 0 30 L 5 15 L -10 10 L 5 5 Z" fill="#ffca28" transform="translate(20, 10) scale(0.5)"/>
+  </g>
+  
+</svg>

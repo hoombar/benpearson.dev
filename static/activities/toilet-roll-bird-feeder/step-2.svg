@@ -1,0 +1,28 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <!-- Tray with seed -->
+  <rect x="10" y="80" width="100" height="15" rx="2" fill="#f3f4f6" stroke="#374151" stroke-width="2"/>
+  <!-- Seed pile -->
+  <path d="M15,80 Q60,70 105,80" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+  <circle cx="20" cy="78" r="1" fill="#374151"/>
+  <circle cx="40" cy="75" r="1.5" fill="#374151"/>
+  <circle cx="80" cy="74" r="1" fill="#374151"/>
+
+  <!-- Tube rolling (hero) -->
+  <g transform="translate(60, 65)">
+    <path d="M-15,-15 L15,-15 L15,15 L-15,15 Z" fill="#d97706" stroke="#374151" stroke-width="2" stroke-linejoin="round"/>
+    <!-- Seeds sticking to it -->
+    <circle cx="-10" cy="10" r="1" fill="#374151"/>
+    <circle cx="5" cy="-8" r="1.5" fill="#374151"/>
+    <circle cx="12" cy="12" r="1" fill="#374151"/>
+  </g>
+
+  <!-- Rolling motion arrows -->
+  <path d="M30,55 Q60,45 90,55" fill="none" stroke="#374151" stroke-width="2" marker-end="url(#arr)" stroke-linecap="round"/>
+  <path d="M90,75 Q60,85 30,75" fill="none" stroke="#374151" stroke-width="2" marker-end="url(#arr)" stroke-linecap="round"/>
+</svg>

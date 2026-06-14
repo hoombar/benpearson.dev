@@ -1,0 +1,67 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Treasure chest open with treasure inside (hero) -->
+  <g transform="translate(14, 16)">
+    <!-- Lid (open, angled back) -->
+    <rect x="0" y="0" width="70" height="22" rx="2" fill="#d97706" stroke="#374151" stroke-width="1.5"/>
+    <rect x="0" y="5" width="70" height="3" fill="#fbbf24" stroke="#374151" stroke-width="0.4"/>
+    <rect x="0" y="14" width="70" height="3" fill="#fbbf24" stroke="#374151" stroke-width="0.4"/>
+    <!-- Jewels on lid -->
+    <circle cx="12" cy="10" r="2.5" fill="#ef4444" stroke="#374151" stroke-width="0.4"/>
+    <circle cx="35" cy="10" r="2.5" fill="#3b82f6" stroke="#374151" stroke-width="0.4"/>
+    <circle cx="58" cy="10" r="2.5" fill="#22c55e" stroke="#374151" stroke-width="0.4"/>
+
+    <!-- Bottom box -->
+    <rect x="0" y="24" width="70" height="28" rx="2" fill="#b45309" stroke="#374151" stroke-width="1.5"/>
+    <line x1="4" y1="34" x2="66" y2="34" stroke="#92400e" stroke-width="0.8"/>
+    <line x1="4" y1="42" x2="66" y2="42" stroke="#92400e" stroke-width="0.8"/>
+    <!-- Lock -->
+    <rect x="28" y="38" width="14" height="10" rx="2" fill="#fbbf24" stroke="#374151" stroke-width="0.8"/>
+    <circle cx="35" cy="44" r="1.5" fill="#374151"/>
+    <!-- Metal band -->
+    <rect x="0" y="48" width="70" height="3" fill="#fbbf24" stroke="#374151" stroke-width="0.4"/>
+
+    <!-- Hinge -->
+    <line x1="0" y1="22" x2="70" y2="22" stroke="#374151" stroke-width="1.5"/>
+  </g>
+
+  <!-- Treasure inside the chest! -->
+  <!-- Gold coins -->
+  <ellipse cx="30" cy="34" rx="5" ry="2" fill="#fbbf24" stroke="#374151" stroke-width="0.5"/>
+  <ellipse cx="38" cy="32" rx="5" ry="2" fill="#fde68a" stroke="#374151" stroke-width="0.5"/>
+  <ellipse cx="50" cy="34" rx="5" ry="2" fill="#fbbf24" stroke="#374151" stroke-width="0.5"/>
+  <ellipse cx="60" cy="32" rx="5" ry="2" fill="#fde68a" stroke="#374151" stroke-width="0.5"/>
+  <ellipse cx="44" cy="30" rx="5" ry="2" fill="#fbbf24" stroke="#374151" stroke-width="0.5"/>
+
+  <!-- Foil gems -->
+  <polygon points="26,30 28,26 30,30" fill="#e5e7eb" stroke="#374151" stroke-width="0.5"/>
+  <polygon points="56,28 58,24 60,28" fill="#e5e7eb" stroke="#374151" stroke-width="0.5"/>
+  <polygon points="68,30 70,26 72,30" fill="#e5e7eb" stroke="#374151" stroke-width="0.5"/>
+
+  <!-- Coloured jewel gems -->
+  <circle cx="34" cy="28" r="2.5" fill="#ef4444" stroke="#374151" stroke-width="0.4"/>
+  <circle cx="52" cy="28" r="2.5" fill="#3b82f6" stroke="#374151" stroke-width="0.4"/>
+  <circle cx="64" cy="28" r="2" fill="#22c55e" stroke="#374151" stroke-width="0.4"/>
+
+  <!-- Sparkle effects -->
+  <polygon points="44,18 45,20 47,20 45.5,21.5 46,24 44,22.5 42,24 42.5,21.5 41,20 43,20" fill="#fbbf24" opacity="0.6"/>
+  <polygon points="28,20 29,22 30.5,22 29.5,23 30,25 28,23.5 26,25 26.5,23 25.5,22 27,22" fill="#fbbf24" opacity="0.5"/>
+  <polygon points="62,20 63,22 64.5,22 63.5,23 64,25 62,23.5 60,25 60.5,23 59.5,22 61,22" fill="#fbbf24" opacity="0.5"/>
+
+  <!-- Hand placing treasure -->
+  <g transform="translate(70, 8)">
+    <rect x="0" y="0" width="12" height="20" rx="6" fill="#fcd9b6" stroke="#374151" stroke-width="0.8"/>
+    <rect x="14" y="2" width="10" height="18" rx="5" fill="#fcd9b6" stroke="#374151" stroke-width="0.8"/>
+  </g>
+
+  <!-- Foil ball being dropped in -->
+  <circle cx="74" cy="24" r="4" fill="#e5e7eb" stroke="#374151" stroke-width="0.6"/>
+
+  <!-- Extra coins nearby -->
+  <g transform="translate(90, 60)">
+    <ellipse cx="6" cy="8" rx="6" ry="2.5" fill="#fbbf24" stroke="#374151" stroke-width="0.5"/>
+    <ellipse cx="6" cy="6" rx="6" ry="2.5" fill="#fde68a" stroke="#374151" stroke-width="0.5"/>
+  </g>
+</svg>

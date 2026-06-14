@@ -1,0 +1,51 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <!-- Table background -->
+  <rect x="0" y="80" width="120" height="40" fill="#fef3c7" />
+  <line x1="0" y1="80" x2="120" y2="80" stroke="#374151" stroke-width="2"/>
+  
+  <!-- Clear Glass with some liquid -->
+  <g transform="translate(45, 45)">
+    <!-- Back lip -->
+    <ellipse cx="15" cy="0" rx="12" ry="4" fill="#e5e7eb" stroke="#374151" stroke-width="2"/>
+    <!-- Liquid inside glass -->
+    <path d="M5,45 A10,3 0 0,0 25,45 L25,18 A10,3 0 0,1 5,18 Z" fill="#93c5fd" />
+    <ellipse cx="15" cy="18" rx="10" ry="3" fill="#60a5fa" stroke="#3b82f6" stroke-width="1"/>
+    <!-- Bubbles in liquid -->
+    <circle cx="10" cy="30" r="1.5" fill="#ffffff" />
+    <circle cx="18" cy="25" r="1" fill="#ffffff" />
+    <circle cx="15" cy="35" r="2" fill="#ffffff" />
+    <!-- Glass Front -->
+    <path d="M3,0 L3,45 A12,4 0 0,0 27,45 L27,0" fill="#f3f4f6" fill-opacity="0.3" stroke="#374151" stroke-width="2"/>
+    <line x1="8" y1="10" x2="8" y2="35" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+    <ellipse cx="15" cy="0" rx="12" ry="4" fill="none" stroke="#374151" stroke-width="2"/>
+  </g>
+
+  <!-- Flowing liquid -->
+  <path d="M54,12 Q60,18 60,63" fill="none" stroke="#60a5fa" stroke-width="3" stroke-linecap="round"/>
+  <path d="M52,25 Q58,35 58,63" fill="none" stroke="#93c5fd" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- Dashed flow / liquid drip -->
+  <line x1="60" y1="65" x2="60" y2="75" stroke="#60a5fa" stroke-width="2" stroke-dasharray="4,3" stroke-linecap="round"/>
+
+  <!-- Bottle of Sparkling Water (tilted) -->
+  <g transform="translate(80, -5) rotate(-110)">
+    <!-- Base -->
+    <path d="M-10,60 Q-14,60 -14,54 L-14,18 C-14,0 -5,0 -5,-10 L5,-10 C5,0 14,0 14,18 L14,54 Q14,60 8,60 Z" fill="#dbeafe" stroke="#374151" stroke-width="2" stroke-linejoin="round"/>
+    <!-- Liquid level (tilted so it's horizontal to the world) -->
+    <!-- After rotation -110, horizontal is about 20 deg in local coords. Let's just draw an angled level -->
+    <path d="M-14,20 L14,40 L14,54 Q14,60 8,60 L-8,60 Q-14,60 -14,54 Z" fill="#93c5fd" />
+    <path d="M-14,20 L14,40" fill="none" stroke="#3b82f6" stroke-width="1"/>
+    <!-- Label -->
+    <rect x="-14" y="26" width="28" height="12" fill="#fef9c3" stroke="#374151" stroke-width="1.5"/>
+    <circle cx="0" cy="32" r="3" fill="#ef4444" stroke="#374151" stroke-width="1"/>
+  </g>
+  
+  <!-- Splash drops -->
+  <circle cx="55" cy="50" r="1.5" fill="#60a5fa"/>
+  <circle cx="65" cy="55" r="1" fill="#60a5fa"/>
+</svg>

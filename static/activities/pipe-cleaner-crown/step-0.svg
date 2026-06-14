@@ -1,0 +1,41 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Pipe cleaners being twisted together (hero) -->
+  <!-- First pipe cleaner -->
+  <line x1="10" y1="42" x2="56" y2="42" stroke="#eab308" stroke-width="4" stroke-linecap="round"/>
+  <!-- Second pipe cleaner -->
+  <line x1="52" y1="42" x2="98" y2="42" stroke="#f97316" stroke-width="4" stroke-linecap="round"/>
+  <!-- Twist junction -->
+  <g transform="translate(54, 42)">
+    <path d="M-4,-2 Q0,2 4,-2" fill="none" stroke="#eab308" stroke-width="2"/>
+    <path d="M-4,2 Q0,-2 4,2" fill="none" stroke="#f97316" stroke-width="2"/>
+  </g>
+
+  <!-- Formed circular band below -->
+  <g transform="translate(20, 58)">
+    <ellipse cx="40" cy="20" rx="40" ry="18" fill="none" stroke="#eab308" stroke-width="4" stroke-linecap="round"/>
+    <!-- Twist join point -->
+    <circle cx="40" cy="2" r="3" fill="#f97316" stroke="#374151" stroke-width="0.5"/>
+  </g>
+
+  <!-- Arrow showing twisting motion -->
+  <defs>
+    <marker id="arr" viewBox="0 0 6 6" refX="5" refY="3" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#374151"/>
+    </marker>
+  </defs>
+  <path d="M50,48 Q46,54 42,58" fill="none" stroke="#374151" stroke-width="0.8" stroke-dasharray="2,2" marker-end="url(#arr)"/>
+
+  <!-- Extra pipe cleaners on table -->
+  <line x1="6" y1="90" x2="50" y2="90" stroke="#a855f7" stroke-width="3" stroke-linecap="round"/>
+  <line x1="10" y1="96" x2="54" y2="96" stroke="#22c55e" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Head silhouette for measuring -->
+  <g transform="translate(80, 10)">
+    <ellipse cx="16" cy="16" rx="14" ry="16" fill="#fcd9b6" stroke="#374151" stroke-width="0.8" opacity="0.5"/>
+    <!-- Measuring arrow around head -->
+    <path d="M2,16 Q2,0 16,0 Q30,0 30,16" fill="none" stroke="#374151" stroke-width="0.6" stroke-dasharray="2,2" marker-end="url(#arr)"/>
+  </g>
+</svg>

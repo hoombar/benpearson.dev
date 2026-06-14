@@ -1,0 +1,41 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Step 1: Sort the Strands — spread out side by side, knot taped at top -->
+  <!-- Table surface -->
+  <line x1="4" y1="112" x2="116" y2="112" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Clipboard / board backing -->
+  <rect x="16" y="8" width="88" height="100" rx="3" fill="#fef9c3" stroke="#d97706" stroke-width="2"/>
+  <!-- Clipboard clip at top -->
+  <rect x="42" y="4" width="36" height="12" rx="4" fill="#9ca3af" stroke="#374151" stroke-width="1.5"/>
+  <rect x="48" y="2" width="24" height="8" rx="2" fill="#6b7280" stroke="#374151" stroke-width="1"/>
+  <!-- Top knot taped down -->
+  <path d="M46 24 Q60 20 74 24 Q72 32 60 32 Q48 32 46 24 Z" fill="#374151" stroke="#374151" stroke-width="1"/>
+  <!-- Yellow tape strip over knot -->
+  <rect x="40" y="28" width="40" height="8" rx="2" fill="#fef08a" fill-opacity="0.85" stroke="#d97706" stroke-width="1"/>
+  <!-- Strings spread out side by side — fanning down from the knot -->
+  <!-- String 1 — Red (leftmost) -->
+  <line x1="26" y1="36" x2="26" y2="104" stroke="#ef4444" stroke-width="3" stroke-linecap="round"/>
+  <!-- String 2 — Orange -->
+  <line x1="38" y1="36" x2="38" y2="104" stroke="#f97316" stroke-width="3" stroke-linecap="round"/>
+  <!-- String 3 — Yellow -->
+  <line x1="50" y1="36" x2="50" y2="104" stroke="#f59e0b" stroke-width="3" stroke-linecap="round"/>
+  <!-- String 4 — Green -->
+  <line x1="62" y1="36" x2="62" y2="104" stroke="#22c55e" stroke-width="3" stroke-linecap="round"/>
+  <!-- String 5 — Blue -->
+  <line x1="74" y1="36" x2="74" y2="104" stroke="#3b82f6" stroke-width="3" stroke-linecap="round"/>
+  <!-- String 6 — Purple (rightmost) -->
+  <line x1="86" y1="36" x2="86" y2="104" stroke="#a78bfa" stroke-width="3" stroke-linecap="round"/>
+  <!-- Fan lines from knot to strands (converging at knot) -->
+  <line x1="26" y1="36" x2="60" y2="32" stroke="#374151" stroke-width="0.5" stroke-opacity="0.3" stroke-linecap="round"/>
+  <line x1="86" y1="36" x2="60" y2="32" stroke="#374151" stroke-width="0.5" stroke-opacity="0.3" stroke-linecap="round"/>
+  <!-- Arrow pointing to leftmost strand — this is the "working strand" -->
+  <path d="M10 62 L22 62" stroke="#374151" stroke-width="1.5" stroke-linecap="round" marker-end="url(#arr)"/>
+  <!-- Working strand indicator dot -->
+  <circle cx="26" cy="62" r="4" fill="none" stroke="#374151" stroke-width="1.5" stroke-dasharray="2,1"/>
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2"
+            stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+</svg>

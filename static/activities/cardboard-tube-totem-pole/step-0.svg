@@ -1,0 +1,42 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Tube 1 - red -->
+  <rect x="12" y="56" width="20" height="40" rx="3" fill="#ef4444" stroke="#374151" stroke-width="1.2"/>
+  <ellipse cx="22" cy="56" rx="10" ry="4" fill="#fca5a5" stroke="#374151" stroke-width="1"/>
+
+  <!-- Tube 2 - blue -->
+  <rect x="42" y="56" width="20" height="40" rx="3" fill="#3b82f6" stroke="#374151" stroke-width="1.2"/>
+  <ellipse cx="52" cy="56" rx="10" ry="4" fill="#93c5fd" stroke="#374151" stroke-width="1"/>
+
+  <!-- Tube 3 - yellow -->
+  <rect x="72" y="56" width="20" height="40" rx="3" fill="#eab308" stroke="#374151" stroke-width="1.2"/>
+  <ellipse cx="82" cy="56" rx="10" ry="4" fill="#fde68a" stroke="#374151" stroke-width="1"/>
+
+  <!-- Paintbrush painting tube 1 -->
+  <g transform="translate(18, 40) rotate(-30)">
+    <rect x="0" y="-2" width="20" height="4" rx="1.5" fill="#92400e" stroke="#374151" stroke-width="0.8"/>
+    <rect x="-3" y="-3" width="5" height="6" rx="1" fill="#d1d5db" stroke="#374151" stroke-width="0.6"/>
+    <rect x="-8" y="-3.5" width="6" height="7" rx="1" fill="#ef4444" stroke="#374151" stroke-width="0.6"/>
+  </g>
+
+  <!-- Paint pots -->
+  <g transform="translate(96, 28)">
+    <rect x="0" y="0" width="14" height="14" rx="2" fill="#e5e7eb" stroke="#374151" stroke-width="0.6"/>
+    <rect x="2" y="3" width="10" height="9" rx="1" fill="#ef4444"/>
+  </g>
+  <g transform="translate(96, 46)">
+    <rect x="0" y="0" width="14" height="14" rx="2" fill="#e5e7eb" stroke="#374151" stroke-width="0.6"/>
+    <rect x="2" y="3" width="10" height="9" rx="1" fill="#3b82f6"/>
+  </g>
+  <g transform="translate(96, 64)">
+    <rect x="0" y="0" width="14" height="14" rx="2" fill="#e5e7eb" stroke="#374151" stroke-width="0.6"/>
+    <rect x="2" y="3" width="10" height="9" rx="1" fill="#eab308"/>
+  </g>
+
+  <!-- Paint drips on tubes for wet paint effect -->
+  <path d="M16,70 Q15,74 16,78" fill="none" stroke="#fca5a5" stroke-width="1" stroke-linecap="round"/>
+  <path d="M48,68 Q47,73 48,77" fill="none" stroke="#93c5fd" stroke-width="1" stroke-linecap="round"/>
+  <path d="M78,72 Q77,76 78,80" fill="none" stroke="#fde68a" stroke-width="1" stroke-linecap="round"/>
+</svg>

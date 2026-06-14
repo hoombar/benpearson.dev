@@ -1,0 +1,27 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Ruler (hero element — the tool strings are tied to) -->
+  <rect x="8" y="16" width="104" height="14" rx="2" stroke="#374151" stroke-width="2.5" fill="#fef9c3"/>
+  <!-- Ruler tick marks -->
+  <line x1="22" y1="16" x2="22" y2="22" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+  <line x1="36" y1="16" x2="36" y2="22" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+  <line x1="50" y1="16" x2="50" y2="22" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+  <line x1="64" y1="16" x2="64" y2="22" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+  <line x1="78" y1="16" x2="78" y2="22" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+  <line x1="92" y1="16" x2="92" y2="22" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+  <!-- Three strings tied to ruler with knots -->
+  <circle cx="30" cy="27" r="3.5" stroke="#374151" stroke-width="1.5" fill="#d97706"/>
+  <line x1="30" y1="30" x2="30" y2="108" stroke="#d97706" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="60" cy="27" r="3.5" stroke="#374151" stroke-width="1.5" fill="#d97706"/>
+  <line x1="60" y1="30" x2="60" y2="108" stroke="#d97706" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="90" cy="27" r="3.5" stroke="#374151" stroke-width="1.5" fill="#d97706"/>
+  <line x1="90" y1="30" x2="90" y2="108" stroke="#d97706" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Scissors — blades pointing left toward centre string -->
+  <g transform="translate(100,60) rotate(180)">
+    <line x1="0" y1="0" x2="30" y2="-8" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+    <line x1="0" y1="0" x2="30" y2="8" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="-5" cy="-5" r="5" fill="#e5e7eb" stroke="#374151" stroke-width="1.5"/>
+    <circle cx="-5" cy="5" r="5" fill="#e5e7eb" stroke="#374151" stroke-width="1.5"/>
+  </g>
+  <!-- Dashed cut mark on the centre string -->
+  <line x1="60" y1="44" x2="60" y2="76" stroke="#374151" stroke-width="1.5" stroke-dasharray="4,3" stroke-linecap="round"/>
+</svg>

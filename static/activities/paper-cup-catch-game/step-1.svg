@@ -1,0 +1,43 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Tinfoil ball (hero, being wrapped with string) -->
+  <circle cx="48" cy="54" r="14" fill="#d1d5db" stroke="#374151" stroke-width="1.2"/>
+  <!-- Ball texture -->
+  <path d="M38,50 Q44,44 54,48" fill="none" stroke="#9ca3af" stroke-width="0.6"/>
+  <path d="M40,58 Q48,54 56,60" fill="none" stroke="#9ca3af" stroke-width="0.6"/>
+  <line x1="44" y1="42" x2="46" y2="66" stroke="#9ca3af" stroke-width="0.5"/>
+  <!-- Shine -->
+  <circle cx="42" cy="48" r="2.5" fill="white" opacity="0.4"/>
+
+  <!-- String wrapping around ball -->
+  <path d="M48,40 Q56,42 58,50 Q60,58 52,64 Q44,68 38,62" fill="none" stroke="#92400e" stroke-width="1.2" stroke-linecap="round"/>
+  <!-- String trailing off -->
+  <path d="M38,62 L20,78 L16,92" fill="none" stroke="#92400e" stroke-width="1" stroke-linecap="round"/>
+
+  <!-- Extra foil piece being pressed over string -->
+  <path d="M36,44 Q48,38 58,46 Q54,52 40,50 Z" fill="#e5e7eb" stroke="#374151" stroke-width="0.6" opacity="0.7"/>
+
+  <!-- Hand pressing foil over string -->
+  <g transform="translate(52, 30)">
+    <rect x="0" y="0" width="10" height="16" rx="5" fill="#fcd9b6" stroke="#374151" stroke-width="0.8"/>
+  </g>
+
+  <!-- String ball/spool -->
+  <g transform="translate(86, 60)">
+    <ellipse cx="0" cy="0" rx="12" ry="10" fill="#d4a574" stroke="#374151" stroke-width="0.8"/>
+    <ellipse cx="0" cy="0" rx="4" ry="10" fill="#c4956a" stroke="#374151" stroke-width="0.6"/>
+    <!-- String line from spool to ball -->
+    <path d="M-12,0 Q-30,20 -54,32" fill="none" stroke="#92400e" stroke-width="0.8"/>
+  </g>
+
+  <!-- Scissors nearby -->
+  <g transform="translate(86, 84) rotate(-15)">
+    <path d="M0,0 L10,3" fill="none" stroke="#9ca3af" stroke-width="2" stroke-linecap="round"/>
+    <path d="M0,0 L10,-3" fill="none" stroke="#9ca3af" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="0" cy="0" r="1.2" fill="#374151"/>
+    <ellipse cx="14" cy="4" rx="4" ry="2.5" fill="none" stroke="#ef4444" stroke-width="0.8"/>
+    <ellipse cx="14" cy="-4" rx="4" ry="2.5" fill="none" stroke="#ef4444" stroke-width="0.8"/>
+  </g>
+</svg>

@@ -1,0 +1,36 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Window background (light blue) -->
+  <rect x="0" y="0" width="120" height="120" fill="#dbeafe" stroke="none"/>
+
+  <!-- Bag on window (close-up view) -->
+  <rect x="8" y="8" width="104" height="104" rx="3" fill="#e0f2fe" stroke="#374151" stroke-width="1.5" opacity="0.5"/>
+
+  <!-- Paint spread out in bag with finger trails -->
+  <!-- Background paint spread -->
+  <ellipse cx="40" cy="40" rx="28" ry="22" fill="#ef4444" opacity="0.3" stroke="none"/>
+  <ellipse cx="76" cy="36" rx="24" ry="20" fill="#3b82f6" opacity="0.3" stroke="none"/>
+  <ellipse cx="50" cy="76" rx="26" ry="20" fill="#fbbf24" opacity="0.3" stroke="none"/>
+  <ellipse cx="80" cy="74" rx="20" ry="18" fill="#22c55e" opacity="0.3" stroke="none"/>
+
+  <!-- Mixed colour where paints meet -->
+  <ellipse cx="58" cy="50" rx="14" ry="10" fill="#a855f7" opacity="0.3" stroke="none"/>
+  <ellipse cx="62" cy="72" rx="10" ry="8" fill="#f97316" opacity="0.3" stroke="none"/>
+
+  <!-- Finger trail drawings in the paint -->
+  <!-- Star shape drawn by finger -->
+  <path d="M50,30 L54,42 L66,42 L56,50 L60,62 L50,54 L40,62 L44,50 L34,42 L46,42 Z" fill="none" stroke="#f9fafb" stroke-width="3" stroke-linejoin="round" opacity="0.8"/>
+
+  <!-- Heart shape -->
+  <path d="M80,50 Q80,42 86,42 Q92,42 92,50 Q92,58 80,66 Q68,58 68,50 Q68,42 74,42 Q80,42 80,50 Z" fill="none" stroke="#f9fafb" stroke-width="2.5" opacity="0.7"/>
+
+  <!-- Finger pressing on bag -->
+  <g transform="translate(46, 18)">
+    <ellipse cx="0" cy="0" rx="5" ry="6" fill="#fcd9b6" stroke="#374151" stroke-width="1"/>
+    <!-- Fingernail -->
+    <ellipse cx="0" cy="-4" rx="3.5" ry="2" fill="#fce7d6" stroke="#374151" stroke-width="0.5"/>
+  </g>
+
+  <!-- Tape strips on edges -->
+  <rect x="4" y="6" width="14" height="5" rx="1" fill="#fde68a" stroke="#374151" stroke-width="0.5"/>
+  <rect x="100" y="6" width="14" height="5" rx="1" fill="#fde68a" stroke="#374151" stroke-width="0.5"/>
+</svg>

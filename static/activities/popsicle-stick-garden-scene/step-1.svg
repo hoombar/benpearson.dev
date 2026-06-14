@@ -1,0 +1,41 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Flower 1 - red (complete) -->
+  <rect x="16" y="52" width="2" height="38" fill="#22c55e" stroke="#374151" stroke-width="0.5"/>
+  <circle cx="17" cy="46" r="8" fill="#ef4444" stroke="#374151" stroke-width="0.8"/>
+  <circle cx="17" cy="46" r="3.5" fill="#fbbf24" stroke="#374151" stroke-width="0.5"/>
+  <!-- Leaf -->
+  <ellipse cx="10" cy="68" rx="5" ry="2.5" fill="#22c55e" stroke="#374151" stroke-width="0.5"/>
+
+  <!-- Flower 2 - purple (complete) -->
+  <rect x="40" y="48" width="2" height="42" fill="#22c55e" stroke="#374151" stroke-width="0.5"/>
+  <ellipse cx="35" cy="44" rx="4" ry="5" fill="#a855f7" stroke="#374151" stroke-width="0.6"/>
+  <ellipse cx="47" cy="44" rx="4" ry="5" fill="#a855f7" stroke="#374151" stroke-width="0.6"/>
+  <ellipse cx="41" cy="38" rx="4" ry="5" fill="#a855f7" stroke="#374151" stroke-width="0.6"/>
+  <ellipse cx="38" cy="48" rx="4" ry="5" fill="#a855f7" stroke="#374151" stroke-width="0.6"/>
+  <ellipse cx="44" cy="48" rx="4" ry="5" fill="#a855f7" stroke="#374151" stroke-width="0.6"/>
+  <circle cx="41" cy="44" r="3" fill="#fbbf24" stroke="#374151" stroke-width="0.5"/>
+  <!-- Leaf -->
+  <ellipse cx="48" cy="66" rx="5" ry="2.5" fill="#22c55e" stroke="#374151" stroke-width="0.5"/>
+
+  <!-- Flower 3 - tulip (being cut) -->
+  <rect x="70" y="54" width="2" height="36" fill="#22c55e" stroke="#374151" stroke-width="0.5"/>
+  <path d="M64,54 Q66,38 71,36 Q76,38 78,54 Z" fill="#ec4899" stroke="#374151" stroke-width="0.8"/>
+  <!-- Leaf -->
+  <ellipse cx="78" cy="72" rx="5" ry="2.5" fill="#22c55e" stroke="#374151" stroke-width="0.5"/>
+
+  <!-- Scissors cutting a flower shape -->
+  <g transform="translate(90, 36) rotate(15)">
+    <path d="M0,0 L12,4" fill="none" stroke="#9ca3af" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M0,0 L12,-4" fill="none" stroke="#9ca3af" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="0" cy="0" r="1.5" fill="#374151"/>
+    <ellipse cx="16" cy="5" rx="4.5" ry="3" fill="none" stroke="#ef4444" stroke-width="1"/>
+    <ellipse cx="16" cy="-5" rx="4.5" ry="3" fill="none" stroke="#ef4444" stroke-width="1"/>
+  </g>
+
+  <!-- Cut paper scraps -->
+  <rect x="92" y="62" width="14" height="18" rx="1" fill="#ec4899" stroke="#374151" stroke-width="0.5"/>
+  <rect x="100" y="80" width="12" height="14" rx="1" fill="#22c55e" stroke="#374151" stroke-width="0.5"/>
+</svg>

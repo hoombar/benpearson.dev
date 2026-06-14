@@ -1,0 +1,25 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <!-- Jar with cotton -->
+  <g transform="translate(60, 65)">
+    <rect x="-25" y="-40" width="50" height="80" rx="4" fill="none" stroke="#374151" stroke-width="2.5"/>
+    <path d="M-22,38 Q-10,25 0,38 Q10,25 22,38 L22,40 L-22,40 Z" fill="#f9fafb" stroke="#374151" stroke-width="1.5"/>
+    <!-- Glitter dots -->
+    <circle cx="-15" cy="35" r="1.5" fill="#3b82f6"/>
+    <circle cx="0" cy="30" r="1.5" fill="#a78bfa"/>
+    <circle cx="15" cy="35" r="1.5" fill="#f43f5e"/>
+    <circle cx="-5" cy="37" r="1.5" fill="#3b82f6"/>
+    <circle cx="10" cy="32" r="1.5" fill="#a78bfa"/>
+  </g>
+  <!-- Hand sprinkling (dots + arrows) -->
+  <g transform="translate(60, 15)">
+    <circle cx="-5" cy="0" r="1" fill="#374151"/>
+    <circle cx="5" cy="0" r="1" fill="#374151"/>
+    <circle cx="0" cy="5" r="1" fill="#374151"/>
+    <line x1="0" y1="8" x2="0" y2="20" stroke="#374151" stroke-width="1.5" marker-end="url(#arr)"/>
+  </g>
+</svg>

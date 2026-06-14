@@ -1,0 +1,26 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Wand handle -->
+  <line x1="30" y1="110" x2="30" y2="72" stroke="#c4b5fd" stroke-width="4" stroke-linecap="round"/>
+  <!-- Wand loop with soap film stretched across it -->
+  <circle cx="30" cy="56" r="16" stroke="#c4b5fd" stroke-width="3" fill="none"/>
+  <!-- Soap film inside loop (iridescent) -->
+  <circle cx="30" cy="56" r="15" fill="#dbeafe" opacity="0.5" stroke="none"/>
+  <path d="M18 50 Q30 46 42 50" stroke="#93c5fd" stroke-width="1" fill="none" opacity="0.7"/>
+  <path d="M16 56 Q30 52 44 56" stroke="#c4b5fd" stroke-width="1" fill="none" opacity="0.6"/>
+  <path d="M18 62 Q30 58 42 62" stroke="#86efac" stroke-width="1" fill="none" opacity="0.5"/>
+  <!-- Wrap at loop base -->
+  <circle cx="30" cy="72" r="3.5" fill="#a78bfa" stroke="#374151" stroke-width="1.5"/>
+  <!-- Bubble growing from wand (right side, hero) -->
+  <circle cx="82" cy="54" r="28" stroke="#93c5fd" stroke-width="2" fill="#dbeafe" opacity="0.3"/>
+  <circle cx="82" cy="54" r="28" stroke="#374151" stroke-width="1.5" fill="none"/>
+  <!-- Iridescent bands on bubble -->
+  <path d="M58 46 Q82 38 106 46" stroke="#c4b5fd" stroke-width="1.5" fill="none" opacity="0.7"/>
+  <path d="M56 54 Q82 46 108 54" stroke="#86efac" stroke-width="1.5" fill="none" opacity="0.6"/>
+  <path d="M60 62 Q82 56 104 62" stroke="#fde68a" stroke-width="1.5" fill="none" opacity="0.6"/>
+  <!-- Highlight on bubble -->
+  <ellipse cx="70" cy="42" rx="8" ry="5" fill="white" opacity="0.4"/>
+  <!-- Breath arrows (blowing) -->
+  <line x1="38" y1="50" x2="50" y2="50" stroke="#374151" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="3,2"/>
+  <line x1="38" y1="54" x2="52" y2="54" stroke="#374151" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="3,2"/>
+  <line x1="38" y1="58" x2="50" y2="58" stroke="#374151" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="3,2"/>
+</svg>

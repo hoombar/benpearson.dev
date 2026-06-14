@@ -1,0 +1,27 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Step 0: Construct the Racing Hull -->
+  <!-- Table background -->
+  <rect x="0" y="0" width="120" height="120" fill="#dbeafe" opacity="0.5" />
+
+  <!-- Main Cardboard Hull Base (Top down view) -->
+  <path d="M60,15 L90,40 L90,95 L75,95 L75,70 L45,70 L45,95 L30,95 L30,40 Z" fill="#d97706" stroke="#92400e" stroke-width="2" stroke-linejoin="round" />
+  <!-- Corrugated edges -->
+  <path d="M30,40 L60,15 L90,40" fill="none" stroke="#b45309" stroke-width="1.5" stroke-dasharray="2,2" />
+
+  <!-- Waterproof Tape Wrappings -->
+  <rect x="40" y="45" width="40" height="15" fill="#ffffff" opacity="0.6" stroke="#d1d5db" stroke-width="1" transform="rotate(-10 60 52)" />
+  <rect x="35" y="65" width="50" height="15" fill="#ffffff" opacity="0.6" stroke="#d1d5db" stroke-width="1" transform="rotate(5 60 72)" />
+  <rect x="25" y="75" width="20" height="12" fill="#ffffff" opacity="0.6" stroke="#d1d5db" stroke-width="1" />
+  <rect x="75" y="80" width="20" height="12" fill="#ffffff" opacity="0.6" stroke="#d1d5db" stroke-width="1" transform="rotate(-15 85 86)" />
+
+  <!-- Scissors cutting the rear notch -->
+  <g transform="translate(60, 100) rotate(-90)">
+    <line x1="-10" y1="-4" x2="20" y2="-4" stroke="#374151" stroke-width="2.5" stroke-linecap="round" />
+    <line x1="-10" y1="4" x2="20" y2="4" stroke="#374151" stroke-width="2.5" stroke-linecap="round" />
+    <circle cx="-12" cy="-8" r="6" fill="#ef4444" stroke="#374151" stroke-width="2" />
+    <circle cx="-12" cy="8" r="6" fill="#ef4444" stroke="#374151" stroke-width="2" />
+  </g>
+  
+  <!-- Dashed cut line falling out -->
+  <path d="M45,95 L45,70 L75,70 L75,95" fill="none" stroke="#374151" stroke-width="2" stroke-dasharray="4,4" />
+</svg>

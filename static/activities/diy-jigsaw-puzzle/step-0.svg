@@ -1,0 +1,29 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Paper sheet (hero) -->
+  <rect x="18" y="12" width="84" height="96" rx="3" fill="#f9fafb" stroke="#374151" stroke-width="2"/>
+  <!-- Drawing on paper: sky -->
+  <rect x="22" y="16" width="76" height="30" rx="1" fill="#bfdbfe"/>
+  <!-- Sun -->
+  <circle cx="80" cy="28" r="8" fill="#fde68a" stroke="#374151" stroke-width="1"/>
+  <line x1="80" y1="17" x2="80" y2="14" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="89" y1="20" x2="91" y2="18" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="92" y1="28" x2="95" y2="28" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Ground -->
+  <rect x="22" y="46" width="76" height="58" rx="1" fill="#86efac"/>
+  <!-- House body -->
+  <rect x="36" y="56" width="30" height="28" rx="1" fill="#fde68a" stroke="#374151" stroke-width="1.5"/>
+  <!-- Roof -->
+  <polygon points="34,56 51,40 68,56" fill="#f87171" stroke="#374151" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Door -->
+  <rect x="46" y="70" width="10" height="14" rx="1" fill="#fb923c" stroke="#374151" stroke-width="1"/>
+  <!-- Window -->
+  <rect x="36" y="60" width="10" height="10" rx="1" fill="#bfdbfe" stroke="#374151" stroke-width="1"/>
+  <!-- Cloud -->
+  <ellipse cx="40" cy="24" rx="10" ry="6" fill="white" stroke="#374151" stroke-width="1"/>
+  <ellipse cx="34" cy="26" rx="7" ry="5" fill="white" stroke="#374151" stroke-width="1"/>
+  <ellipse cx="46" cy="26" rx="7" ry="5" fill="white" stroke="#374151" stroke-width="1"/>
+  <!-- Markers nearby -->
+  <rect x="8" y="50" width="6" height="30" rx="2" fill="#f87171" stroke="#374151" stroke-width="1.5"/>
+  <rect x="6" y="50" width="10" height="5" rx="1" fill="#374151"/>
+  <rect x="8" y="76" width="6" height="6" rx="1" fill="#e5e7eb" stroke="#374151" stroke-width="1"/>
+</svg>

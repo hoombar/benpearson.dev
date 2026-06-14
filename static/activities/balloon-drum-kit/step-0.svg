@@ -1,0 +1,28 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2"
+            stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <!-- Balloon body (inflated, colourful) -->
+  <ellipse cx="60" cy="52" rx="30" ry="38" fill="#f97316" stroke="#374151" stroke-width="2.5"/>
+  <!-- Balloon highlight -->
+  <ellipse cx="50" cy="38" rx="9" ry="12" fill="#fdba74" stroke="none"/>
+  <!-- Balloon neck (below body) -->
+  <path d="M54 90 Q57 96 60 98 Q63 96 66 90" fill="#f97316" stroke="#374151" stroke-width="2"/>
+  <!-- Tied knot at neck -->
+  <ellipse cx="60" cy="100" rx="5" ry="4" fill="#ea580c" stroke="#374151" stroke-width="2"/>
+  <!-- Scissors cutting the neck -->
+  <!-- Handle rings -->
+  <circle cx="96" cy="100" r="9" fill="#dbeafe" stroke="#374151" stroke-width="2"/>
+  <circle cx="96" cy="82" r="9" fill="#dbeafe" stroke="#374151" stroke-width="2"/>
+  <!-- Blades (lines from rings toward neck) -->
+  <line x1="88" y1="96" x2="64" y2="100" stroke="#374151" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="88" y1="86" x2="64" y2="96" stroke="#374151" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Cut line indicator (dashed) at neck -->
+  <line x1="54" y1="94" x2="66" y2="94" stroke="#374151" stroke-width="1.5" stroke-dasharray="3,2" stroke-linecap="round"/>
+  <!-- Arrow pointing to cut location -->
+  <path d="M46 80 Q50 90 55 93" stroke="#374151" stroke-width="1.5" fill="none" stroke-linecap="round" marker-end="url(#arr)"/>
+</svg>

@@ -1,0 +1,28 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Paper tube (hero — vertical, in centre) -->
+  <rect x="44" y="40" width="32" height="68" rx="3" stroke="#374151" stroke-width="2.5" fill="#e5e7eb"/>
+  <!-- Tube top — flat end before folding -->
+  <!-- Dashed fold lines showing where to fold each corner -->
+  <line x1="44" y1="40" x2="60" y2="22" stroke="#374151" stroke-width="1.5" stroke-dasharray="4,3" stroke-linecap="round"/>
+  <line x1="76" y1="40" x2="60" y2="22" stroke="#374151" stroke-width="1.5" stroke-dasharray="4,3" stroke-linecap="round"/>
+  <!-- Folded nose cone triangle (the result at the top) -->
+  <path d="M44 40 L60 22 L76 40 Z" stroke="#374151" stroke-width="2.5" fill="#ef4444" stroke-linejoin="round"/>
+  <!-- Finger pinching the top (two curved shapes suggesting thumbs pressing corners) -->
+  <!-- Left thumb/finger pressing corner -->
+  <path d="M36 38 Q40 34 44 38" stroke="#374151" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <!-- Right thumb/finger pressing corner -->
+  <path d="M76 38 Q80 34 84 38" stroke="#374151" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <!-- Tape strip at the nose fold -->
+  <rect x="50" y="36" width="20" height="6" rx="1" stroke="#374151" stroke-width="1" fill="#dbeafe" opacity="0.8"/>
+  <!-- Arrow pointing up at nose showing "seal this end" — reversed so marker-end auto-aligns upward -->
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2"
+            stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <line x1="60" y1="18" x2="60" y2="10" stroke="#374151" stroke-width="1.5" stroke-linecap="round" marker-end="url(#arr)"/>
+  <!-- Open end at bottom (showing it stays open) -->
+  <ellipse cx="60" cy="108" rx="14" ry="4" stroke="#374151" stroke-width="1.5" fill="none" stroke-dasharray="4,3"/>
+</svg>

@@ -1,0 +1,36 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Step 2: Add Food Colouring — drops falling into oobleck -->
+  <!-- Table surface -->
+  <line x1="4" y1="108" x2="116" y2="108" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Large bowl (hero) -->
+  <path d="M10 60 Q10 100 60 100 Q110 100 110 60 Z" stroke="#374151" stroke-width="2" fill="#f9fafb"/>
+  <ellipse cx="60" cy="60" rx="50" ry="10" stroke="#374151" stroke-width="2" fill="#f3f4f6"/>
+  <!-- Thick oobleck in bowl -->
+  <path d="M22 72 Q60 68 98 72 Q98 96 60 96 Q22 96 22 72 Z" fill="#f1f5f9" stroke="#e5e7eb" stroke-width="1"/>
+  <!-- Colour drops landing on oobleck surface -->
+  <circle cx="38" cy="70" r="5" fill="#ef4444" fill-opacity="0.8" stroke="#374151" stroke-width="1"/>
+  <circle cx="62" cy="68" r="5" fill="#3b82f6" fill-opacity="0.8" stroke="#374151" stroke-width="1"/>
+  <circle cx="82" cy="72" r="5" fill="#22c55e" fill-opacity="0.8" stroke="#374151" stroke-width="1"/>
+  <!-- Ripple rings around drops -->
+  <circle cx="38" cy="70" r="8" fill="none" stroke="#ef4444" stroke-width="1" stroke-opacity="0.4"/>
+  <circle cx="62" cy="68" r="8" fill="none" stroke="#3b82f6" stroke-width="1" stroke-opacity="0.4"/>
+  <!-- Food colouring bottle (held above bowl) -->
+  <g transform="translate(60, 26) rotate(175)">
+    <!-- Bottle body -->
+    <rect x="-5" y="-24" width="10" height="28" rx="3" fill="#ef4444" stroke="#374151" stroke-width="1.5"/>
+    <!-- Nozzle/dropper tip -->
+    <rect x="-2" y="-30" width="4" height="8" rx="1" fill="#374151" stroke="#374151" stroke-width="1"/>
+    <!-- Label line -->
+    <line x1="-3" y1="-12" x2="3" y2="-12" stroke="white" stroke-width="1" stroke-linecap="round"/>
+  </g>
+  <!-- Drops falling from bottle tip -->
+  <ellipse cx="56" cy="46" rx="2" ry="3" fill="#ef4444" fill-opacity="0.8" stroke="none"/>
+  <ellipse cx="60" cy="54" rx="1.5" ry="2" fill="#ef4444" fill-opacity="0.7" stroke="none"/>
+  <!-- Second bottle (blue) left side -->
+  <g transform="translate(24, 22) rotate(170)">
+    <rect x="-5" y="-22" width="10" height="26" rx="3" fill="#3b82f6" stroke="#374151" stroke-width="1.5"/>
+    <rect x="-2" y="-28" width="4" height="8" rx="1" fill="#374151" stroke="#374151" stroke-width="1"/>
+  </g>
+  <!-- Blue drops falling -->
+  <ellipse cx="28" cy="42" rx="1.5" ry="2" fill="#3b82f6" fill-opacity="0.8" stroke="none"/>
+</svg>

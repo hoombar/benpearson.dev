@@ -1,0 +1,25 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <rect x="12" y="72" width="96" height="30" rx="4" fill="#f3f4f6" stroke="#374151" stroke-width="1.5"/>
+  <line x1="18" y1="44" x2="56" y2="44" stroke="#374151" stroke-width="4" stroke-linecap="round"/>
+  <line x1="34" y1="36" x2="34" y2="52" stroke="#374151" stroke-width="1.5" stroke-dasharray="3,3"/>
+  <g transform="translate(86,42) rotate(-20)">
+    <line x1="0" y1="0" x2="16" y2="0" stroke="#374151" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="0" y1="0" x2="14" y2="4" stroke="#374151" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="-4" cy="-4" r="4" fill="#dbeafe" stroke="#374151" stroke-width="2"/>
+    <circle cx="-4" cy="4" r="4" fill="#dbeafe" stroke="#374151" stroke-width="2"/>
+  </g>
+  <path d="M58 44 Q64 46 70 50" fill="none" stroke="#374151" stroke-width="1.8" stroke-linecap="round" marker-end="url(#arr)"/>
+  <rect x="52" y="24" width="16" height="8" rx="3" fill="#93c5fd" stroke="#374151" stroke-width="1.5"/>
+  <path d="M54 32 L66 32 L62 44 L58 44 Z" fill="#f9fafb" stroke="#374151" stroke-width="1.5"/>
+  <ellipse cx="60" cy="46" rx="4" ry="3" fill="none" stroke="#374151" stroke-width="1.5"/>
+  <path d="M24 24 Q30 18 36 24" fill="none" stroke="#86efac" stroke-width="2"/>
+  <line x1="24" y1="24" x2="24" y2="30" stroke="#86efac" stroke-width="2" stroke-linecap="round"/>
+  <line x1="36" y1="24" x2="36" y2="30" stroke="#86efac" stroke-width="2" stroke-linecap="round"/>
+  <line x1="22" y1="80" x2="98" y2="80" stroke="#374151" stroke-width="1.2"/>
+  <line x1="22" y1="86" x2="98" y2="86" stroke="#374151" stroke-width="1.2"/>
+</svg>

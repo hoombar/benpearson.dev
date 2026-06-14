@@ -1,0 +1,31 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2"
+            stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <!-- Cardboard tube (horizontal, open at right) — hero -->
+  <!-- Tube body -->
+  <rect x="14" y="44" width="80" height="32" rx="2" fill="#fbbf24" stroke="#374151" stroke-width="2.5"/>
+  <!-- Left end ring (closed) -->
+  <ellipse cx="14" cy="60" rx="6" ry="16" fill="#d97706" stroke="#374151" stroke-width="2"/>
+  <!-- Right end opening (open ellipse) -->
+  <ellipse cx="94" cy="60" rx="6" ry="16" fill="none" stroke="#374151" stroke-width="2"/>
+  <!-- Cardboard corrugation lines -->
+  <line x1="14" y1="52" x2="94" y2="52" stroke="#d97706" stroke-width="1" opacity="0.5"/>
+  <line x1="14" y1="68" x2="94" y2="68" stroke="#d97706" stroke-width="1" opacity="0.5"/>
+  <!-- Foil prism being inserted from right side -->
+  <!-- Prism cross-section (triangle, at right entry) -->
+  <polygon points="94,50 82,60 94,70" fill="#e5e7eb" stroke="#374151" stroke-width="2"/>
+  <!-- Foil shimmer -->
+  <line x1="88" y1="55" x2="88" y2="65" stroke="#f9fafb" stroke-width="1"/>
+  <!-- Arrow: prism sliding into tube -->
+  <path d="M106 60 L100 60" stroke="#374151" stroke-width="2.5" stroke-linecap="round" fill="none" marker-end="url(#arr)"/>
+  <!-- Prism partially inside tube (showing through) -->
+  <polygon points="70,52 46,60 70,68" fill="#d1d5db" stroke="#9ca3af" stroke-width="1" stroke-dasharray="3,2"/>
+  <!-- Tape strips at tube ends -->
+  <rect x="86" y="44" width="8" height="32" rx="1" fill="#fde68a" stroke="#374151" stroke-width="1" opacity="0.7"/>
+  <rect x="16" y="44" width="8" height="32" rx="1" fill="#fde68a" stroke="#374151" stroke-width="1" opacity="0.7"/>
+</svg>

@@ -1,0 +1,57 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Floor -->
+  <rect x="0" y="100" width="120" height="20" fill="#f3f4f6" stroke="none"/>
+  <line x1="0" y1="100" x2="120" y2="100" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Stick figure conductor (centre) -->
+  <!-- Head -->
+  <circle cx="60" cy="28" r="7" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+  <!-- Body -->
+  <line x1="60" y1="35" x2="60" y2="68" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+  <!-- Legs -->
+  <line x1="60" y1="68" x2="52" y2="98" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="60" y1="68" x2="68" y2="98" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Left arm pointing up (conductor baton) -->
+  <line x1="60" y1="44" x2="42" y2="32" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Baton -->
+  <line x1="42" y1="32" x2="34" y2="22" stroke="#d97706" stroke-width="2" stroke-linecap="round"/>
+  <!-- Right arm pointing right -->
+  <line x1="60" y1="44" x2="78" y2="38" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- Blue shaker (left) with motion lines -->
+  <rect x="6" y="52" width="14" height="40" rx="4" fill="#3b82f6" stroke="#374151" stroke-width="1.5"/>
+  <rect x="8" y="46" width="10" height="10" rx="2" fill="#3b82f6" stroke="#374151" stroke-width="1"/>
+  <rect x="9" y="43" width="8" height="5" rx="2" fill="#60a5fa" stroke="#374151" stroke-width="0.8"/>
+  <!-- Motion lines -->
+  <line x1="2" y1="54" x2="2" y2="58" stroke="#374151" stroke-width="0.8" stroke-linecap="round"/>
+  <line x1="0" y1="60" x2="0" y2="66" stroke="#374151" stroke-width="0.8" stroke-linecap="round"/>
+  <line x1="22" y1="56" x2="22" y2="60" stroke="#374151" stroke-width="0.8" stroke-linecap="round"/>
+
+  <!-- Red shaker (centre-right) with motion lines -->
+  <rect x="86" y="48" width="14" height="40" rx="4" fill="#ef4444" stroke="#374151" stroke-width="1.5"/>
+  <rect x="88" y="42" width="10" height="10" rx="2" fill="#ef4444" stroke="#374151" stroke-width="1"/>
+  <rect x="89" y="39" width="8" height="5" rx="2" fill="#f87171" stroke="#374151" stroke-width="0.8"/>
+  <!-- Motion lines -->
+  <line x1="102" y1="50" x2="102" y2="54" stroke="#374151" stroke-width="0.8" stroke-linecap="round"/>
+  <line x1="104" y1="58" x2="104" y2="64" stroke="#374151" stroke-width="0.8" stroke-linecap="round"/>
+  <line x1="84" y1="52" x2="84" y2="56" stroke="#374151" stroke-width="0.8" stroke-linecap="round"/>
+
+  <!-- Green shaker (far right) -->
+  <rect x="108" y="56" width="10" height="32" rx="3" fill="#22c55e" stroke="#374151" stroke-width="1.2"/>
+  <rect x="109" y="50" width="8" height="9" rx="2" fill="#22c55e" stroke="#374151" stroke-width="0.8"/>
+  <rect x="110" y="47" width="6" height="5" rx="2" fill="#4ade80" stroke="#374151" stroke-width="0.6"/>
+
+  <!-- Musical notes floating -->
+  <path d="M30,14 L30,6" fill="none" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+  <circle cx="30" cy="14" r="2.5" fill="#3b82f6" stroke="#374151" stroke-width="0.5"/>
+
+  <path d="M80,10 L80,2 L86,0 L86,6" fill="none" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+  <circle cx="80" cy="10" r="2.5" fill="#ef4444" stroke="#374151" stroke-width="0.5"/>
+  <circle cx="86" cy="6" r="2.5" fill="#ef4444" stroke="#374151" stroke-width="0.5"/>
+
+  <path d="M48,8 L48,2" fill="none" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+  <circle cx="48" cy="8" r="2" fill="#22c55e" stroke="#374151" stroke-width="0.5"/>
+
+  <path d="M100,18 L100,12" fill="none" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+  <circle cx="100" cy="18" r="2" fill="#f59e0b" stroke="#374151" stroke-width="0.5"/>
+</svg>

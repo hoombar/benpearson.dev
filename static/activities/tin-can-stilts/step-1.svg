@@ -1,0 +1,57 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Tin can with string threaded through (hero) -->
+  <g transform="translate(24, 36)">
+    <rect x="0" y="0" width="34" height="44" rx="2" fill="#d1d5db" stroke="#374151" stroke-width="1.5"/>
+    <ellipse cx="17" cy="0" rx="17" ry="5" fill="#e5e7eb" stroke="#374151" stroke-width="1.2"/>
+    <ellipse cx="17" cy="44" rx="17" ry="5" fill="#9ca3af" stroke="#374151" stroke-width="1"/>
+    <!-- Label -->
+    <rect x="0" y="14" width="34" height="16" fill="#3b82f6" stroke="none" opacity="0.3"/>
+    <!-- Holes -->
+    <circle cx="5" cy="40" r="2" fill="#374151" stroke="none"/>
+    <circle cx="29" cy="40" r="2" fill="#374151" stroke="none"/>
+  </g>
+
+  <!-- String going through holes and up as loop -->
+  <path d="M29,76 L29,60 L29,40 L29,20 Q41,6 53,20 L53,40 L53,60 L53,76" fill="none" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- Knot inside can (visible) -->
+  <circle cx="29" cy="76" r="2" fill="#374151" stroke="none"/>
+  <circle cx="53" cy="76" r="2" fill="#374151" stroke="none"/>
+
+  <!-- Hand pulling string to test tension -->
+  <g transform="translate(32, 2)">
+    <rect x="0" y="0" width="12" height="20" rx="6" fill="#fcd9b6" stroke="#374151" stroke-width="0.8"/>
+    <rect x="14" y="2" width="10" height="18" rx="5" fill="#fcd9b6" stroke="#374151" stroke-width="0.8"/>
+  </g>
+
+  <!-- String ball/spool -->
+  <g transform="translate(80, 44)">
+    <circle cx="14" cy="14" r="14" fill="#f5f5f4" stroke="#374151" stroke-width="1"/>
+    <circle cx="14" cy="14" r="4" fill="#d1d5db" stroke="#374151" stroke-width="0.5"/>
+    <!-- Wrapped string texture -->
+    <circle cx="14" cy="14" r="8" fill="none" stroke="#d1d5db" stroke-width="0.5"/>
+    <circle cx="14" cy="14" r="11" fill="none" stroke="#d1d5db" stroke-width="0.5"/>
+  </g>
+
+  <!-- Scissors -->
+  <g transform="translate(82, 78)">
+    <path d="M0,0 L12,4" fill="none" stroke="#9ca3af" stroke-width="2" stroke-linecap="round"/>
+    <path d="M0,0 L12,-4" fill="none" stroke="#9ca3af" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="0" cy="0" r="1.2" fill="#374151"/>
+    <ellipse cx="-4" cy="2.5" rx="4" ry="2.5" fill="none" stroke="#ef4444" stroke-width="1.2"/>
+    <ellipse cx="-4" cy="-2.5" rx="4" ry="2.5" fill="none" stroke="#ef4444" stroke-width="1.2"/>
+  </g>
+
+  <!-- Arrow showing string loop height -->
+  <defs>
+    <marker id="arr" viewBox="0 0 6 6" refX="5" refY="3" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#374151"/>
+    </marker>
+  </defs>
+  <line x1="16" y1="14" x2="16" y2="74" stroke="#374151" stroke-width="0.6" stroke-dasharray="2,2"/>
+  <line x1="14" y1="14" x2="14" y2="74" stroke="#374151" stroke-width="0.6" marker-end="url(#arr)"/>
+  <line x1="18" y1="74" x2="18" y2="14" stroke="#374151" stroke-width="0.6" marker-end="url(#arr)"/>
+</svg>

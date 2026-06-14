@@ -1,0 +1,51 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Rainbow plate with streamers being attached -->
+  <g transform="translate(10, 4)">
+    <!-- Half plate -->
+    <path d="M0,36 A50,50 0 0,1 100,36 L0,36 Z" fill="#ef4444" stroke="#374151" stroke-width="1.5"/>
+    <path d="M8,36 A42,42 0 0,1 92,36 L8,36 Z" fill="#f97316" stroke="none"/>
+    <path d="M16,36 A34,34 0 0,1 84,36 L16,36 Z" fill="#fbbf24" stroke="none"/>
+    <path d="M24,36 A26,26 0 0,1 76,36 L24,36 Z" fill="#22c55e" stroke="none"/>
+    <path d="M32,36 A18,18 0 0,1 68,36 L32,36 Z" fill="#3b82f6" stroke="none"/>
+    <path d="M40,36 A10,10 0 0,1 60,36 L40,36 Z" fill="#8b5cf6" stroke="none"/>
+    <path d="M0,36 A50,50 0 0,1 100,36 L0,36 Z" fill="none" stroke="#374151" stroke-width="1.5"/>
+
+    <!-- Clouds at ends -->
+    <circle cx="4" cy="38" r="5" fill="white" stroke="#374151" stroke-width="0.5"/>
+    <circle cx="12" cy="36" r="6" fill="white" stroke="#374151" stroke-width="0.5"/>
+    <circle cx="88" cy="38" r="5" fill="white" stroke="#374151" stroke-width="0.5"/>
+    <circle cx="96" cy="36" r="6" fill="white" stroke="#374151" stroke-width="0.5"/>
+  </g>
+
+  <!-- Tissue paper streamers hanging down -->
+  <rect x="18" y="40" width="6" height="50" rx="1" fill="#ef4444" stroke="none" opacity="0.7"/>
+  <rect x="28" y="40" width="6" height="52" rx="1" fill="#f97316" stroke="none" opacity="0.7"/>
+  <rect x="38" y="40" width="6" height="48" rx="1" fill="#fbbf24" stroke="none" opacity="0.7"/>
+  <rect x="48" y="40" width="6" height="54" rx="1" fill="#22c55e" stroke="none" opacity="0.7"/>
+  <rect x="58" y="40" width="6" height="50" rx="1" fill="#3b82f6" stroke="none" opacity="0.7"/>
+  <rect x="68" y="40" width="6" height="46" rx="1" fill="#8b5cf6" stroke="none" opacity="0.7"/>
+  <rect x="78" y="40" width="6" height="52" rx="1" fill="#ef4444" stroke="none" opacity="0.5"/>
+  <rect x="88" y="40" width="6" height="48" rx="1" fill="#f97316" stroke="none" opacity="0.5"/>
+
+  <!-- Hand gluing streamer -->
+  <g transform="translate(82, 32)">
+    <rect x="0" y="0" width="12" height="20" rx="6" fill="#fcd9b6" stroke="#374151" stroke-width="0.8"/>
+    <rect x="14" y="2" width="10" height="18" rx="5" fill="#fcd9b6" stroke="#374151" stroke-width="0.8"/>
+  </g>
+
+  <!-- Scissors and tissue paper strips -->
+  <g transform="translate(96, 62)">
+    <path d="M0,0 L10,4" fill="none" stroke="#9ca3af" stroke-width="2" stroke-linecap="round"/>
+    <path d="M0,0 L10,-4" fill="none" stroke="#9ca3af" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="0" cy="0" r="1" fill="#374151"/>
+    <ellipse cx="-3" cy="2" rx="3" ry="2" fill="none" stroke="#ef4444" stroke-width="1"/>
+    <ellipse cx="-3" cy="-2" rx="3" ry="2" fill="none" stroke="#ef4444" stroke-width="1"/>
+  </g>
+
+  <!-- Extra tissue strips -->
+  <rect x="96" y="74" width="16" height="4" rx="1" fill="#22c55e" stroke="none" opacity="0.5"/>
+  <rect x="98" y="82" width="14" height="4" rx="1" fill="#3b82f6" stroke="none" opacity="0.5"/>
+</svg>

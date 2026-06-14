@@ -1,0 +1,29 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <!-- Box body top section zoomed in -->
+  <path d="M10 50 L90 50 L110 70 L30 70 Z" fill="#fef3c7" stroke="#374151" stroke-width="2" stroke-linejoin="round"/>
+  
+  <!-- Holes already poked -->
+  <circle cx="30" cy="55" r="2" fill="#1f2937"/>
+  <circle cx="50" cy="62" r="2" fill="#1f2937"/>
+  <circle cx="70" cy="58" r="2" fill="#1f2937"/>
+  
+  <!-- Imaginary lines linking them faintly -->
+  <path d="M30 55 L50 62 L70 58 L90 65" fill="none" stroke="#9ca3af" stroke-width="1" stroke-dasharray="2,2"/>
+  
+  <!-- Push pin making the next hole -->
+  <g transform="translate(90, 65) rotate(-15)">
+    <!-- Metal spike -->
+    <line x1="0" y1="0" x2="0" y2="-15" stroke="#9ca3af" stroke-width="2" stroke-linecap="round"/>
+    <!-- Plastic head -->
+    <path d="M-6 -15 L6 -15 L4 -25 L-4 -25 Z" fill="#ef4444" stroke="#374151" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M-4 -25 Q0 -30 4 -25 Z" fill="#ef4444" stroke="#374151" stroke-width="2"/>
+  </g>
+  
+  <!-- Action lines -->
+  <path d="M98 35 Q102 45 92 55" fill="none" stroke="#374151" stroke-width="2" marker-end="url(#arr)" stroke-linecap="round"/>
+</svg>

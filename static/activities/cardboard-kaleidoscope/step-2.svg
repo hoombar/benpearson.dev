@@ -1,0 +1,38 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2"
+            stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <!-- Cardboard tube (horizontal) -->
+  <rect x="20" y="48" width="80" height="28" rx="2" fill="#fbbf24" stroke="#374151" stroke-width="2.5"/>
+  <ellipse cx="20" cy="62" rx="5" ry="14" fill="#d97706" stroke="#374151" stroke-width="2"/>
+  <!-- Right end: small cardboard disc being placed -->
+  <!-- Disc (the viewing end cap) -->
+  <ellipse cx="100" cy="62" rx="5" ry="14" fill="#fbbf24" stroke="#374151" stroke-width="2.5"/>
+  <!-- Tiny pinhole in centre of disc -->
+  <circle cx="100" cy="62" r="2.5" fill="#374151" stroke="#374151" stroke-width="1"/>
+  <!-- Tape being applied around disc edge -->
+  <path d="M95 48 Q104 44 105 48" fill="none" stroke="#fde68a" stroke-width="3" stroke-linecap="round"/>
+  <path d="M95 76 Q104 80 105 76" fill="none" stroke="#fde68a" stroke-width="3" stroke-linecap="round"/>
+  <!-- Pen tip piercing the hole -->
+  <line x1="100" y1="28" x2="100" y2="60" stroke="#374151" stroke-width="2.5" stroke-linecap="round"/>
+  <polygon points="100,60 97,54 103,54" fill="#374151"/>
+  <!-- Arrow showing pen piercing -->
+  <path d="M110 40 L104 50" stroke="#374151" stroke-width="1.5" stroke-linecap="round" fill="none" marker-end="url(#arr)"/>
+  <!-- Cardboard disc blank (being cut) — top left -->
+  <circle cx="32" cy="28" r="14" fill="#fbbf24" stroke="#374151" stroke-width="2"/>
+  <!-- Dashed circles showing size matching tube -->
+  <circle cx="32" cy="28" r="10" fill="none" stroke="#374151" stroke-width="1" stroke-dasharray="3,2"/>
+  <!-- Scissors near disc -->
+  <g transform="translate(50, 22) rotate(-30)">
+    <line x1="0" y1="0" x2="14" y2="0" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+    <line x1="0" y1="0" x2="12" y2="4" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="-4" cy="-4" r="4" fill="#e5e7eb" stroke="#374151" stroke-width="1.5"/>
+    <circle cx="-4" cy="4" r="4" fill="#e5e7eb" stroke="#374151" stroke-width="1.5"/>
+  </g>
+  <!-- Arrow from disc to tube end -->
+  <path d="M44 28 Q70 28 93 56" stroke="#374151" stroke-width="2" stroke-linecap="round" fill="none" marker-end="url(#arr)"/>
+</svg>

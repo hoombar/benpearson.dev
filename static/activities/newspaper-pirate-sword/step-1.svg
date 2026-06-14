@@ -1,0 +1,43 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Newspaper tube (hero) -->
+  <line x1="8" y1="54" x2="104" y2="54" stroke="#e5e7eb" stroke-width="8" stroke-linecap="round"/>
+  <line x1="8" y1="54" x2="104" y2="54" stroke="#374151" stroke-width="1"/>
+
+  <!-- Flattened blade section at tip -->
+  <rect x="80" y="50" width="24" height="8" rx="1" fill="#e5e7eb" stroke="#374151" stroke-width="0.8"/>
+  <!-- Pointed tip cut -->
+  <polygon points="104,50 112,54 104,58" fill="#e5e7eb" stroke="#374151" stroke-width="0.8"/>
+
+  <!-- Cut line for tip shaping -->
+  <path d="M100,50 L112,54 L100,58" fill="none" stroke="#ef4444" stroke-width="0.6" stroke-dasharray="2,2"/>
+
+  <!-- Tape wrapping on blade section -->
+  <rect x="60" y="49" width="6" height="10" rx="1" fill="#d1fae5" stroke="#374151" stroke-width="0.3"/>
+  <rect x="70" y="49" width="6" height="10" rx="1" fill="#d1fae5" stroke="#374151" stroke-width="0.3"/>
+  <rect x="80" y="49" width="6" height="10" rx="1" fill="#d1fae5" stroke="#374151" stroke-width="0.3"/>
+  <rect x="90" y="49" width="6" height="10" rx="1" fill="#d1fae5" stroke="#374151" stroke-width="0.3"/>
+
+  <!-- Scissors cutting tip -->
+  <g transform="translate(104, 36) rotate(20)">
+    <path d="M0,0 L14,5" fill="none" stroke="#9ca3af" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M0,0 L14,-5" fill="none" stroke="#9ca3af" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="0" cy="0" r="1.5" fill="#374151"/>
+    <ellipse cx="18" cy="6" rx="5" ry="3.5" fill="none" stroke="#ef4444" stroke-width="1.2"/>
+    <ellipse cx="18" cy="-6" rx="5" ry="3.5" fill="none" stroke="#ef4444" stroke-width="1.2"/>
+  </g>
+
+  <!-- Labels showing blade vs handle -->
+  <path d="M40,38 L40,48" fill="none" stroke="#374151" stroke-width="0.5" stroke-dasharray="2,2"/>
+  <line x1="40" y1="38" x2="90" y2="38" stroke="#374151" stroke-width="0.5"/>
+  <line x1="8" y1="70" x2="38" y2="70" stroke="#374151" stroke-width="0.5"/>
+  <path d="M40,60 L40,70" fill="none" stroke="#374151" stroke-width="0.5" stroke-dasharray="2,2"/>
+
+  <!-- Tape roll -->
+  <g transform="translate(8, 74)">
+    <ellipse cx="10" cy="10" rx="10" ry="10" fill="#d1fae5" stroke="#374151" stroke-width="0.8"/>
+    <ellipse cx="10" cy="10" rx="4" ry="4" fill="#fef3c7" stroke="#374151" stroke-width="0.4"/>
+  </g>
+</svg>

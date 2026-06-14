@@ -1,0 +1,29 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2"
+            stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <!-- Tray at bottom to receive ice block -->
+  <rect x="10" y="90" width="100" height="20" rx="3" stroke="#374151" stroke-width="2" fill="#f3f4f6"/>
+  <rect x="10" y="90" width="100" height="6" rx="3" stroke="#374151" stroke-width="1.5" fill="#e5e7eb"/>
+  <!-- Ice block (blue tinted, solid) falling/sliding out -->
+  <rect x="30" y="52" width="60" height="40" rx="4" stroke="#374151" stroke-width="2.5" fill="#dbeafe"/>
+  <!-- Ice internal texture / translucent lines -->
+  <line x1="36" y1="56" x2="36" y2="88" stroke="#93c5fd" stroke-width="1" opacity="0.7"/>
+  <line x1="50" y1="54" x2="50" y2="90" stroke="#93c5fd" stroke-width="1" opacity="0.5"/>
+  <line x1="70" y1="54" x2="70" y2="90" stroke="#93c5fd" stroke-width="1" opacity="0.5"/>
+  <line x1="84" y1="56" x2="84" y2="88" stroke="#93c5fd" stroke-width="1" opacity="0.7"/>
+  <!-- Coins visible inside ice -->
+  <ellipse cx="48" cy="68" rx="7" ry="5" fill="#fbbf24" stroke="#d97706" stroke-width="1.5" opacity="0.85"/>
+  <ellipse cx="72" cy="76" rx="7" ry="5" fill="#fbbf24" stroke="#d97706" stroke-width="1.5" opacity="0.85"/>
+  <ellipse cx="60" cy="60" rx="6" ry="4" fill="#fbbf24" stroke="#d97706" stroke-width="1.5" opacity="0.7"/>
+  <!-- Container above (upside down, being tipped) -->
+  <rect x="34" y="14" width="52" height="34" rx="4" stroke="#374151" stroke-width="2" fill="none" transform="rotate(180 60 31)"/>
+  <!-- Rotation arc arrow showing the flipping motion -->
+  <path d="M22 38 Q14 22 28 14" stroke="#374151" stroke-width="2" fill="none" stroke-linecap="round" marker-end="url(#arr)"/>
+  <!-- Downward motion arrow from ice block to tray -->
+  <line x1="60" y1="94" x2="60" y2="100" stroke="#374151" stroke-width="1.5" stroke-dasharray="3,3" stroke-linecap="round"/>
+</svg>

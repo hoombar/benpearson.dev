@@ -1,0 +1,77 @@
+{{ define "main" }}
+  <section class="activities-section">
+    <section class="page-heading activities-heading">
+      <p class="eyebrow">{{ len .Pages }} ideas</p>
+      <h1>At Home Activities</h1>
+      <p>Search by title, materials, age, duration, or whether an activity is indoor or outdoor.</p>
+    </section>
+
+    <section class="activity-controls" aria-label="Activity filters">
+      <div class="search-control">
+        <label for="activity-search">Search activities</label>
+        <input id="activity-search" type="search" placeholder="Try paper, science, outdoor, tape..." data-activity-search>
+      </div>
+
+      <div class="filter-grid">
+        <fieldset class="range-filter">
+          <legend>Age range</legend>
+          <div class="range-values" data-age-label>Ages 3-12</div>
+          <label for="age-min">Youngest child</label>
+          <input id="age-min" type="range" min="3" max="12" value="3" data-age-min>
+          <label for="age-max">Oldest child</label>
+          <input id="age-max" type="range" min="3" max="12" value="12" data-age-max>
+        </fieldset>
+
+        <fieldset class="range-filter">
+          <legend>Time needed</legend>
+          <div class="range-values" data-duration-label>Any duration</div>
+          <label for="duration-min">Minimum hours</label>
+          <input id="duration-min" type="range" min="0" max="2" value="0" data-duration-min>
+          <label for="duration-max">Maximum hours</label>
+          <input id="duration-max" type="range" min="0" max="2" value="2" data-duration-max>
+        </fieldset>
+
+        <fieldset class="location-filter">
+          <legend>Where</legend>
+          <label><input type="checkbox" checked data-indoor-filter> Indoor</label>
+          <label><input type="checkbox" checked data-outdoor-filter> Outdoor</label>
+        </fieldset>
+      </div>
+
+      <p class="result-count" data-activity-count>{{ len .Pages }} activities</p>
+    </section>
+
+    <div class="activity-grid" data-activity-list>
+      {{ range .Pages.ByTitle }}
+        {{ $materials := slice }}
+        {{ range .Params.materials }}{{ $materials = $materials | append .name }}{{ end }}
+        {{ $location := cond .Params.is_outdoor "outdoor" "indoor" }}
+        <article
+          class="activity-card"
+          data-activity-card
+          data-search-text="{{ printf "%s %s %s %s" .Title (.Params.summary | default "") (delimit $materials " ") $location | plainify | lower }}"
+          data-age-min="{{ .Params.min_age_months }}"
+          data-age-max="{{ .Params.max_age_months }}"
+          data-duration-min="{{ .Params.duration_hours_min }}"
+          data-duration-max="{{ .Params.duration_hours_max }}"
+          data-location="{{ $location }}"
+        >
+          <a href="{{ .RelPermalink }}">
+            {{ with index .Params.steps 0 }}
+              <img class="activity-thumb" src="{{ .svg_path }}" alt="">
+            {{ end }}
+            <div>
+              <h2>{{ .Title }}</h2>
+              {{ with .Params.summary }}<p>{{ . }}</p>{{ end }}
+              <div class="meta-row">
+                <span>{{ partial "activity-age-label.html" . }}</span>
+                <span>{{ partial "activity-duration-label.html" . }}</span>
+                {{ if .Params.is_outdoor }}<span>Outdoor</span>{{ else }}<span>Indoor</span>{{ end }}
+              </div>
+            </div>
+          </a>
+        </article>
+      {{ end }}
+    </div>
+  </section>
+{{ end }}

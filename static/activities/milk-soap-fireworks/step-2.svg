@@ -1,0 +1,41 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2"
+            stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <!-- Step 2: Coat Cotton Wool in Soap — dipping into soap bowl -->
+  <!-- Table surface -->
+  <line x1="4" y1="110" x2="116" y2="110" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Small bowl of washing-up liquid (hero, right side) -->
+  <path d="M60 76 Q60 104 90 104 Q120 104 120 76 Z" stroke="#374151" stroke-width="2" fill="#f0fdf4"/>
+  <ellipse cx="90" cy="76" rx="30" ry="8" stroke="#374151" stroke-width="2" fill="#d1fae5"/>
+  <!-- Soap surface (light green / foamy) -->
+  <ellipse cx="90" cy="76" rx="26" ry="5" fill="#6ee7b7" fill-opacity="0.5" stroke="none"/>
+  <!-- Soap bubbles on surface -->
+  <circle cx="82" cy="75" r="2" fill="none" stroke="#374151" stroke-width="1" fill-opacity="0"/>
+  <circle cx="90" cy="74" r="2.5" fill="none" stroke="#374151" stroke-width="1"/>
+  <circle cx="98" cy="75" r="2" fill="none" stroke="#374151" stroke-width="1"/>
+  <!-- Cotton wool puff (hero, being dipped) -->
+  <!-- Fluffy cloud shape for cotton wool -->
+  <path d="M18 50 Q22 42 30 44 Q30 36 40 36 Q50 34 52 44 Q60 42 62 50 Q64 58 56 60 Q52 66 44 64 Q36 68 28 64 Q18 62 18 54 Z"
+        fill="white" stroke="#374151" stroke-width="1.5"/>
+  <!-- Cotton wool texture (fluffy bumps) -->
+  <path d="M22 50 Q24 46 28 48 Q30 44 34 46" stroke="#e5e7eb" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M38 38 Q42 36 46 40 Q50 38 54 42" stroke="#e5e7eb" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <!-- Soap coating the bottom of cotton wool (dipped tip) -->
+  <path d="M28 64 Q40 72 52 64" stroke="#6ee7b7" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- Drip of soap hanging from cotton wool -->
+  <path d="M40 66 Q40 72 40 78" stroke="#6ee7b7" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <ellipse cx="40" cy="80" rx="2.5" ry="3" fill="#6ee7b7" fill-opacity="0.8" stroke="none"/>
+  <!-- Arrow showing dipping action (down into soap bowl) -->
+  <line x1="52" y1="66" x2="70" y2="74" stroke="#374151" stroke-width="1.5" stroke-linecap="round" marker-end="url(#arr)"/>
+  <!-- Washing-up liquid bottle behind bowl -->
+  <rect x="104" y="72" width="14" height="36" rx="4" fill="#22c55e" stroke="#374151" stroke-width="1.5"/>
+  <rect x="107" y="64" width="8" height="12" rx="2" fill="#22c55e" stroke="#374151" stroke-width="1.5"/>
+  <rect x="106" y="62" width="10" height="6" rx="1" fill="#16a34a" stroke="#374151" stroke-width="1"/>
+  <line x1="107" y1="80" x2="115" y2="80" stroke="white" stroke-width="1" stroke-linecap="round"/>
+  <line x1="107" y1="86" x2="115" y2="86" stroke="white" stroke-width="1" stroke-linecap="round"/>
+</svg>

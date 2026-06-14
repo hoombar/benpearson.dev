@@ -1,0 +1,47 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Clothespin with cotton ball - hero, centre -->
+  <g transform="translate(38, 18)">
+    <!-- Clothespin body - two halves -->
+    <rect x="0" y="0" width="6" height="40" rx="1.5" fill="#fbbf24" stroke="#374151" stroke-width="1"/>
+    <rect x="8" y="0" width="6" height="40" rx="1.5" fill="#fbbf24" stroke="#374151" stroke-width="1"/>
+    <!-- Spring -->
+    <circle cx="7" cy="14" r="3" fill="#d1d5db" stroke="#374151" stroke-width="0.8"/>
+    <!-- Cotton ball clipped in jaws -->
+    <circle cx="7" cy="48" r="10" fill="#f9fafb" stroke="#374151" stroke-width="1"/>
+    <!-- Cotton texture -->
+    <circle cx="4" cy="46" r="3" fill="#f3f4f6" stroke="#e5e7eb" stroke-width="0.5"/>
+    <circle cx="10" cy="45" r="3.5" fill="#f3f4f6" stroke="#e5e7eb" stroke-width="0.5"/>
+    <circle cx="7" cy="51" r="3" fill="#f3f4f6" stroke="#e5e7eb" stroke-width="0.5"/>
+  </g>
+
+  <!-- Second clothespin + cotton ball being assembled -->
+  <g transform="translate(78, 30)">
+    <!-- Clothespin open -->
+    <rect x="0" y="0" width="5" height="32" rx="1.5" fill="#fbbf24" stroke="#374151" stroke-width="0.8" transform="rotate(-8 2.5 16)"/>
+    <rect x="8" y="0" width="5" height="32" rx="1.5" fill="#fbbf24" stroke="#374151" stroke-width="0.8" transform="rotate(8 10.5 16)"/>
+    <!-- Spring -->
+    <circle cx="6.5" cy="12" r="2.5" fill="#d1d5db" stroke="#374151" stroke-width="0.6"/>
+  </g>
+
+  <!-- Loose cotton ball nearby -->
+  <circle cx="96" cy="80" r="9" fill="#f9fafb" stroke="#374151" stroke-width="0.8"/>
+  <circle cx="93" cy="78" r="3" fill="#f3f4f6" stroke="#e5e7eb" stroke-width="0.4"/>
+  <circle cx="99" cy="77" r="3.5" fill="#f3f4f6" stroke="#e5e7eb" stroke-width="0.4"/>
+  <circle cx="96" cy="83" r="3" fill="#f3f4f6" stroke="#e5e7eb" stroke-width="0.4"/>
+
+  <!-- Arrow showing cotton ball going into clothespin -->
+  <defs>
+    <marker id="arr" viewBox="0 0 6 6" refX="5" refY="3" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#374151"/>
+    </marker>
+  </defs>
+  <path d="M92,70 Q88,62 86,56" fill="none" stroke="#374151" stroke-width="1" stroke-dasharray="2,2" marker-end="url(#arr)"/>
+
+  <!-- More loose cotton balls -->
+  <circle cx="20" cy="82" r="7" fill="#f9fafb" stroke="#374151" stroke-width="0.8"/>
+  <circle cx="18" cy="80" r="2.5" fill="#f3f4f6" stroke="#e5e7eb" stroke-width="0.4"/>
+  <circle cx="22" cy="84" r="2.5" fill="#f3f4f6" stroke="#e5e7eb" stroke-width="0.4"/>
+</svg>

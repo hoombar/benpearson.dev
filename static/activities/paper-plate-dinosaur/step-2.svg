@@ -1,0 +1,40 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Dinosaur body with plates -->
+  <path d="M18,62 Q18,40 52,40 Q86,40 86,62 Z" fill="#22c55e" stroke="#374151" stroke-width="1.2"/>
+  <!-- Back plates -->
+  <polygon points="30,40 27,30 33,30" fill="#f97316" stroke="#374151" stroke-width="0.6"/>
+  <polygon points="42,40 39,28 45,28" fill="#16a34a" stroke="#374151" stroke-width="0.6"/>
+  <polygon points="54,40 51,26 57,26" fill="#f97316" stroke="#374151" stroke-width="0.6"/>
+  <polygon points="66,40 63,28 69,28" fill="#16a34a" stroke="#374151" stroke-width="0.6"/>
+  <polygon points="78,40 75,30 81,30" fill="#f97316" stroke="#374151" stroke-width="0.6"/>
+
+  <!-- Four legs hanging down (hero detail) -->
+  <rect x="26" y="62" width="8" height="18" rx="2" fill="#22c55e" stroke="#374151" stroke-width="0.8"/>
+  <rect x="38" y="62" width="8" height="18" rx="2" fill="#22c55e" stroke="#374151" stroke-width="0.8"/>
+  <rect x="58" y="62" width="8" height="18" rx="2" fill="#22c55e" stroke="#374151" stroke-width="0.8"/>
+  <rect x="70" y="62" width="8" height="18" rx="2" fill="#22c55e" stroke="#374151" stroke-width="0.8"/>
+  <!-- Feet -->
+  <ellipse cx="30" cy="80" rx="5" ry="2" fill="#22c55e" stroke="#374151" stroke-width="0.5"/>
+  <ellipse cx="42" cy="80" rx="5" ry="2" fill="#22c55e" stroke="#374151" stroke-width="0.5"/>
+  <ellipse cx="62" cy="80" rx="5" ry="2" fill="#22c55e" stroke="#374151" stroke-width="0.5"/>
+  <ellipse cx="74" cy="80" rx="5" ry="2" fill="#22c55e" stroke="#374151" stroke-width="0.5"/>
+
+  <!-- Tail -->
+  <polygon points="86,46 108,36 86,56" fill="#22c55e" stroke="#374151" stroke-width="0.8"/>
+
+  <!-- Tab showing fold technique -->
+  <g transform="translate(92, 66)">
+    <rect x="0" y="0" width="8" height="14" rx="1" fill="#22c55e" stroke="#374151" stroke-width="0.6"/>
+    <line x1="0" y1="4" x2="8" y2="4" stroke="#374151" stroke-width="0.4" stroke-dasharray="2,2"/>
+    <!-- Arrow showing fold -->
+    <defs>
+      <marker id="arr" viewBox="0 0 6 6" refX="5" refY="3" markerWidth="4" markerHeight="4" orient="auto">
+        <path d="M0,0 L6,3 L0,6 Z" fill="#374151"/>
+      </marker>
+    </defs>
+    <path d="M12,2 Q14,4 12,6" fill="none" stroke="#374151" stroke-width="0.6" stroke-dasharray="1,1" marker-end="url(#arr)"/>
+  </g>
+</svg>

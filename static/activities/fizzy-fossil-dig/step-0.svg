@@ -1,0 +1,55 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2"
+            stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <!-- Bowl (hero, centre-bottom) -->
+  <line x1="20" y1="72" x2="100" y2="72" stroke="#374151" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M20 72 Q20 110 60 110 Q100 110 100 72" stroke="#374151" stroke-width="2.5" fill="#f3f4f6"/>
+  <!-- Dough inside bowl -->
+  <ellipse cx="60" cy="90" rx="26" ry="10" fill="#d97706" stroke="#374151" stroke-width="1.5" opacity="0.6"/>
+
+  <!-- Baking soda box (top-left) -->
+  <rect x="6" y="10" width="22" height="28" rx="2" fill="#f9fafb" stroke="#374151" stroke-width="2"/>
+  <line x1="10" y1="18" x2="24" y2="18" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+  <line x1="12" y1="22" x2="22" y2="22" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+  <line x1="10" y1="26" x2="24" y2="26" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+
+  <!-- Arrow from baking soda to bowl -->
+  <path d="M17 40 Q20 54 30 66" stroke="#374151" stroke-width="1.5" fill="none" stroke-linecap="round"
+        marker-end="url(#arr)"/>
+
+  <!-- Water drop (top-centre) -->
+  <path d="M58 4 Q66 16 66 24 Q66 34 58 34 Q50 34 50 24 Q50 16 58 4" fill="#93c5fd" stroke="#374151" stroke-width="2"/>
+
+  <!-- Arrow from water to bowl -->
+  <line x1="58" y1="36" x2="58" y2="64" stroke="#374151" stroke-width="1.5" stroke-linecap="round"
+        marker-end="url(#arr)"/>
+
+  <!-- Food colouring bottle (top-right) -->
+  <path d="M98,8 L98,12 L104,12 L104,38 Q104,42 100,42 L96,42 Q92,42 92,38 L92,12 L98,12"
+        fill="#f9fafb" stroke="#374151" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Coloured cap -->
+  <rect x="93" y="6" width="10" height="8" rx="2" fill="#22c55e" stroke="#374151" stroke-width="1.5"/>
+  <!-- Colour drops falling -->
+  <line x1="98" y1="44" x2="98" y2="58" stroke="#22c55e" stroke-width="1.5" stroke-dasharray="3,3" stroke-linecap="round"/>
+
+  <!-- Arrow from colouring to bowl -->
+  <path d="M98 60 Q94 64 88 68" stroke="#374151" stroke-width="1.5" fill="none" stroke-linecap="round"
+        marker-end="url(#arr)"/>
+
+  <!-- Spoon in bowl -->
+  <line x1="78" y1="50" x2="68" y2="78" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+  <ellipse cx="65" cy="82" rx="7" ry="5" fill="#e5e7eb" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Stirring arc -->
+  <path d="M40 82 Q60 70 80 82" stroke="#374151" stroke-width="1.5" fill="none" stroke-linecap="round"
+        marker-end="url(#arr)"/>
+
+  <!-- Table edge -->
+  <line x1="0" y1="114" x2="120" y2="114" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

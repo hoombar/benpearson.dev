@@ -1,0 +1,20 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Box -->
+  <rect x="30" y="40" width="60" height="60" rx="2" stroke="#374151" stroke-width="2.5" fill="#d97706"/>
+  <!-- Box top hole (open) -->
+  <rect x="30" y="30" width="60" height="20" rx="1" stroke="#374151" stroke-width="2.5" fill="#92400e"/>
+  
+  <!-- Flap falling off -->
+  <path d="M90 30 L110 50 L80 60 L60 40 Z" fill="#fbbf24" stroke="#374151" stroke-width="2"/>
+  
+  <!-- Dashed line for cutting -->
+  <line x1="30" y1="30" x2="90" y2="30" stroke="#374151" stroke-width="2" stroke-dasharray="4,3" stroke-linecap="round"/>
+  
+  <!-- Scissors -->
+  <g transform="translate(80, 25) rotate(-45)">
+    <line x1="0" y1="0" x2="24" y2="0" stroke="#374151" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="0" y1="0" x2="22" y2="6" stroke="#374151" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="-6" cy="-6" r="6" fill="#e5e7eb" stroke="#374151" stroke-width="2.5"/>
+    <circle cx="-6" cy="6" r="6" fill="#e5e7eb" stroke="#374151" stroke-width="2.5"/>
+  </g>
+</svg>

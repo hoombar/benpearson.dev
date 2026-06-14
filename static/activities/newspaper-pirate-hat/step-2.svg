@@ -1,0 +1,48 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="5" y="100" width="110" height="10" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Hat shape (side view, sitting on table) -->
+  <!-- Main triangle body -->
+  <polygon points="60,16 14,66 106,66" fill="#f3f4f6" stroke="#374151" stroke-width="2"/>
+  <!-- Brim -->
+  <rect x="14" y="66" width="92" height="10" rx="1" fill="#e5e7eb" stroke="#374151" stroke-width="1.5"/>
+  <!-- Newspaper lines -->
+  <line x1="42" y1="42" x2="78" y2="42" stroke="#d1d5db" stroke-width="0.8"/>
+  <line x1="36" y1="50" x2="84" y2="50" stroke="#d1d5db" stroke-width="0.8"/>
+
+  <!-- Skull and crossbones painted on front (white on newspaper) -->
+  <!-- Skull -->
+  <ellipse cx="60" cy="38" rx="8" ry="9" fill="#f9fafb" stroke="#374151" stroke-width="1.2"/>
+  <!-- Eyes -->
+  <circle cx="56" cy="36" r="2" fill="#374151" stroke="none"/>
+  <circle cx="64" cy="36" r="2" fill="#374151" stroke="none"/>
+  <!-- Nose -->
+  <path d="M59,40 L61,40 L60,42 Z" fill="#374151" stroke="none"/>
+  <!-- Mouth -->
+  <line x1="56" y1="44" x2="64" y2="44" stroke="#374151" stroke-width="0.8"/>
+  <line x1="58" y1="43" x2="58" y2="45" stroke="#374151" stroke-width="0.5"/>
+  <line x1="60" y1="43" x2="60" y2="45" stroke="#374151" stroke-width="0.5"/>
+  <line x1="62" y1="43" x2="62" y2="45" stroke="#374151" stroke-width="0.5"/>
+  <!-- Crossbones -->
+  <line x1="46" y1="50" x2="74" y2="60" stroke="#f9fafb" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="74" y1="50" x2="46" y2="60" stroke="#f9fafb" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Bone ends -->
+  <circle cx="46" cy="50" r="2" fill="#f9fafb" stroke="#374151" stroke-width="0.5"/>
+  <circle cx="74" cy="50" r="2" fill="#f9fafb" stroke="#374151" stroke-width="0.5"/>
+  <circle cx="46" cy="60" r="2" fill="#f9fafb" stroke="#374151" stroke-width="0.5"/>
+  <circle cx="74" cy="60" r="2" fill="#f9fafb" stroke="#374151" stroke-width="0.5"/>
+
+  <!-- Paintbrush -->
+  <line x1="102" y1="22" x2="92" y2="48" stroke="#d97706" stroke-width="2.5" stroke-linecap="round"/>
+  <rect x="89" y="48" width="6" height="5" rx="1" fill="#f9fafb" stroke="#374151" stroke-width="0.8"/>
+
+  <!-- Paint pot -->
+  <rect x="96" y="78" width="14" height="16" rx="2" fill="#f9fafb" stroke="#374151" stroke-width="1.2"/>
+  <rect x="98" y="82" width="10" height="10" rx="1" fill="#f9fafb" stroke="none"/>
+
+  <!-- Colour splatters (weathered look) -->
+  <circle cx="28" cy="58" r="1.5" fill="#3b82f6" stroke="none" opacity="0.6"/>
+  <circle cx="88" cy="42" r="1" fill="#ef4444" stroke="none" opacity="0.5"/>
+  <circle cx="50" cy="34" r="1" fill="#3b82f6" stroke="none" opacity="0.5"/>
+</svg>

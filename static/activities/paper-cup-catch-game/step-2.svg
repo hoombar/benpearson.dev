@@ -1,0 +1,47 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Paper cup upside down (hero) — showing hole in bottom and string threading -->
+  <path d="M30,28 L22,84 L82,84 L74,28 Z" fill="white" stroke="#374151" stroke-width="1.5"/>
+  <!-- Cup rim (now at bottom since upside down) -->
+  <ellipse cx="52" cy="84" rx="30" ry="6" fill="#f3f4f6" stroke="#374151" stroke-width="1"/>
+  <!-- Cup top (bottom of cup, where hole is) -->
+  <ellipse cx="52" cy="28" rx="22" ry="5" fill="#f9fafb" stroke="#374151" stroke-width="1"/>
+
+  <!-- Hole in cup bottom -->
+  <circle cx="52" cy="28" r="3" fill="#374151"/>
+
+  <!-- String going through the hole -->
+  <line x1="52" y1="12" x2="52" y2="25" stroke="#92400e" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="52" y1="31" x2="52" y2="44" stroke="#92400e" stroke-width="1.2" stroke-linecap="round"/>
+
+  <!-- Knot inside the cup -->
+  <circle cx="52" cy="44" r="3.5" fill="#92400e" stroke="#374151" stroke-width="0.6"/>
+  <path d="M49,43 Q52,40 55,43 Q52,46 49,43" fill="#a16207" stroke="none"/>
+
+  <!-- String trailing up from outside to ball -->
+  <line x1="52" y1="12" x2="52" y2="6" stroke="#92400e" stroke-width="1"/>
+
+  <!-- Tinfoil ball at end of string (above) -->
+  <circle cx="52" cy="0" r="6" fill="#d1d5db" stroke="#374151" stroke-width="0.8"/>
+  <path d="M48,-2 Q52,-4 56,-1" fill="none" stroke="#9ca3af" stroke-width="0.4"/>
+  <circle cx="50" cy="-2" r="1" fill="white" opacity="0.5"/>
+
+  <!-- Scissors that made the hole -->
+  <g transform="translate(88, 34) rotate(20)">
+    <path d="M0,0 L12,4" fill="none" stroke="#9ca3af" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M0,0 L12,-4" fill="none" stroke="#9ca3af" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="0" cy="0" r="1.5" fill="#374151"/>
+    <ellipse cx="16" cy="5" rx="4.5" ry="3" fill="none" stroke="#ef4444" stroke-width="1"/>
+    <ellipse cx="16" cy="-5" rx="4.5" ry="3" fill="none" stroke="#ef4444" stroke-width="1"/>
+  </g>
+
+  <!-- Arrow showing threading direction -->
+  <defs>
+    <marker id="arr" viewBox="0 0 6 6" refX="5" refY="3" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#374151"/>
+    </marker>
+  </defs>
+  <path d="M62,16 Q66,22 62,30" fill="none" stroke="#374151" stroke-width="0.8" stroke-dasharray="2,2" marker-end="url(#arr)"/>
+</svg>

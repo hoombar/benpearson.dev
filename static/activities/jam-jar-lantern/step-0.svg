@@ -1,0 +1,26 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Scattered torn tissue paper pieces (hero) -->
+  <!-- Red piece -->
+  <path d="M16 44 Q22 40 28 44 Q32 50 26 54 Q20 56 16 52 Q12 48 16 44 Z" fill="#ef4444" stroke="#374151" stroke-width="1.5"/>
+  <!-- Blue piece -->
+  <path d="M38 28 Q46 24 52 30 Q56 36 50 42 Q44 46 38 40 Q32 34 38 28 Z" fill="#3b82f6" stroke="#374151" stroke-width="1.5"/>
+  <!-- Yellow piece -->
+  <path d="M62 38 Q68 34 74 38 Q78 44 74 50 Q68 54 62 50 Q58 44 62 38 Z" fill="#f59e0b" stroke="#374151" stroke-width="1.5"/>
+  <!-- Green piece -->
+  <path d="M84 26 Q90 22 96 28 Q100 34 96 40 Q90 44 84 38 Q80 32 84 26 Z" fill="#22c55e" stroke="#374151" stroke-width="1.5"/>
+  <!-- Purple piece -->
+  <path d="M20 66 Q28 62 34 68 Q38 76 32 80 Q26 82 20 78 Q14 72 20 66 Z" fill="#a78bfa" stroke="#374151" stroke-width="1.5"/>
+  <!-- Orange piece -->
+  <path d="M52 60 Q60 56 66 62 Q70 68 66 74 Q60 78 52 74 Q46 68 52 60 Z" fill="#f97316" stroke="#374151" stroke-width="1.5"/>
+  <!-- Pink piece -->
+  <path d="M80 56 Q86 52 92 58 Q96 64 90 70 Q84 72 78 68 Q74 62 80 56 Z" fill="#f472b6" stroke="#374151" stroke-width="1.5"/>
+  <!-- Overlapping piece showing colour mixing where two overlap -->
+  <path d="M46 68 Q52 64 58 70 Q60 76 56 80 Q50 82 46 78 Q42 72 46 68 Z" fill="#84cc16" stroke="#374151" stroke-width="1.5" opacity="0.7"/>
+  <!-- Tear lines on a few pieces (showing torn edges) -->
+  <path d="M24 54 Q22 58 20 62" stroke="#374151" stroke-width="0.8" fill="none" stroke-linecap="round"/>
+  <path d="M50 42 Q48 46 46 50" stroke="#374151" stroke-width="0.8" fill="none" stroke-linecap="round"/>
+  <!-- Label: pile of colours ready -->
+  <rect x="8" y="94" width="104" height="18" rx="3" fill="#f9fafb" stroke="#374151" stroke-width="1.5"/>
+  <line x1="14" y1="100" x2="106" y2="100" stroke="#ef4444" stroke-width="3" stroke-linecap="round"/>
+  <line x1="14" y1="106" x2="106" y2="106" stroke="#3b82f6" stroke-width="3" stroke-linecap="round"/>
+</svg>

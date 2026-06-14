@@ -1,0 +1,31 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="5" y="95" width="110" height="12" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Tin can 1 (upside down, hero, left) -->
+  <rect x="16" y="52" width="36" height="42" rx="2" fill="#e5e7eb" stroke="#374151" stroke-width="2.5"/>
+  <!-- Can ridges -->
+  <line x1="16" y1="58" x2="52" y2="58" stroke="#374151" stroke-width="0.75"/>
+  <line x1="16" y1="88" x2="52" y2="88" stroke="#374151" stroke-width="0.75"/>
+  <!-- Solid top (what you stand on) -->
+  <rect x="16" y="50" width="36" height="4" rx="1" fill="#d1d5db" stroke="#374151" stroke-width="1.5"/>
+  <!-- Open bottom (now at top since upside down — visible rim) -->
+
+  <!-- Tin can 2 (right side, right-side up for comparison) -->
+  <rect x="68" y="52" width="36" height="42" rx="2" fill="#e5e7eb" stroke="#374151" stroke-width="2"/>
+  <line x1="68" y1="58" x2="104" y2="58" stroke="#374151" stroke-width="0.75"/>
+  <line x1="68" y1="88" x2="104" y2="88" stroke="#374151" stroke-width="0.75"/>
+  <!-- Open top rim -->
+  <ellipse cx="86" cy="52" rx="18" ry="4" fill="#d1d5db" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Curved arrow showing flip from right-side up to upside down -->
+  <path d="M86,42 Q86,20 60,20 Q34,20 34,42" stroke="#374151" stroke-width="2" fill="none"
+        stroke-linecap="round"/>
+  <path d="M31 38 L34 44 L37 38" stroke="#374151" stroke-width="2" stroke-linecap="round" fill="none"/>
+
+  <!-- Tape on rim for safety (on left can) -->
+  <rect x="15" y="91" width="38" height="3" rx="1" fill="#fde68a" stroke="#374151" stroke-width="0.75"/>
+
+  <!-- Checkmark (safe, no sharp edges) -->
+  <path d="M8,40 L12,46 L22,34" stroke="#22c55e" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

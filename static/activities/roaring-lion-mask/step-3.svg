@@ -1,0 +1,56 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Completed lion mask (hero) with mane and handle -->
+
+  <!-- Mane strips radiating outward (curled paper behind the plate) -->
+  <!-- Top mane -->
+  <path d="M48,8 Q42,2 40,12" fill="none" stroke="#f97316" stroke-width="3" stroke-linecap="round"/>
+  <path d="M56,6 Q54,0 50,8" fill="none" stroke="#f59e0b" stroke-width="3" stroke-linecap="round"/>
+  <path d="M64,6 Q66,0 70,8" fill="none" stroke="#d97706" stroke-width="3" stroke-linecap="round"/>
+  <path d="M72,8 Q78,2 80,12" fill="none" stroke="#f97316" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Left mane -->
+  <path d="M22,28 Q14,24 18,34" fill="none" stroke="#f59e0b" stroke-width="3" stroke-linecap="round"/>
+  <path d="M18,40 Q10,38 14,48" fill="none" stroke="#f97316" stroke-width="3" stroke-linecap="round"/>
+  <path d="M16,52 Q8,52 12,60" fill="none" stroke="#d97706" stroke-width="3" stroke-linecap="round"/>
+  <path d="M18,64 Q10,66 16,74" fill="none" stroke="#f59e0b" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Right mane -->
+  <path d="M98,28 Q106,24 102,34" fill="none" stroke="#d97706" stroke-width="3" stroke-linecap="round"/>
+  <path d="M102,40 Q110,38 106,48" fill="none" stroke="#f59e0b" stroke-width="3" stroke-linecap="round"/>
+  <path d="M104,52 Q112,52 108,60" fill="none" stroke="#f97316" stroke-width="3" stroke-linecap="round"/>
+  <path d="M102,64 Q110,66 104,74" fill="none" stroke="#d97706" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Bottom mane -->
+  <path d="M32,78 Q26,84 34,86" fill="none" stroke="#f97316" stroke-width="3" stroke-linecap="round"/>
+  <path d="M88,78 Q94,84 86,86" fill="none" stroke="#f59e0b" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Paper plate face -->
+  <circle cx="60" cy="48" r="32" fill="#f59e0b" stroke="#374151" stroke-width="2.5"/>
+
+  <!-- Ears -->
+  <circle cx="36" cy="22" r="7" fill="#d97706" stroke="#374151" stroke-width="1.5"/>
+  <circle cx="36" cy="22" r="3.5" fill="#fde68a" stroke="none"/>
+  <circle cx="84" cy="22" r="7" fill="#d97706" stroke="#374151" stroke-width="1.5"/>
+  <circle cx="84" cy="22" r="3.5" fill="#fde68a" stroke="none"/>
+
+  <!-- Eyes -->
+  <ellipse cx="48" cy="42" rx="5" ry="4" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+  <ellipse cx="72" cy="42" rx="5" ry="4" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Nose -->
+  <polygon points="60,46 55,56 65,56" fill="#d97706" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Whiskers -->
+  <line x1="52" y1="54" x2="34" y2="50" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="52" y1="56" x2="32" y2="56" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="52" y1="58" x2="34" y2="62" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="68" y1="54" x2="86" y2="50" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="68" y1="56" x2="88" y2="56" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="68" y1="58" x2="86" y2="62" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- Mouth -->
+  <path d="M52,64 Q60,72 68,64" fill="none" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- Popsicle stick handle -->
+  <line x1="60" y1="80" x2="60" y2="114" stroke="#d97706" stroke-width="4" stroke-linecap="round"/>
+</svg>

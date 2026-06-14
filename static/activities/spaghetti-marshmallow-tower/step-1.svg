@@ -1,0 +1,31 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Overhead (top-down) view of square base -->
+  <!-- Background surface -->
+  <rect x="4" y="4" width="112" height="112" rx="6" fill="#fef9c3" stroke="#e5e7eb" stroke-width="1.5"/>
+  <!-- Spaghetti frame connecting corners -->
+  <line x1="34" y1="34" x2="86" y2="34" stroke="#fde68a" stroke-width="3" stroke-linecap="round"/>
+  <line x1="86" y1="34" x2="86" y2="86" stroke="#fde68a" stroke-width="3" stroke-linecap="round"/>
+  <line x1="86" y1="86" x2="34" y2="86" stroke="#fde68a" stroke-width="3" stroke-linecap="round"/>
+  <line x1="34" y1="86" x2="34" y2="34" stroke="#fde68a" stroke-width="3" stroke-linecap="round"/>
+  <!-- Marshmallow at top-left corner -->
+  <circle cx="34" cy="34" r="13" fill="white" stroke="#374151" stroke-width="2.5"/>
+  <circle cx="34" cy="34" r="7" fill="#f3f4f6" stroke="#9ca3af" stroke-width="1"/>
+  <!-- Marshmallow at top-right corner -->
+  <circle cx="86" cy="34" r="13" fill="white" stroke="#374151" stroke-width="2.5"/>
+  <circle cx="86" cy="34" r="7" fill="#f3f4f6" stroke="#9ca3af" stroke-width="1"/>
+  <!-- Marshmallow at bottom-right corner -->
+  <circle cx="86" cy="86" r="13" fill="white" stroke="#374151" stroke-width="2.5"/>
+  <circle cx="86" cy="86" r="7" fill="#f3f4f6" stroke="#9ca3af" stroke-width="1"/>
+  <!-- Marshmallow at bottom-left corner -->
+  <circle cx="34" cy="86" r="13" fill="white" stroke="#374151" stroke-width="2.5"/>
+  <circle cx="34" cy="86" r="7" fill="#f3f4f6" stroke="#9ca3af" stroke-width="1"/>
+  <!-- Spaghetti entry dots on marshmallows -->
+  <circle cx="47" cy="34" r="2.5" fill="#d97706" stroke="#374151" stroke-width="1"/>
+  <circle cx="21" cy="34" r="2.5" fill="#d97706" stroke="#374151" stroke-width="1"/>
+  <circle cx="86" cy="47" r="2.5" fill="#d97706" stroke="#374151" stroke-width="1"/>
+  <circle cx="86" cy="73" r="2.5" fill="#d97706" stroke="#374151" stroke-width="1"/>
+  <circle cx="73" cy="86" r="2.5" fill="#d97706" stroke="#374151" stroke-width="1"/>
+  <circle cx="47" cy="86" r="2.5" fill="#d97706" stroke="#374151" stroke-width="1"/>
+  <circle cx="34" cy="73" r="2.5" fill="#d97706" stroke="#374151" stroke-width="1"/>
+  <circle cx="34" cy="47" r="2.5" fill="#d97706" stroke="#374151" stroke-width="1"/>
+</svg>

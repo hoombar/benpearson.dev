@@ -1,0 +1,44 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="5" y="100" width="110" height="10" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Paper plate (hero, large circle) -->
+  <circle cx="56" cy="52" r="40" fill="#f9fafb" stroke="#374151" stroke-width="2"/>
+  <!-- Plate rim -->
+  <circle cx="56" cy="52" r="36" fill="none" stroke="#e5e7eb" stroke-width="1"/>
+
+  <!-- Numbers being written around the rim -->
+  <!-- Using small circles as number placeholders (no text in SVGs) -->
+  <!-- 12 o'clock position -->
+  <circle cx="56" cy="18" r="3" fill="#374151" stroke="none"/>
+  <circle cx="56" cy="18" r="1" fill="#f9fafb" stroke="none"/>
+  <!-- 3 o'clock -->
+  <circle cx="90" cy="52" r="3" fill="#374151" stroke="none"/>
+  <!-- 6 o'clock -->
+  <circle cx="56" cy="86" r="3" fill="#374151" stroke="none"/>
+  <!-- 9 o'clock -->
+  <circle cx="22" cy="52" r="3" fill="#374151" stroke="none"/>
+
+  <!-- Positions for other numbers (lighter, being filled in) -->
+  <circle cx="73" cy="22" r="2" fill="#9ca3af" stroke="none"/>
+  <circle cx="86" cy="35" r="2" fill="#9ca3af" stroke="none"/>
+  <circle cx="86" cy="69" r="2" fill="#d1d5db" stroke="none"/>
+  <circle cx="73" cy="82" r="2" fill="#d1d5db" stroke="none"/>
+  <circle cx="39" cy="82" r="2" fill="#d1d5db" stroke="none"/>
+  <circle cx="26" cy="69" r="2" fill="#d1d5db" stroke="none"/>
+  <circle cx="26" cy="35" r="2" fill="#d1d5db" stroke="none"/>
+  <circle cx="39" cy="22" r="2" fill="#d1d5db" stroke="none"/>
+
+  <!-- Centre dot -->
+  <circle cx="56" cy="52" r="2" fill="#374151" stroke="none"/>
+
+  <!-- Minute tick marks (small lines around edge) -->
+  <line x1="56" y1="13" x2="56" y2="16" stroke="#374151" stroke-width="0.8"/>
+  <line x1="90" y1="52" x2="93" y2="52" stroke="#374151" stroke-width="0.8"/>
+  <line x1="56" y1="88" x2="56" y2="91" stroke="#374151" stroke-width="0.8"/>
+  <line x1="19" y1="52" x2="22" y2="52" stroke="#374151" stroke-width="0.8"/>
+
+  <!-- Marker pen -->
+  <line x1="100" y1="30" x2="88" y2="38" stroke="#3b82f6" stroke-width="3" stroke-linecap="round"/>
+  <line x1="88" y1="38" x2="86" y2="40" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

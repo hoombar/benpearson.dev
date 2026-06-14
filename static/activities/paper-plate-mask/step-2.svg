@@ -1,0 +1,49 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Paper plate - now coloured as a lion -->
+  <circle cx="52" cy="52" r="38" fill="#fbbf24" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Mane (spiky fringe around edge) -->
+  <circle cx="52" cy="52" r="38" fill="none" stroke="#f97316" stroke-width="6" stroke-dasharray="8,4" opacity="0.7"/>
+
+  <!-- Inner face area (lighter) -->
+  <circle cx="52" cy="56" r="22" fill="#fde68a" stroke="none"/>
+
+  <!-- Eye holes -->
+  <ellipse cx="40" cy="46" rx="7" ry="5" fill="#fef3c7" stroke="#374151" stroke-width="1.2"/>
+  <ellipse cx="64" cy="46" rx="7" ry="5" fill="#fef3c7" stroke="#374151" stroke-width="1.2"/>
+
+  <!-- Eyebrow lines -->
+  <path d="M33,40 Q40,36 47,40" fill="none" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M57,40 Q64,36 71,40" fill="none" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- Nose -->
+  <path d="M48,56 L52,60 L56,56 Z" fill="#374151" stroke="#374151" stroke-width="0.8"/>
+
+  <!-- Mouth -->
+  <path d="M52,60 L52,66" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+  <path d="M44,66 Q52,72 60,66" fill="none" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- Whisker dots -->
+  <circle cx="42" cy="62" r="1" fill="#374151"/>
+  <circle cx="38" cy="60" r="1" fill="#374151"/>
+  <circle cx="38" cy="64" r="1" fill="#374151"/>
+  <circle cx="62" cy="62" r="1" fill="#374151"/>
+  <circle cx="66" cy="60" r="1" fill="#374151"/>
+  <circle cx="66" cy="64" r="1" fill="#374151"/>
+
+  <!-- Paper ears glued on top -->
+  <path d="M22,24 Q18,10 30,16" fill="#fbbf24" stroke="#374151" stroke-width="1.2"/>
+  <path d="M82,24 Q86,10 74,16" fill="#fbbf24" stroke="#374151" stroke-width="1.2"/>
+  <!-- Inner ear -->
+  <path d="M24,22 Q22,14 28,18" fill="#f97316" stroke="none"/>
+  <path d="M80,22 Q82,14 76,18" fill="#f97316" stroke="none"/>
+
+  <!-- Glue bottle -->
+  <g transform="translate(96, 66)">
+    <rect x="0" y="8" width="10" height="18" rx="2" fill="#f9fafb" stroke="#374151" stroke-width="0.8"/>
+    <rect x="2" y="2" width="6" height="8" rx="1.5" fill="#f3f4f6" stroke="#374151" stroke-width="0.6"/>
+  </g>
+</svg>

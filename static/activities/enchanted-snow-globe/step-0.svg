@@ -1,0 +1,57 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2"
+            stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <!-- Table surface -->
+  <rect x="5" y="95" width="110" height="12" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Jar lid (hero, flat on table) -->
+  <ellipse cx="60" cy="80" rx="28" ry="6" fill="#e5e7eb" stroke="#374151" stroke-width="2"/>
+  <rect x="32" y="74" width="56" height="8" rx="2" fill="#e5e7eb" stroke="#374151" stroke-width="2"/>
+  <!-- Lid grip lines -->
+  <line x1="36" y1="76" x2="36" y2="82" stroke="#374151" stroke-width="0.75"/>
+  <line x1="42" y1="76" x2="42" y2="82" stroke="#374151" stroke-width="0.75"/>
+  <line x1="48" y1="76" x2="48" y2="82" stroke="#374151" stroke-width="0.75"/>
+  <line x1="54" y1="76" x2="54" y2="82" stroke="#374151" stroke-width="0.75"/>
+  <line x1="60" y1="76" x2="60" y2="82" stroke="#374151" stroke-width="0.75"/>
+  <line x1="66" y1="76" x2="66" y2="82" stroke="#374151" stroke-width="0.75"/>
+  <line x1="72" y1="76" x2="72" y2="82" stroke="#374151" stroke-width="0.75"/>
+  <line x1="78" y1="76" x2="78" y2="82" stroke="#374151" stroke-width="0.75"/>
+  <line x1="84" y1="76" x2="84" y2="82" stroke="#374151" stroke-width="0.75"/>
+
+  <!-- Small dinosaur figurine standing on lid -->
+  <g transform="translate(60, 52)">
+    <!-- Body -->
+    <ellipse cx="0" cy="8" rx="10" ry="6" fill="#22c55e" stroke="#374151" stroke-width="1.5"/>
+    <!-- Head -->
+    <ellipse cx="12" cy="2" rx="6" ry="5" fill="#22c55e" stroke="#374151" stroke-width="1.5"/>
+    <!-- Eye -->
+    <circle cx="14" cy="0" r="1.5" fill="#374151" stroke="none"/>
+    <!-- Neck -->
+    <line x1="8" y1="4" x2="8" y2="6" stroke="#22c55e" stroke-width="4"/>
+    <!-- Legs -->
+    <line x1="-4" y1="12" x2="-4" y2="22" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+    <line x1="4" y1="12" x2="4" y2="22" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+    <!-- Tail -->
+    <path d="M-10,8 Q-18,4 -20,10" stroke="#374151" stroke-width="2" fill="none" stroke-linecap="round"/>
+  </g>
+
+  <!-- PVA glue blob between figurine and lid -->
+  <ellipse cx="60" cy="74" rx="8" ry="3" fill="#f9fafb" stroke="#374151" stroke-width="1" opacity="0.7"/>
+
+  <!-- Glue bottle (top-left, source) -->
+  <path d="M12,20 Q8,20 8,24 L8,52 Q8,56 16,56 L24,56 Q32,56 32,52 L32,24 Q32,20 28,20 Z"
+        fill="#f9fafb" stroke="#374151" stroke-width="1.5"/>
+  <rect x="16" y="10" width="8" height="12" rx="2" fill="#f9fafb" stroke="#374151" stroke-width="1.5"/>
+  <!-- Nozzle tip -->
+  <path d="M18,10 L20,6 L22,10" fill="#f59e0b" stroke="#374151" stroke-width="1"/>
+
+  <!-- Arrow from glue to lid -->
+  <path d="M30,48 Q42,60 50,72" stroke="#374151" stroke-width="1.5" fill="none"
+        stroke-linecap="round" marker-end="url(#arr)"/>
+</svg>

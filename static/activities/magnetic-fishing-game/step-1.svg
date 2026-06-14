@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Background -->
+  <rect x="0" y="0" width="120" height="120" fill="#fef9c3"/>
+
+  <!-- Hero fish: large blue fish, centre -->
+  <!-- Body -->
+  <ellipse cx="55" cy="62" rx="30" ry="19" fill="#93c5fd" stroke="#374151" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Tail fin -->
+  <polygon points="25,62 14,50 14,74" fill="#3b82f6" stroke="#374151" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Dorsal fin -->
+  <path d="M44,43 Q55,33 66,43" fill="#3b82f6" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+  <!-- Eye -->
+  <circle cx="75" cy="57" r="5" fill="#f9fafb" stroke="#374151" stroke-width="2"/>
+  <circle cx="76" cy="57" r="2" fill="#374151"/>
+  <!-- Scale stripe -->
+  <path d="M48,46 Q52,62 48,78" fill="none" stroke="#3b82f6" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Fish mouth/nose area (where clip attaches) -->
+  <circle cx="84" cy="62" r="4" fill="#dbeafe" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Paper clip being threaded onto the nose of fish -->
+  <!-- Paper clip: silver/grey metal, U shape with inner loop -->
+  <!-- Outer loop -->
+  <path d="M84,55 L94,55 Q102,55 102,62 Q102,70 94,70 L84,70"
+        fill="none" stroke="#e5e7eb" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M84,55 L94,55 Q102,55 102,62 Q102,70 94,70 L84,70"
+        fill="none" stroke="#374151" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Inner loop -->
+  <path d="M84,59 L92,59 Q97,59 97,62 Q97,66 92,66 L84,66"
+        fill="none" stroke="#9ca3af" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Arrow showing clip going down onto fish nose -->
+  <line x1="94" y1="38" x2="94" y2="50" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+  <polyline points="90,47 94,52 98,47" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Second fish with clip already on, smaller, bottom-left -->
+  <g transform="translate(26, 98) scale(0.7)">
+    <ellipse cx="0" cy="0" rx="22" ry="13" fill="#fca5a5" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+    <polygon points="-22,0 -30,-9 -30,9" fill="#ef4444" stroke="#374151" stroke-width="1.5" stroke-linejoin="round"/>
+    <circle cx="16" cy="-4" r="4" fill="#f9fafb" stroke="#374151" stroke-width="1.5"/>
+    <!-- Clip on this fish -->
+    <path d="M22,-5 L30,-5 Q36,-5 36,0 Q36,5 30,5 L22,5" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

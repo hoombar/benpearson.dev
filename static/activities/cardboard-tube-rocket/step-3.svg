@@ -1,0 +1,48 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Dark space background -->
+  <rect x="0" y="0" width="120" height="120" fill="#1e293b"/>
+
+  <!-- Stars -->
+  <circle cx="10" cy="12" r="1" fill="white"/>
+  <circle cx="30" cy="8" r="0.8" fill="white"/>
+  <circle cx="95" cy="15" r="1.2" fill="white"/>
+  <circle cx="108" cy="40" r="0.8" fill="white"/>
+  <circle cx="14" cy="50" r="1" fill="white"/>
+  <circle cx="105" cy="75" r="0.8" fill="white"/>
+  <circle cx="8" cy="90" r="1" fill="white"/>
+  <circle cx="110" cy="100" r="1" fill="white"/>
+
+  <!-- Completed rocket (hero) -->
+  <g transform="translate(36, 10)">
+    <!-- Nose cone (red) -->
+    <polygon points="15,0 0,22 30,22" fill="#ef4444" stroke="#374151" stroke-width="1.2"/>
+
+    <!-- Tube body (silver/white) -->
+    <rect x="0" y="22" width="30" height="52" rx="2" fill="#e5e7eb" stroke="#374151" stroke-width="1.5"/>
+
+    <!-- Portholes -->
+    <circle cx="15" cy="34" r="5" fill="#3b82f6" stroke="#374151" stroke-width="0.8"/>
+    <circle cx="15" cy="34" r="3" fill="#60a5fa" stroke="none"/>
+    <circle cx="15" cy="52" r="5" fill="#3b82f6" stroke="#374151" stroke-width="0.8"/>
+    <circle cx="15" cy="52" r="3" fill="#60a5fa" stroke="none"/>
+
+    <!-- Stripe decoration -->
+    <line x1="0" y1="64" x2="30" y2="64" stroke="#ef4444" stroke-width="2"/>
+
+    <!-- Fins -->
+    <polygon points="0,58 -14,74 0,74" fill="#d4a574" stroke="#374151" stroke-width="1"/>
+    <polygon points="30,58 44,74 30,74" fill="#d4a574" stroke="#374151" stroke-width="1"/>
+
+    <!-- Tissue paper flames -->
+    <path d="M4,74 Q8,88 6,100" fill="none" stroke="#ef4444" stroke-width="3" stroke-linecap="round"/>
+    <path d="M10,74 Q14,92 12,106" fill="none" stroke="#f97316" stroke-width="3" stroke-linecap="round"/>
+    <path d="M15,74 Q15,90 15,108" fill="none" stroke="#eab308" stroke-width="3" stroke-linecap="round"/>
+    <path d="M20,74 Q16,92 18,106" fill="none" stroke="#f97316" stroke-width="3" stroke-linecap="round"/>
+    <path d="M26,74 Q22,88 24,100" fill="none" stroke="#ef4444" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <!-- Moon -->
+  <circle cx="98" cy="30" r="12" fill="#fde68a" stroke="#374151" stroke-width="0.8"/>
+  <circle cx="94" cy="28" r="2" fill="#eab308" opacity="0.4"/>
+  <circle cx="100" cy="34" r="1.5" fill="#eab308" opacity="0.4"/>
+</svg>

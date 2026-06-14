@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Background -->
+  <rect x="0" y="0" width="120" height="120" fill="#fef9c3"/>
+
+  <!-- Paper sheet on table -->
+  <rect x="8" y="10" width="104" height="100" rx="2" fill="#f9fafb" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Hero fish: large blue fish centre-left (being drawn/cut) -->
+  <!-- Body -->
+  <ellipse cx="44" cy="55" rx="26" ry="16" fill="#93c5fd" stroke="#374151" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Tail fin -->
+  <polygon points="18,55 8,44 8,66" fill="#3b82f6" stroke="#374151" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Dorsal fin -->
+  <path d="M36,39 Q44,30 52,39" fill="#3b82f6" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+  <!-- Eye -->
+  <circle cx="62" cy="50" r="4" fill="#f9fafb" stroke="#374151" stroke-width="2"/>
+  <circle cx="63" cy="50" r="1.5" fill="#374151"/>
+  <!-- Stripe/scale detail -->
+  <path d="M40,44 Q44,55 40,66" fill="none" stroke="#3b82f6" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Number "1" on fish body -->
+  <circle cx="44" cy="58" r="5" fill="#dbeafe" stroke="#374151" stroke-width="1"/>
+  <line x1="44" y1="55" x2="44" y2="62" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- Second smaller fish: red, top-right (already drawn) -->
+  <ellipse cx="90" cy="30" rx="16" ry="10" fill="#fca5a5" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+  <polygon points="74,30 67,23 67,37" fill="#ef4444" stroke="#374151" stroke-width="1.5" stroke-linejoin="round"/>
+  <circle cx="98" cy="27" r="3" fill="#f9fafb" stroke="#374151" stroke-width="1.5"/>
+  <circle cx="99" cy="27" r="1" fill="#374151"/>
+  <path d="M86,22 Q90,30 86,38" fill="none" stroke="#ef4444" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- Third fish outline: yellow, bottom-right (partially drawn) -->
+  <ellipse cx="90" cy="90" rx="16" ry="9" fill="#fde68a" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+  <polygon points="74,90 67,83 67,97" fill="#f59e0b" stroke="#374151" stroke-width="1.5" stroke-linejoin="round"/>
+  <circle cx="97" cy="87" r="3" fill="#f9fafb" stroke="#374151" stroke-width="1.5"/>
+  <circle cx="98" cy="87" r="1" fill="#374151"/>
+
+  <!-- Scissors top-right corner -->
+  <g transform="translate(18, 22) rotate(-40)">
+    <!-- Blade 1 -->
+    <line x1="0" y1="0" x2="16" y2="0" stroke="#374151" stroke-width="2.5" stroke-linecap="round"/>
+    <!-- Blade 2 -->
+    <line x1="0" y1="0" x2="14" y2="4" stroke="#374151" stroke-width="2.5" stroke-linecap="round"/>
+    <!-- Ring 1 -->
+    <circle cx="-4" cy="-4" r="4" fill="#e5e7eb" stroke="#374151" stroke-width="2"/>
+    <!-- Ring 2 -->
+    <circle cx="-4" cy="4" r="4" fill="#e5e7eb" stroke="#374151" stroke-width="2"/>
+  </g>
+</svg>

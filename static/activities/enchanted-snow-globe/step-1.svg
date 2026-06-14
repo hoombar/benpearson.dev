@@ -1,0 +1,50 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2"
+            stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <!-- Table surface -->
+  <rect x="5" y="100" width="110" height="10" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Glass jar (hero, large) — single closed path -->
+  <path d="M34,28 Q30,28 30,32 L30,88 Q30,96 60,96 Q90,96 90,88 L90,32 Q90,28 86,28 Z"
+        fill="#dbeafe" stroke="#374151" stroke-width="2.5" fill-opacity="0.3"/>
+  <!-- Jar neck -->
+  <rect x="42" y="18" width="36" height="12" rx="2" fill="#dbeafe" stroke="#374151" stroke-width="2" fill-opacity="0.3"/>
+  <!-- Jar rim -->
+  <rect x="40" y="14" width="40" height="6" rx="2" fill="#e5e7eb" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Water level inside jar -->
+  <rect x="32" y="34" width="56" height="60" rx="2" fill="#dbeafe" stroke="none" opacity="0.4"/>
+  <!-- Water surface line -->
+  <path d="M32,34 Q46,30 60,34 Q74,38 88,34" stroke="#93c5fd" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+
+  <!-- Water drop falling in from above -->
+  <path d="M80,6 Q84,12 84,16 Q84,20 80,20 Q76,20 76,16 Q76,12 80,6 Z"
+        fill="#93c5fd" stroke="#374151" stroke-width="1"/>
+
+  <!-- Arrow from water into jar -->
+  <path d="M80,22 L72,14" stroke="#374151" stroke-width="1.5" fill="none"
+        stroke-linecap="round" marker-end="url(#arr)"/>
+
+  <!-- PVA glue bottle (smaller, to the left) -->
+  <path d="M6,40 Q4,40 4,43 L4,68 Q4,72 10,72 L16,72 Q22,72 22,68 L22,43 Q22,40 20,40 Z"
+        fill="#f9fafb" stroke="#374151" stroke-width="1.5"/>
+  <rect x="9" y="34" width="6" height="8" rx="1.5" fill="#f9fafb" stroke="#374151" stroke-width="1"/>
+
+  <!-- Arrow from glue into jar -->
+  <path d="M22,50 L30,46" stroke="#374151" stroke-width="1.5" fill="none"
+        stroke-linecap="round" marker-end="url(#arr)"/>
+
+  <!-- Stirring spoon in jar -->
+  <line x1="62" y1="8" x2="58" y2="60" stroke="#e5e7eb" stroke-width="2.5" stroke-linecap="round"/>
+  <ellipse cx="57" cy="64" rx="5" ry="3" fill="#e5e7eb" stroke="#374151" stroke-width="1"/>
+
+  <!-- Stirring arc inside jar -->
+  <path d="M46,58 Q55,50 64,58" stroke="#374151" stroke-width="1.5" fill="none"
+        stroke-linecap="round" marker-end="url(#arr)"/>
+</svg>

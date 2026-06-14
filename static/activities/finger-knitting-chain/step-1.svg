@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Hand with yarn weaving over-under fingers -->
+  <!-- Palm -->
+  <rect x="22" y="72" width="76" height="30" rx="6" fill="#fde8d0" stroke="#374151" stroke-width="2"/>
+  <!-- Index finger -->
+  <rect x="26" y="30" width="14" height="46" rx="7" fill="#fde8d0" stroke="#374151" stroke-width="2"/>
+  <!-- Middle finger -->
+  <rect x="44" y="22" width="14" height="54" rx="7" fill="#fde8d0" stroke="#374151" stroke-width="2"/>
+  <!-- Ring finger -->
+  <rect x="62" y="30" width="14" height="46" rx="7" fill="#fde8d0" stroke="#374151" stroke-width="2"/>
+  <!-- Little finger -->
+  <rect x="80" y="38" width="12" height="38" rx="6" fill="#fde8d0" stroke="#374151" stroke-width="2"/>
+  <!-- Yarn weaving: over index (in front), under middle (behind), over ring (in front), under little (behind) -->
+  <!-- Segment: left approach to index -->
+  <line x1="8" y1="50" x2="26" y2="50" stroke="#f97316" stroke-width="3" stroke-linecap="round"/>
+  <!-- Over index (in front of finger) -->
+  <line x1="26" y1="50" x2="40" y2="50" stroke="#f97316" stroke-width="3" stroke-linecap="round"/>
+  <!-- Under middle (behind finger - dashed to show it goes behind) -->
+  <line x1="40" y1="50" x2="44" y2="50" stroke="#f97316" stroke-width="3" stroke-linecap="round" stroke-dasharray="3,2" opacity="0.6"/>
+  <line x1="58" y1="50" x2="62" y2="50" stroke="#f97316" stroke-width="3" stroke-linecap="round" stroke-dasharray="3,2" opacity="0.6"/>
+  <!-- Over ring (in front) -->
+  <line x1="44" y1="50" x2="58" y2="50" stroke="#f97316" stroke-width="3" stroke-linecap="round"/>
+  <line x1="62" y1="50" x2="76" y2="50" stroke="#f97316" stroke-width="3" stroke-linecap="round"/>
+  <!-- Under little (dashed) -->
+  <line x1="76" y1="50" x2="80" y2="50" stroke="#f97316" stroke-width="3" stroke-dasharray="3,2" opacity="0.6" stroke-linecap="round"/>
+  <line x1="80" y1="50" x2="92" y2="50" stroke="#f97316" stroke-width="3" stroke-linecap="round"/>
+  <!-- Loop annotations - small circles on each fingertip showing the loop -->
+  <circle cx="33" cy="43" r="4" fill="none" stroke="#f97316" stroke-width="2"/>
+  <circle cx="51" cy="35" r="4" fill="none" stroke="#f97316" stroke-width="2"/>
+  <circle cx="69" cy="43" r="4" fill="none" stroke="#f97316" stroke-width="2"/>
+  <circle cx="86" cy="51" r="4" fill="none" stroke="#f97316" stroke-width="2"/>
+</svg>

@@ -1,0 +1,38 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="5" y="100" width="110" height="10" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Paper sheet being cut -->
+  <rect x="10" y="14" width="60" height="44" rx="1" fill="#f9fafb" stroke="#374151" stroke-width="1.2"/>
+
+  <!-- Hour hand (short, red arrow) — already cut out -->
+  <polygon points="50,70 60,70 58,92 52,92" fill="#ef4444" stroke="#374151" stroke-width="1.5"/>
+  <!-- Arrow tip -->
+  <polygon points="46,70 64,70 55,58" fill="#ef4444" stroke="#374151" stroke-width="1.5"/>
+  <!-- Hole at base -->
+  <circle cx="55" cy="90" r="2" fill="#f9fafb" stroke="#374151" stroke-width="0.8"/>
+
+  <!-- Minute hand (long, blue arrow) — still on paper, being cut -->
+  <polygon points="28,20 36,20 34,52 30,52" fill="#3b82f6" stroke="#374151" stroke-width="1.2"/>
+  <polygon points="24,20 40,20 32,10" fill="#3b82f6" stroke="#374151" stroke-width="1.2"/>
+  <!-- Hole at base -->
+  <circle cx="32" cy="50" r="1.5" fill="#f9fafb" stroke="#374151" stroke-width="0.6"/>
+
+  <!-- Dashed cut line around minute hand -->
+  <path d="M23,8 L41,8 L41,54 L29,54 L29,22 L23,22 Z" fill="none" stroke="#ef4444" stroke-width="1" stroke-dasharray="3,2"/>
+
+  <!-- Scissors -->
+  <g transform="translate(68,38) rotate(10)">
+    <path d="M0,0 L-16,-3" stroke="#374151" stroke-width="1.8" stroke-linecap="round" fill="none"/>
+    <path d="M0,0 L-16,3" stroke="#374151" stroke-width="1.8" stroke-linecap="round" fill="none"/>
+    <ellipse cx="2" cy="-3" rx="4" ry="2.5" fill="#ef4444" stroke="#374151" stroke-width="0.8"/>
+    <ellipse cx="2" cy="3" rx="4" ry="2.5" fill="#ef4444" stroke="#374151" stroke-width="0.8"/>
+    <circle cx="0" cy="0" r="1.2" fill="#374151" stroke="none"/>
+  </g>
+
+  <!-- Markers for colouring -->
+  <line x1="86" y1="60" x2="86" y2="90" stroke="#ef4444" stroke-width="4" stroke-linecap="round"/>
+  <rect x="83" y="56" width="6" height="6" rx="1" fill="#fca5a5" stroke="#374151" stroke-width="0.6"/>
+  <line x1="96" y1="60" x2="96" y2="90" stroke="#3b82f6" stroke-width="4" stroke-linecap="round"/>
+  <rect x="93" y="56" width="6" height="6" rx="1" fill="#93c5fd" stroke="#374151" stroke-width="0.6"/>
+</svg>

@@ -1,0 +1,66 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="120" height="120" fill="#f9fafb"/>
+
+  <!-- Floor -->
+  <rect x="8" y="108" width="104" height="8" rx="1" fill="#e5e7eb" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- BASE LEVEL: two wide horizontal tubes -->
+  <rect x="10" y="94" width="45" height="13" rx="5" fill="#fef3c7" stroke="#374151" stroke-width="2.5"/>
+  <ellipse cx="10" cy="100" rx="4" ry="6.5" fill="#fbbf24" stroke="#374151" stroke-width="2"/>
+  <ellipse cx="55" cy="100" rx="4" ry="6.5" fill="#fbbf24" stroke="#374151" stroke-width="2"/>
+
+  <rect x="65" y="94" width="45" height="13" rx="5" fill="#fef3c7" stroke="#374151" stroke-width="2.5"/>
+  <ellipse cx="65" cy="100" rx="4" ry="6.5" fill="#fbbf24" stroke="#374151" stroke-width="2"/>
+  <ellipse cx="110" cy="100" rx="4" ry="6.5" fill="#fbbf24" stroke="#374151" stroke-width="2"/>
+
+  <!-- BASE vertical pillars -->
+  <rect x="22" y="66" width="13" height="32" rx="5" fill="#fef3c7" stroke="#374151" stroke-width="2.5"/>
+  <line x1="24" y1="76" x2="34" y2="76" stroke="#fbbf24" stroke-width="0.9" stroke-dasharray="2,2" stroke-linecap="round"/>
+  <ellipse cx="28" cy="66" rx="6.5" ry="4" fill="#fbbf24" stroke="#374151" stroke-width="2"/>
+
+  <rect x="85" y="66" width="13" height="32" rx="5" fill="#fef3c7" stroke="#374151" stroke-width="2.5"/>
+  <line x1="87" y1="76" x2="97" y2="76" stroke="#fbbf24" stroke-width="0.9" stroke-dasharray="2,2" stroke-linecap="round"/>
+  <ellipse cx="91" cy="66" rx="6.5" ry="4" fill="#fbbf24" stroke="#374151" stroke-width="2"/>
+
+  <!-- MID LEVEL: horizontal cross-member -->
+  <rect x="28" y="60" width="63" height="10" rx="4" fill="#fef3c7" stroke="#374151" stroke-width="2"/>
+  <ellipse cx="28" cy="65" rx="4" ry="5" fill="#fbbf24" stroke="#374151" stroke-width="1.8"/>
+  <ellipse cx="91" cy="65" rx="4" ry="5" fill="#fbbf24" stroke="#374151" stroke-width="1.8"/>
+
+  <!-- MID vertical pillars (narrower) -->
+  <rect x="32" y="38" width="11" height="26" rx="4" fill="#fef9c3" stroke="#374151" stroke-width="2"/>
+  <ellipse cx="37" cy="38" rx="5.5" ry="3.5" fill="#fde68a" stroke="#374151" stroke-width="1.8"/>
+
+  <rect x="77" y="38" width="11" height="26" rx="4" fill="#fef9c3" stroke="#374151" stroke-width="2"/>
+  <ellipse cx="82" cy="38" rx="5.5" ry="3.5" fill="#fde68a" stroke="#374151" stroke-width="1.8"/>
+
+  <!-- TOP LEVEL: cross-member -->
+  <rect x="37" y="32" width="45" height="9" rx="4" fill="#fef9c3" stroke="#374151" stroke-width="2"/>
+  <ellipse cx="37" cy="36" rx="3.5" ry="4.5" fill="#fde68a" stroke="#374151" stroke-width="1.5"/>
+  <ellipse cx="82" cy="36" rx="3.5" ry="4.5" fill="#fde68a" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- TOP pillar (upper section being added) -->
+  <rect x="53" y="14" width="13" height="22" rx="5" fill="#fef9c3" stroke="#374151" stroke-width="2.5" stroke-dasharray="4,2"/>
+  <ellipse cx="59" cy="14" rx="6.5" ry="4" fill="#fde68a" stroke="#374151" stroke-width="2" stroke-dasharray="4,2"/>
+
+  <!-- Diagonal BRACING tubes (green — the technique) -->
+  <!-- Lower-left brace -->
+  <line x1="22" y1="98" x2="35" y2="66" stroke="#22c55e" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Lower-right brace -->
+  <line x1="98" y1="98" x2="85" y2="66" stroke="#22c55e" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Mid-left brace -->
+  <line x1="32" y1="64" x2="40" y2="38" stroke="#22c55e" stroke-width="2" stroke-linecap="round"/>
+  <!-- Mid-right brace -->
+  <line x1="88" y1="64" x2="80" y2="38" stroke="#22c55e" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Tape joints (blue circles) -->
+  <circle cx="28" cy="66" r="5" fill="#dbeafe" stroke="#3b82f6" stroke-width="1.8" opacity="0.85"/>
+  <circle cx="91" cy="66" r="5" fill="#dbeafe" stroke="#3b82f6" stroke-width="1.8" opacity="0.85"/>
+  <circle cx="37" cy="38" r="4.5" fill="#dbeafe" stroke="#3b82f6" stroke-width="1.5" opacity="0.85"/>
+  <circle cx="82" cy="38" r="4.5" fill="#dbeafe" stroke="#3b82f6" stroke-width="1.5" opacity="0.85"/>
+
+  <!-- Add-layer upward arrow -->
+  <path d="M59 32 L59 18" stroke="#374151" stroke-width="2" stroke-linecap="round" stroke-dasharray="3,2"/>
+  <path d="M56 21 L59 16 L62 21" stroke="#374151" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,47 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Upside-down cup with streamers being attached (hero) -->
+  <g transform="translate(24, 8)">
+    <!-- Cup body (upside down - wider at top) -->
+    <path d="M0,0 L12,60 L56,60 L68,0 Z" fill="white" stroke="#374151" stroke-width="1.5"/>
+    <!-- Cup base (now on top) -->
+    <ellipse cx="34" cy="0" rx="34" ry="5" fill="#f3f4f6" stroke="#374151" stroke-width="1.2"/>
+    <!-- Decorations on cup -->
+    <polyline points="6,14 12,8 18,14 24,8 30,14 36,8 42,14 48,8 54,14 60,8" fill="none" stroke="#ef4444" stroke-width="1.2" stroke-linecap="round"/>
+    <circle cx="16" cy="28" r="2" fill="#3b82f6"/>
+    <circle cx="34" cy="26" r="2" fill="#22c55e"/>
+    <circle cx="52" cy="28" r="2" fill="#eab308"/>
+
+    <!-- Streamers hanging from the open bottom rim -->
+    <rect x="14" y="60" width="4" height="30" rx="1" fill="#ef4444" stroke="none" opacity="0.8"/>
+    <rect x="22" y="60" width="4" height="34" rx="1" fill="#3b82f6" stroke="none" opacity="0.8"/>
+    <rect x="30" y="60" width="4" height="28" rx="1" fill="#22c55e" stroke="none" opacity="0.8"/>
+    <rect x="38" y="60" width="4" height="32" rx="1" fill="#a855f7" stroke="none" opacity="0.8"/>
+    <rect x="46" y="60" width="4" height="30" rx="1" fill="#fb923c" stroke="none" opacity="0.8"/>
+  </g>
+
+  <!-- Tape roll -->
+  <g transform="translate(96, 16)">
+    <ellipse cx="10" cy="10" rx="10" ry="10" fill="#d1fae5" stroke="#374151" stroke-width="0.8"/>
+    <ellipse cx="10" cy="10" rx="4" ry="4" fill="#fef3c7" stroke="#374151" stroke-width="0.4"/>
+  </g>
+
+  <!-- Hand taping a streamer -->
+  <g transform="translate(88, 50)">
+    <rect x="0" y="0" width="14" height="20" rx="7" fill="#fcd9b6" stroke="#374151" stroke-width="0.8"/>
+    <rect x="12" y="2" width="12" height="18" rx="6" fill="#fcd9b6" stroke="#374151" stroke-width="0.8"/>
+  </g>
+
+  <!-- Tape piece being applied -->
+  <rect x="82" y="60" width="10" height="4" rx="1" fill="#d1fae5" stroke="#374151" stroke-width="0.3"/>
+
+  <!-- Arrow showing tape direction -->
+  <defs>
+    <marker id="arr" viewBox="0 0 6 6" refX="5" refY="3" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#374151"/>
+    </marker>
+  </defs>
+  <path d="M90,48 Q86,54 84,60" fill="none" stroke="#374151" stroke-width="0.8" stroke-dasharray="2,2" marker-end="url(#arr)"/>
+</svg>

@@ -1,0 +1,51 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Finished stress ball with face (hero) -->
+  <ellipse cx="44" cy="50" rx="28" ry="32" fill="#f87171" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Funny face drawn with marker -->
+  <!-- Eyes -->
+  <circle cx="34" cy="40" r="5" fill="white" stroke="#374151" stroke-width="1"/>
+  <circle cx="35" cy="41" r="2.5" fill="#374151"/>
+  <circle cx="54" cy="40" r="5" fill="white" stroke="#374151" stroke-width="1"/>
+  <circle cx="55" cy="41" r="2.5" fill="#374151"/>
+  <!-- Eyebrows -->
+  <path d="M28,34 Q34,30 40,34" fill="none" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+  <path d="M48,34 Q54,30 60,34" fill="none" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+  <!-- Big silly grin -->
+  <path d="M30,56 Q44,68 58,56" fill="none" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Tongue sticking out -->
+  <path d="M40,60 Q44,66 48,60" fill="#ef4444" stroke="#374151" stroke-width="0.6"/>
+
+  <!-- Knot at top -->
+  <circle cx="44" cy="18" r="3" fill="#dc2626" stroke="#374151" stroke-width="0.6"/>
+
+  <!-- Hand squeezing the stress ball -->
+  <g transform="translate(64, 34)">
+    <rect x="0" y="0" width="12" height="22" rx="6" fill="#fcd9b6" stroke="#374151" stroke-width="0.8"/>
+    <rect x="14" y="4" width="10" height="18" rx="5" fill="#fcd9b6" stroke="#374151" stroke-width="0.8"/>
+    <rect x="26" y="6" width="9" height="16" rx="4.5" fill="#fcd9b6" stroke="#374151" stroke-width="0.8"/>
+  </g>
+
+  <!-- Squeeze lines -->
+  <path d="M18,40 Q14,44 18,48" fill="none" stroke="#374151" stroke-width="0.5" opacity="0.5"/>
+  <path d="M14,50 Q10,54 14,58" fill="none" stroke="#374151" stroke-width="0.5" opacity="0.5"/>
+
+  <!-- Marker -->
+  <g transform="translate(86, 72) rotate(10)">
+    <rect x="0" y="-2.5" width="20" height="5" rx="2" fill="#374151" stroke="#374151" stroke-width="0.5"/>
+    <rect x="-3" y="-3" width="4" height="6" rx="1" fill="#374151"/>
+  </g>
+
+  <!-- Second stress ball (different face) -->
+  <g transform="translate(86, 20)">
+    <ellipse cx="14" cy="16" rx="14" ry="16" fill="#60a5fa" stroke="#374151" stroke-width="0.8"/>
+    <circle cx="10" cy="12" r="2.5" fill="white" stroke="#374151" stroke-width="0.5"/>
+    <circle cx="10.5" cy="12.5" r="1.2" fill="#374151"/>
+    <circle cx="18" cy="12" r="2.5" fill="white" stroke="#374151" stroke-width="0.5"/>
+    <circle cx="18.5" cy="12.5" r="1.2" fill="#374151"/>
+    <circle cx="14" cy="20" r="3" fill="none" stroke="#374151" stroke-width="0.8"/>
+  </g>
+</svg>

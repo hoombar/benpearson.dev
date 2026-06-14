@@ -1,0 +1,41 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Filled balloon being tied (hero) -->
+  <ellipse cx="50" cy="56" rx="26" ry="30" fill="#f87171" stroke="#374151" stroke-width="1.5"/>
+  <!-- Flour visible inside -->
+  <ellipse cx="50" cy="60" rx="20" ry="24" fill="#fef3c7" stroke="none" opacity="0.3"/>
+
+  <!-- Balloon neck being pinched and tied -->
+  <path d="M50,26 L48,18 Q46,14 50,12 Q54,14 52,18 Z" fill="#ef4444" stroke="#374151" stroke-width="0.8"/>
+
+  <!-- Hands tying knot -->
+  <g transform="translate(36, 6)">
+    <rect x="0" y="0" width="10" height="16" rx="5" fill="#fcd9b6" stroke="#374151" stroke-width="0.8"/>
+  </g>
+  <g transform="translate(54, 6)">
+    <rect x="0" y="0" width="10" height="16" rx="5" fill="#fcd9b6" stroke="#374151" stroke-width="0.8"/>
+  </g>
+
+  <!-- Air being squeezed out (puff lines) -->
+  <path d="M60,20 Q64,16 68,18" fill="none" stroke="#374151" stroke-width="0.5" opacity="0.5"/>
+  <path d="M64,14 Q68,10 72,12" fill="none" stroke="#374151" stroke-width="0.5" opacity="0.5"/>
+
+  <!-- Arrow showing squeeze air out -->
+  <defs>
+    <marker id="arr" viewBox="0 0 6 6" refX="5" refY="3" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#374151"/>
+    </marker>
+  </defs>
+  <line x1="80" y1="42" x2="78" y2="34" stroke="#374151" stroke-width="0.8" stroke-dasharray="2,2" marker-end="url(#arr)"/>
+
+  <!-- Scissors for trimming excess -->
+  <g transform="translate(84, 14)">
+    <path d="M0,0 L12,4" fill="none" stroke="#9ca3af" stroke-width="2" stroke-linecap="round"/>
+    <path d="M0,0 L12,-4" fill="none" stroke="#9ca3af" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="0" cy="0" r="1.2" fill="#374151"/>
+    <ellipse cx="15" cy="5" rx="4" ry="3" fill="none" stroke="#ef4444" stroke-width="1"/>
+    <ellipse cx="15" cy="-5" rx="4" ry="3" fill="none" stroke="#ef4444" stroke-width="1"/>
+  </g>
+</svg>

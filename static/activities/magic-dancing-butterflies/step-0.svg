@@ -1,0 +1,51 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="5" y="95" width="110" height="12" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Folded tissue paper rectangle (before cutting) -->
+  <rect x="12" y="52" width="22" height="36" rx="1" fill="#fca5a5" stroke="#374151" stroke-width="1.5"/>
+  <!-- Fold line -->
+  <line x1="12" y1="70" x2="34" y2="70" stroke="#374151" stroke-width="1" stroke-dasharray="3,2" stroke-linecap="round"/>
+
+  <!-- Scissors cutting wing shape -->
+  <g transform="translate(42, 60) rotate(-10)">
+    <line x1="0" y1="0" x2="16" y2="-2" stroke="#374151" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="0" y1="0" x2="14" y2="4" stroke="#374151" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="-4" cy="-4" r="4" fill="#e5e7eb" stroke="#374151" stroke-width="1.5"/>
+    <circle cx="-4" cy="4" r="4" fill="#e5e7eb" stroke="#374151" stroke-width="1.5"/>
+  </g>
+
+  <!-- Dashed cut line (wing shape) -->
+  <path d="M34,52 Q44,58 44,70 Q44,82 34,88"
+        fill="none" stroke="#374151" stroke-width="1" stroke-dasharray="3,2" stroke-linecap="round"/>
+
+  <!-- Arrow showing transformation -->
+  <line x1="58" y1="70" x2="70" y2="70" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M67 67 L71 70 L67 73" stroke="#374151" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+
+  <!-- Unfolded butterfly (result, hero) -->
+  <!-- Left wing -->
+  <path d="M92,65 Q76,50 78,65 Q76,80 92,75" fill="#fca5a5" stroke="#374151" stroke-width="2"/>
+  <!-- Right wing -->
+  <path d="M92,65 Q108,50 106,65 Q108,80 92,75" fill="#fca5a5" stroke="#374151" stroke-width="2"/>
+  <!-- Body -->
+  <line x1="92" y1="58" x2="92" y2="82" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+  <!-- Antennae -->
+  <path d="M92,58 Q88,50 86,48" fill="none" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M92,58 Q96,50 98,48" fill="none" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="86" cy="47" r="1.5" fill="#374151" stroke="none"/>
+  <circle cx="98" cy="47" r="1.5" fill="#374151" stroke="none"/>
+
+  <!-- More tiny butterflies scattered (different colours) -->
+  <path d="M18,22 Q12,16 14,22 Q12,28 18,26" fill="#93c5fd" stroke="#374151" stroke-width="1"/>
+  <path d="M18,22 Q24,16 22,22 Q24,28 18,26" fill="#93c5fd" stroke="#374151" stroke-width="1"/>
+  <line x1="18" y1="19" x2="18" y2="29" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+
+  <path d="M42,30 Q36,24 38,30 Q36,36 42,34" fill="#d1fae5" stroke="#374151" stroke-width="1"/>
+  <path d="M42,30 Q48,24 46,30 Q48,36 42,34" fill="#d1fae5" stroke="#374151" stroke-width="1"/>
+  <line x1="42" y1="27" x2="42" y2="37" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+
+  <path d="M68,20 Q62,14 64,20 Q62,26 68,24" fill="#fef9c3" stroke="#374151" stroke-width="1"/>
+  <path d="M68,20 Q74,14 72,20 Q74,26 68,24" fill="#fef9c3" stroke="#374151" stroke-width="1"/>
+  <line x1="68" y1="17" x2="68" y2="27" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+</svg>

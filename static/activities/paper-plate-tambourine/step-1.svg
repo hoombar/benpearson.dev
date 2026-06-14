@@ -1,0 +1,37 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Two plates sandwiched together (side view showing thickness) -->
+  <ellipse cx="52" cy="52" rx="38" ry="16" fill="#f9fafb" stroke="#374151" stroke-width="1.5"/>
+  <!-- Second plate on top -->
+  <ellipse cx="52" cy="50" rx="38" ry="16" fill="#f3f4f6" stroke="#374151" stroke-width="1.5"/>
+  <!-- Rim detail -->
+  <ellipse cx="52" cy="50" rx="32" ry="13" fill="none" stroke="#e5e7eb" stroke-width="0.8"/>
+
+  <!-- Tape strips around edge -->
+  <rect x="12" y="48" width="10" height="6" rx="1" fill="#fde68a" stroke="#374151" stroke-width="0.5"/>
+  <rect x="30" y="38" width="10" height="5" rx="1" fill="#fde68a" stroke="#374151" stroke-width="0.5" transform="rotate(-15 35 40)"/>
+  <rect x="52" y="34" width="10" height="5" rx="1" fill="#fde68a" stroke="#374151" stroke-width="0.5"/>
+  <rect x="72" y="38" width="10" height="5" rx="1" fill="#fde68a" stroke="#374151" stroke-width="0.5" transform="rotate(15 77 40)"/>
+  <rect x="82" y="46" width="10" height="6" rx="1" fill="#fde68a" stroke="#374151" stroke-width="0.5"/>
+
+  <!-- Hands pressing plates together -->
+  <g transform="translate(22, 28)">
+    <rect x="0" y="0" width="8" height="16" rx="4" fill="#fcd9b6" stroke="#374151" stroke-width="0.8"/>
+    <rect x="10" y="2" width="7" height="14" rx="3.5" fill="#fcd9b6" stroke="#374151" stroke-width="0.8"/>
+  </g>
+  <g transform="translate(72, 28)">
+    <rect x="0" y="0" width="8" height="16" rx="4" fill="#fcd9b6" stroke="#374151" stroke-width="0.8"/>
+    <rect x="10" y="2" width="7" height="14" rx="3.5" fill="#fcd9b6" stroke="#374151" stroke-width="0.8"/>
+  </g>
+
+  <!-- Tape roll -->
+  <circle cx="100" cy="82" r="10" fill="#fde68a" stroke="#374151" stroke-width="1"/>
+  <circle cx="100" cy="82" r="4" fill="#f9fafb" stroke="#374151" stroke-width="0.6"/>
+
+  <!-- Sound effect lines showing test shake -->
+  <line x1="6" y1="56" x2="2" y2="52" stroke="#374151" stroke-width="0.8" stroke-linecap="round"/>
+  <line x1="6" y1="50" x2="2" y2="50" stroke="#374151" stroke-width="0.8" stroke-linecap="round"/>
+  <line x1="6" y1="44" x2="2" y2="48" stroke="#374151" stroke-width="0.8" stroke-linecap="round"/>
+</svg>

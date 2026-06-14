@@ -1,0 +1,26 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="5" markerHeight="5" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <!-- Glass jar (hero, partially covered in tissue) -->
+  <path d="M40,104 Q34,104 34,98 L34,38 C34,28 38,24 38,18 L82,18 C82,24 86,28 86,38 L86,98 Q86,104 80,104 Z"
+        stroke="#374151" stroke-width="2.5" fill="#f9fafb"/>
+  <!-- Lid -->
+  <rect x="36" y="12" width="48" height="8" rx="3" stroke="#374151" stroke-width="2" fill="#e5e7eb"/>
+  <!-- Tissue paper pieces stuck on lower half of jar -->
+  <path d="M34 70 Q40 66 50 70 Q58 76 52 84 Q44 88 36 84 Q32 78 34 70 Z" fill="#ef4444" stroke="#374151" stroke-width="1" opacity="0.85"/>
+  <path d="M50 68 Q58 64 66 68 Q72 76 66 84 Q58 88 52 84 Q46 76 50 68 Z" fill="#3b82f6" stroke="#374151" stroke-width="1" opacity="0.85"/>
+  <path d="M64 72 Q72 68 80 74 Q86 82 80 90 Q72 94 66 88 Q60 82 64 72 Z" fill="#f59e0b" stroke="#374151" stroke-width="1" opacity="0.85"/>
+  <path d="M36 84 Q44 80 54 86 Q60 94 54 102 Q44 106 38 100 Q32 94 36 84 Z" fill="#a78bfa" stroke="#374151" stroke-width="1" opacity="0.85"/>
+  <path d="M54 86 Q62 82 70 88 Q76 96 70 104 Q62 108 56 102 Q50 96 54 86 Z" fill="#22c55e" stroke="#374151" stroke-width="1" opacity="0.85"/>
+  <!-- Paintbrush applying glue -->
+  <line x1="104" y1="12" x2="78" y2="52" stroke="#374151" stroke-width="2.5" stroke-linecap="round"/>
+  <rect x="74" y="48" width="7" height="12" rx="1" fill="#86efac" stroke="#374151" stroke-width="1.5"/>
+  <!-- Glue blob visible on jar surface -->
+  <path d="M60 44 Q64 40 70 44 Q72 50 68 54 Q62 56 58 52 Q56 48 60 44 Z" fill="#f9fafb" stroke="#374151" stroke-width="1" opacity="0.7"/>
+  <!-- Arrow showing brush applying tissue to glue patch -->
+  <line x1="76" y1="58" x2="70" y2="54" stroke="#374151" stroke-width="1.5" stroke-linecap="round" marker-end="url(#arr)"/>
+</svg>

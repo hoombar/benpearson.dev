@@ -1,0 +1,58 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Half plate with rainbow (from step 0) -->
+  <g transform="translate(10, 16)">
+    <path d="M0,50 A50,50 0 0,1 100,50 L0,50 Z" fill="#ef4444" stroke="#374151" stroke-width="1.5"/>
+    <path d="M8,50 A42,42 0 0,1 92,50 L8,50 Z" fill="#f97316" stroke="none"/>
+    <path d="M16,50 A34,34 0 0,1 84,50 L16,50 Z" fill="#fbbf24" stroke="none"/>
+    <path d="M24,50 A26,26 0 0,1 76,50 L24,50 Z" fill="#22c55e" stroke="none"/>
+    <path d="M32,50 A18,18 0 0,1 68,50 L32,50 Z" fill="#3b82f6" stroke="none"/>
+    <path d="M40,50 A10,10 0 0,1 60,50 L40,50 Z" fill="#8b5cf6" stroke="none"/>
+    <path d="M0,50 A50,50 0 0,1 100,50 L0,50 Z" fill="none" stroke="#374151" stroke-width="1.5"/>
+  </g>
+
+  <!-- Cotton wool cloud on left end -->
+  <g transform="translate(4, 56)">
+    <circle cx="6" cy="6" r="6" fill="white" stroke="#374151" stroke-width="0.6"/>
+    <circle cx="14" cy="4" r="7" fill="white" stroke="#374151" stroke-width="0.6"/>
+    <circle cx="10" cy="10" r="5" fill="white" stroke="#374151" stroke-width="0.6"/>
+    <circle cx="18" cy="10" r="6" fill="white" stroke="#374151" stroke-width="0.6"/>
+  </g>
+
+  <!-- Cotton wool cloud on right end -->
+  <g transform="translate(88, 56)">
+    <circle cx="6" cy="6" r="6" fill="white" stroke="#374151" stroke-width="0.6"/>
+    <circle cx="14" cy="4" r="7" fill="white" stroke="#374151" stroke-width="0.6"/>
+    <circle cx="10" cy="10" r="5" fill="white" stroke="#374151" stroke-width="0.6"/>
+    <circle cx="20" cy="8" r="6" fill="white" stroke="#374151" stroke-width="0.6"/>
+  </g>
+
+  <!-- Hand pressing cotton wool onto plate -->
+  <g transform="translate(64, 52)">
+    <rect x="0" y="0" width="12" height="20" rx="6" fill="#fcd9b6" stroke="#374151" stroke-width="0.8"/>
+    <rect x="14" y="2" width="10" height="18" rx="5" fill="#fcd9b6" stroke="#374151" stroke-width="0.8"/>
+  </g>
+
+  <!-- Arrow showing pressing cotton -->
+  <defs>
+    <marker id="arr" viewBox="0 0 6 6" refX="5" refY="3" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#374151"/>
+    </marker>
+  </defs>
+  <path d="M70,54 Q74,58 78,60" fill="none" stroke="#374151" stroke-width="0.8" stroke-dasharray="2,2" marker-end="url(#arr)"/>
+
+  <!-- Cotton wool balls -->
+  <g transform="translate(40, 78)">
+    <circle cx="8" cy="8" r="8" fill="white" stroke="#374151" stroke-width="0.6"/>
+    <circle cx="24" cy="8" r="8" fill="white" stroke="#374151" stroke-width="0.6"/>
+    <circle cx="40" cy="8" r="8" fill="white" stroke="#374151" stroke-width="0.6"/>
+  </g>
+
+  <!-- Glue bottle -->
+  <g transform="translate(6, 78)">
+    <rect x="0" y="6" width="12" height="16" rx="3" fill="white" stroke="#374151" stroke-width="0.8"/>
+    <rect x="2" y="0" width="8" height="8" rx="2" fill="#f97316" stroke="#374151" stroke-width="0.6"/>
+  </g>
+</svg>

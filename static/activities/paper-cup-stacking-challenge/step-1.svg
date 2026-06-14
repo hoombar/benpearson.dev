@@ -1,0 +1,35 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Floor -->
+  <rect x="0" y="100" width="120" height="20" fill="#f3f4f6" stroke="none"/>
+  <line x1="0" y1="100" x2="120" y2="100" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Small pyramid being speed-built (3 levels) -->
+  <!-- Bottom: 3 cups -->
+  <path d="M28,78 L31,96 L43,96 L46,78 Z" fill="#f9fafb" stroke="#374151" stroke-width="1.2"/>
+  <path d="M48,78 L51,96 L63,96 L66,78 Z" fill="#f9fafb" stroke="#374151" stroke-width="1.2"/>
+  <path d="M68,78 L71,96 L83,96 L86,78 Z" fill="#f9fafb" stroke="#374151" stroke-width="1.2"/>
+  <!-- Middle: 2 cups -->
+  <path d="M38,58 L41,76 L53,76 L56,58 Z" fill="#dbeafe" stroke="#374151" stroke-width="1.2"/>
+  <path d="M58,58 L61,76 L73,76 L76,58 Z" fill="#dbeafe" stroke="#374151" stroke-width="1.2"/>
+  <!-- Top: 1 cup being placed (slightly tilted — action!) -->
+  <path d="M47,38 L50,56 L62,56 L65,38 Z" fill="#fca5a5" stroke="#374151" stroke-width="1.2"/>
+
+  <!-- Motion lines on top cup -->
+  <line x1="44" y1="42" x2="40" y2="38" stroke="#374151" stroke-width="0.8" stroke-linecap="round"/>
+  <line x1="44" y1="48" x2="40" y2="46" stroke="#374151" stroke-width="0.8" stroke-linecap="round"/>
+
+  <!-- Timer/stopwatch -->
+  <circle cx="100" cy="30" r="16" fill="#f9fafb" stroke="#374151" stroke-width="2"/>
+  <!-- Button on top -->
+  <rect x="98" y="12" width="4" height="4" rx="1" fill="#e5e7eb" stroke="#374151" stroke-width="1"/>
+  <!-- Clock face -->
+  <line x1="100" y1="30" x2="100" y2="20" stroke="#ef4444" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="100" y1="30" x2="108" y2="34" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+  <circle cx="100" cy="30" r="1.5" fill="#374151" stroke="none"/>
+
+  <!-- Speed lines around pyramid -->
+  <line x1="22" y1="70" x2="18" y2="70" stroke="#374151" stroke-width="0.8" stroke-linecap="round"/>
+  <line x1="22" y1="82" x2="16" y2="82" stroke="#374151" stroke-width="0.8" stroke-linecap="round"/>
+  <line x1="90" y1="74" x2="96" y2="74" stroke="#374151" stroke-width="0.8" stroke-linecap="round"/>
+  <line x1="90" y1="86" x2="94" y2="86" stroke="#374151" stroke-width="0.8" stroke-linecap="round"/>
+</svg>

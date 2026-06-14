@@ -1,0 +1,27 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <!-- Ground/Surface -->
+  <rect x="0" y="80" width="120" height="40" fill="#fde68a" opacity="0.4"/>
+  
+  <!-- Paper Plate (hero) -->
+  <ellipse cx="60" cy="85" rx="50" ry="25" fill="#f9fafb" stroke="#374151" stroke-width="2.5"/>
+  <line x1="60" y1="65" x2="60" y2="70" stroke="#374151" stroke-width="3" stroke-linecap="round"/> <!-- 12 mark -->
+
+  <!-- Straw (Gnomon) -->
+  <line x1="60" y1="85" x2="60" y2="40" stroke="#3b82f6" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- Shadow pointing to the mark -->
+  <line x1="60" y1="85" x2="60" y2="65" stroke="#374151" stroke-width="6" opacity="0.3" stroke-linecap="round"/>
+
+  <!-- Large Sun in the corner -->
+  <circle cx="100" cy="20" r="10" fill="#fde68a" stroke="#374151" stroke-width="1.5"/>
+  <path d="M100 5 L100 10 M100 30 L100 35 M85 20 L90 20 M110 20 L115 20" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- Action arrow showing turning the plate -->
+  <path d="M20,70 Q30,60 45,65" fill="none" stroke="#374151" stroke-width="2" marker-end="url(#arr)" stroke-linecap="round"/>
+</svg>

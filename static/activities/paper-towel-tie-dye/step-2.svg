@@ -1,0 +1,38 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2"
+            stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <!-- Newspaper base (slightly larger, below) -->
+  <rect x="6" y="72" width="108" height="42" rx="2" fill="#f9fafb" stroke="#374151" stroke-width="1.5"/>
+  <!-- Newspaper column lines -->
+  <line x1="6" y1="84" x2="114" y2="84" stroke="#e5e7eb" stroke-width="1"/>
+  <line x1="6" y1="96" x2="114" y2="96" stroke="#e5e7eb" stroke-width="1"/>
+  <line x1="6" y1="108" x2="114" y2="108" stroke="#e5e7eb" stroke-width="1"/>
+  <line x1="42" y1="72" x2="42" y2="114" stroke="#e5e7eb" stroke-width="1"/>
+  <line x1="78" y1="72" x2="78" y2="114" stroke="#e5e7eb" stroke-width="1"/>
+  <!-- Partially unfolded towel on newspaper — shown as near-flat with colour bursts -->
+  <rect x="14" y="74" width="92" height="36" rx="2" fill="#f9fafb" stroke="#374151" stroke-width="2"/>
+  <!-- Colour bursts from corners — showing the reveal -->
+  <!-- Red burst bottom-left -->
+  <ellipse cx="22" cy="104" rx="14" ry="8" fill="#fca5a5" opacity="0.8" stroke="none"/>
+  <!-- Blue burst bottom-right -->
+  <ellipse cx="98" cy="104" rx="14" ry="8" fill="#93c5fd" opacity="0.8" stroke="none"/>
+  <!-- Yellow burst top-right -->
+  <ellipse cx="96" cy="80" rx="12" ry="6" fill="#fde68a" opacity="0.8" stroke="none"/>
+  <!-- Purple burst top-left -->
+  <ellipse cx="24" cy="80" rx="12" ry="6" fill="#c4b5fd" opacity="0.8" stroke="none"/>
+  <!-- Colour blend in centre -->
+  <ellipse cx="60" cy="92" rx="18" ry="10" fill="#dbeafe" opacity="0.5" stroke="none"/>
+  <!-- Fold lines still visible (being peeled back) -->
+  <line x1="60" y1="74" x2="60" y2="110" stroke="#374151" stroke-width="1" stroke-dasharray="4,3"/>
+  <line x1="14" y1="92" x2="106" y2="92" stroke="#374151" stroke-width="1" stroke-dasharray="4,3"/>
+  <!-- Hands peeling corner back (represented as arrows) -->
+  <path d="M24 58 L20 72" stroke="#374151" stroke-width="2" stroke-linecap="round" fill="none" marker-end="url(#arr)"/>
+  <path d="M96 58 L100 72" stroke="#374151" stroke-width="2" stroke-linecap="round" fill="none" marker-end="url(#arr)"/>
+  <!-- Folded edge being lifted -->
+  <path d="M14 72 Q12 60 22 52 Q30 44 40 52" fill="none" stroke="#374151" stroke-width="1.5" stroke-dasharray="3,2"/>
+</svg>

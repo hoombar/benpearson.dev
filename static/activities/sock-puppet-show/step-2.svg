@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Background -->
+  <rect width="120" height="120" fill="#f9fafb"/>
+
+  <!-- === HERO PUPPET: VILLAIN (left, red sock) === -->
+  <g transform="translate(32, 62)">
+    <!-- Sock body (red) -->
+    <path d="M-20,-48 L-20,18 Q-20,28 -12,30 L12,30 Q20,28 20,18 L20,-48 Z"
+          fill="#ef4444" stroke="#374151" stroke-width="2.5" stroke-linejoin="round"/>
+    <!-- Toe -->
+    <path d="M-20,18 Q-20,30 -12,30 L12,30 Q20,28 20,18 Z" fill="#fca5a5" stroke="#374151" stroke-width="1.5"/>
+    <!-- Cuff (black) -->
+    <rect x="-20" y="-48" width="40" height="10" rx="2" fill="#374151" stroke="#374151" stroke-width="1.5"/>
+
+    <!-- Eyes (white with pupils) -->
+    <circle cx="-8" cy="-22" r="6" fill="#f9fafb" stroke="#374151" stroke-width="2"/>
+    <circle cx="-7" cy="-21" r="3" fill="#374151"/>
+    <circle cx="8"  cy="-22" r="6" fill="#f9fafb" stroke="#374151" stroke-width="2"/>
+    <circle cx="9"  cy="-21" r="3" fill="#374151"/>
+
+    <!-- Eyebrows (angry V-shape — villain!) -->
+    <path d="M-14,-30 L-8,-26" stroke="#374151" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M14,-30 L8,-26"  stroke="#374151" stroke-width="2.5" stroke-linecap="round"/>
+
+    <!-- Frown mouth -->
+    <path d="M-8,0 Q0,-6 8,0" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+
+    <!-- Yarn hair (wild orange spikes) -->
+    <path d="M-18,-48 Q-22,-58 -16,-62" fill="none" stroke="#f97316" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M-10,-48 Q-12,-60 -6,-64" fill="none" stroke="#f97316" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M0,-48 Q0,-62 4,-66"    fill="none" stroke="#f97316" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M10,-48 Q12,-60 16,-64" fill="none" stroke="#f97316" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M18,-48 Q22,-58 20,-62" fill="none" stroke="#f97316" stroke-width="2.5" stroke-linecap="round"/>
+
+    <!-- Stick handle -->
+    <rect x="-4" y="30" width="8" height="28" rx="2" fill="#fbbf24" stroke="#d97706" stroke-width="1.5"/>
+  </g>
+
+  <!-- === HERO PUPPET: HERO (right, blue sock with crown) === -->
+  <g transform="translate(88, 58)">
+    <!-- Sock body (blue) -->
+    <path d="M-20,-48 L-20,18 Q-20,28 -12,30 L12,30 Q20,28 20,18 L20,-48 Z"
+          fill="#3b82f6" stroke="#374151" stroke-width="2.5" stroke-linejoin="round"/>
+    <!-- Toe -->
+    <path d="M-20,18 Q-20,30 -12,30 L12,30 Q20,28 20,18 Z" fill="#93c5fd" stroke="#374151" stroke-width="1.5"/>
+    <!-- Cuff (white) -->
+    <rect x="-20" y="-48" width="40" height="10" rx="2" fill="#f9fafb" stroke="#374151" stroke-width="1.5"/>
+
+    <!-- Crown (gold, affixed on top of cuff) -->
+    <path d="M-18,-58 L-18,-48 L18,-48 L18,-58 L12,-52 L6,-60 L0,-52 L-6,-60 L-12,-52 Z"
+          fill="#f59e0b" stroke="#d97706" stroke-width="1.5" stroke-linejoin="round"/>
+    <!-- Crown gems -->
+    <circle cx="0"   cy="-54" r="2" fill="#ef4444"/>
+    <circle cx="-10" cy="-50" r="1.5" fill="#22c55e"/>
+    <circle cx="10"  cy="-50" r="1.5" fill="#a78bfa"/>
+
+    <!-- Eyes (white with pupils) -->
+    <circle cx="-8" cy="-22" r="6" fill="#f9fafb" stroke="#374151" stroke-width="2"/>
+    <circle cx="-7" cy="-21" r="3" fill="#374151"/>
+    <!-- Gleam dot -->
+    <circle cx="-10" cy="-24" r="1" fill="#f9fafb"/>
+    <circle cx="8"   cy="-22" r="6" fill="#f9fafb" stroke="#374151" stroke-width="2"/>
+    <circle cx="9"   cy="-21" r="3" fill="#374151"/>
+    <circle cx="6"   cy="-24" r="1" fill="#f9fafb"/>
+
+    <!-- Smile mouth -->
+    <path d="M-8,0 Q0,8 8,0" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+
+    <!-- Cheek blush dots -->
+    <circle cx="-14" cy="-8" r="4" fill="#fca5a5" opacity="0.7"/>
+    <circle cx="14"  cy="-8" r="4" fill="#fca5a5" opacity="0.7"/>
+
+    <!-- Yarn hair (neat yellow curls) -->
+    <path d="M-16,-48 Q-20,-56 -14,-60 Q-8,-58 -10,-48" fill="none" stroke="#f59e0b" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M0,-48 Q0,-58 6,-62 Q12,-60 10,-48" fill="none" stroke="#f59e0b" stroke-width="2.5" stroke-linecap="round"/>
+
+    <!-- Stick handle -->
+    <rect x="-4" y="30" width="8" height="28" rx="2" fill="#fbbf24" stroke="#d97706" stroke-width="1.5"/>
+  </g>
+</svg>

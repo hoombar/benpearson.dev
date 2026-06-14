@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Table surface -->
+  <rect x="4" y="112" width="112" height="4" rx="1" fill="#e5e7eb" stroke="#374151" stroke-width="1"/>
+
+  <!-- Lava puddle on table -->
+  <ellipse cx="60" cy="113" rx="48" ry="5" fill="#fca5a5" stroke="none" opacity="0.7"/>
+
+  <!-- Volcano cone (background) -->
+  <path d="M10,112 L60,44 L110,112 Z" fill="#d97706" stroke="#374151" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- shading right -->
+  <path d="M60,44 L110,112 L86,112 Z" fill="#b45309" stroke="none" opacity="0.35"/>
+
+  <!-- Lava flows down sides (red/orange) -->
+  <!-- left lava stream -->
+  <path d="M56,44 Q48,62 40,80 Q34,95 28,112" fill="none" stroke="#ef4444" stroke-width="5" stroke-linecap="round"/>
+  <path d="M56,44 Q48,62 40,80 Q34,95 28,112" fill="none" stroke="#fca5a5" stroke-width="2" stroke-linecap="round"/>
+  <!-- right lava stream -->
+  <path d="M64,44 Q72,62 80,80 Q86,95 92,112" fill="none" stroke="#ef4444" stroke-width="5" stroke-linecap="round"/>
+  <path d="M64,44 Q72,62 80,80 Q86,95 92,112" fill="none" stroke="#fca5a5" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Eruption column (from crater, orange-red foam) -->
+  <path d="M52,44 Q46,28 50,14 Q54,4 60,6 Q66,4 70,14 Q74,28 68,44 Z" fill="#fca5a5" stroke="#374151" stroke-width="2"/>
+  <!-- inner eruption lighter -->
+  <path d="M55,44 Q51,30 54,16 Q57,8 60,10 Q63,8 66,16 Q69,30 65,44 Z" fill="#fee2e2" stroke="none"/>
+
+  <!-- Foam bubbles at top of eruption (hero, vivid) -->
+  <circle cx="52" cy="14" r="8" fill="#ef4444" stroke="#374151" stroke-width="2"/>
+  <circle cx="68" cy="12" r="9" fill="#f97316" stroke="#374151" stroke-width="2"/>
+  <circle cx="60" cy="6" r="7" fill="#fca5a5" stroke="#374151" stroke-width="2"/>
+  <circle cx="44" cy="10" r="6" fill="#ef4444" stroke="#374151" stroke-width="1.5"/>
+  <circle cx="76" cy="8" r="6" fill="#f97316" stroke="#374151" stroke-width="1.5"/>
+  <!-- bubble highlights -->
+  <circle cx="50" cy="11" r="2" fill="#fee2e2" stroke="none" opacity="0.7"/>
+  <circle cx="66" cy="9" r="2.5" fill="#fee2e2" stroke="none" opacity="0.7"/>
+
+  <!-- CO2 bubbles in eruption column -->
+  <circle cx="57" cy="30" r="3" fill="#fee2e2" stroke="#fca5a5" stroke-width="1"/>
+  <circle cx="63" cy="36" r="2.5" fill="#fee2e2" stroke="#fca5a5" stroke-width="1"/>
+  <circle cx="59" cy="40" r="2" fill="#fee2e2" stroke="#fca5a5" stroke-width="1"/>
+
+  <!-- Foam splatter dots on table -->
+  <circle cx="22" cy="108" r="3" fill="#fca5a5" stroke="#374151" stroke-width="1"/>
+  <circle cx="30" cy="106" r="2" fill="#ef4444" stroke="#374151" stroke-width="1"/>
+  <circle cx="90" cy="106" r="2" fill="#ef4444" stroke="#374151" stroke-width="1"/>
+  <circle cx="100" cy="108" r="3" fill="#fca5a5" stroke="#374151" stroke-width="1"/>
+
+  <!-- Motion lines / CO2 gas wisps around eruption -->
+  <path d="M36,20 Q30,14 32,8" fill="none" stroke="#f97316" stroke-width="1.5" stroke-linecap="round" opacity="0.7"/>
+  <path d="M84,18 Q90,12 88,6" fill="none" stroke="#f97316" stroke-width="1.5" stroke-linecap="round" opacity="0.7"/>
+  <path d="M40,30 Q34,24 36,18" fill="none" stroke="#fca5a5" stroke-width="1" stroke-linecap="round" opacity="0.6"/>
+</svg>

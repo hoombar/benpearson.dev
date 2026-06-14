@@ -1,0 +1,63 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="120" height="120" fill="#f9fafb"/>
+
+  <!-- STEP: bend trailing edge of each wing up or leave flat for speed -->
+
+  <!-- THREE planes side by side showing different wing angles -->
+
+  <!-- PLANE 1 (left): trailing edge bent UP for lift -->
+  <g transform="translate(4, 30) rotate(-5 35 40)">
+    <!-- Fuselage body -->
+    <path d="M8 52 L48 36 L62 44 L48 52 L8 52" fill="#f3f4f6" stroke="#374151" stroke-width="2" stroke-linejoin="round"/>
+    <!-- Upper wing crease -->
+    <line x1="20" y1="52" x2="52" y2="38" stroke="#374151" stroke-width="1" stroke-dasharray="3,2" stroke-linecap="round"/>
+    <!-- Trailing edge BENT UP (blue accent) -->
+    <path d="M48 36 L44 26" stroke="#3b82f6" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    <path d="M40 29 L44 26 L46 31" stroke="#3b82f6" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <!-- Lift arrow up -->
+  <path d="M22 22 L22 10" stroke="#22c55e" stroke-width="2" stroke-linecap="round"/>
+  <path d="M19 13 L22 9 L25 13" stroke="#22c55e" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- PLANE 2 (centre): flat wing, maximum speed -->
+  <g transform="translate(30, 28)">
+    <path d="M8 52 L48 36 L62 44 L48 52 L8 52" fill="#e5e7eb" stroke="#374151" stroke-width="2" stroke-linejoin="round"/>
+    <line x1="20" y1="52" x2="52" y2="38" stroke="#374151" stroke-width="1" stroke-dasharray="3,2" stroke-linecap="round"/>
+    <!-- Flat trailing edge (no bend) -->
+    <line x1="48" y1="36" x2="62" y2="44" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+    <!-- Speed label: horizontal speed arrow -->
+    <path d="M64 44 L76 44" stroke="#f97316" stroke-width="2" stroke-linecap="round"/>
+    <path d="M73 41 L77 44 L73 47" stroke="#f97316" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- PLANE 3 (right): trailing edge bent DOWN for dive/loops -->
+  <g transform="translate(56, 26) rotate(5 35 44)">
+    <path d="M8 52 L48 36 L62 44 L48 52 L8 52" fill="#f3f4f6" stroke="#374151" stroke-width="2" stroke-linejoin="round"/>
+    <line x1="20" y1="52" x2="52" y2="38" stroke="#374151" stroke-width="1" stroke-dasharray="3,2" stroke-linecap="round"/>
+    <!-- Trailing edge BENT DOWN -->
+    <path d="M48 36 L50 48" stroke="#ef4444" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    <path d="M47 45 L50 49 L53 45" stroke="#ef4444" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <!-- Dive arrow down -->
+  <path d="M106 28 L106 38" stroke="#ef4444" stroke-width="2" stroke-linecap="round"/>
+  <path d="M103 35 L106 39 L109 35" stroke="#ef4444" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Labels row (text-free: use coloured badge circles) -->
+  <circle cx="20" cy="90" r="8" fill="#dbeafe" stroke="#3b82f6" stroke-width="2"/>
+  <!-- Up arrow in badge -->
+  <path d="M20 94 L20 87" stroke="#3b82f6" stroke-width="1.8" stroke-linecap="round"/>
+  <path d="M17 90 L20 86 L23 90" stroke="#3b82f6" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <circle cx="60" cy="90" r="8" fill="#ffedd5" stroke="#f97316" stroke-width="2"/>
+  <path d="M54 90 L66 90" stroke="#f97316" stroke-width="1.8" stroke-linecap="round"/>
+  <path d="M63 87 L67 90 L63 93" stroke="#f97316" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <circle cx="100" cy="90" r="8" fill="#fee2e2" stroke="#ef4444" stroke-width="2"/>
+  <path d="M100 86 L100 93" stroke="#ef4444" stroke-width="1.8" stroke-linecap="round"/>
+  <path d="M97 90 L100 94 L103 90" stroke="#ef4444" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Three finger icons suggesting "make 3 planes" -->
+  <path d="M42 104 L42 96 M48 104 L48 94 M54 104 L54 97" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+  <ellipse cx="48" cy="107" rx="10" ry="4" fill="#fbbf24" stroke="#374151" stroke-width="1.5"/>
+</svg>

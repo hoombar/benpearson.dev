@@ -1,0 +1,25 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <!-- Paper Plate (hero) -->
+  <ellipse cx="60" cy="65" rx="50" ry="40" fill="#f9fafb" stroke="#374151" stroke-width="2.5"/>
+  <ellipse cx="60" cy="65" rx="35" ry="28" fill="none" stroke="#e5e7eb" stroke-width="1.5"/>
+
+  <!-- Thick marking at the top -->
+  <line x1="60" y1="28" x2="60" y2="35" stroke="#374151" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- Sun decoration -->
+  <circle cx="25" cy="45" r="8" fill="#fde68a" stroke="#374151" stroke-width="1.5"/>
+  <line x1="25" y1="32" x2="25" y2="36" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="25" y1="54" x2="25" y2="58" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- Marker drawing -->
+  <g transform="translate(60, 38) rotate(-45)">
+    <rect x="-3" y="-30" width="6" height="25" rx="1" fill="#3b82f6" stroke="#374151" stroke-width="2"/>
+    <rect x="-3" y="-5" width="6" height="5" fill="#374151"/>
+  </g>
+</svg>

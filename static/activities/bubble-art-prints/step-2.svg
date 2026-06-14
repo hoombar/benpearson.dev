@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Step 2: Capture the Print — paper pressed flat onto bubble dome -->
+
+  <!-- Table surface -->
+  <rect x="0" y="106" width="120" height="14" fill="#f3f4f6" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+
+  <!-- Container with bubble dome peeking up at bottom -->
+  <g transform="translate(60, 98)">
+    <path d="M-24,0 L-26,12 L26,12 L24,0 Z" fill="#fee2e2" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+    <ellipse cx="0" cy="0" rx="24" ry="7" fill="#fca5a5" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+    <ellipse cx="0" cy="1" rx="20" ry="5.5" fill="#ef4444" opacity="0.75"/>
+    <!-- bubbles rising from rim (centered on rim so bottom half is in container) -->
+    <circle cx="-10" cy="0" r="9" fill="#fca5a5" stroke="#374151" stroke-width="1.5" stroke-linecap="round" opacity="0.9"/>
+    <circle cx="5" cy="0" r="11" fill="#fdba74" stroke="#374151" stroke-width="1.5" stroke-linecap="round" opacity="0.9"/>
+    <circle cx="20" cy="0" r="8" fill="#fde68a" stroke="#374151" stroke-width="1.5" stroke-linecap="round" opacity="0.9"/>
+  </g>
+
+  <!-- Paper sheet being pressed down (hero — 30%+ of canvas) -->
+  <g transform="translate(60, 54)">
+    <!-- paper shadow -->
+    <rect x="-46" y="0" width="92" height="42" rx="3" fill="#d1d5db" opacity="0.35" transform="translate(2,3)"/>
+    <!-- paper body -->
+    <rect x="-46" y="0" width="92" height="42" rx="3" fill="#f9fafb" stroke="#374151" stroke-width="2.5" stroke-linecap="round"/>
+    <!-- paper edge fold hint -->
+    <line x1="-46" y1="2" x2="-44" y2="0" stroke="#e5e7eb" stroke-width="1" stroke-linecap="round"/>
+    <line x1="46" y1="2" x2="44" y2="0" stroke="#e5e7eb" stroke-width="1" stroke-linecap="round"/>
+    <!-- circular bubble prints captured on paper (coloured rings where bubbles burst) -->
+    <!-- red print cluster left -->
+    <circle cx="-24" cy="20" r="11" fill="#fca5a5" stroke="#374151" stroke-width="1.5" stroke-linecap="round" opacity="0.85"/>
+    <circle cx="-24" cy="20" r="5.5" fill="#fee2e2" opacity="0.65"/>
+    <!-- orange print centre -->
+    <circle cx="2" cy="13" r="14" fill="#fdba74" stroke="#374151" stroke-width="1.5" stroke-linecap="round" opacity="0.85"/>
+    <circle cx="2" cy="13" r="7" fill="#ffedd5" opacity="0.6"/>
+    <!-- yellow print right -->
+    <circle cx="28" cy="22" r="10" fill="#fde68a" stroke="#374151" stroke-width="1.5" stroke-linecap="round" opacity="0.85"/>
+    <circle cx="28" cy="22" r="5" fill="#fef9c3" opacity="0.6"/>
+    <!-- small satellite prints -->
+    <circle cx="-34" cy="10" r="5" fill="#fca5a5" stroke="#374151" stroke-width="1" stroke-linecap="round" opacity="0.7"/>
+    <circle cx="38" cy="10" r="5" fill="#fde68a" stroke="#374151" stroke-width="1" stroke-linecap="round" opacity="0.7"/>
+    <circle cx="-10" cy="32" r="4" fill="#fdba74" stroke="#374151" stroke-width="1" stroke-linecap="round" opacity="0.7"/>
+    <circle cx="16" cy="34" r="4.5" fill="#fca5a5" stroke="#374151" stroke-width="1" stroke-linecap="round" opacity="0.7"/>
+  </g>
+
+  <!-- Press-down arrows showing pressing action -->
+  <line x1="16" y1="46" x2="16" y2="54" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+  <polygon points="13,52 16,58 19,52" fill="#374151"/>
+  <line x1="98" y1="46" x2="98" y2="54" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+  <polygon points="95,52 98,58 101,52" fill="#374151"/>
+</svg>

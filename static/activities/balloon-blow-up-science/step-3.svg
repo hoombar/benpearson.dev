@@ -1,0 +1,27 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <!-- Bottle -->
+  <path d="M45,60 C45,75 40,80 40,110 C40,115 80,115 80,110 C80,80 75,75 75,60 L75,50 L45,50 Z" fill="#f3f4f6" stroke="#374151" stroke-width="2" stroke-linejoin="round"/>
+  
+  <!-- Fizzy reaction liquid -->
+  <path d="M41,80 C45,75 50,75 60,78 C70,81 75,78 79,80 L79,108 C75,112 45,112 41,108 Z" fill="#dbeafe" stroke="#374151" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Bubbles -->
+  <circle cx="50" cy="85" r="3" fill="none" stroke="#374151" stroke-width="1"/>
+  <circle cx="65" cy="82" r="4" fill="none" stroke="#374151" stroke-width="1"/>
+  <circle cx="55" cy="70" r="2" fill="none" stroke="#374151" stroke-width="1"/>
+  <circle cx="70" cy="75" r="3" fill="none" stroke="#374151" stroke-width="1"/>
+
+  <!-- Balloon inflated -->
+  <path d="M40,50 C20,40 20,0 60,0 C100,0 100,40 80,50 L40,50 Z" fill="#ef4444" stroke="#374151" stroke-width="2" stroke-linejoin="round"/>
+  
+  <!-- Falling baking soda -->
+  <path d="M55,50 Q60,65 65,80" fill="none" stroke="#e5e7eb" stroke-width="4" stroke-dasharray="2,4" stroke-linecap="round"/>
+
+  <!-- Action arrow lifting up -->
+  <path d="M100,60 Q105,40 85,25" fill="none" stroke="#374151" stroke-width="2" marker-end="url(#arr)" stroke-linecap="round"/>
+</svg>

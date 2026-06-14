@@ -1,0 +1,54 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Garden scene paper (hero) -->
+  <rect x="8" y="8" width="104" height="104" rx="2" fill="#f9fafb" stroke="#374151" stroke-width="2"/>
+  <!-- Sky area (upper third — light blue) -->
+  <rect x="8" y="8" width="104" height="36" rx="0" fill="#dbeafe" stroke="none"/>
+  <!-- Sun -->
+  <circle cx="98" cy="22" r="10" fill="#fde68a" stroke="#374151" stroke-width="1.5"/>
+  <line x1="98" y1="10" x2="98" y2="7" stroke="#fde68a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="108" y1="14" x2="110" y2="12" stroke="#fde68a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="110" y1="22" x2="113" y2="22" stroke="#fde68a" stroke-width="2" stroke-linecap="round"/>
+  <line x1="88" y1="14" x2="86" y2="12" stroke="#fde68a" stroke-width="2" stroke-linecap="round"/>
+  <!-- Cloud -->
+  <ellipse cx="30" cy="18" rx="14" ry="7" fill="white" stroke="#d1d5db" stroke-width="1.5"/>
+  <ellipse cx="22" cy="20" rx="9" ry="6" fill="white" stroke="#d1d5db" stroke-width="1.5"/>
+  <ellipse cx="38" cy="20" rx="9" ry="6" fill="white" stroke="#d1d5db" stroke-width="1.5"/>
+  <!-- Ground area (green) -->
+  <rect x="8" y="80" width="104" height="32" rx="0" fill="#d1fae5" stroke="none"/>
+  <!-- Grass stalks -->
+  <line x1="18" y1="80" x2="14" y2="68" stroke="#22c55e" stroke-width="2" stroke-linecap="round"/>
+  <line x1="24" y1="80" x2="28" y2="66" stroke="#22c55e" stroke-width="2" stroke-linecap="round"/>
+  <line x1="34" y1="80" x2="30" y2="68" stroke="#22c55e" stroke-width="2" stroke-linecap="round"/>
+  <line x1="76" y1="80" x2="72" y2="66" stroke="#22c55e" stroke-width="2" stroke-linecap="round"/>
+  <line x1="86" y1="80" x2="90" y2="68" stroke="#22c55e" stroke-width="2" stroke-linecap="round"/>
+  <line x1="96" y1="80" x2="100" y2="68" stroke="#22c55e" stroke-width="2" stroke-linecap="round"/>
+  <line x1="106" y1="80" x2="104" y2="68" stroke="#22c55e" stroke-width="2" stroke-linecap="round"/>
+  <!-- Flowers -->
+  <!-- Flower 1 (red) -->
+  <circle cx="50" cy="62" r="7" fill="#ef4444" stroke="#374151" stroke-width="1.5"/>
+  <circle cx="50" cy="62" r="3" fill="#fde68a" stroke="#374151" stroke-width="1"/>
+  <line x1="50" y1="69" x2="50" y2="80" stroke="#22c55e" stroke-width="2" stroke-linecap="round"/>
+  <!-- Flower 2 (purple) -->
+  <circle cx="70" cy="58" r="7" fill="#a78bfa" stroke="#374151" stroke-width="1.5"/>
+  <circle cx="70" cy="58" r="3" fill="#fde68a" stroke="#374151" stroke-width="1"/>
+  <line x1="70" y1="65" x2="70" y2="80" stroke="#22c55e" stroke-width="2" stroke-linecap="round"/>
+  <!-- Bug on flower 1 — ladybird (red fingerprint) -->
+  <ellipse cx="44" cy="52" rx="7" ry="8" fill="#ef4444" stroke="#374151" stroke-width="1.5"/>
+  <line x1="44" y1="44" x2="44" y2="60" stroke="#374151" stroke-width="1"/>
+  <circle cx="40" cy="50" r="1.5" fill="#374151"/>
+  <circle cx="48" cy="50" r="1.5" fill="#374151"/>
+  <!-- Bug on flower 2 — bee (yellow fingerprint) -->
+  <ellipse cx="76" cy="48" rx="6" ry="8" fill="#f59e0b" stroke="#374151" stroke-width="1.5"/>
+  <line x1="68" y1="46" x2="76" y2="46" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+  <line x1="68" y1="50" x2="76" y2="50" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+  <!-- Caterpillar on ground -->
+  <ellipse cx="22" cy="88" rx="7" ry="8" fill="#22c55e" stroke="#374151" stroke-width="1.5"/>
+  <ellipse cx="34" cy="88" rx="7" ry="8" fill="#22c55e" stroke="#374151" stroke-width="1.5"/>
+  <ellipse cx="46" cy="88" rx="7" ry="8" fill="#22c55e" stroke="#374151" stroke-width="1.5"/>
+  <!-- Caterpillar face -->
+  <circle cx="56" cy="88" rx="7" ry="8" fill="#22c55e" stroke="#374151" stroke-width="1.5"/>
+  <circle cx="53" cy="86" r="1.5" fill="#374151"/>
+  <circle cx="59" cy="86" r="1.5" fill="#374151"/>
+  <!-- Path through garden -->
+  <path d="M8 108 Q60 96 112 108" fill="none" stroke="#d97706" stroke-width="2" stroke-dasharray="6,4" stroke-linecap="round"/>
+</svg>

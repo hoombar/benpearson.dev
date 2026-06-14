@@ -1,0 +1,15 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <!-- Tube cross section (cutaway) -->
+  <rect x="45" y="15" width="30" height="90" rx="2" fill="none" stroke="#374151" stroke-width="2" stroke-dasharray="4,2"/>
+  <!-- Mirror at 45 degrees -->
+  <line x1="45" y1="105" x2="75" y2="75" stroke="#3b82f6" stroke-width="3" stroke-linecap="round"/>
+  <!-- Viewing window -->
+  <rect x="45" y="70" width="8" height="15" fill="#f3f4f6" stroke="#374151" stroke-width="1.5"/>
+  <!-- Arrow showing insertion -->
+  <line x1="60" y1="50" x2="60" y2="80" stroke="#374151" stroke-width="2" marker-end="url(#arr)"/>
+</svg>

@@ -1,0 +1,41 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="6" markerHeight="6" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#374151" stroke-width="2"
+            stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <!-- Foil tray top-down view with folded sides visible -->
+  <!-- Inner base (silver) -->
+  <rect x="26" y="26" width="68" height="68" rx="1" fill="#e5e7eb" stroke="#374151" stroke-width="2"/>
+  <!-- Folded side borders (slightly darker, showing depth) -->
+  <rect x="18" y="18" width="84" height="8" rx="1" fill="#d1d5db" stroke="#374151" stroke-width="1.5"/>
+  <rect x="18" y="94" width="84" height="8" rx="1" fill="#d1d5db" stroke="#374151" stroke-width="1.5"/>
+  <rect x="18" y="26" width="8" height="68" rx="1" fill="#d1d5db" stroke="#374151" stroke-width="1.5"/>
+  <rect x="94" y="26" width="8" height="68" rx="1" fill="#d1d5db" stroke="#374151" stroke-width="1.5"/>
+  <!-- Corner close-up zoom circle (top-left corner) -->
+  <circle cx="26" cy="26" r="18" fill="#fef9c3" stroke="#374151" stroke-width="1.5" fill-opacity="0.7"/>
+  <!-- Zoom detail: corner flap being pressed flat — two triangular flaps converging -->
+  <!-- Left flap -->
+  <path d="M18 18 L26 18 L18 26 Z" fill="#9ca3af" stroke="#374151" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Arrow pressing left flap inward -->
+  <line x1="10" y1="14" x2="19" y2="20" stroke="#374151" stroke-width="1.5" stroke-linecap="round" marker-end="url(#arr)"/>
+  <!-- Top flap -->
+  <path d="M18 18 L18 26 L26 18 Z" fill="#b0b8c4" stroke="#374151" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Zoom lines from circle to enlarged corner detail -->
+  <!-- Bottom-right corner with "done" indicator (pinched flat) -->
+  <path d="M94 94 L102 94 L102 102 L94 102 Z" fill="#d1d5db" stroke="#374151" stroke-width="1.5"/>
+  <!-- Check-mark style pressed flat indicator at that corner -->
+  <path d="M96 98 L99 101 L104 96" fill="none" stroke="#374151" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Top-right corner pinched indicator -->
+  <path d="M94 18 L102 18 L102 26 L94 26 Z" fill="#d1d5db" stroke="#374151" stroke-width="1.5"/>
+  <path d="M96 22 L99 25 L104 20" fill="none" stroke="#374151" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Bottom-left corner pinched indicator -->
+  <path d="M18 94 L26 94 L26 102 L18 102 Z" fill="#d1d5db" stroke="#374151" stroke-width="1.5"/>
+  <path d="M20 98 L23 101 L28 96" fill="none" stroke="#374151" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Inner shimmer lines -->
+  <line x1="34" y1="44" x2="84" y2="47" stroke="#9ca3af" stroke-width="0.75" stroke-linecap="round"/>
+  <line x1="32" y1="60" x2="86" y2="62" stroke="#9ca3af" stroke-width="0.75" stroke-linecap="round"/>
+  <line x1="34" y1="76" x2="84" y2="78" stroke="#9ca3af" stroke-width="0.75" stroke-linecap="round"/>
+</svg>

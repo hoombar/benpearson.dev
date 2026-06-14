@@ -1,0 +1,30 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- String track -->
+  <line x1="10" y1="50" x2="110" y2="50" stroke="#374151" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="10" cy="50" r="3" fill="#374151"/>
+  <circle cx="110" cy="50" r="3" fill="#374151"/>
+  <!-- Straw near right end (rocket has zoomed along) -->
+  <rect x="80" y="44" width="20" height="12" rx="5" stroke="#374151" stroke-width="2" fill="#fbbf24"/>
+  <!-- Balloon (mostly deflated, wrinkled, at the straw position) -->
+  <ellipse cx="88" cy="70" rx="16" ry="12" stroke="#374151" stroke-width="2" fill="#ef4444"/>
+  <!-- Deflated/wrinkly lines -->
+  <path d="M78 68 Q82 64 86 68 Q90 72 94 68" stroke="#fca5a5" stroke-width="1" fill="none"/>
+  <path d="M80 72 Q84 70 88 72" stroke="#fca5a5" stroke-width="1" fill="none"/>
+  <!-- Balloon neck (open, air escaping) -->
+  <path d="M72 70 Q68 70 68 74 L68 76 Q68 80 72 80 L76 80 Q78 76 78 74 L78 70 Z"
+        stroke="#374151" stroke-width="1.5" fill="#fca5a5"/>
+  <!-- Air puffs escaping from neck (left side) -->
+  <path d="M68 73 Q60 70 54 73" stroke="#374151" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-dasharray="3,2"/>
+  <path d="M68 75 Q60 78 52 76" stroke="#374151" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-dasharray="3,2"/>
+  <!-- Speed / motion lines (showing it just arrived) -->
+  <line x1="14" y1="44" x2="30" y2="44" stroke="#374151" stroke-width="1.5" stroke-linecap="round" opacity="0.5"/>
+  <line x1="14" y1="50" x2="28" y2="50" stroke="#374151" stroke-width="1" stroke-linecap="round" opacity="0.4"/>
+  <line x1="14" y1="56" x2="32" y2="56" stroke="#374151" stroke-width="1.5" stroke-linecap="round" opacity="0.5"/>
+  <!-- Dashed trail along string (path the balloon took) -->
+  <line x1="12" y1="50" x2="78" y2="50" stroke="#374151" stroke-width="1" stroke-dasharray="5,3" opacity="0.5"/>
+  <!-- Stars / celebration marks at landing zone -->
+  <line x1="108" y1="28" x2="112" y2="22" stroke="#fbbf24" stroke-width="2" stroke-linecap="round"/>
+  <line x1="112" y1="32" x2="118" y2="30" stroke="#fbbf24" stroke-width="2" stroke-linecap="round"/>
+  <line x1="110" y1="36" x2="116" y2="38" stroke="#fbbf24" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="110" cy="28" r="3" fill="#f59e0b"/>
+</svg>

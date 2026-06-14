@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Background -->
+  <rect width="120" height="120" fill="#f9fafb"/>
+
+  <!-- Counter surface -->
+  <rect x="0" y="100" width="120" height="20" fill="#e5e7eb" stroke="#374151" stroke-width="1"/>
+
+  <!-- Three dough portions on counter -->
+  <!-- Red dough blob (left) — hands kneading it -->
+  <ellipse cx="22" cy="92" rx="16" ry="10" fill="#ef4444" stroke="#374151" stroke-width="2"/>
+  <!-- Sheen highlight -->
+  <ellipse cx="18" cy="88" rx="5" ry="3" fill="#fca5a5" opacity="0.7"/>
+
+  <!-- Yellow dough blob (centre) — plain, waiting -->
+  <ellipse cx="60" cy="92" rx="16" ry="10" fill="#f59e0b" stroke="#374151" stroke-width="2"/>
+  <ellipse cx="56" cy="88" rx="5" ry="3" fill="#fde68a" opacity="0.7"/>
+
+  <!-- Blue dough blob (right) -->
+  <ellipse cx="98" cy="92" rx="16" ry="10" fill="#3b82f6" stroke="#374151" stroke-width="2"/>
+  <ellipse cx="94" cy="88" rx="5" ry="3" fill="#93c5fd" opacity="0.7"/>
+
+  <!-- Food colouring bottles above each blob -->
+  <!-- Red bottle -->
+  <rect x="14" y="34" width="14" height="30" rx="4" fill="#fee2e2" stroke="#374151" stroke-width="2"/>
+  <rect x="16" y="28" width="10" height="8" rx="3" fill="#ef4444" stroke="#374151" stroke-width="1.5"/>
+  <!-- Nozzle -->
+  <rect x="19" y="24" width="4" height="6" rx="1" fill="#374151"/>
+  <!-- Colour drop falling (red) -->
+  <path d="M21,64 Q21,70 21,76" fill="none" stroke="#ef4444" stroke-width="2.5" stroke-linecap="round"/>
+  <ellipse cx="21" cy="78" rx="3" ry="4" fill="#ef4444"/>
+
+  <!-- Yellow bottle -->
+  <rect x="52" y="34" width="14" height="30" rx="4" fill="#fef9c3" stroke="#374151" stroke-width="2"/>
+  <rect x="54" y="28" width="10" height="8" rx="3" fill="#f59e0b" stroke="#374151" stroke-width="1.5"/>
+  <rect x="57" y="24" width="4" height="6" rx="1" fill="#374151"/>
+  <!-- Drop -->
+  <path d="M59,64 Q59,70 59,76" fill="none" stroke="#f59e0b" stroke-width="2.5" stroke-linecap="round"/>
+  <ellipse cx="59" cy="78" rx="3" ry="4" fill="#f59e0b"/>
+
+  <!-- Blue bottle -->
+  <rect x="90" y="34" width="14" height="30" rx="4" fill="#dbeafe" stroke="#374151" stroke-width="2"/>
+  <rect x="92" y="28" width="10" height="8" rx="3" fill="#3b82f6" stroke="#374151" stroke-width="1.5"/>
+  <rect x="95" y="24" width="4" height="6" rx="1" fill="#374151"/>
+  <!-- Drop -->
+  <path d="M97,64 Q97,70 97,76" fill="none" stroke="#3b82f6" stroke-width="2.5" stroke-linecap="round"/>
+  <ellipse cx="97" cy="78" rx="3" ry="4" fill="#3b82f6"/>
+
+  <!-- Kneading hands above red blob -->
+  <!-- Left thumb/hand shape -->
+  <path d="M10,70 Q14,64 18,70 Q18,76 14,78 Q10,76 10,70 Z" fill="#fbbf24" stroke="#374151" stroke-width="1.5"/>
+  <!-- Right hand -->
+  <path d="M26,70 Q30,64 34,70 Q34,76 30,78 Q26,76 26,70 Z" fill="#fbbf24" stroke="#374151" stroke-width="1.5"/>
+  <!-- Kneading motion arrow -->
+  <path d="M36,82 Q22,76 10,82" fill="none" stroke="#374151" stroke-width="1.5" stroke-dasharray="3,2" stroke-linecap="round"/>
+  <polygon points="12,80 10,85 15,84" fill="#374151"/>
+</svg>

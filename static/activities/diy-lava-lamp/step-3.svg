@@ -1,0 +1,42 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Step 3: Light It Up — flashlight underneath, glowing blobs -->
+  <!-- Dark room background suggestion -->
+  <rect x="4" y="4" width="112" height="112" rx="6" fill="#1f2937" fill-opacity="0.15" stroke="none"/>
+  <!-- Table surface -->
+  <line x1="4" y1="104" x2="116" y2="104" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Flashlight (below jar, pointing upward) -->
+  <g transform="translate(40, 112) rotate(180)">
+    <!-- Handle/body -->
+    <rect x="-6" y="-22" width="12" height="30" rx="3" fill="#374151" stroke="#374151" stroke-width="1.5"/>
+    <!-- Head/lens housing -->
+    <rect x="-8" y="-30" width="16" height="10" rx="2" fill="#6b7280" stroke="#374151" stroke-width="1.5"/>
+    <!-- Lens -->
+    <circle cx="0" cy="-26" r="5" fill="#fef08a" stroke="#374151" stroke-width="1"/>
+  </g>
+  <!-- Light beam (upward cone) -->
+  <path d="M28 102 L16 24 L64 24 L52 102 Z" fill="#fef08a" fill-opacity="0.12" stroke="none"/>
+  <!-- Glass jar body (hero) -->
+  <rect x="18" y="18" width="44" height="84" rx="4" stroke="#374151" stroke-width="2" fill="#f0f9ff" fill-opacity="0.4"/>
+  <!-- Jar neck -->
+  <rect x="24" y="10" width="32" height="12" rx="2" stroke="#374151" stroke-width="1.5" fill="#e0f2fe"/>
+  <!-- Jar cap -->
+  <rect x="22" y="6" width="36" height="7" rx="3" stroke="#374151" stroke-width="1.5" fill="#9ca3af"/>
+  <!-- Oil layer glowing (amber) -->
+  <rect x="20" y="40" width="40" height="38" rx="1" fill="#fde68a" fill-opacity="0.6" stroke="none"/>
+  <!-- Oil surface -->
+  <line x1="20" y1="40" x2="60" y2="40" stroke="#d97706" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Coloured water at bottom -->
+  <rect x="20" y="78" width="40" height="22" rx="1" fill="#fca5a5" fill-opacity="0.55" stroke="none"/>
+  <!-- Glowing coloured blobs (vivid, lit up) -->
+  <ellipse cx="34" cy="56" rx="7" ry="6" fill="#ef4444" fill-opacity="0.85" stroke="#c53030" stroke-width="1"/>
+  <ellipse cx="50" cy="46" rx="6" ry="5" fill="#ef4444" fill-opacity="0.8" stroke="#c53030" stroke-width="1"/>
+  <ellipse cx="40" cy="66" rx="5" ry="4" fill="#fca5a5" fill-opacity="0.8" stroke="#c53030" stroke-width="1"/>
+  <!-- Glow halos on blobs -->
+  <ellipse cx="34" cy="56" rx="10" ry="9" fill="#ef4444" fill-opacity="0.15" stroke="none"/>
+  <ellipse cx="50" cy="46" rx="9" ry="8" fill="#ef4444" fill-opacity="0.15" stroke="none"/>
+  <!-- Bubbles -->
+  <circle cx="28" cy="68" r="2.5" stroke="#374151" stroke-width="1" fill="white" fill-opacity="0.5"/>
+  <circle cx="54" cy="54" r="2" stroke="#374151" stroke-width="1" fill="white" fill-opacity="0.5"/>
+  <!-- Glass highlight -->
+  <line x1="23" y1="22" x2="23" y2="98" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-opacity="0.7"/>
+</svg>

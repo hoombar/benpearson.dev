@@ -1,0 +1,48 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Cotton wool being tinted in paint (hero) -->
+  <!-- Paint tray with colours -->
+  <g transform="translate(10, 14)">
+    <!-- Tray -->
+    <rect x="0" y="0" width="80" height="36" rx="3" fill="#e5e7eb" stroke="#374151" stroke-width="1"/>
+    <!-- Paint blobs in tray -->
+    <circle cx="12" cy="18" r="8" fill="#ef4444" stroke="none" opacity="0.8"/>
+    <circle cx="28" cy="18" r="8" fill="#f97316" stroke="none" opacity="0.8"/>
+    <circle cx="44" cy="18" r="8" fill="#eab308" stroke="none" opacity="0.8"/>
+    <circle cx="60" cy="18" r="8" fill="#22c55e" stroke="none" opacity="0.8"/>
+    <circle cx="72" cy="18" r="6" fill="#3b82f6" stroke="none" opacity="0.8"/>
+  </g>
+
+  <!-- Cotton wool strip being dipped -->
+  <g transform="translate(30, 28)">
+    <!-- White cotton wool strip -->
+    <path d="M0,0 Q8,-4 16,0 Q24,4 32,0 Q40,-4 48,0" fill="none" stroke="#d1d5db" stroke-width="6" stroke-linecap="round"/>
+    <!-- Tinted end -->
+    <path d="M0,0 Q8,-4 16,0" fill="none" stroke="#ef4444" stroke-width="6" stroke-linecap="round" opacity="0.6"/>
+  </g>
+
+  <!-- Hand dipping cotton wool -->
+  <g transform="translate(14, 4)">
+    <rect x="0" y="0" width="12" height="18" rx="6" fill="#fcd9b6" stroke="#374151" stroke-width="0.8"/>
+    <rect x="14" y="2" width="10" height="14" rx="5" fill="#fcd9b6" stroke="#374151" stroke-width="0.8"/>
+  </g>
+
+  <!-- Tinted cotton wool strips laid out to dry -->
+  <g transform="translate(8, 60)">
+    <!-- Red strip -->
+    <path d="M0,0 Q10,-3 20,0 Q30,3 40,0" fill="none" stroke="#ef4444" stroke-width="5" stroke-linecap="round" opacity="0.6"/>
+    <!-- Orange strip -->
+    <path d="M0,12 Q10,9 20,12 Q30,15 40,12" fill="none" stroke="#f97316" stroke-width="5" stroke-linecap="round" opacity="0.6"/>
+    <!-- Yellow strip -->
+    <path d="M0,24 Q10,21 20,24 Q30,27 40,24" fill="none" stroke="#eab308" stroke-width="5" stroke-linecap="round" opacity="0.6"/>
+  </g>
+
+  <!-- More cotton wool (white, unprepared) -->
+  <g transform="translate(80, 60)">
+    <circle cx="10" cy="8" r="8" fill="white" stroke="#d1d5db" stroke-width="0.8"/>
+    <circle cx="22" cy="12" r="7" fill="white" stroke="#d1d5db" stroke-width="0.8"/>
+    <circle cx="14" cy="22" r="6" fill="white" stroke="#d1d5db" stroke-width="0.8"/>
+  </g>
+</svg>

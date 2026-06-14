@@ -1,0 +1,63 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Table surface -->
+  <rect x="0" y="100" width="120" height="20" rx="2" fill="#fef3c7" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Eagle tube with wings being glued -->
+  <rect x="38" y="22" width="28" height="38" rx="4" fill="#ef4444" stroke="#374151" stroke-width="1.2"/>
+  <ellipse cx="52" cy="22" rx="14" ry="5" fill="#fca5a5" stroke="#374151" stroke-width="1"/>
+  <!-- Eagle face -->
+  <circle cx="46" cy="34" r="2.5" fill="white" stroke="#374151" stroke-width="0.6"/>
+  <circle cx="58" cy="34" r="2.5" fill="white" stroke="#374151" stroke-width="0.6"/>
+  <circle cx="46.5" cy="34.5" r="1.2" fill="#374151"/>
+  <circle cx="58.5" cy="34.5" r="1.2" fill="#374151"/>
+  <polygon points="52,38 50,42 54,42" fill="#f97316" stroke="#374151" stroke-width="0.5"/>
+
+  <!-- Left wing (attached) -->
+  <path d="M38,32 L18,26 L14,34 L22,38 L38,42" fill="#ef4444" stroke="#374151" stroke-width="0.8"/>
+  <!-- Wing feather details -->
+  <line x1="20" y1="28" x2="24" y2="36" stroke="#374151" stroke-width="0.4"/>
+  <line x1="26" y1="28" x2="28" y2="38" stroke="#374151" stroke-width="0.4"/>
+
+  <!-- Right wing (being glued - hand holding) -->
+  <path d="M66,32 L86,26 L90,34 L82,38 L66,42" fill="#ef4444" stroke="#374151" stroke-width="0.8"/>
+  <line x1="82" y1="28" x2="78" y2="38" stroke="#374151" stroke-width="0.4"/>
+  <line x1="76" y1="28" x2="74" y2="38" stroke="#374151" stroke-width="0.4"/>
+
+  <!-- Hand placing right wing -->
+  <g transform="translate(86, 20)">
+    <rect x="0" y="0" width="8" height="14" rx="4" fill="#fcd9b6" stroke="#374151" stroke-width="0.8"/>
+  </g>
+
+  <!-- Bear tube with ears -->
+  <rect x="38" y="62" width="28" height="34" rx="4" fill="#3b82f6" stroke="#374151" stroke-width="1"/>
+  <circle cx="46" cy="72" r="2" fill="white" stroke="#374151" stroke-width="0.5"/>
+  <circle cx="58" cy="72" r="2" fill="white" stroke="#374151" stroke-width="0.5"/>
+  <circle cx="46.5" cy="72.5" r="1" fill="#374151"/>
+  <circle cx="58.5" cy="72.5" r="1" fill="#374151"/>
+  <ellipse cx="52" cy="78" rx="3" ry="2" fill="#1e3a5f" stroke="#374151" stroke-width="0.5"/>
+  <!-- Bear ears already attached -->
+  <circle cx="40" cy="64" r="5" fill="#3b82f6" stroke="#374151" stroke-width="0.8"/>
+  <circle cx="64" cy="64" r="5" fill="#3b82f6" stroke="#374151" stroke-width="0.8"/>
+  <circle cx="40" cy="64" r="2.5" fill="#93c5fd" stroke="#374151" stroke-width="0.4"/>
+  <circle cx="64" cy="64" r="2.5" fill="#93c5fd" stroke="#374151" stroke-width="0.4"/>
+
+  <!-- PVA glue bottle -->
+  <g transform="translate(4, 68)">
+    <rect x="0" y="8" width="12" height="18" rx="3" fill="#f0f9ff" stroke="#374151" stroke-width="0.8"/>
+    <rect x="2" y="0" width="8" height="10" rx="2" fill="#dbeafe" stroke="#374151" stroke-width="0.6"/>
+    <circle cx="6" cy="0" r="2" fill="#f97316" stroke="#374151" stroke-width="0.5"/>
+  </g>
+
+  <!-- Scissors -->
+  <g transform="translate(98, 78) rotate(-20)">
+    <path d="M0,0 L12,4" fill="none" stroke="#9ca3af" stroke-width="2" stroke-linecap="round"/>
+    <path d="M0,0 L12,-4" fill="none" stroke="#9ca3af" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="0" cy="0" r="1.2" fill="#374151"/>
+    <ellipse cx="16" cy="5" rx="4" ry="3" fill="none" stroke="#ef4444" stroke-width="1"/>
+    <ellipse cx="16" cy="-5" rx="4" ry="3" fill="none" stroke="#ef4444" stroke-width="1"/>
+  </g>
+
+  <!-- Cut paper scraps -->
+  <polygon points="100,96 96,90 104,90" fill="#ef4444" stroke="#374151" stroke-width="0.4"/>
+  <polygon points="112,94 108,88 116,88" fill="#3b82f6" stroke="#374151" stroke-width="0.4"/>
+</svg>

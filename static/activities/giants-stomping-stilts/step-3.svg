@@ -1,0 +1,49 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Grass ground surface -->
+  <rect x="0" y="100" width="120" height="20" rx="0" fill="#86efac" stroke="none"/>
+  <line x1="0" y1="100" x2="120" y2="100" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Stick figure on stilts (hero) -->
+  <!-- Head -->
+  <circle cx="60" cy="18" r="8" fill="none" stroke="#374151" stroke-width="2"/>
+  <!-- Body -->
+  <line x1="60" y1="26" x2="60" y2="58" stroke="#374151" stroke-width="2" stroke-linecap="round"/>
+  <!-- Arms holding strings -->
+  <line x1="60" y1="38" x2="40" y2="50" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="60" y1="38" x2="80" y2="50" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Legs going down to cans -->
+  <line x1="60" y1="58" x2="40" y2="82" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="60" y1="58" x2="80" y2="82" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- Left tin can stilt -->
+  <rect x="28" y="82" width="24" height="18" rx="2" fill="#f59e0b" stroke="#374151" stroke-width="2"/>
+  <rect x="28" y="80" width="24" height="4" rx="1" fill="#d97706" stroke="#374151" stroke-width="1.5"/>
+  <!-- Star on left can -->
+  <path d="M40,88 L41,85 L42,88 L45,88 L42.5,90 L43.5,93 L41,91 L38.5,93 L39.5,90 L37,88 Z"
+        fill="#fef9c3" stroke="#374151" stroke-width="0.5"/>
+
+  <!-- String from left hand to left can -->
+  <line x1="40" y1="50" x2="34" y2="82" stroke="#d97706" stroke-width="2" stroke-linecap="round"/>
+  <line x1="40" y1="50" x2="46" y2="82" stroke="#d97706" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Right tin can stilt -->
+  <rect x="68" y="82" width="24" height="18" rx="2" fill="#22c55e" stroke="#374151" stroke-width="2"/>
+  <rect x="68" y="80" width="24" height="4" rx="1" fill="#16a34a" stroke="#374151" stroke-width="1.5"/>
+  <!-- Dots on right can -->
+  <circle cx="76" cy="88" r="2" fill="#d1fae5" stroke="none"/>
+  <circle cx="84" cy="92" r="2" fill="#d1fae5" stroke="none"/>
+
+  <!-- String from right hand to right can -->
+  <line x1="80" y1="50" x2="74" y2="82" stroke="#d97706" stroke-width="2" stroke-linecap="round"/>
+  <line x1="80" y1="50" x2="86" y2="82" stroke="#d97706" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Stomp motion lines under cans -->
+  <line x1="26" y1="102" x2="18" y2="102" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="24" y1="106" x2="16" y2="106" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+  <line x1="94" y1="102" x2="102" y2="102" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="96" y1="106" x2="104" y2="106" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+
+  <!-- Upward "taut string" arrows -->
+  <line x1="34" y1="76" x2="34" y2="70" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+  <path d="M31 72 L34 68 L37 72" stroke="#374151" stroke-width="1" stroke-linecap="round" fill="none"/>
+</svg>

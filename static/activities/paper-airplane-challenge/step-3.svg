@@ -1,0 +1,66 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background (sky) -->
+  <rect width="120" height="120" fill="#f9fafb"/>
+
+  <!-- Floor line -->
+  <rect x="6" y="106" width="108" height="8" rx="1" fill="#d1fae5" stroke="#374151" stroke-width="1.5"/>
+
+  <!-- Throwing line marker (tape on floor) -->
+  <rect x="10" y="104" width="8" height="4" rx="1" fill="#fde68a" stroke="#f59e0b" stroke-width="1.2"/>
+  <line x1="14" y1="98" x2="14" y2="110" stroke="#374151" stroke-width="2" stroke-dasharray="3,2" stroke-linecap="round"/>
+
+  <!-- Plane at launch point (hand throwing position) -->
+  <g transform="translate(6, 60) rotate(-15 28 20)">
+    <path d="M4 30 L36 16 L46 22 L36 28 L4 30" fill="#f3f4f6" stroke="#374151" stroke-width="2.5" stroke-linejoin="round"/>
+    <path d="M12 30 L36 20 L42 22" fill="#e5e7eb" stroke="#374151" stroke-width="1.5" stroke-linejoin="round"/>
+    <!-- Wing crease -->
+    <line x1="12" y1="30" x2="38" y2="20" stroke="#374151" stroke-width="1" stroke-dasharray="3,2" stroke-linecap="round"/>
+    <!-- Flame decal -->
+    <path d="M8 28 Q10 24 8 20 Q13 22 12 18 L18 20 L16 28 Z" fill="#f97316" stroke="#d97706" stroke-width="0.8" stroke-linejoin="round"/>
+    <!-- Number 1 on tail -->
+    <circle cx="32" cy="24" r="5" fill="#3b82f6" stroke="#374151" stroke-width="1.5"/>
+    <line x1="32" y1="20" x2="32" y2="28" stroke="#f9fafb" stroke-width="2" stroke-linecap="round"/>
+  </g>
+
+  <!-- Arc flight trajectory — marker auto-aligns to tangent (98−68,90−20) = (30,70) = 67° right-down -->
+  <defs>
+    <marker id="arr-blue" viewBox="0 0 10 10" refX="9" refY="5"
+            markerWidth="8" markerHeight="8" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L9 5 L0 10" fill="none" stroke="#3b82f6" stroke-width="2.5"
+            stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <path d="M36 72 Q68 20 98 90" stroke="#3b82f6" stroke-width="2.5" stroke-dasharray="6,4" fill="none" stroke-linecap="round" marker-end="url(#arr-blue)"/>
+
+  <!-- Plane in flight at mid-arc (smaller, tilted) -->
+  <g transform="translate(64, 28) rotate(-25 18 10)">
+    <path d="M2 16 L30 6 L38 10 L30 14 L2 16" fill="#f3f4f6" stroke="#374151" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M8 16 L30 8 L35 10" fill="#e5e7eb" stroke="#374151" stroke-width="1.2" stroke-linejoin="round"/>
+  </g>
+  <!-- Speed lines behind in-flight plane -->
+  <line x1="62" y1="34" x2="54" y2="36" stroke="#93c5fd" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="63" y1="38" x2="55" y2="41" stroke="#93c5fd" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="60" y1="30" x2="52" y2="31" stroke="#93c5fd" stroke-width="1" stroke-linecap="round"/>
+
+  <!-- Landing sticker 1 (star, closest) -->
+  <path d="M98 104 L100 98 L102 104 L108 104 L103 108 L105 114 L100 110 L95 114 L97 108 L92 104 Z"
+        fill="#fde68a" stroke="#f59e0b" stroke-width="1.5" stroke-linejoin="round"/>
+
+  <!-- Distance measurement marks on floor -->
+  <line x1="36" y1="106" x2="36" y2="116" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="62" y1="106" x2="62" y2="116" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="88" y1="106" x2="88" y2="116" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Distance arrow between launch and landing -->
+  <line x1="14" y1="113" x2="96" y2="113" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M11 110 L14 114 L11 117" stroke="#374151" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M99 110 L96 114 L99 117" stroke="#374151" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Notepad + pencil (top-right — recording distances) -->
+  <rect x="90" y="8" width="24" height="30" rx="2" fill="#f3f4f6" stroke="#374151" stroke-width="1.8"/>
+  <line x1="93" y1="16" x2="111" y2="16" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+  <line x1="93" y1="22" x2="111" y2="22" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+  <line x1="93" y1="28" x2="104" y2="28" stroke="#374151" stroke-width="1" stroke-linecap="round"/>
+  <!-- Pencil above notepad (tip extends below shaft) -->
+  <rect x="104" y="5" width="4" height="14" rx="1" fill="#fde68a" stroke="#374151" stroke-width="1.2" transform="rotate(20 106 12)"/>
+  <path d="M104 19 L108 19 L106 24 Z" fill="#374151" stroke="#374151" stroke-width="0.5" transform="rotate(20 106 12)"/>
+</svg>

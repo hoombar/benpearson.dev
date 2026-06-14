@@ -1,0 +1,46 @@
+{{ define "main" }}
+  <article class="activity-detail">
+    <a class="back-link" href="/activities/">Back to activities</a>
+    <header class="activity-hero">
+      <p class="eyebrow">{{ if .Params.is_outdoor }}Outdoor{{ else }}Indoor{{ end }} activity</p>
+      <h1>{{ .Title }}</h1>
+      {{ with .Params.summary }}<p>{{ . }}</p>{{ end }}
+      <div class="meta-row large">
+        <span>{{ partial "activity-age-label.html" . }}</span>
+        <span>{{ partial "activity-duration-label.html" . }}</span>
+        <span>Education {{ .Params.educational_rank }}/10</span>
+      </div>
+    </header>
+
+    {{ with .Params.materials }}
+      <section class="activity-panel">
+        <h2>Materials</h2>
+        <ul class="material-list">
+          {{ range . }}
+            <li>{{ with .icon }}<span aria-hidden="true">{{ . }}</span>{{ end }} {{ .name }}{{ if .optional }} <em>optional</em>{{ end }}</li>
+          {{ end }}
+        </ul>
+      </section>
+    {{ end }}
+
+    {{ with .Params.steps }}
+      <section class="setup-steps">
+        <h2>Illustrated Steps</h2>
+        {{ range $index, $step := . }}
+          <section class="step-card">
+            <div class="step-number">{{ add $index 1 }}</div>
+            <div class="step-copy">
+              <h3>{{ $step.title }}</h3>
+              <p>{{ $step.description }}</p>
+            </div>
+            {{ with $step.svg_path }}<img src="{{ . }}" alt="">{{ end }}
+          </section>
+        {{ end }}
+      </section>
+    {{ end }}
+
+    <section class="activity-body">
+      {{ .Content }}
+    </section>
+  </article>
+{{ end }}

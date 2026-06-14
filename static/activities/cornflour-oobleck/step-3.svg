@@ -1,0 +1,30 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Step 3: Squeeze and Play — one fist solid, one hand open dripping -->
+  <!-- Left hand: tight fist holding solid oobleck -->
+  <!-- Fist outline -->
+  <path d="M8 52 Q8 40 18 38 Q28 36 32 44 Q36 40 40 44 Q44 40 48 44 L48 62 Q48 78 30 78 Q12 78 8 62 Z"
+        stroke="#374151" stroke-width="2" fill="#fde68a" fill-opacity="0.7"/>
+  <!-- Knuckle lines on fist -->
+  <path d="M18 46 Q20 44 24 46" stroke="#374151" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M28 44 Q30 42 34 44" stroke="#374151" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M38 44 Q40 42 44 44" stroke="#374151" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <!-- Oobleck squeezing between fingers (solid state) — little squeeze ooze -->
+  <ellipse cx="28" cy="38" rx="4" ry="3" fill="#e2e8f0" stroke="#374151" stroke-width="1" transform="rotate(-10 28 38)"/>
+  <!-- Label: SOLID (represented by hard cracks/rigid look) -->
+  <line x1="14" y1="58" x2="42" y2="58" stroke="#9ca3af" stroke-width="1" stroke-dasharray="2,2" stroke-linecap="round"/>
+  <!-- Right hand: open palm with oobleck dripping (liquid state) -->
+  <!-- Palm -->
+  <path d="M72 44 Q72 36 80 34 Q88 32 90 38 L92 44 Q96 40 100 44 L100 60 Q100 72 86 72 Q72 72 72 60 Z"
+        stroke="#374151" stroke-width="2" fill="#fde68a" fill-opacity="0.7"/>
+  <!-- Fingers spread slightly -->
+  <line x1="78" y1="34" x2="76" y2="28" stroke="#374151" stroke-width="5" stroke-linecap="round"/>
+  <line x1="84" y1="32" x2="84" y2="26" stroke="#374151" stroke-width="5" stroke-linecap="round"/>
+  <line x1="90" y1="34" x2="92" y2="28" stroke="#374151" stroke-width="5" stroke-linecap="round"/>
+  <!-- Oobleck puddle on open palm -->
+  <ellipse cx="86" cy="62" rx="12" ry="6" fill="#e2e8f0" stroke="#374151" stroke-width="1"/>
+  <!-- Oobleck dripping down from palm (liquid state) -->
+  <path d="M82 68 Q80 76 80 86 Q80 94 78 100" stroke="#9ca3af" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M88 68 Q88 78 86 88 Q85 96 85 104" stroke="#9ca3af" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <ellipse cx="79" cy="104" rx="3" ry="2" fill="#9ca3af" stroke="none"/>
+  <ellipse cx="85" cy="108" rx="3" ry="2" fill="#9ca3af" stroke="none"/>
+</svg>
