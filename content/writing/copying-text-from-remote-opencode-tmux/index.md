@@ -4,7 +4,7 @@ slug: copying-text-from-remote-opencode-tmux
 content_type: lab
 summary: "The small clipboard fix that made text copy from OpenCode on minibot, through tmux and SSH, back to my Mac."
 date: 2026-06-17
-draft: true
+draft: false
 tags:
   - opencode
   - tmux
