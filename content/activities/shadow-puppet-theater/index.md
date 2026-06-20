@@ -55,39 +55,6 @@ steps:
 
 Prepare to build an INCREDIBLE shadow puppet theater and create mesmerizing performances that blend storytelling, art, and drama! 🎭✨ You'll construct your own theater stage, design unique shadow puppet characters, and bring stories to life through the magical interplay of light and shadow. This isn't just watching a show - this is becoming the director, puppeteer, and storyteller of your very own theatrical production! 🌟🎬
 
-
-## How to Set It Up
-
-### Step 1: Build Your Theater Stage 🎪
-
-First, create the theater! Find a doorway or set up two chairs about 4-5 feet apart. Stretch your **White Sheet** across the opening and secure it tightly using **Tape** on all corners and edges. Make sure the sheet is pulled flat and smooth - this is your projection screen! The sheet should be positioned so there's space behind it for the puppeteers to perform. Test it by standing behind and pressing your hand against the sheet - you should see a shadow on the other side! 🎬
-
-
-### Step 2: Position Your Light Source 💡
-
-Place your **Flashlight** about 3-4 feet behind the sheet (on the puppeteer side). The **Flashlight** should be aimed directly at the back of the sheet. The closer the light is to the sheet, the sharper your shadows will be. Try different distances to find the perfect spot! For the BEST effect, perform your shadow theater in a darkened room so the shadows are super dramatic and visible. You might want to use **Tape** to mark the perfect light position on the floor! ✨
-
-
-### Step 3: Design Your Shadow Puppets ✂️
-
-Now for the creative part! Use **Paper** to draw and cut out puppet shapes. Think about characters for your story: people, animals, dragons, castles, trees, vehicles - anything! Draw bold, simple outlines (detailed features won't show up well as shadows). Use your **Scissors** to carefully cut out each puppet shape. Make them about 6-8 inches tall for the best shadow size. Cut out small details like eyes or windows to create interesting silhouettes! 🎨
-
-
-### Step 4: Add Puppet Controls 🎮
-
-Every puppet needs a handle! Cut thin strips of **Paper** (or use pencils if you have them) and use **Tape** to attach them to the bottom or side of each puppet. These are your control sticks! Make sure they're securely attached with plenty of **Tape**. Test each puppet by holding the stick and moving it against the sheet - the stick shouldn't show in the shadow, only your character! For moving parts (like arms or legs), cut them separately and attach with **Tape** as a hinge! 🎪
-
-
-### Step 5: Create Props & Scenery 🌳
-
-Enhance your theater with scenery pieces! Use **Paper** to create backgrounds: forests, castles, underwater scenes, outer space - whatever your story needs! These can be larger pieces that you **Tape** directly to the edges of the sheet, or smaller props that actors can move during the show. Use **Markers** to add details before cutting - remember, only the outline will show, but the cutting shapes create the effect! Cut out trees, buildings, furniture, or even weather effects like rain or stars! ✨
-
-
-### Step 6: Write Your Script 📝
-
-Grab your **Notebook** and **Pen** to write your shadow puppet play! Start simple: "Once upon a time..." Plan out 3-5 scenes with a beginning, middle, and end. Write down which puppets appear in each scene and what they say or do. You can adapt a favorite story or create something completely original! Keep your **Notebook** nearby during rehearsal to make notes and improvements. Add stage directions like "Dragon enters from left" or "Castle appears in background." 📖
-
-
 ## Have Fun!
 
 * 🎭 **Multi-Puppeteer Shows:** Invite family members to perform together! Each person controls different characters, creating complex scenes with multiple puppets interacting. Assign roles: narrator, sound effects person, and puppeteers!
@@ -100,7 +67,6 @@ Grab your **Notebook** and **Pen** to write your shadow puppet play! Start simpl
 
 * 📚 **Story Variations:** Perform the same story in different ways - make it funny, scary, or mysterious just by changing how the puppets move and how you deliver the lines. Same puppets, totally different show!
 
-
 ## Why It's Amazing
 
 * **Creative Storytelling:** Children develop narrative skills by creating plots, developing characters, and structuring beginning-middle-end story arcs - essential literacy and communication abilities! 📖
@@ -110,7 +76,6 @@ Grab your **Notebook** and **Pen** to write your shadow puppet play! Start simpl
 * **Visual-Spatial Thinking:** Understanding how 3D puppets create 2D shadows, judging distances from the light and screen, and creating visual compositions develops spatial reasoning and geometry concepts! 🧠
 
 * **Performance Confidence:** Creating and performing shows builds public speaking skills, creative confidence, and the ability to express ideas through performance art - skills that benefit every aspect of life! 🌟
-
 
 ## Pro Tips
 
