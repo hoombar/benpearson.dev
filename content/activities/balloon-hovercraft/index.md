@@ -40,36 +40,12 @@ steps:
 
 A frictionless glider powered by air! 🎈 Your little physicists will poke a hole in a **paper plate**, tape an inflated **balloon** over it, and watch the plate hover and glide across a smooth surface on a cushion of escaping air. It's like magic — but it's science! Experiment with different balloon sizes and surfaces to see what works best.
 
-
-## How to Set It Up
-
-### Step 1: Prepare the Base
-
-Take a **paper plate** and carefully poke a hole in the centre (about 1 cm wide) using **scissors** or a pencil. Flip the plate upside down so the rim faces down — this creates the smooth gliding surface. ⚠️ Adult Helper Needed for younger children. 🍽️
-
-
-### Step 2: Inflate the Balloon
-
-Blow up a **balloon** to a medium size — not too big or it'll be hard to manage. Pinch the neck closed with your fingers (don't tie it!) to keep the air in. You'll need that air to power your hovercraft. 🎈
-
-
-### Step 3: Attach the Balloon
-
-While still pinching the balloon neck, stretch it over the hole in the centre of the plate. Use **tape** to seal around the base of the balloon where it meets the plate, making sure no air escapes from the sides — only through the hole underneath. 📌
-
-
-### Step 4: Launch and Glide
-
-Place the hovercraft plate-side down on a smooth, flat surface (a table or hard floor works best). Release the balloon neck and give the plate a gentle push. Watch it glide effortlessly across the surface on a cushion of air! How far can you make it travel? 🚀
-
-
 ## Have fun!
 
 - 🏁 Set up a race track with tape lines and race two hovercrafts against each other!
 - 📏 Measure how far each hovercraft travels — try bigger and smaller balloons!
 - 🎨 Decorate the plate with markers before assembling for a custom hovercraft!
 - 🔬 Try different surfaces — does it work better on tile, wood, or carpet?
-
 
 ## Why It's Amazing
 
@@ -80,7 +56,6 @@ Place the hovercraft plate-side down on a smooth, flat surface (a table or hard 
 * **Experimental Method:** Testing different balloon sizes, surfaces, and push forces teaches the scientific method through play. 📊
 
 * **Engineering Fun:** Sealing the balloon properly and finding the right hole size requires iterative problem-solving. 🛠️
-
 
 ## Pro Tips
 
