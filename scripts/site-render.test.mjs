@@ -90,6 +90,13 @@ test("homepage spacing is compact", async () => {
   assert.match(css, /\.profile-link\s*{[^}]*margin-bottom:\s*18px/s);
 });
 
+test("activity cards keep metadata away from card edge", async () => {
+  const css = await readFile(path.join(process.cwd(), "assets", "css", "main.css"), "utf8");
+
+  assert.match(css, /\.activity-card a\s*{[^}]*align-content:\s*start/s);
+  assert.match(css, /\.activity-card a\s*{[^}]*padding:\s*18px 18px 28px/s);
+});
+
 test("Mermaid code blocks render as diagrams and load Mermaid", async () => {
   const contentDir = await mkdtemp(path.join(tmpdir(), "benpearson-content-"));
   const destination = await mkdtemp(path.join(tmpdir(), "benpearson-site-"));
