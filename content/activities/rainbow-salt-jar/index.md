@@ -46,24 +46,6 @@ steps:
 
 You'll transform plain table salt into a **rainbow of colours** and carefully layer them inside a glass jar to create a beautiful striped display piece! 🌈 Each layer is a different colour, and tilting the jar as you pour creates wavy, mountain-like patterns. Seal it up and you have a gorgeous desk decoration or handmade gift.
 
-## How to Set It Up
-
-### Step 1: Mix the Coloured Salt
-
-Pour about 3 tablespoons of salt into a zip-lock bag. Add 2–3 drops of food colouring, then seal the bag tightly. Squeeze and knead the bag for about 30 seconds until the colour is evenly spread through every grain — no white patches left. Open the bag and spread the salt onto a paper plate to dry for 5 minutes. Repeat with different colours — you'll want at least 4–5 colours for a good rainbow effect.
-
-### Step 2: Prepare the Jar
-
-Make sure your glass jar is completely clean and bone dry inside — any moisture will make the salt clump and the colours bleed together. Stand the jar upright on the table. If you want neat, flat layers, keep the jar straight. If you want wavy diagonal stripes, tilt the jar at an angle by leaning it against a book or rolled-up towel.
-
-### Step 3: Layer the Colours
-
-Using a spoon, gently pour your first colour of salt into the bottom of the jar to form a layer about 1–2 cm thick. Don't shake or tap the jar — you want each layer to sit crisply on top of the last. Add your next colour on top, then the next. Alternate colours, varying the thickness of each layer for visual interest. Fill the jar right to the very top so the layers can't shift.
-
-### Step 4: Seal and Display
-
-Once the jar is completely full, carefully screw the lid on tightly. If you like, wrap a piece of tape around the lid edge to make sure it stays sealed. Turn the jar gently to admire your rainbow from all angles — the colours will stay locked in place as long as the jar stays sealed and isn't shaken.
-
 ## Have fun!
 
 - 🎨 Try making an ombré jar using light-to-dark shades of a single colour
