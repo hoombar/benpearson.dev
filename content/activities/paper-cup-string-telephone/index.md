@@ -40,24 +40,6 @@ steps:
 
 Ever wondered how sound travels? 🗣️ Build a **Paper Cup String Telephone** and find out! By connecting two **Paper Cups** with a long piece of **String**, you can send your voice across a room. The string vibrates as you speak, carrying your secret messages like magic to your friend's ear.
 
-## How to Set It Up
-
-### Step 1: Poke the Holes
-
-⚠️ **Adult Helper Needed** — An adult should use a **Push Pin** to poke a small hole exactly in the centre of the bottom of both **Paper Cups**. Make sure the hole is just wide enough for the string to pass through.
-
-### Step 2: Thread the String
-
-Cut a long piece of **String** (about 5–10 metres). Thread one end of the string through the hole in the first cup, going from the outside to the inside. Repeat with the other end of the string and the second cup.
-
-### Step 3: Knot and Secure
-
-Tie a large, thick knot at each end of the string inside the cups so it can't pull back through the holes. You can tie the knot around a small piece of a toothpick or a paperclip if the hole is a bit too big.
-
-### Step 4: Test the Line
-
-Give one cup to a friend and walk apart until the **String** is pulled completely tight. This is the most important part — if the string is loose, it won't work! Take turns speaking softly into your cup while the other person holds theirs to their ear.
-
 ## Have fun!
 
 - 🤫 Try whispering as quietly as you can and see if your friend can still hear you.
