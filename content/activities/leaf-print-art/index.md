@@ -43,24 +43,6 @@ steps:
 
 A stunning gallery of nature prints! 🍂 You'll collect **fallen leaves** from outside, coat them in **poster paint**, then press them firmly onto **paper** to transfer their beautiful vein and lobe patterns. Every single print is unique — nature's own fingerprint!
 
-## How to Set It Up
-
-### Step 1: Collect Your Leaves
-
-Head outside and gather 6–10 **fallen leaves** of different shapes and sizes — big round ones, small jagged ones, long thin ones. Choose leaves that are fresh and flat, not dry and crumbling. Different leaves make dramatically different prints!
-
-### Step 2: Coat the Leaf With Paint
-
-Lay a leaf vein-side up on newspaper. Use a **flat paintbrush** to coat the surface evenly with a thin layer of **poster paint**. A thin, even coat gives the crispest print — too much paint and the detail blurs.
-
-### Step 3: Press and Reveal
-
-Place the painted leaf face-down on a fresh sheet of **paper**. Lay another scrap sheet on top and press firmly all over with your palm — right to the edges and tip. Peel back the scrap sheet, then lift the leaf very slowly to reveal the print!
-
-### Step 4: Arrange Your Gallery
-
-Wait for the prints to dry fully, then arrange them into a collage. Overlap prints, try contrasting colour combinations, or use **markers** to add stems and a grassy ground beneath each leaf.
-
 ## Have fun!
 
 - 🌈 Apply three colours to one leaf for a tie-dye rainbow effect
