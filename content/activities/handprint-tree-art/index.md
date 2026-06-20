@@ -40,36 +40,12 @@ steps:
 
 Leave your mark! 🌳 Your little artists will use their own **arm and hand** as a stamp to create a beautiful tree. Paint the forearm brown for the trunk, spread the fingers for branches, press down onto **paper** — and then add dozens of colourful **fingerprint** leaves in autumn reds, spring greens, or summer colours. It's a stunning piece of art that's uniquely personal!
 
-
-## How to Set It Up
-
-### Step 1: Prepare the Paper
-
-Lay out a large sheet of **paper** on a protected surface (cover the table with newspaper first!). Have **poster paint** in brown plus several leaf colours ready — green, red, orange, yellow. Have wet **paper towels** nearby for quick clean-up. 📄
-
-
-### Step 2: Paint the Trunk
-
-Using a **flat paintbrush**, paint the child's forearm and hand with brown **poster paint**. Cover from the elbow to the fingertips — the arm is the trunk, the spread fingers are the branches! Make sure the paint is thick enough to print well. 🎨
-
-
-### Step 3: Make the Print
-
-Carefully press the painted arm and hand onto the paper, fingers spread wide. Press down firmly, especially the fingertips. Lift straight up to reveal the tree trunk and branches! Let the print dry before adding leaves. 🤚
-
-
-### Step 4: Add Fingerprint Leaves
-
-Dip a fingertip into green, red, orange, or yellow paint and press it onto the paper around and above the branch tips. Repeat with different colours — lots and lots of fingerprint leaves! Cluster them along the branches and scatter a few "falling" below. A tree full of leaves! 🍂
-
-
 ## Have fun!
 
 - 🍂 Make four trees showing the seasons — green for summer, orange for autumn, bare for winter, pink blossoms for spring!
 - 👨‍👩‍👧‍👦 Make a family tree — each person adds their handprint as a branch!
 - 🐦 Add fingerprint birds sitting on the branches!
 - 📖 Learn about different tree species — oak, maple, cherry blossom!
-
 
 ## Why It's Amazing
 
@@ -80,7 +56,6 @@ Dip a fingertip into green, red, orange, or yellow paint and press it onto the p
 * **Seasonal Learning:** Making trees in different seasonal colours teaches the concept of seasons and how trees change throughout the year. 🍂
 
 * **Personal Art:** Every handprint is unique — this creates a deeply personal piece of art that families treasure as a keepsake of this age and size. 💚
-
 
 ## Pro Tips
 
