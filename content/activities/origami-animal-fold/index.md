@@ -37,24 +37,6 @@ steps:
 
 A whole paper zoo! 🐦 Using just **paper** and precise folds, you'll create origami animals — a soaring crane, a jumping frog, and a barking fox. Each creature is folded from a single square sheet with zero cuts and zero glue. The magic is entirely in the folding.
 
-## How to Set It Up
-
-### Step 1: Choose and Prepare Your Paper
-
-Cut several sheets of **paper** into perfect squares (15 × 15 cm is ideal). Before folding, colour one side with **colouring pencils** so the finished animal has a splash of colour on the outside. Lay your first square white-side up, ready to begin.
-
-### Step 2: Fold the Base Shape
-
-Every origami model starts from a standard base. For the crane, fold into a "bird base": square → triangle → open-and-squash fold on each flap. Crease every fold sharply by running your thumbnail firmly along the edge — a soft crease makes the next step harder.
-
-### Step 3: Shape Into Your Animal
-
-Follow the step sequence for your chosen animal carefully. The magic moment arrives near the end when abstract-looking folds suddenly reveal a recognisable creature. Take it slowly — each crease is permanent, so think before you fold!
-
-### Step 4: Display Your Zoo
-
-Arrange your finished animals on a shelf or windowsill. Use **markers** to add tiny eyes and spots. Try folding the same model three times in a row — you'll be amazed at how much neater the third one is.
-
 ## Have fun!
 
 - 📸 Photograph your zoo from above for a bird's-eye view
