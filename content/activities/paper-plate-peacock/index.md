@@ -49,36 +49,12 @@ steps:
 
 A bird fit for a palace! 🦚 Your little ornithologists will transform a **paper plate** into a stunning peacock by painting it a rich blue-green, then fanning out a spectacular tail of colourful **paper** feathers decorated with eye-spots behind the body. Add **googly eyes**, a paper beak, and little feet — a show-stopping display piece!
 
-
-## How to Set It Up
-
-### Step 1: Paint the Body
-
-Paint the front of a **paper plate** with blue-green **poster paint** — this is the peacock's body. Mix blue and green together for a gorgeous teal colour. Let it dry completely. 🎨
-
-
-### Step 2: Make the Tail Feathers
-
-Cut 8–10 long teardrop or leaf shapes from colourful **paper** (blues, greens, purples, and golds). Each feather should be about 15–20 cm long. On each feather, glue a small circle of contrasting paper near the top to create the famous peacock eye-spot pattern. ✂️
-
-
-### Step 3: Attach the Tail
-
-Flip the dry painted plate over. Fan the paper feathers out evenly behind the top half of the plate and glue them to the back with **PVA glue** — they should radiate outward like a spectacular fan. Press firmly and let dry. 🪶
-
-
-### Step 4: Add the Face and Feet
-
-Flip the plate back over. Glue two **googly eyes** near the top centre. Cut a small diamond from orange or yellow paper, fold it in half, and glue it as a beak below the eyes. Cut two simple feet from orange paper and glue them at the bottom. Your peacock is ready to strut! 🦚
-
-
 ## Have fun!
 
 - ✨ Add glitter to the feathers for extra sparkle — real peacock feathers are iridescent!
 - 🌈 Make each feather a different colour for a rainbow peacock!
 - 🪶 Add a tiny crown of small feathers on the head — real peacocks have head crests!
 - 📖 Learn about peafowl — only males have the big tail display, and they use it to attract mates!
-
 
 ## Why It's Amazing
 
@@ -89,7 +65,6 @@ Flip the plate back over. Glue two **googly eyes** near the top centre. Cut a sm
 * **Colour Theory:** Mixing blues and greens, choosing complementary eye-spot colours, and creating an overall colour scheme builds artistic confidence. 🎨
 
 * **Fine Motor Skills:** Cutting elongated feather shapes, gluing small circles for eye-spots, and precise assembly all build dexterity. ✋
-
 
 ## Pro Tips
 
