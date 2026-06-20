@@ -46,24 +46,6 @@ steps:
 
 Engineer a real working catapult from everyday materials and use it to launch **marshmallows** across the room! 🏹 The build is simple enough for kids to tackle independently but satisfying enough to keep them tweaking and experimenting — adjusting the arm angle, changing the rubber band tension, and measuring distances. It is classic hands-on STEM with an irresistible reward built in.
 
-## How to Set It Up
-
-### Step 1: Build the Base
-
-Take five **straws** and bundle four of them together side by side. Wrap several strips of **tape** tightly around both ends to hold the bundle firmly together — this is your catapult base. Stand it flat on a table. Then take a sixth straw and tape it upright at one end of the base bundle, perpendicular to the base, to act as the pivot support. Add a second upright straw right next to it for extra stability.
-
-### Step 2: Attach the Arm
-
-Take a **spoon** and lay it along the length of a single straw so the bowl of the spoon extends beyond one end. Tape the handle of the spoon firmly to the straw with several overlapping strips of **tape** — the spoon and straw should feel solid and move as one piece. This straw is your throwing arm.
-
-### Step 3: Add the Rubber Band
-
-Loop a **rubber band** around the two upright straws on the base, about halfway up. Slide the arm (spoon straw) under the rubber band so the rubber band crosses near the midpoint of the arm. Pull the arm down on the spoon side — the rubber band should stretch and create upward tension. If the tension is too loose, loop the rubber band an extra time or use two bands.
-
-### Step 4: Launch!
-
-Place one **marshmallow** in the bowl of the spoon. Hold the base down firmly with one hand. Pull the spoon end down with the other hand — then let go! The rubber band launches the arm upward and sends the marshmallow flying. Measure the distance with a **ruler** and try to beat it by adjusting the angle, pull distance, or rubber band tension. 🎯
-
 ## Have fun!
 
 - 🎯 Set up targets (cups, hoops, zones) and score points for landing in each one.
