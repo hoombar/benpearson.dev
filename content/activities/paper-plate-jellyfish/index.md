@@ -55,36 +55,12 @@ steps:
 
 An underwater friend that wobbles in the wind! 🪼 Your little marine biologists will transform a **paper plate** into a colourful jellyfish by painting it, adding **googly eyes** for personality, and attaching long, curly **tissue paper** tentacles that sway and dance when you hang it up. A stunning ceiling or doorway decoration!
 
-
-## How to Set It Up
-
-### Step 1: Paint the Body
-
-Take a **paper plate** and paint one side with **poster paint** — purples, blues, and pinks work beautifully for a jellyfish! Cover the whole surface and let it dry completely. This will be the rounded dome of your jellyfish body. 🎨
-
-
-### Step 2: Make the Tentacles
-
-While the paint dries, cut **tissue paper** into long strips (about 2–3 cm wide and 20–30 cm long). Cut 8–12 strips in different colours. For extra wobble, gently twist or curl each strip by wrapping it around a pencil. 🌊
-
-
-### Step 3: Attach the Tentacles
-
-Flip the dry painted plate over so the painted side faces up (dome shape). Use **tape** to stick the tissue paper strips along the flat (unpainted) underside edge of the plate, spacing them evenly around the bottom half. The tentacles should dangle down freely. 🪼
-
-
-### Step 4: Add Face and Hang
-
-Stick two **googly eyes** onto the painted dome with **PVA glue**. Poke a small hole in the top of the plate and thread a piece of **string** through to make a hanger. Tie a knot and hang your jellyfish from the ceiling — watch the tentacles dance! 🎉
-
-
 ## Have fun!
 
 - 🌊 Make a whole school of jellyfish in different colours and sizes!
 - ✨ Add glitter to the wet paint for a sparkly ocean effect!
 - 🐙 Add extra-long tentacles and short ones mixed together for a realistic look!
 - 📖 Learn about real jellyfish — they have no brain, no heart, and are 95% water!
-
 
 ## Why It's Amazing
 
@@ -95,7 +71,6 @@ Stick two **googly eyes** onto the painted dome with **PVA glue**. Poke a small 
 * **Colour Mixing:** Layering translucent tissue paper and painting with wet media teaches how colours blend and layer. 🎨
 
 * **Cause and Effect:** Hanging the jellyfish and watching tentacles move in air currents demonstrates how air movement creates motion. 💨
-
 
 ## Pro Tips
 
