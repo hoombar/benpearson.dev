@@ -37,36 +37,12 @@ steps:
 
 Welcome to the shiniest zoo on Earth! 🦒✨ Your little sculptors will discover that ordinary **aluminium foil** is actually an incredible sculpting material — it bends, twists, scrunches, and holds its shape perfectly! Create a whole zoo of gleaming silver animals: a tall giraffe, a coiled snake, a four-legged dog, a round-bellied penguin — whatever creatures your imagination conjures!
 
-
-## How to Set It Up
-
-### Step 1: Tear Your Foil Sheets
-
-Tear off several large sheets of **aluminium foil** — about 30 cm long each. You'll need one sheet per animal (big animals might need two!). Lay them out on the table shiny-side up. Each sheet is a creature waiting to be born! 🌟
-
-
-### Step 2: Start with a Simple Snake
-
-Begin with the easiest animal to build confidence! Take one sheet and roll it into a long sausage shape between your palms. Now coil one end upward for the head, and curl the tail end into a spiral. Pinch two tiny bumps for eyes. Congratulations — you've made your first zoo animal! 🐍
-
-
-### Step 3: Level Up to Legged Animals
-
-For a four-legged animal (a dog, cat, or giraffe), start by scrunching the middle of the sheet into a thick body. Pull and shape foil from each corner downward into four legs. Pinch and pull one end into a neck and head. For a giraffe, make the neck extra long and thin! Use a small extra piece of foil to add ears, horns, or a tail. Squeeze firmly so each part holds its shape.
-
-
-### Step 4: Build Your Zoo
-
-Now go wild! Make as many animals as you can — try a round owl, a long crocodile, a fat penguin, or a tiny mouse. Use a flat piece of **cardboard** as a zoo base. Arrange your animals in "enclosures" by drawing fence lines on the cardboard with **markers**. Add labels with each animal's name and species! 🏷️
-
-
 ## Have fun!
 
 - 🦁 Challenge each family member to sculpt the same animal — then compare the different versions!
 - 🏷️ Write fact cards for each animal — where does it live? What does it eat?
 - 📸 Photograph your zoo and make a "Zoo Guide" booklet!
 - 🌍 Organise your animals by continent — which ones live in Africa? Which in Antarctica?
-
 
 ## Why It's Amazing
 
@@ -77,7 +53,6 @@ Now go wild! Make as many animals as you can — try a round owl, a long crocodi
 * **Iterative Design:** When a leg breaks off or a neck flops, children learn to problem-solve and rebuild — real engineering! 🔧
 
 * **Animal Knowledge:** Studying animal shapes to sculpt them builds observation skills and zoological knowledge. 🦒
-
 
 ## Pro Tips
 
