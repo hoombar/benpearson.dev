@@ -43,36 +43,12 @@ steps:
 
 Frame-worthy art deserves a frame-worthy FRAME! 🖼️ Your little artists will build a sturdy picture frame from **popsicle sticks**, paint it in gorgeous colours, decorate it with **stickers** and patterns, and use it to display their favourite drawing, painting, or family photo. It makes a brilliant homemade gift — especially for grandparents!
 
-
-## How to Set It Up
-
-### Step 1: Build the Frame
-
-Lay 4 **popsicle sticks** in a square shape, overlapping at the corners. Apply **PVA glue** at each corner where the sticks overlap, pressing them together firmly. For extra strength, glue 4 more sticks on top of the first layer — this creates a chunky, sturdy double-layered frame. Let the glue dry for 10 minutes.
-
-
-### Step 2: Paint Your Frame
-
-Once the glue is set, paint the frame with **poster paint** — one colour all over, or a different colour on each side! You could paint stripes, dots, or even a rainbow gradient. Paint the front, let it dry, then flip and paint the back. Two coats make the colours really pop! 🎨
-
-
-### Step 3: Decorate and Personalise
-
-Add **stickers** — stars, hearts, gems, or letter stickers to spell a name. You could glue on buttons, sequins, or tiny pom poms from a craft stash. Make it completely unique! This is the fun part where every frame becomes one of a kind. ✨
-
-
-### Step 4: Mount Your Picture
-
-Tape or glue a drawing, painting, or printed photo to the back of the frame so it shows through the opening. Tie a loop of **string** to the top for hanging on a wall, or use a folded piece of card glued to the back as a stand. Display it proudly — or wrap it up as a gift! 🎁
-
-
 ## Have fun!
 
 - 👨‍👩‍👧‍👦 Make frames for the whole family — each person decorates their own style!
 - 🌊 Theme your frame — seashells for a beach photo, leaves for an autumn picture!
 - 🧲 Glue a magnet to the back for a fridge frame!
 - 📅 Make seasonal frames — one for every holiday throughout the year!
-
 
 ## Why It's Amazing
 
@@ -83,7 +59,6 @@ Tape or glue a drawing, painting, or printed photo to the back of the frame so i
 * **Gift-Giving:** Making a frame for someone else teaches children the value of thoughtful, handmade gifts. 🎁
 
 * **Pride in Work:** Framing their own artwork shows children their creations are valued and worth displaying. ⭐
-
 
 ## Pro Tips
 
