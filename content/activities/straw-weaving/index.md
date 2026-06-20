@@ -37,36 +37,12 @@ steps:
 
 Time to become a master weaver! 🧶 Your little textile artists will thread **string** through **straws** to create a simple but ingenious loom, then weave more string over and under the straw "warp" threads to build up a beautiful woven fabric. The result? A gorgeous handmade bookmark, bracelet, or mini mat that they made entirely themselves — from setting up the loom to the finished weave!
 
-
-## How to Set It Up
-
-### Step 1: Thread the Straws
-
-Cut 4–5 **straws** to the same length (about 12 cm works well). Cut a long piece of **string** and thread it through each straw, leaving about 10 cm of string poking out each end. These straw-covered strings are your "warp" — the vertical threads of your loom. Tie all the top ends together in a knot. 🥤
-
-
-### Step 2: Start Weaving
-
-Cut another long piece of **string** in a different colour. Tie one end to the first straw. Now weave over the first straw, under the second, over the third, under the fourth — all the way across. When you reach the end, turn around and go back the other way: under, over, under, over. Keep it snug but not too tight! 🪢
-
-
-### Step 3: Push Down and Continue
-
-As you weave more rows, gently push the woven string down the straws to pack the rows tightly together. Keep weaving over-under-over-under, row after row. You can change colours by tying a new piece of string to the end of the old one. Watch your woven fabric grow! 📏
-
-
-### Step 4: Finish and Remove
-
-When your weaving is as long as you want, tie off the weaving string securely. Now for the magic part — carefully slide the straws off the warp strings! The weaving holds its shape beautifully. Tie off the loose ends at top and bottom, and trim any straggly bits with **scissors**. You've made a real woven textile! ✨
-
-
 ## Have fun!
 
 - 📚 Make a bookmark by keeping it narrow — weave through just 3 straws!
 - 🌈 Create a rainbow by changing string colour every few rows!
 - 💝 Weave a bracelet or friendship band as a gift!
 - 🧮 Count your rows — can you make a pattern that repeats every 4 rows?
-
 
 ## Why It's Amazing
 
@@ -77,7 +53,6 @@ When your weaving is as long as you want, tie off the weaving string securely. N
 * **Fine Motor Mastery:** Threading string through straws and maintaining the weaving pattern develops exceptional finger dexterity and hand-eye coordination. ✋
 
 * **Patience and Persistence:** Weaving builds slowly, row by row — children learn that sustained effort produces impressive results. 🏆
-
 
 ## Pro Tips
 
