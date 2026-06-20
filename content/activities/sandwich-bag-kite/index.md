@@ -46,36 +46,12 @@ steps:
 
 Up, up, and away! 🪁 Your little aviators will build a real working kite from everyday kitchen items — a **zip-lock bag** for the sail, **straws** for the frame, and **string** for the line. It's light enough to fly in even the gentlest breeze, and because zip-lock bags are transparent, decorating them with markers creates stunning stained-glass effects in the sunlight!
 
-
-## How to Set It Up
-
-### Step 1: Create the Kite Frame
-
-Take two **straws** and arrange them in a cross shape — one vertical, one horizontal across the middle. Use **tape** to secure them tightly where they cross. This is your kite's skeleton! If you have bendy straws, cut off the bendy part first so they're straight.
-
-
-### Step 2: Attach the Sail
-
-Open a **zip-lock bag** and lay it flat. Place your straw cross on top. Tape each end of the straws to the bag — this attaches the frame to the sail. Trim any excess bag if it sticks out too far beyond the straws, but leaving a little extra is fine.
-
-
-### Step 3: Decorate and Add the Line
-
-Use **markers** to draw colourful designs on the bag — swirls, stars, rainbow stripes, or your favourite animal face! Add **stickers** for extra flair. Then cut a long piece of **string** (about 2 metres), poke a small hole where the straws cross, thread the string through, and tie it firmly. This is your kite line! 🎨
-
-
-### Step 4: Fly Your Kite!
-
-Head outside on a breezy day! Hold the string and let the wind catch the sail. Run into the wind to get lift, then let out more string as the kite climbs. If there's no wind, just run with it — the bag catches air beautifully! Try different running speeds and string lengths. 🌬️
-
-
 ## Have fun!
 
 - 🏃 Have a kite-flying race — whose kite goes highest?
 - 🎀 Add ribbon tails from the bottom for a streaming effect!
 - 🌈 Make several kites in different colours and fly them together!
 - 📏 See how long a string you can use before the kite gets too heavy!
-
 
 ## Why It's Amazing
 
@@ -86,7 +62,6 @@ Head outside on a breezy day! Hold the string and let the wind catch the sail. R
 * **Problem-Solving:** When the kite doesn't fly well, children must diagnose the issue (too heavy? wrong angle? not enough wind?) and adjust. 🔧
 
 * **Physical Activity:** Running, controlling the string, and tracking the kite overhead provides fantastic outdoor exercise and coordination. 🏃
-
 
 ## Pro Tips
 
