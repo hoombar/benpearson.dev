@@ -55,29 +55,6 @@ steps:
 
 You're about to become a real-life palaeontologist! 🦖✨ First you'll mix up a magical fossil dough and bury tiny **dinosaur figurines** deep inside rock-shaped lumps. Then, once they've hardened, you'll use a special fizzy excavation spray — **white vinegar** — to watch your fossil rocks bubble, hiss, and crumble away, slowly revealing the prehistoric creatures trapped inside! It's science, sensory play, and dinosaur adventure all rolled into one.
 
-
-## How to Set It Up
-
-### Step 1: Mix the Fossil Dough
-
-Pour about 2 cups of **baking soda** into a **large bowl**. Add a few drops of **food colouring** — sandy brown or grey works brilliantly for a realistic rock look! 🎨 Slowly drizzle in **water**, about 1 tablespoon at a time, stirring with a spoon after each addition. Keep going until the mixture holds together like damp sand when you squeeze it. You'll need roughly 4–6 tablespoons of water total. If it gets too wet, sprinkle in more baking soda.
-
-
-### Step 2: Bury the Dinosaurs
-
-Grab a handful of your fossil dough and press it flat in your palm. Place a **small plastic figurine** in the centre 🦕 — a dinosaur, insect, or any small toy works perfectly! Fold the dough around the figurine and pack it tightly into a ball or rock shape, making sure the toy is completely hidden inside. Repeat until you've used up all your dough and buried all your creatures. Place each fossil rock onto a **baking tray or plate**.
-
-
-### Step 3: Harden the Fossils
-
-Leave your fossil rocks on the tray to dry and harden. For best results, let them sit overnight — or at least 4–6 hours. If you're in a hurry, you can pop them in the oven at the very lowest setting (around 100°C / 200°F) for about an hour. ⚠️ **Adult Helper Needed** — an adult should handle the oven. The rocks should feel firm and dry to the touch when they're ready.
-
-
-### Step 4: Excavate with Fizzy Vinegar
-
-Now the fun part! 🎉 Fill a **spray bottle** or **dropper** with **white vinegar**. Place your fossil rocks back on the tray (to catch the mess!). Spray or squeeze vinegar onto a rock and watch it fizz, bubble, and foam as the baking soda reacts! Keep spraying — the rock will slowly dissolve and crumble. Use your fingers to gently break away the softened pieces. Keep going until your dinosaur emerges from its ancient stone prison! 🦖💥
-
-
 ## Have fun!
 
 - 🔬 Talk about how REAL palaeontologists carefully dig fossils out of rock — yours fizz instead of chip!
@@ -85,7 +62,6 @@ Now the fun part! 🎉 Fill a **spray bottle** or **dropper** with **white vineg
 - 🎨 Add different food colouring to each batch of dough — red for Mars rocks, blue for ocean fossils!
 - ⏱️ Race to see who can uncover their dinosaur first using only the spray bottle.
 - 📝 Keep a "dig journal" and draw each creature as you discover it.
-
 
 ## Why It's Amazing
 
@@ -96,7 +72,6 @@ Now the fun part! 🎉 Fill a **spray bottle** or **dropper** with **white vineg
 * **Patience & Persistence:** Excavating takes time and care — kids learn to work methodically rather than rushing. 🐢
 
 * **Curiosity & Imagination:** The hidden-toy surprise element sparks genuine excitement and curiosity about the natural world. 🌍
-
 
 ## Pro Tips
 
