@@ -55,24 +55,6 @@ steps:
 
 You'll build a real working weather station 🌦️ — a rain gauge that measures rainfall to the nearest centimetre and a wind vane that shows which direction the wind blows! Set both instruments outside, then start filling in your daily meteorologist's **notebook** with observations. After a week, you'll spot real weather patterns in your own data. This is exactly how professional weather scientists work! 🌤️
 
-## How to Set It Up
-
-### Step 1: Build the Rain Gauge
-
-Choose a **small container** with straight sides — not tapered, so every centimetre of height represents the same volume of rain. Use a **ruler** and a waterproof **marker** to draw a scale up the outside of the container: mark a line every centimetre from the bottom and number each mark (0, 1, 2, 3…). Place the finished gauge in an open outdoor spot away from trees and roof overhangs.
-
-### Step 2: Make the Wind Vane
-
-Cut a large arrowhead shape and a wide tail fin from stiff **paper** (about 10 cm each). Use **tape** to attach the arrowhead to one end of a **straw** and the tail fin to the other end. Balance the straw on the tip of your **pen** to find the exact balance point and mark it. Push the pen tip through that balance point. Tape the **pen** to a small container filled with stones so it stands upright. Orient the vane by marking N, S, E, W on a card beneath it using a compass app.
-
-### Step 3: Create Your Weather Log
-
-Open your **notebook** and draw a log table with these columns: Date | Time | Cloud Type | Rain (cm) | Wind Direction | Wind Strength. Make rows for 14 days. Sketch a simple key of cloud symbols: circle = clear, bumpy outline = cumulus, flat lines = stratus, dark grey = storm. Having the symbols ready means your daily recording will only take 2 minutes!
-
-### Step 4: Take Your First Reading
-
-Go outside with your **notebook** at the same time each day. Read and record the water level in your rain gauge — then empty it so it's ready for tomorrow. Observe the wind vane direction and note the cloud types overhead. After 7 days, look back at your data — can you spot any patterns between cloud types and rainfall? 🔍
-
 ## Have fun!
 
 - 📡 Compare your daily readings against an online weather forecast — how accurate were you?
