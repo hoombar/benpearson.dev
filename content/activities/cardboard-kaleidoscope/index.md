@@ -49,24 +49,6 @@ steps:
 
 You'll engineer a real, working **kaleidoscope** from a cardboard tube and **aluminium foil**! 🔭 Look through one end and you'll see a breathtaking, symmetrical pattern of reflected colours — rotate it and the pattern transforms instantly. It's optical magic built entirely from household materials.
 
-## How to Set It Up
-
-### Step 1: Make the Mirror Prism
-
-⚠️ **Adult Helper Needed** — Use **scissors** to cut a strip of **aluminium foil** that is 3 cm wide and as long as your **cardboard tube**. Fold it carefully into three equal panels along its length to form a triangular prism shape, with the shiny (mirror) side facing inward on all three panels. Press the folds crisp and flat. This is your mirror system — the secret behind every kaleidoscope!
-
-### Step 2: Insert the Prism
-
-Slide the triangular foil prism inside the cardboard tube — shiny sides facing inward, dull side outward. It should fit snugly. If it's loose, wrap a thin strip of **tape** around the outside of the prism before inserting. Use a tiny piece of tape at each end of the tube to stop the prism sliding around.
-
-### Step 3: Seal the Viewing End
-
-Cut a small disc of cardboard (from a spare piece of box) exactly the same diameter as your tube end. Use the tip of a **pen** to pierce a single hole in the centre of the disc — about 4–5 mm across. Tape this disc firmly over one end of the tube. This tiny hole is your eyepiece — the small opening forces your eye close to the mirror prism for maximum reflection effect!
-
-### Step 4: Create the Light Cap
-
-Tear small pieces of **tissue paper** in three or four different colours and scatter them loosely inside the open end of the tube. Stretch a square of **cling film** tightly over that end and secure it with **tape** all the way around. The cling film traps the tissue pieces and lets light through — when you look through the eyehole and point the other end at a bright window, the tissue colours reflect and multiply into a kaleidoscope pattern! 🌈
-
 ## Have fun!
 
 - 🌈 Swap out tissue paper for tiny beads, sequins, or glitter for a dazzling upgrade.
