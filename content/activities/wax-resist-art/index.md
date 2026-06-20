@@ -40,17 +40,6 @@ steps:
 
 Draw a secret picture in invisible white wax on white paper, then sweep a wash of colour across the page and watch your hidden artwork spring to life! This magical technique is called **wax resist** — the wax repels the watery paint, making your secret design appear as if from nowhere. 🎨
 
-## How to Set It Up
-
-### Step 1: Draw Your Secret
-Press a white wax crayon firmly onto white paper to draw a bold picture — a star, a sunshine, your name, or a favourite animal. The drawing will be almost invisible on the white paper, so encourage pressing hard and keeping all lines thick and bold. The thicker the wax layer, the more dramatic the reveal!
-
-### Step 2: Mix Your Paint Wash
-Squeeze a generous amount of poster paint into a small container. Add 3–4 tablespoons of water and stir until you have a thin, flowing colour wash — it should flow off the brush freely like watery tea. Darker, vivid colours (deep blue, purple, bright red) create the most dramatic reveals against the white wax.
-
-### Step 3: Reveal the Magic
-Load your flat paintbrush with colour wash and sweep it boldly across the entire paper in broad, confident strokes from one edge to the other. Work quickly so the wash spreads evenly. Watch your secret picture magically emerge through the paint as the wax pushes the colour away!
-
 ## Have fun!
 
 - 🌟 Make greeting cards with a hidden birthday message only revealed when painted
