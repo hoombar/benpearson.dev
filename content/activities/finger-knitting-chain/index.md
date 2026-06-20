@@ -37,23 +37,6 @@ steps:
 
 Learn the ancient craft of finger knitting and create a beautiful woven chain using nothing but your hands and a ball of yarn! Your chain can become a friendship bracelet, a necklace, a bookmark, or link several chains together to make a colourful decoration. No needles, no equipment — just your fingers and your creativity.
 
-## How to Set It Up
-
-### Step 1: Prepare Your Yarn
-Cut a piece of yarn about 2 metres long to practise with, or keep the full ball ready to work from directly. Hold the yarn loosely — you'll be threading it between your four fingers on one hand. Rest the short tail end across your palm and hold it gently with your thumb.
-
-### Step 2: Set Up the First Row
-Weave the yarn across your four fingers: over your index finger, under your middle finger, over your ring finger, and under your little finger. Then weave back the other way: over your little finger, under your ring finger, over your middle finger, and under your index finger. Each finger should now have one loop.
-
-### Step 3: Weave the Second Row
-Weave the yarn across your fingers in the same direction again to create a second loop above the first. Each finger now has two loops stacked — a lower loop and an upper loop sitting above it.
-
-### Step 4: Knit Your Chain
-Starting with your little finger, lift the lower loop up and over the upper loop and off the fingertip, dropping it behind your hand. Work across each finger in turn. Each finger now has one loop again. Weave another row and repeat the lifting motion — a chain grows at the back of your hand!
-
-### Step 5: Cast Off & Finish
-When your chain is the length you want, cut the yarn leaving a 10 cm tail. Slip the loop off your little finger. Thread the ring finger loop through it and pull snug. Continue until all loops are off. Thread the yarn tail through the final loop and pull tight to secure.
-
 ## Have fun!
 
 - Measure your wrist and knit a bracelet that fits perfectly
