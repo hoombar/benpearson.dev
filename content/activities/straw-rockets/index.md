@@ -49,28 +49,6 @@ steps:
 
 You and your child will build a real working rocket from nothing but **paper**, **tape**, and a **straw**! 🚀✨ The secret is simple but brilliant: a paper tube that slides snugly over the straw and is sealed at the top. When you blow hard into the straw, the air pressure builds up and launches the rocket off like a shot. Add fins and a nose cone for stability, and you have a rocket that can fly several metres across the room!
 
-## How to Set It Up
-
-### Step 1: Roll the Rocket Body
-
-Tear off a strip of **paper** about 20 cm long and 10 cm wide. Place it against the **straw** and roll it tightly around the straw lengthways to form a narrow tube. Keep rolling until the tube feels snug but can still slide freely on and off the straw. Tape the long edge down firmly with a strip of **tape** so it won't unroll. Slide the paper tube off the straw.
-
-### Step 2: Seal the Nose Cone
-
-Hold the paper tube upright. Pinch the TOP end flat between your thumb and finger. Fold the left flat corner diagonally down towards the centre of the tube. Then fold the right flat corner diagonally down to meet it. You should have a triangular pointed tip. Press the folds firmly and tape them in place so the nose is completely sealed — no air can escape through the top!
-
-### Step 3: Make and Attach the Fins
-
-Cut a small square of **paper**, roughly 4 cm × 4 cm. Fold it in half diagonally to make a triangle. Tape the folded edge against the BOTTOM of your rocket tube so the pointed triangle sticks out sideways as a fin. Make 3 fins this way, spacing them equally around the bottom opening of the rocket.
-
-### Step 4: Decorate Your Rocket
-
-Use **markers** to bring your rocket to life! Draw flames shooting out from the bottom, windows, a flag, a mission number, or your child's name along the side. This is your rocket — make it legendary! Let the ink dry for a moment before launch.
-
-### Step 5: Launch Your Rocket
-
-Slide the OPEN bottom end of your rocket onto one end of the straw. Point the straw upwards at about a 45° angle (NOT straight up — it may come back down on you!). Take a deep breath, then blow sharply and hard into the other end of the straw. Your rocket will shoot off and fly across the room!
-
 ## Have fun!
 
 - 🏆 Mark a target on the wall with tape and see if you can hit it from further and further away.
