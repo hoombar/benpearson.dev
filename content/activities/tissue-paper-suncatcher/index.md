@@ -43,24 +43,6 @@ steps:
 
 Make a beautiful stained-glass window effect using nothing but **tissue paper** and **cling film**! When you hang your suncatcher in a sunny window, the overlapping colours glow and mix together like magic. 🌈 It is a wonderfully calming craft that produces stunning results — and every suncatcher turns out completely unique.
 
-## How to Set It Up
-
-### Step 1: Lay the Base
-
-Tear off a piece of **cling film** about 30 cm square. Press the edges firmly onto a flat surface (a table or cutting board works well) so the cling film lies flat and sticky-side up. If it keeps curling back, tape the corners down lightly with small strips of **tape**.
-
-### Step 2: Arrange the Colours
-
-Tear or cut **tissue paper** into small squares and rectangles roughly 3–5 cm across. Press each piece gently onto the sticky cling film. Overlap colours to create new shades — red and yellow make orange, blue and yellow make green. Cover the whole cling film surface, leaving no gaps for the best glow effect.
-
-### Step 3: Add a Frame
-
-Fold a sheet of **paper** in half, then in half again. Cut a large square from the open corner to create a frame shape when unfolded. Place the frame over your tissue paper layer and fold the cling film edges up over the frame to hold everything together. Tape the edges down securely so the frame is firmly attached.
-
-### Step 4: Display It!
-
-Hold your suncatcher up to a sunny window to check the colours — adjust any bare patches by adding more tissue. Then attach it to a window with small loops of **tape**. Watch the coloured light dance on the walls and floor when the sun shines through!
-
 ## Have fun!
 
 - 🎨 Try a themed colour palette — all blues and purples for an ocean feel, or warm reds and oranges for a sunset.
