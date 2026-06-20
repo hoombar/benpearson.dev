@@ -43,34 +43,6 @@ steps:
 
 Get ready to turn your home into an EXCITING treasure hunting expedition! 🗺️✨ You'll create a magical series of clues that lead your little explorer from room to room, discovering hidden treasures and solving fun riddles along the way. This isn't just any treasure hunt - it's an adventure filled with mystery, excitement, and the ultimate prize waiting at the end! 🏆💎
 
-
-## How to Set It Up
-
-### Step 1: Plan Your Treasure Route 🗺️
-
-Grab your **Paper** and **Pen** and draw a simple map of your treasure hunt route. Decide which rooms you'll use - maybe start in the living room, go to the kitchen, then the bathroom, and end in the bedroom! Choose 5-8 locations around your home. Draw little pictures to represent each room so you remember the order. This is YOUR secret planning document!
-
-
-### Step 2: Create the Clues 📝
-
-Now it's time to make the clues! Use your **Markers** to write big, colorful clues on separate pieces of **Paper**. For younger kids (ages 3-4), draw simple pictures like a bathtub for the bathroom or a bed for the bedroom. For older kids (ages 4-5), write simple riddles like "Where do we keep things cold and yummy?" (refrigerator) or "Where do you lay your sleepy head?" (bed). Make each clue bright and exciting with different colored **Markers**! 🌈
-
-
-### Step 3: Make the Treasure ✨
-
-The treasure can be ANYTHING magical! Wrap up some stickers, a favorite snack, a small toy, or even a handmade certificate declaring them "Master Treasure Hunter!" Use **Paper** to create a treasure map certificate or wrap your treasure in layers of paper for extra excitement. You can use **Tape** to secure everything together and make it look mysterious!
-
-
-### Step 4: Hide the Clues (Backwards!) 🔄
-
-Here's the SECRET to a perfect treasure hunt: hide the clues BACKWARDS! Start by placing the treasure in the final location. Then put the last clue in the second-to-last spot, pointing to the treasure. Keep going backwards until you have the first clue ready to give to your child. This way, you won't accidentally create a broken trail! Use **Tape** to stick clues under chairs, behind doors, or on walls.
-
-
-### Step 5: Create the Starting Map 🎨
-
-Make a special "START HERE" treasure map using **Paper** and **Markers**! Draw a big colorful X, add some decorative borders, and write "YOUR ADVENTURE BEGINS!" in your fanciest letters. This is what you'll give your child to launch the treasure hunt. Make it look SUPER official and exciting! ✨
-
-
 ## Have Fun!
 
 * 🏃‍♀️ **Race Against Time:** Set a timer and see if your little explorer can find all the clues before the timer runs out! Celebrate with a victory dance when they succeed!
@@ -83,7 +55,6 @@ Make a special "START HERE" treasure map using **Paper** and **Markers**! Draw a
 
 * 📸 **Document the Journey:** Take photos at each clue location to create a treasure hunt photo album afterwards. Kids LOVE seeing themselves as brave adventurers!
 
-
 ## Why It's Amazing
 
 * **Problem-Solving Skills:** Your child will practice reading clues, thinking logically about where to go next, and connecting information together - all essential critical thinking abilities! 🧠
@@ -93,7 +64,6 @@ Make a special "START HERE" treasure map using **Paper** and **Markers**! Draw a
 * **Reading & Recognition:** Whether following picture clues or simple words, children practice important pre-reading and reading skills while staying engaged and motivated! 📖
 
 * **Independence & Confidence:** Solving the hunt on their own (with your encouragement) builds self-confidence and shows them they can tackle challenges independently! 💪
-
 
 ## Pro Tips
 
