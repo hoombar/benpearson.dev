@@ -43,24 +43,6 @@ steps:
 
 Become a time-traveller and build a **Paper Plate Sundial**! ☀️ Before clocks and watches were invented, people used the sun to tell the time. By placing a **Straw** in the centre of a **Paper Plate** and marking where its shadow falls each hour, you can create a working clock powered entirely by nature!
 
-## How to Set It Up
-
-### Step 1: Mark the Centre
-
-Take a **Paper Plate** and find the exact centre. Use a **Pen** to poke a small hole right in the middle. If the plate is thick, you might need an adult to help with this part.
-
-### Step 2: Decorate and Number
-
-Using your **Markers**, write the number '12' at the very top of the plate. This will represent noon. You can decorate the rest of the plate with suns, clouds, or stars, but leave space for the other numbers!
-
-### Step 3: Insert the Gnomon
-
-Push your **Straw** through the hole in the centre of the plate. This straw is called a 'gnomon'. To keep it steady, use some **Tape** on the underside of the plate to secure the straw so it stands straight up.
-
-### Step 4: Set the Time
-
-Take your sundial outside on a sunny day exactly at noon (12:00 PM). Point the '12' on your plate towards North, or simply turn the plate until the shadow of the straw falls exactly on the '12'. Secure the plate to the ground with a bit of tape or a small stone so it doesn't blow away.
-
 ## Have fun!
 
 - ⏰ Check your sundial every hour and use a marker to write the new number where the shadow is pointing.
