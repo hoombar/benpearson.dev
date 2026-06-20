@@ -43,24 +43,6 @@ steps:
 
 You will transform plain white paper towels into stunning, multi-coloured butterfly wings using a process called chromatography. By drawing simple circles and letting water move through them, you'll see hidden colours emerge and spread in amazing patterns.
 
-## How to Set It Up
-
-### Step 1: Draw the Magic Circles
-
-Take a round paper towel or a square one folded into a circle. Use your markers to draw a thick, colourful circle in the very centre of the paper towel. You can use one colour or several!
-
-### Step 2: Prepare the Water
-
-Fill a small container with just a tiny bit of water—about 1cm deep is plenty. You don't want the paper towel to submerge; only the very tip should touch the water.
-
-### Step 3: Start the Chromatography
-
-Fold your paper towel into a cone shape so that the plain white tip (the very centre of your circle) points down. Carefully rest the tip in the water container. Watch as the water travels up the paper towel, carrying the ink with it!
-
-### Step 4: Dry and Shape
-
-Once the water has reached the edges, carefully remove the paper towel and lay it flat on a drying surface. Once it's completely dry, pinch it in the middle and wrap a pipe cleaner around it to create the butterfly's body and antennae.
-
 ## Have fun!
 
 - Try different marker brands—do some spread faster than others?
