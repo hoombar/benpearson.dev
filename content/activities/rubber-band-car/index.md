@@ -43,36 +43,12 @@ steps:
 
 Start your engines! 🏎️ Your little engineers will build a working car from a small **cardboard box**, using **straws** for axles and cardboard circles for wheels, then power it with a **rubber band** motor that makes it actually zoom across the floor! Wind up the rubber band, place the car down, and watch it race away. It's real engineering with real results!
 
-
-## How to Set It Up
-
-### Step 1: Build the Car Body
-
-Find a small **cardboard box** (a tissue box, cereal box, or shoe box works great). This is your car body! Use **scissors** to trim it to a good car shape if needed. Poke two holes on each side near the bottom — these are for your straw axles to go through. Make sure the holes on each side line up! 📦
-
-
-### Step 2: Add Wheels and Axles
-
-Slide **straws** through the holes to create two axles (front and back). Cut four circles from spare cardboard for wheels — trace around a cup or use a compass. Poke a small hole in the centre of each wheel and push them onto the straw ends. Secure with **tape** so they don't slide off. Test that the wheels spin freely! 🛞
-
-
-### Step 3: Create the Rubber Band Motor
-
-Loop a **rubber band** around the rear axle (the back straw). Hook the other end around a small notch cut in the car body, or tape it to the floor of the box interior. When you wind the rear axle backwards, the rubber band stores energy. This is your motor! Wind it up tight and hold the wheels. 🔧
-
-
-### Step 4: Race Your Car
-
-Place your car on a smooth, hard floor. Wind the rear wheels backward several times to twist the rubber band tight. Hold the car in place, then let go — zoom! The rubber band unwinds, spinning the axle, and your car races forward. Try different numbers of winds. How far can it go? Have a race! 🏁
-
-
 ## Have fun!
 
 - 🏆 Build two cars and race them against each other!
 - 📏 Measure how far your car travels with 5, 10, and 15 winds — make a graph!
 - 🎨 Decorate your car with markers, stickers, and racing stripes!
 - 🔬 Experiment with bigger wheels vs. smaller wheels — which goes faster?
-
 
 ## Why It's Amazing
 
@@ -83,7 +59,6 @@ Place your car on a smooth, hard floor. Wind the rear wheels backward several ti
 * **Problem-Solving:** Getting the car to actually work requires troubleshooting — wheel alignment, friction, rubber band tension — real engineering challenges. 🧠
 
 * **Scientific Method:** Testing different variables (number of winds, wheel size, surface type) introduces experimental thinking naturally. 📊
-
 
 ## Pro Tips
 
