@@ -40,24 +40,6 @@ steps:
 
 You'll transform ordinary glass jars into a shimmering rainbow xylophone 🌈🎶 that plays real musical notes! By filling each jar with a different amount of water and tapping with a spoon, you'll discover how scientists and musicians both use the same magical principle — more water = lower pitch, less water = higher pitch. Your homemade instrument will actually play tunes!
 
-## How to Set It Up
-
-### Step 1: Line Up Your Jars
-
-Gather 6–8 **glass jars** of the same size and arrange them in a row on a table covered with an old towel. Matching jars produce the clearest notes — try jam jars or clean empty pasta sauce jars!
-
-### Step 2: Fill with Water
-
-Fill the first jar almost to the brim, then fill each jar with a little LESS water than the one before. The last jar should have only about 2 cm of water. Use a **ruler** to measure the water heights if you like precision!
-
-### Step 3: Add Rainbow Colours
-
-Add a few drops of **food colouring** to each jar to make a rainbow row — red, orange, yellow, green, blue, and purple. Stir gently with the **spoon**. Now your xylophone looks as brilliant as it sounds! 🌈
-
-### Step 4: Tap and Tune
-
-Gently tap the rim of each jar with a metal **spoon**. Listen! 👂 The fullest jar plays the lowest note. Adjust water levels up or down until you can pick out a clear musical scale — do-re-mi-fa-sol-la-ti-do. Now try tapping a simple tune like "Twinkle Twinkle"!
-
 ## Have fun!
 
 - 🎵 Challenge each other: can you play a recognisable tune your family can identify?
