@@ -49,36 +49,12 @@ steps:
 
 Eek! 🕷️ Your little arachnologists will create a wonderfully creepy (but totally friendly!) spider from a **paper plate**. Paint it jet black, poke eight bendy **pipe cleaner** legs through the sides, stick on enormous wobbly **googly eyes**, and draw a toothy grin. Thread some **string** from the top and hang it from a doorway — watch everyone jump!
 
-
-## How to Set It Up
-
-### Step 1: Paint the Plate
-
-Paint the bottom of a **paper plate** completely black with **poster paint**. Cover every bit — spiders are dark! Let it dry fully. A second coat gives a rich, deep black. 🖤
-
-
-### Step 2: Attach the Legs
-
-Take 4 **pipe cleaners** and fold each one in half. Poke 4 small holes along each side of the plate (8 total). Push the folded pipe cleaners through from the back so two legs emerge from each hole. Bend each leg at the middle for a realistic spider knee joint. ⚠️ Adult Helper Needed for poking holes. 🦵
-
-
-### Step 3: Add the Face
-
-Stick on two large **googly eyes** near the top of the plate — the bigger and googlier, the better! Use a white **marker** or paint to draw a big smile with two little fangs. Add rosy cheeks with a pink or red marker if you like. 👀
-
-
-### Step 4: Hang Your Spider
-
-Poke a small hole at the top of the plate and thread **string** through it. Tie a knot on the inside. Hang your spider from a door frame, ceiling, or branch. Adjust the legs so they curl and spread — your spider is ready to give everyone a friendly scare! 🕸️
-
-
 ## Have fun!
 
 - 🕸️ Make a web from string or wool — tape it to a corner and place the spider in the middle!
 - 🔢 Count the legs — spiders always have exactly 8! How is that different from insects?
 - 📖 Learn about different spiders — garden spiders, tarantulas, jumping spiders!
 - 👻 Perfect for Halloween — make a whole family of spooky spiders!
-
 
 ## Why It's Amazing
 
@@ -89,7 +65,6 @@ Poke a small hole at the top of the plate and thread **string** through it. Tie 
 * **Fine Motor Skills:** Poking holes, threading pipe cleaners, bending joints, and placing eyes all develop hand strength and precision. ✋
 
 * **Conquering Fears:** Making a friendly, silly spider helps children feel empowered over something they might find scary — turning fear into fun! 💚
-
 
 ## Pro Tips
 
