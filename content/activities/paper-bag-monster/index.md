@@ -52,36 +52,12 @@ steps:
 
 RAAWR! 👹 Your little monster-makers will transform a humble **paper bag** into a wild, lovable monster! Stuff it with scrunched **newspaper** or paper for a chunky 3D body, twist the top corners into pointy horns, paint a fearsome (but friendly) face with big teeth, add wobbly **googly eyes** and wild **tissue paper** hair. Every monster is unique — wonky, wonderful, and full of personality!
 
-
-## How to Set It Up
-
-### Step 1: Stuff the Bag
-
-Scrunch up sheets of **newspaper** or spare paper into balls and stuff them inside a **paper bag** until it's plump and round. Don't overstuff — leave a few centimetres at the top. The bag should feel firm but still have some squish. This is your monster's chunky body! 📦
-
-
-### Step 2: Create the Horns
-
-Twist the top corners of the bag into two pointy horns. Wrap a piece of **tape** around the base of each twist to hold the shape. You can also twist the whole top and bend it to one side for a single-horned monster. Experiment with different horn styles! 🦏
-
-
-### Step 3: Paint the Monster
-
-Paint the whole bag with bright **poster paint** — green, purple, blue, or any monster colour! Use a thick coat. Once the base colour dries, paint on a big mouth with sharp (but silly) teeth using white and a contrasting colour. Add spots, stripes, or scales for texture. 🎨
-
-
-### Step 4: Add Eyes and Hair
-
-Stick on big **googly eyes** — the bigger and more wonky, the better! Use **markers** to add nostrils, eyebrows, scars, or freckles. Cut strips of **tissue paper** and glue or tape them between the horns for wild, colourful hair. Your monster is alive! 👀
-
-
 ## Have fun!
 
 - 👹 Make a whole monster family — big ones, tiny ones, and baby monsters!
 - 📝 Give your monster a name, age, and backstory — what does it eat? Where does it live?
 - 🎭 Put on a monster puppet show — use the monsters as characters in a play!
 - 📖 Write a story about your monster's adventure — illustrate it too!
-
 
 ## Why It's Amazing
 
@@ -92,7 +68,6 @@ Stick on big **googly eyes** — the bigger and more wonky, the better! Use **ma
 * **Storytelling & Literacy:** Naming the monster and inventing its personality sparks narrative thinking — a key literacy skill disguised as play. 📖
 
 * **Emotional Processing:** Creating friendly monsters helps children process fears and understand that scary things can be silly and lovable. 💚
-
 
 ## Pro Tips
 
