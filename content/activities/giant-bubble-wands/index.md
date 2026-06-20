@@ -43,24 +43,6 @@ steps:
 
 Build your own magical bubble wands and create the most spectacular bubbles you have ever seen! 🫧 Twist **pipe cleaners** into any loop shape you like — round, star-shaped, or enormous — dip them into a homemade bubble solution, and blow gently to launch shimmering, rainbow-coloured bubbles. The bigger your loop, the bigger your bubble!
 
-## How to Set It Up
-
-### Step 1: Mix the Bubble Solution
-
-Pour about 200 ml of **water** into a **small container** (a shallow bowl or tray works best). Add 4–5 generous squirts of **washing-up liquid** and stir very gently with a **spoon** — you want it mixed but not frothy. For stronger, longer-lasting bubbles, leave the solution to rest for 5 minutes before using it.
-
-### Step 2: Shape Your Wand
-
-Take one **pipe cleaner** and bend one end into a circle about 4 cm across. Wrap the free end around the base of the circle twice to secure it, then straighten the remaining pipe cleaner to form a handle. Squeeze the loop gently to make it as round as possible. This is your bubble wand!
-
-### Step 3: Dip and Blow
-
-Dip the loop end of your wand into the solution and lift it out slowly so a film of liquid stretches across the loop. Hold it up in front of your mouth and blow very gently and steadily — not a sharp puff, but a long, slow breath. A bubble will grow from the loop and float free! Try blowing faster for small bubbles and slower for giant ones. 😮
-
-### Step 4: Make a Giant Wand!
-
-Twist two or three **pipe cleaners** end-to-end to make a longer wire, then bend a much bigger loop — 10 cm or more across. Dip it in the solution, lift slowly, and wave it gently through the air instead of blowing. Watch an enormous bubble form and drift away! 🌟
-
 ## Have fun!
 
 - 🌈 Hold a bubble up to the light — can you see all the colours of the rainbow swirling on its surface?
