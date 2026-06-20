@@ -43,24 +43,6 @@ steps:
 
 You'll carve a simple shape into a **potato** and use it as a printing stamp to make beautiful, repeating-pattern greeting cards! 🎨 Every print is slightly different — that's what makes hand-stamped cards so special. Perfect for birthdays, thank-you notes, or just decorating paper to hang on the wall.
 
-## How to Set It Up
-
-### Step 1: Carve Your Stamp Shape
-
-⚠️ **Adult Helper Needed** — Ask a grown-up to cut the **potato** in half with a kitchen knife to reveal a flat surface. Then carve a simple raised shape (heart, star, or circle) into the flat side — the shape should stand about 5 mm above the surrounding potato.
-
-### Step 2: Prepare the Paint
-
-Squirt a blob of **poster paint** onto a paper plate or shallow dish. Use the **flat paintbrush** to spread it into an even layer about the thickness of a coin. Choose a bold colour — red, blue, or yellow shows up best on white **paper**.
-
-### Step 3: Stamp Your Design
-
-Press the potato stamp firmly into the paint, coating the whole raised shape. Then press it firmly onto your paper and hold for two seconds before lifting straight up. Look at that beautiful print! Reload with paint every 2–3 stamps to keep impressions crisp.
-
-### Step 4: Add Finishing Details
-
-Let the stamps dry for five minutes, then use **markers** to add extra details — dots, stripes, names, or a message. Fold the paper in half and you have a handmade greeting card! 💌
-
 ## Have fun!
 
 - 🎨 Cut two different shapes from the same potato half and alternate them in a pattern.
