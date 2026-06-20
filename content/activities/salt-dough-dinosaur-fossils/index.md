@@ -40,24 +40,6 @@ steps:
 
 You and your little palaeontologists will step back in time to the Jurassic era! 🌋 By mixing a simple, magical salt dough, you'll craft realistic-looking ancient **fossils** right at your kitchen table. Once baked, these tough little discs look just like real archaeological finds, complete with the footprints and skeletons of your favourite **Toy Dinosaur**!
 
-## How to Set It Up
-
-### Step 1: Mix the Fossil Dough
-
-In a large bowl, combine 1 cup of **Plain Flour**, half a cup of **Salt**, and half a cup of **Water**. Knead the mixture with your hands until it forms a smooth, firm ball of dough.
-
-### Step 2: Shape the Rocks
-
-Pinch off small handfuls of the dough and roll them into balls. Place them on a flat surface and gently flatten them with the palm of your hand to create smooth, round rocks about 1cm thick.
-
-### Step 3: Make the Impression
-
-Take your **Toy Dinosaur** and firmly press its feet, tail, or side into the dough rocks. Carefully peel the dinosaur away to reveal a perfect, ancient impression left behind!
-
-### Step 4: Bake and Excavate
-
-⚠️ **Adult Helper Needed** — Place the fossils on a baking tray and ask a grown-up to bake them in the oven at 120°C for 2 hours until rock hard. Once cool, your fossils are ready to be discovered!
-
 ## Have fun!
 
 - 🕵️ Hide the baked fossils in a sandbox or a tub of dirt and use a small brush to 'excavate' them!
