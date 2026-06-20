@@ -40,36 +40,12 @@ steps:
 
 Strike! 🎳 Your little bowlers will transform empty **tin cans** into a colourful bowling set! Paint each can a different bright colour with **poster paint**, let them dry, then stack them into a pyramid and take turns rolling a ball (a rolled-up pair of **socks** works perfectly) to see how many you can knock down. It's proper bowling right in your hallway!
 
-
-## How to Set It Up
-
-### Step 1: Prepare the Cans
-
-Collect 6–10 clean, empty **tin cans** (make sure an adult has checked there are no sharp edges). Give each can a wash and dry. If there are any labels, peel them off or leave them — the paint will cover everything! Line them up on newspaper ready for painting. 🥫
-
-
-### Step 2: Paint the Cans
-
-Using a **flat paintbrush** and **poster paint**, paint each can a bold, bright colour. You might want to do one colour per can, or paint stripes, spots, or numbers on them. Number them 1–10 like real bowling pins! Two coats of paint will give the best coverage. Let them dry completely. 🎨
-
-
-### Step 3: Stack Your Pins
-
-Arrange your painted cans in a bowling pin formation — a triangle shape with 1 can at the front, 2 behind, then 3, then 4 at the back (adjust based on how many cans you have). Stack them on a hard floor — carpet makes them harder to knock over! Mark a bowling line a few metres away. 📐
-
-
-### Step 4: Bowl and Score
-
-Roll up a pair of **socks** into a tight ball (or use any soft ball you have). Stand behind the bowling line and roll your ball towards the pins. Count how many you knock down — that's your score! Set them back up and take turns. First to 50 points wins! 🏆
-
-
 ## Have fun!
 
 - 🔢 Number your cans and add up the numbers on the ones you knock down for maths practice!
 - 🎯 Try different distances — step back one pace each round for increasing difficulty!
 - 🧦 Experiment with different balls — which rolls straightest?
 - 🏅 Keep a scoreboard and play a proper tournament with multiple rounds!
-
 
 ## Why It's Amazing
 
@@ -80,7 +56,6 @@ Roll up a pair of **socks** into a tight ball (or use any soft ball you have). S
 * **Upcycling:** Turning rubbish into a game teaches children that entertainment doesn't need to come from a shop. ♻️
 
 * **Turn-Taking and Sportsmanship:** Playing a competitive game with rules teaches patience, fairness, and gracious winning and losing. 🤝
-
 
 ## Pro Tips
 
