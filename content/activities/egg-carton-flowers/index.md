@@ -43,36 +43,12 @@ steps:
 
 A bouquet that lasts forever! 🌸 Your little gardeners will cut individual cups from an **egg carton**, snip the edges into petal shapes, paint them in gorgeous colours with **poster paint**, and thread **pipe cleaner** stems through the centre. The result? A stunning bouquet of flowers that will brighten any room and never need watering. Perfect for gifts, decorations, or just because!
 
-
-## How to Set It Up
-
-### Step 1: Cut the Egg Cups
-
-Carefully cut individual cups from a cardboard **egg carton** using **scissors**. Each cup will become one flower. You'll need 5–8 cups for a nice bouquet. Trim around the edges neatly — they don't need to be perfect, but try to get them roughly even. Save any flat pieces for leaves later! ✂️
-
-
-### Step 2: Shape the Petals
-
-Take each cup and cut down from the rim toward the base to create petal shapes. Try different styles — four big rounded petals for a poppy, lots of thin pointy petals for a chrysanthemum, or wavy-edged petals for a rose effect. Gently bend the petals outward so the flower opens up. 🌼
-
-
-### Step 3: Paint Your Flowers
-
-Using a **flat paintbrush** and **poster paint**, paint each flower a beautiful colour — bright red, sunny yellow, pretty pink, deep purple, or vibrant orange. Paint the inside and outside of the petals. Add a different coloured dot in the centre for the pollen. Let them dry completely before the next step! 🎨
-
-
-### Step 4: Add Stems and Arrange
-
-Poke a small hole in the bottom of each painted flower cup. Push a **pipe cleaner** up through the hole from underneath — bend the top end over inside the cup to hold it in place (this is also the centre of the flower!). For leaves, cut leaf shapes from the leftover carton, paint them green, and twist them onto the stem. Arrange your bouquet in a jar or cup! 💐
-
-
 ## Have fun!
 
 - 🌈 Make a rainbow bouquet — one flower in each colour of the rainbow!
 - 💝 Create a Mother's Day or birthday bouquet as a handmade gift!
 - 🐝 Add a pipe cleaner bee or butterfly perching on one of the flowers!
 - 🏡 Make a whole garden scene by standing flowers in a tray of playdough!
-
 
 ## Why It's Amazing
 
@@ -83,7 +59,6 @@ Poke a small hole in the bottom of each painted flower cup. Push a **pipe cleane
 * **Colour and Design:** Choosing colours, planning petal patterns, and arranging a bouquet exercises artistic decision-making and aesthetic sense. 🎨
 
 * **3D Construction:** Building a flower from flat materials into a standing 3D object develops spatial thinking and engineering skills. 🏗️
-
 
 ## Pro Tips
 
