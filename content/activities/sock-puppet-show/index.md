@@ -40,24 +40,6 @@ steps:
 
 You and your little one will bring characters to life by turning ordinary **socks** into loveable puppets with faces, hair, and personalities! 🎭 Then it's showtime — perform a story on your very own puppet stage made from a table and a blanket.
 
-## How to Set It Up
-
-### Step 1: Gather Your Puppet Supplies
-
-Lay out one **sock** per puppet, a set of **markers**, some **scissors**, and a roll of **tape**. Choose socks in fun colours — the brighter the better! Each puppet will need its own personality.
-
-### Step 2: Draw the Face
-
-Slip the **sock** over your hand with four fingers in the toe and your thumb underneath to form the mouth. Use **markers** to draw two big eyes and a nose on the sock while wearing it — this ensures the face is in exactly the right place.
-
-### Step 3: Add Hair and Features
-
-Cut strips of **tape** and press on paper scraps as hair, or draw spiky lines with **markers** for a funky hairstyle. Add eyebrows, freckles, or a crown — your puppet, your rules! Try making a villain and a hero.
-
-### Step 4: Perform the Show
-
-Drape a blanket over a low table to create a stage. Give each puppet a name and a silly voice, then act out a story — introduce a problem for the heroes to solve! Bow at the end and take a curtain call.
-
 ## Have fun!
 
 - 🎤 Record your puppet show on a phone and watch it back together!
