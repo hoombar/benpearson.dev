@@ -46,24 +46,6 @@ steps:
 
 You are about to become an arctic food scientist! 🍨 By mixing freezing ice with special salt, you'll create an environment so cold that it instantly freezes liquid cream into a delicious, sweet dessert right before your eyes.
 
-## How to Set It Up
-
-### Step 1: Mix the Potion
-
-Open a small **Zip-lock Bag**. Carefully pour in the **Heavy Cream**, a spoonful of **Sugar**, and a dash of **Vanilla Extract**. Squeeze all the air out of the bag and seal it tightly so none of your delicious mixture can escape.
-
-### Step 2: Prepare the Arctic Chamber
-
-Take a much larger Zip-lock bag. Fill it halfway with **Ice Cubes** and pour in a generous handful of **Salt**. The salt magically lowers the freezing point of the ice, making the bag incredibly cold!
-
-### Step 3: The Big Freeze
-
-Place your small sealed bag of cream directly into the large bag of salty ice. Seal the large bag tightly. Now for the fun part: shake, toss, and massage the bag for about 5 minutes! (You might need gloves or a towel because it gets freezing cold!).
-
-### Step 4: Taste the Magic
-
-Once the cream inside has hardened into a solid scoop, carefully remove the small bag and rinse the salty water off the outside. Open it up, grab a spoon, and taste your homemade ice cream!
-
 ## Have fun!
 
 - 🎵 Invent an 'Ice Cream Shaking Dance' to do while you toss the bag back and forth.
