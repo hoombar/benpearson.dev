@@ -52,36 +52,12 @@ steps:
 
 Buzzzzz! 🐝 Your little beekeepers will transform an **egg carton** cup into an adorable bumble bee! Paint it sunny yellow, add bold black stripes, attach crinkly **tissue paper** wings, twist on **pipe cleaner** antennae with curly tips, and pop on wobbly **googly eyes**. It's a sweet little bug that's bursting with personality!
 
-
-## How to Set It Up
-
-### Step 1: Cut and Paint the Body
-
-Cut a single cup from an **egg carton**. Trim the edges neatly so it looks like a rounded dome. Paint the whole cup bright yellow with **poster paint** and let it dry completely. A second coat makes the colour really vibrant. ⚠️ Adult Helper Needed for cutting. 🎨
-
-
-### Step 2: Add the Stripes
-
-Once the yellow paint is dry, use a black **marker** or black poster paint to add 2–3 thick horizontal stripes around the cup. Space them evenly — just like a real bumble bee! These bold stripes are what make it instantly recognisable. 🖤
-
-
-### Step 3: Attach the Wings
-
-Cut two oval or teardrop shapes from white or pale **tissue paper** — these are the wings. Pinch the narrow end of each wing and glue or tape them to the top of the bee's back, angled slightly outward. The translucent tissue paper looks just like real bee wings! 🪽
-
-
-### Step 4: Add Face and Antennae
-
-Stick on two **googly eyes** at the front. Use a **marker** to draw a little smile. Cut a **pipe cleaner** in half and curl each end into a small ball or spiral. Poke the straight ends into the top of the egg cup and bend to secure — your bee has antennae! 🐝
-
-
 ## Have fun!
 
 - 🌸 Make a whole hive — create 5 or 6 bees and hang them from a branch!
 - 🌻 Build a garden scene with paper flowers for the bees to visit!
 - 📖 Learn about pollination — why are bees so important for our food?
 - 🍯 Taste different types of honey — can you tell the difference?
-
 
 ## Why It's Amazing
 
@@ -92,7 +68,6 @@ Stick on two **googly eyes** at the front. Use a **marker** to draw a little smi
 * **Pattern Recognition:** Painting even stripes introduces the concept of repeating patterns — a fundamental maths skill disguised as art. 🔢
 
 * **Recycled Art:** Transforming an egg carton into a creature teaches children that art materials are everywhere — creative reuse at its best! ♻️
-
 
 ## Pro Tips
 
