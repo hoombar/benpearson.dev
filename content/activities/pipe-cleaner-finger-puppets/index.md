@@ -40,36 +40,12 @@ steps:
 
 Lights, camera, fingers! 🎭 Your little puppet masters will twist and bend colourful **pipe cleaners** into adorable tiny characters that perch right on their fingertips. Make a whole cast — animals, people, monsters, aliens — add **googly eyes** for instant personality, and put on the most entertaining finger puppet show your living room has ever seen!
 
-
-## How to Set It Up
-
-### Step 1: Make the Finger Loop
-
-Take a **pipe cleaner** and wrap the middle section around your finger once to create a snug ring — this is how the puppet stays on your fingertip. Twist the pipe cleaner where it overlaps to secure the ring. You should have two free ends sticking up above the ring like rabbit ears. This is the base of every puppet! 💍
-
-
-### Step 2: Shape Your Character
-
-Bend and twist the free ends into your character's shape. For an animal, fold them into pointy ears. For a person, curve them into arms. For an octopus, add more pipe cleaner pieces and curl the ends into tentacles. Use different coloured pipe cleaners twisted together for stripes or multi-coloured characters! 🐙
-
-
-### Step 3: Add Eyes and Details
-
-Stick **googly eyes** onto the front of your puppet using a tiny dab of **PVA glue**. For extra personality, use **markers** to draw a mouth on a tiny scrap of **paper** and glue it on, or bend a thin pipe cleaner piece into a smile. Each puppet should have its own unique expression! 👀
-
-
-### Step 4: Put on a Show
-
-Make 3–5 different puppets and put one on each finger. Now you have a full cast! Hide behind a cushion or the back of a sofa (that's your stage), pop your fingers up, and perform a story. Give each puppet a different voice and personality. The audience will love it! 🎪
-
-
 ## Have fun!
 
 - 🐾 Make a set of farm animals — cow, pig, chicken, horse, and sheep!
 - 👨‍👩‍👧‍👦 Create finger puppet versions of your whole family!
 - 📖 Retell a favourite story — Three Little Pigs works brilliantly with finger puppets!
 - 🌍 Make puppets from different countries and learn about world cultures!
-
 
 ## Why It's Amazing
 
@@ -80,7 +56,6 @@ Make 3–5 different puppets and put one on each finger. Now you have a full cas
 * **Creative Problem-Solving:** Working out how to make a 3D character from bendy sticks requires real engineering thinking and spatial awareness. 🧠
 
 * **Social-Emotional Skills:** Giving puppets personalities and emotions helps children explore and express feelings through safe, imaginative play. 💫
-
 
 ## Pro Tips
 
