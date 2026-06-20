@@ -43,36 +43,12 @@ steps:
 
 Forget boring brushes — paint with NATURE! 🌿 Your little artists will head into the garden to collect natural items — **fallen leaves**, feathers, twigs, flowers, grass, and pine needles — then tie them to sticks with **string** to create an entire set of wild nature paintbrushes. Each one makes completely different marks and textures when dipped in **poster paint** and swept across paper!
 
-
-## How to Set It Up
-
-### Step 1: Go on a Nature Hunt
-
-Head outside with a bag or basket and collect interesting natural items: **fallen leaves** (big ones and small ones), feathers, pine needles, grass clumps, flower heads, small twigs with interesting shapes, seed pods — anything that looks like it might make cool marks on paper! Collect at least 6–8 different items. 🔍
-
-
-### Step 2: Build Your Brushes
-
-Find 4–6 straight sticks (about 20 cm long) to use as brush handles. Attach your nature items to the ends using **string** or **tape**. Tie a feather to one, a bunch of leaves to another, a clump of grass to the third. The messier and more interesting the brush head, the better the art will be!
-
-
-### Step 3: Set Up Your Painting Station
-
-Pour different colours of **poster paint** into shallow containers (old jar lids or paper plates work well). Lay out large sheets of **paper** on the table or ground (cover the surface first!). Line up your nature brushes and you're ready to create! 🎨
-
-
-### Step 4: Paint and Experiment!
-
-Dip each nature brush into paint and sweep, dab, stamp, or drag it across the paper. Try every brush and compare the marks — leaves make swooshy smears, feathers make delicate lines, pine needles make scratchy textures, flowers make soft stamps. Layer different textures and colours to create stunning abstract art! 🖼️
-
-
 ## Have fun!
 
 - 🖼️ Make a "texture gallery" — one stamp from each brush, labelled with what made it!
 - 🎵 Paint to music — choose different brushes for different parts of the song!
 - 🤔 Play "guess the brush" — cover your eyes and guess which nature brush someone used!
 - 🌸 Press a painted flower onto paper to make a perfect botanical print!
-
 
 ## Why It's Amazing
 
@@ -83,7 +59,6 @@ Dip each nature brush into paint and sweep, dab, stamp, or drag it across the pa
 * **Creative Thinking:** Using unconventional tools forces children to experiment and think differently about art-making. 💡
 
 * **Sensory Experience:** The combination of outdoor collecting and messy painting provides rich tactile and visual stimulation. 🤲
-
 
 ## Pro Tips
 
