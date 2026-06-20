@@ -43,36 +43,12 @@ steps:
 
 Your own custom stamp collection! 🌟 Your little printmakers will bend and shape the ends of **cardboard tubes** into different designs — hearts, stars, flowers, diamonds — then dip them in **poster paint** and stamp colourful patterns onto **paper**. Each tube becomes a reusable stamp that creates perfect, repeatable shapes. Make wrapping paper, greeting cards, or framed art!
 
-
-## How to Set It Up
-
-### Step 1: Shape the Stamps
-
-Take a **cardboard tube** and pinch one end into a point to make a leaf or petal shape. For a heart, pinch the top inward and push the bottom into a point. For a star, make 5 pinches around the edge. Secure the shapes with a small piece of **tape** if they spring open. 🌸
-
-
-### Step 2: Prepare the Paint
-
-Pour small amounts of different **poster paint** colours onto a flat surface like a **paper plate** or piece of cardboard — this creates a stamp pad. Keep the paint layer thin and even for the cleanest prints. Have 3–4 colours ready to go! 🎨
-
-
-### Step 3: Start Stamping
-
-Dip a shaped tube end into the paint, making sure the whole edge is coated. Press it firmly onto a sheet of **paper** and lift straight up. Repeat to create patterns — rows, circles, random scatters, or borders. Dip again between each stamp. 🖨️
-
-
-### Step 4: Create Your Design
-
-Combine different stamp shapes and colours to create patterns and pictures. Stamp flowers (circle stamp + leaf stamps), use heart stamps for a card, or cover a whole sheet for custom wrapping paper. Let everything dry flat. 🎁
-
-
 ## Have fun!
 
 - 🎁 Stamp a large sheet of paper to make your own custom wrapping paper!
 - 💌 Make stamped greeting cards for birthdays, thank-yous, or holidays!
 - 🔢 Use stamps to practice counting — stamp 5 hearts, 3 stars, 7 flowers!
 - 🌈 Experiment with colour layering — stamp one colour, let it dry, stamp another on top!
-
 
 ## Why It's Amazing
 
@@ -83,7 +59,6 @@ Combine different stamp shapes and colours to create patterns and pictures. Stam
 * **Print Art:** Stamping is a real art technique (printmaking!) — children learn that art can be reproduced, which is foundational to understanding design and communication. 🎨
 
 * **Hand Strength:** Pinching tubes into shape and pressing stamps firmly builds hand and finger muscles. ✋
-
 
 ## Pro Tips
 
