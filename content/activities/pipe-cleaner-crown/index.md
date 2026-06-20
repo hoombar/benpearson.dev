@@ -37,36 +37,12 @@ steps:
 
 All hail the king or queen! 👑 Your little royals will twist and weave colourful **pipe cleaners** into a glittering wearable crown. Shape the base band, create zigzag points or swirly towers, add sparkling **stickers** or jewel decorations, then pop it on and rule the kingdom! It's a wonderfully hands-on wearable craft.
 
-
-## How to Set It Up
-
-### Step 1: Make the Crown Band
-
-Twist 3–4 **pipe cleaners** end-to-end to make one long strand. Wrap this around the child's head to measure the right size, then twist the ends together to form a circular band. This is the base of the crown. Choose gold, silver, or any royal colour! 👑
-
-
-### Step 2: Create the Points
-
-Take 4–5 more **pipe cleaners** and bend each one into a zigzag or triangular point shape. Twist the bottom ends of each point firmly around the crown band, spacing them evenly all the way around. Make them tall and dramatic! 🔺
-
-
-### Step 3: Add Spirals and Curls
-
-Wrap short pieces of **pipe cleaner** around a **marker** or pencil to create tight spirals. Attach these curly decorations between the points or at the tips. Mix colours for a rainbow effect. These add wonderful texture and sparkle! 🌀
-
-
-### Step 4: Decorate with Jewels
-
-Add **stickers** as royal jewels — star stickers, gem stickers, or colourful dot stickers along the crown band. You can also thread small **beads** onto the pipe cleaner points before bending them. Wear your crown with pride! ✨
-
-
 ## Have fun!
 
 - 🏰 Create a full royal set — crown, sceptre, and shield all from pipe cleaners!
 - 👨‍👩‍👧‍👦 Make crowns for the whole family — each person designs their own style!
 - 🎭 Use the crowns for a royal play or story — who rules the kingdom?
 - 📖 Learn about real crowns — what jewels are in the Crown Jewels?
-
 
 ## Why It's Amazing
 
@@ -77,7 +53,6 @@ Add **stickers** as royal jewels — star stickers, gem stickers, or colourful d
 * **Measurement Skills:** Measuring the head size, cutting pipe cleaners to length, and spacing decorations evenly introduces practical maths. 📏
 
 * **Imaginative Play:** A wearable creation sparks hours of roleplay — kings, queens, princes, princesses, and elaborate storylines. 🎭
-
 
 ## Pro Tips
 
