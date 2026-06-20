@@ -40,22 +40,6 @@ steps:
 
 Mix up a batch of gloriously squishy, brightly coloured homemade playdough and open your very own bakery! 🍰🥐 Your child becomes chef, baker, and shopkeeper all at once — rolling, shaping, and 'selling' everything from croissants to birthday cakes, using nothing but kitchen staples.
 
-
-## How to Set It Up
-
-### Step 1: Make the Playdough
-
-In a bowl, mix 2 cups of **Plain Flour**, 1 cup of **Salt**, and 2 tablespoons of **Vegetable Oil**. Stir in warm water a little at a time until a soft, non-sticky dough forms (about half a cup). Divide into portions and knead a few drops of **Food Colouring** into each — keep kneading until the colour is even throughout. 🌈
-
-### Step 2: Set Up the Bakery Counter
-
-Arrange several **Small Containers** as display trays and serving dishes. Clear a section of table as the bakery counter. Optionally, make a little sign together using a sheet of paper and markers — 'Ben's Brilliant Bakery' has a nice ring to it! 🏪
-
-### Step 3: Bake!
-
-Show your child how to roll logs (baguettes!), flatten discs (cookies!), and pinch edges (tarts!). Then step back and let their imagination run wild. Every lump is a masterpiece. 🥖
-
-
 ## Have fun!
 
 - 🛒 Take turns being the baker and the customer — use buttons or pebbles as coins
@@ -64,14 +48,12 @@ Show your child how to roll logs (baguettes!), flatten discs (cookies!), and pin
 - 📸 Photograph the finished display before squishing it all back into a ball
 - 🔢 Practise maths: 'That's 3 cookies — I need 5. How many more do you need to bake?'
 
-
 ## Why It's Amazing
 
 * **Sensory Development:** Kneading, squeezing, and moulding playdough is deeply satisfying for young hands and excellent for sensory integration. 🖐️
 * **Imaginative Play:** Running a pretend shop builds rich language, narrative thinking, and social skills through roleplay. 🌟
 * **Fine Motor Skills:** Rolling, pinching, and shaping develops the hand strength children need for writing and drawing. ✏️
 * **Early Science:** Mixing dry and wet ingredients and watching dough form is a child's first experience of chemistry — ingredients combining to become something totally new. 🧪
-
 
 ## Pro Tips
 
