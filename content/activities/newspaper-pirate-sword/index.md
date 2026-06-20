@@ -49,36 +49,12 @@ steps:
 
 A sword fit for the high seas! 🏴‍☠️ Your little swashbucklers will roll **newspaper** sheets tightly to create a surprisingly sturdy blade, add a hand guard from **cardboard**, and wrap the whole thing in **tape** for strength. Paint it silver and gold for a gleaming cutlass, then prepare for adventure — treasure maps, plank-walking, and epic duels await!
 
-
-## How to Set It Up
-
-### Step 1: Roll the Blade
-
-Lay two full sheets of **newspaper** flat, one on top of the other. Starting from one corner, roll them tightly diagonally into a long, thin tube. The tighter you roll, the sturdier the sword! Wrap a strip of **tape** around the middle and each end to stop it unrolling. ⚔️
-
-
-### Step 2: Shape the Blade
-
-Flatten the top 15 cm of the tube slightly and cut the tip into a point with **scissors** (round the point for safety). Leave the bottom third round as the handle grip. Wrap extra tape around the blade section for strength. 🗡️
-
-
-### Step 3: Add the Hand Guard
-
-Cut a rectangle from **cardboard** (about 15 × 8 cm). Cut a small hole in the centre just big enough to slide over the newspaper tube. Push it down to where the handle meets the blade and secure with **tape**. Bend the cardboard slightly to curve around your hand. 🛡️
-
-
-### Step 4: Paint and Decorate
-
-Paint the blade with silver **poster paint** and the handle with brown or gold paint. Add details with **markers** — gemstones on the hand guard, a skull and crossbones on the blade, or your pirate name! Let dry, then test your swordsmanship! 🎨
-
-
 ## Have fun!
 
 - 🗺️ Make a treasure map and go on a sword-wielding treasure hunt around the house!
 - 👁️ Pair with a newspaper pirate hat for the complete pirate outfit!
 - ⚔️ Make two swords and have a gentle fencing match with a friend!
 - 🏴‍☠️ Create a pirate flag from paper and tape it to a long stick as your ship's banner!
-
 
 ## Why It's Amazing
 
@@ -89,7 +65,6 @@ Paint the blade with silver **poster paint** and the handle with brown or gold p
 * **Imaginative Adventures:** A sword becomes a prop for endless storytelling — pirate quests, knight adventures, Jedi battles, and more. 🎭
 
 * **Fine Motor Skills:** Tight rolling, precision cutting, and careful taping all develop hand control and coordination. ✋
-
 
 ## Pro Tips
 
