@@ -43,24 +43,6 @@ steps:
 
 Create stunning abstract art using **marbles** as your paintbrush! 🎨 Drop colourful marbles into a paint-splattered box, tilt and roll them across the paper, and watch as they leave mesmerising swirling trails behind them. Every painting is completely unique — no two marble paintings ever look the same!
 
-## How to Set It Up
-
-### Step 1: Prepare the Canvas
-
-Find a **cardboard box** lid or shallow tray — a shoe box lid or cereal box cut down to about 5 cm deep works perfectly. Cut a sheet of **paper** to fit the base of the box and lay it flat inside. The paper should cover the whole bottom without curling up the sides.
-
-### Step 2: Add the Paint
-
-Using a **spoon**, drop generous blobs of **poster paint** in 3–4 different colours directly onto the paper inside the box. Space the colours around the paper — a blob near each corner and one in the middle works well. Do not mix them yet! The marbles will do all the blending for you. 🌈
-
-### Step 3: Roll the Marbles
-
-Drop 3–4 marbles into the box. Now tilt the box side to side, forwards and backwards — slowly at first, then faster! Watch as the marbles roll through the paint and leave incredible swirling trails across the paper. Fast tilting creates thin streaky lines; slow tilting makes thick swirls and loops. Keep going until you love what you see.
-
-### Step 4: Reveal Your Artwork
-
-Hold the box still and carefully lift the sheet of paper out by two corners. Lay it flat on newspaper to dry. Once dry (about 30 minutes), hold it up and admire your wild, swirling, one-of-a-kind masterpiece! ✨
-
 ## Have fun!
 
 - 🎨 Try using only two colours (like blue and yellow) to watch them blend into green as they mix.
