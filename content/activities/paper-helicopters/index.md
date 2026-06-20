@@ -39,20 +39,6 @@ steps:
 ## What You'll Create
 Get ready to transform simple sheets of paper into spinning, twirling helicopters! You'll create several different designs to learn about aerodynamics and gravity as you drop them from high places.
 
-## How to Set It Up
-
-### Step 1: Draft the Blueprint
-Use your ruler to draw a rectangle about 20cm long and 5cm wide. Draw a line down the middle of the top half for the blades, and two small horizontal slits halfway down the sides.
-
-### Step 2: Cut and Fold
-Carefully cut along the lines to create the two blades. Fold the bottom side flaps inwards to create the stem, and fold the two top blades in opposite directions.
-
-### Step 3: Add the Weight
-Attach a paper clip to the bottom of the stem. This weight is crucial for keeping your helicopter upright as it falls.
-
-### Step 4: Test Flight!
-Hold your helicopter high in the air and drop it! Watch as it begins to spin rapidly on its way to the ground. Now experiment with modifications!
-
 ## Have fun!
 Experiment by cutting longer or shorter blades, or folding the blades in different directions. What happens if you add two paper clips instead of one? Challenge your family to a 'slowest descent' race!
 
