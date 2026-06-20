@@ -40,24 +40,6 @@ steps:
 
 Design and build your very own custom jigsaw puzzle from scratch! 🧩 First you draw a picture, then divide it into interlocking puzzle pieces and cut them out. The result is a completely unique puzzle that you can solve yourself or hand to someone else as a personalised gift. The harder you make the cuts, the trickier the challenge!
 
-## How to Set It Up
-
-### Step 1: Draw Your Picture
-
-Take a sheet of **paper** and use **markers** to draw a bold, colourful picture that fills the whole page. Choose something with lots of colour and detail — a landscape, a cartoon character, a map, or an underwater scene. Bright bold colours make the puzzle much more satisfying to solve, so colour every part of the picture all the way to the edges.
-
-### Step 2: Plan the Pieces
-
-Flip the paper over to the blank side. Use a **ruler** and **markers** to draw a grid of squares across the back — aim for a 4×4 or 5×5 grid for 16–25 pieces. Then add small bumps and dips along each grid line (a rounded bump on one side, a matching dip on the neighbouring piece) to create classic interlocking jigsaw tabs. Keep the bumps simple and consistent.
-
-### Step 3: Cut Out the Pieces
-
-Use **scissors** to carefully cut along all the lines you drew on the back of the paper. Cut slowly around the bumps and dips to keep them smooth and rounded. Once all pieces are cut, shuffle them face-down on a table so the picture is hidden.
-
-### Step 4: Solve It!
-
-Turn all the pieces face-up and mix them up. Now try to reassemble your own picture! Hand it to a family member to solve — they'll be surprised you made it yourself. Store the puzzle in an envelope to play again and again.
-
 ## Have fun!
 
 - 🎁 Make a puzzle of a favourite drawing as a gift for a grandparent or friend.
