@@ -43,24 +43,6 @@ steps:
 
 You'll make a stunning **pointillist painting** using nothing but cotton buds and dots of colour! 🎨 Pointillism is a real art technique invented over 100 years ago — instead of brushstrokes, you build up an entire picture from tiny coloured dots placed side by side. From up close it looks like a mass of spots, but step back and a whole image appears. Try a simple rainbow, a flower, or a landscape!
 
-## How to Set It Up
-
-### Step 1: Prepare Your Palette
-
-Squirt small blobs of poster paint onto a paper plate — one blob per colour, spaced well apart so they don't run into each other. You'll want at least the three primary colours (red, yellow, blue) plus white. Set out 4–5 cotton buds — use a fresh bud for each colour to keep your dots clean and bright.
-
-### Step 2: Sketch a Light Outline
-
-Using a pencil, draw a very light outline of your picture on the paper. Keep it simple — a tree, a flower, a fish, or even just a rainbow arc. The lines should be faint because they'll be covered by dots. This outline is your guide for where to place each colour.
-
-### Step 3: Fill with Dots
-
-Dip a cotton bud into one colour and press it straight down onto the paper to make a round dot. Lift straight up — don't drag. Place dots close together to fill a section of your outline. Switch to a new bud and colour for the next area. Where two colours meet, alternate dots of each colour in the border zone — this is how pointillists made colours blend optically!
-
-### Step 4: Build Up and Step Back
-
-Keep adding dots until every part of your outline is filled. Layer extra dots on top of dry ones to intensify colours or add shading — darker dots in shadow areas, lighter dots where light hits. When you think you're done, step back 2 metres and look at your painting from a distance. The dots will merge into smooth-looking shapes and blended colours!
-
 ## Have fun!
 
 - 🌸 Create a pointillist flower garden using only primary colours — watch secondary colours appear where dot colours overlap
