@@ -46,36 +46,12 @@ steps:
 
 Build a snowman that never melts! ⛄ Your little crafters will fill a white **sock** with **uncooked rice** to create a delightfully squidgy snowman, tie it into sections with **rubber bands** to form the classic three-ball body shape, then bring it to life with a drawn face, a fabric scarf, and button decorations. It's the perfect cosy indoor craft — and makes a wonderful gift!
 
-
-## How to Set It Up
-
-### Step 1: Fill the Sock with Rice
-
-Take a white **sock** (a grown-up's sock works best for a nice big snowman). Open it wide and pour in **uncooked rice** — fill it about three-quarters full. The rice should make it nice and plump but still soft enough to squish into shape. Pat it down gently as you go.
-
-
-### Step 2: Create the Body Sections
-
-Tie a **rubber band** tightly around the top of the rice-filled section to seal it. Now find the spot about two-thirds up and wrap another **rubber band** tightly around it — this creates the smaller head section on top and the larger body on the bottom. Squish and shape each section into nice round balls. ⛄
-
-
-### Step 3: Add the Face and Details
-
-Use **markers** to draw two dot eyes, a little orange carrot nose (a triangle), and a smiling mouth on the head section. Add three dot "buttons" down the front of the body. Stick on **stickers** for extra decoration — a star badge, a heart, whatever you like! 😊
-
-
-### Step 4: Make a Scarf and Hat
-
-Cut the toe end off a coloured sock or use a strip of fabric as a scarf — tie it around the neck (between the rubber bands) with a little knot to one side. For a hat, cut the cuff off a colourful sock and fold up the brim, then pull it down over the top of the head. Tie the excess with **string**. Your snowman is complete! 🎩
-
-
 ## Have fun!
 
 - 👨‍👩‍👧‍👦 Make a whole snowman family — different sized socks for mum, dad, and baby!
 - 🎄 Add a loop of string on top and hang them as Christmas decorations!
 - 🎨 Try coloured socks for funky non-traditional snowmen!
 - ⚖️ Weigh your snowman and guess how many grains of rice are inside!
-
 
 ## Why It's Amazing
 
@@ -86,7 +62,6 @@ Cut the toe end off a coloured sock or use a strip of fabric as a scarf — tie 
 * **Fine Motor Skills:** Filling socks, wrapping rubber bands, and drawing small face details all build hand strength and precision. ✋
 
 * **Gift-Making:** Creating something beautiful to give to someone else teaches generosity and the joy of handmade gifts. 🎁
-
 
 ## Pro Tips
 
