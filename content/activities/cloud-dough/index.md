@@ -43,24 +43,6 @@ steps:
 
 With just two kitchen ingredients, you'll make magical cloud dough ✨ — it feels like powdery snow, holds its shape perfectly when squeezed, but crumbles apart when you open your hand. It's one of the most satisfying sensory materials imaginable, and it takes just 2 minutes to make!
 
-## How to Set It Up
-
-### Step 1: Measure the Ingredients
-
-Pour 8 cups of **cornflour** into a **large bowl**. Then measure out 1 cup of **vegetable oil**. This 8:1 ratio is the whole recipe — and you can easily double it for a bigger batch. Have your **food colouring** ready for later!
-
-### Step 2: Mix the Dough
-
-Pour the oil slowly into the cornflour and use your hands (or a **spoon** first if you prefer) to squish and press everything together. It will look dry and crumbly at first — keep going! After about a minute of squishing it will suddenly transform into silky, mouldable cloud dough.
-
-### Step 3: Add the Colour
-
-Drop 5–8 drops of **food colouring** onto the surface of the dough and knead it in thoroughly until the colour spreads evenly through the whole batch. Fewer drops = pastel; more drops = bold and vivid! Make two separate batches in different colours for extra fun.
-
-### Step 4: Play and Explore!
-
-Scoop up a handful and squeeze it into a ball — it holds perfectly! Open your hand slowly and watch it crumble apart like a little sandcastle. Press it into a bowl or cup, tip it out, and admire the perfect shape. Build mountains, make pretend cakes, or just squish it — the possibilities are endless!
-
 ## Have fun!
 
 - 🏖️ Set up a 'cloud beach' in a shallow tray and bury small plastic toys to dig out.
