@@ -43,20 +43,6 @@ steps:
 
 You and your child will make a reusable geoboard from cardboard and use rubber bands to draw glowing space-style shapes: constellations, rocket trails, and orbital patterns. It's art, maths, and engineering in one activity. 🌌📐
 
-## How to Set It Up
-
-### Step 1: Draw the Star Grid
-
-On a flat piece of **Cardboard Boxes** material, use a **Ruler** and **Markers** to draw a neat dot grid (for example, 7 by 7 points). Leave good spacing so rubber bands can stretch without overlapping too tightly.
-
-### Step 2: Add Pin Stars
-
-⚠️ **Adult Helper Needed** — Press a **Push Pin** into each grid dot so the pin heads stay above the board as anchor points. Check from the back that tips are covered with extra cardboard or folded **Tape** for safe handling.
-
-### Step 3: Build Galaxy Shapes
-
-Stretch **Rubber Bands** around different pin groups to create triangles, rockets, planets, and constellations. Challenge your child to copy a shape, rotate it, then invent a new version beside it.
-
 ## Have fun!
 
 - 🚀 Build a "mission board" where each completed shape unlocks a new planet.
