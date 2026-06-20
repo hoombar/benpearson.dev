@@ -52,36 +52,12 @@ steps:
 
 Grow something amazing! 🌱 Your little gardeners will transform a clean **tin can** into a colourful planter. Decorate it with bright **poster paint**, patterns, and **stickers**, fill it with soil, plant **bean seeds**, water gently, and place on a sunny windowsill. Over the next week, watch as the seeds sprout and grow into real plants — gardening magic from a recycled can!
 
-
-## How to Set It Up
-
-### Step 1: Prepare and Paint the Can
-
-Make sure the **tin can** is clean, dry, and has no sharp edges. ⚠️ Adult Helper Needed to check edges. Paint the outside with bright **poster paint** — one solid colour or multiple colours in stripes or sections. Let it dry completely. A second coat makes it look polished. 🎨
-
-
-### Step 2: Decorate
-
-Once dry, add decorations with **markers** — draw flowers, suns, hearts, or your name! Add **stickers** for extra flair. You can also wrap **tape** in stripes for a bold pattern. Make your planter personal — this is YOUR garden! ✨
-
-
-### Step 3: Add Soil and Seeds
-
-Fill the can about three-quarters full with compost or garden soil. Push 2–3 **bean seeds** about 2 cm into the soil, spacing them apart. Cover them gently with more soil and pat it down lightly. The seeds are tucked in and ready to grow! 🌱
-
-
-### Step 4: Water and Place
-
-Gently water the soil using a **spoon** to pour water slowly — just enough to make the soil damp, not soggy. Place the planter on a sunny windowsill. Water a little every day or two. In about 5–7 days, you'll see green shoots pushing through! 💧
-
-
 ## Have fun!
 
 - 📏 Measure your plant each day and keep a growth diary!
 - 🌻 Try different seeds — sunflower, cress, or herb seeds work brilliantly too!
 - 🏷️ Make a plant label from a popsicle stick and marker!
 - 📖 Learn how plants grow — what do they need? Sun, water, soil, and air!
-
 
 ## Why It's Amazing
 
@@ -92,7 +68,6 @@ Gently water the soil using a **spoon** to pour water slowly — just enough to 
 * **Patience & Observation:** Waiting for seeds to sprout teaches patience and encourages daily observation — noticing small changes over time. 👀
 
 * **Recycling & Sustainability:** Turning a tin can into a planter shows that everyday objects can have a second life — practical environmental awareness. ♻️
-
 
 ## Pro Tips
 
