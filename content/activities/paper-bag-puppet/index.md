@@ -46,24 +46,6 @@ steps:
 
 Turn a humble **paper bag** into a wild, wacky puppet character! 🎭 The secret is the fold at the bottom of the bag — slip your fingers into the flap and it opens and closes like a mouth. Give your puppet a name, a voice, and a personality, then perform a show for the whole family!
 
-## How to Set It Up
-
-### Step 1: Find the Mouth
-
-Lay a **paper bag** flat on the table with the closed bottom flap facing upwards — this folded flap will be your puppet's mouth. Slide four fingers underneath the flap and your thumb below the fold, and practise opening and closing it a few times to feel how the mouth moves. When you open the flap and close it, your puppet is talking! Try it in a mirror to get used to the movement. 👄
-
-### Step 2: Draw the Face
-
-Use **markers** to draw your puppet's face. Draw two large eyes on the flat area just above the flap — make them round, square, or even spiral-shaped for maximum silliness! Draw a row of teeth on the inner edge of the top flap and another row on the bag body just below the fold. When you open the mouth, the teeth will show and it will look like your puppet is really speaking. Add a nose, rosy cheeks, or freckles for extra personality. 😁
-
-### Step 3: Add Hair and Features
-
-Cut long strips and curly spirals of **tissue paper** using **scissors** and tape them along the top edge of the bag for wild, colourful hair. Stick **googly eyes** over your drawn eyes for a hilarious 3D effect. Use leftover tissue paper to make a beard, bushy eyebrows, big ears, or even a paper bow tie — attach everything firmly with **tape**. 🎨
-
-### Step 4: Put On a Show!
-
-Slip your hand fully inside the bag with your four fingers tucked into the top flap and your thumb in the lower fold. Practise making the mouth open and close smoothly. Try a deep, slow voice for a monster or a high squeaky voice for a tiny creature. Kneel behind a sofa or table as your stage and perform a story for an audience. Take a bow! 🌟
-
 ## Have fun!
 
 - 🎭 Make two or three different puppets for a full cast of characters!
