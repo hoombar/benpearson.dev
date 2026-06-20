@@ -40,24 +40,6 @@ steps:
 
 An epic hand-tilting marble maze! 🧩 You'll design and build a 3D cardboard maze where a marble rolls along paths, through corridors, and past obstacles — guided only by tilting the box. Can you navigate the marble from entry to exit without it falling down a trap?
 
-## How to Set It Up
-
-### Step 1: Design the Maze Layout
-
-On a sheet of **paper**, sketch a top-down map of your maze. Mark the entry point, the exit point, and at least five corridors with turns. Leave at least 2 cm of path width — the marble needs room to roll without getting stuck in every corner.
-
-### Step 2: Cut the Cardboard Walls
-
-Use **scissors** to cut long strips from a **cardboard box** — each strip about 4 cm wide, in various lengths to match your map. Cut V-notches at the bottom of each wall strip so they slot firmly into the base.
-
-### Step 3: Build and Tape the Maze
-
-Slot each wall strip into its notch in the base of a shallow **cardboard box** and secure both sides firmly with **tape**. Cut a small entry hole in one side of the box and an exit hole on the opposite side. Test that walls stand firm under tilting.
-
-### Step 4: Test and Time the Run
-
-Drop a marble in the entry hole and tilt the box to guide it through. Time each run with a clock! If the marble keeps getting stuck in the same spot, remove that section and redesign it — this is real engineering!
-
 ## Have fun!
 
 - ⏱️ Time each run and challenge yourself to beat your personal best
