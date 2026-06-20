@@ -43,24 +43,6 @@ steps:
 
 You'll build your very own drum kit from household bowls and **balloons**! 🥁 Stretch a balloon over a bowl, give it a tap, and hear that satisfying boom. With three different-sized drums you can play real rhythms and beats. Rock star level: optional!
 
-## How to Set It Up
-
-### Step 1: Prepare the Drum Skin
-
-⚠️ **Adult Helper Needed** — Use **scissors** to snip the tied neck off a **balloon**, leaving a wide stretchy tube. This is your drum skin! For children aged 6+, this can be done with close adult supervision. For younger children, have an adult pre-cut all the balloons.
-
-### Step 2: Stretch the Skin Over a Bowl
-
-Hold a **large bowl** with the open end facing up. Stretch the cut **balloon** over the opening, pulling all sides evenly so there are no wrinkles. The tighter the stretch, the higher the pitch! Wrap a **rubber band** firmly around the bowl rim to hold the balloon in place.
-
-### Step 3: Make Two More Drums
-
-Repeat Steps 1–2 with two more **balloons** and two containers of different sizes — a mug, a medium pot, and a large bowl each produce a different pitch. Line them up: smallest left (highest pitch), largest right (lowest pitch).
-
-### Step 4: Play Your Kit
-
-Use the back of a **spoon** or your fingertips to tap the drum surfaces. Hit the centre for the deepest boom; tap near the edge for a higher, snappier sound. Try this rhythm: two taps on the big drum, then one tap on the small drum. That's music!
-
 ## Have fun!
 
 - 🎵 Copy-the-beat: one person taps a rhythm, the other copies it exactly — take turns making it harder!
