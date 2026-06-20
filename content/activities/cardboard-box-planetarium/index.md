@@ -40,24 +40,6 @@ steps:
 
 You and your little astronomer will transform an ordinary **Cardboard Box** into a magical, glowing planetarium! 🌌 By poking carefully mapped holes in the top of the box and shining a **Flashlight** from underneath, you'll project beautiful starry constellations onto a darkened ceiling.
 
-## How to Set It Up
-
-### Step 1: Prepare the Box
-
-Find a medium-sized **Cardboard Box**. Tape the bottom flaps shut so it stands sturdily upside down. The top surface needs to be completely flat and closed.
-
-### Step 2: Draw the Stars
-
-Using a **Pen**, mark out dots on the top of the box to represent the stars of a constellation. You can copy famous ones like the Big Dipper or create your own imaginary star patterns!
-
-### Step 3: Poke the Holes
-
-⚠️ **Adult Helper Needed** — This step requires a sharp tool. An adult should use a **Push Pin** or a wooden skewer to carefully poke a hole through the cardboard at each pen mark. Make the holes slightly larger by wiggling the pin so light can shine through.
-
-### Step 4: Light It Up
-
-Take your box into a dark room. Place your **Flashlight** under the box, pointing straight up towards the holes. Turn on the flashlight, turn off the room lights, and watch your constellations appear on the ceiling!
-
 ## Have fun!
 
 - 🔭 Try making different constellation boxes and see if your family can guess what they are!
