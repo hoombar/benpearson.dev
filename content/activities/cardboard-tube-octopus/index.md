@@ -49,36 +49,12 @@ steps:
 
 Dive into the deep! 🐙 Your little ocean explorers will transform a **cardboard tube** into a wiggly octopus with eight curling tentacles! Paint it a vibrant colour, snip the bottom into strips that curl when you run them along scissors, add **googly eyes** and a cheeky smile, then hang it from a string and watch those tentacles bounce and sway!
 
-
-## How to Set It Up
-
-### Step 1: Paint the Tube
-
-Paint a **cardboard tube** with bright **poster paint** — purple, orange, pink, or any ocean colour you fancy! Cover the whole outside. Let it dry completely before the next step. A second coat makes the colour really pop. 🎨
-
-
-### Step 2: Cut the Tentacles
-
-Using **scissors**, cut the bottom half of the tube into 8 vertical strips — these are the tentacles! Make each cut about halfway up the tube, spacing them evenly around. ⚠️ Adult Helper Needed for younger children. ✂️
-
-
-### Step 3: Curl the Tentacles
-
-Wrap each tentacle strip tightly around a pencil or marker and hold for a few seconds — when you release, the cardboard will hold a lovely curl! Curl all 8 tentacles for maximum wiggly effect. Alternatively, an adult can run the strip along the edge of **scissors** (like curling ribbon). 🌀
-
-
-### Step 4: Add the Face
-
-Stick **googly eyes** onto the top half of the tube (the head). Use **markers** to draw a big smile, rosy cheeks, and spots or suction cups on the tentacles. Poke a hole at the top, thread **string** through, and hang your octopus up to wiggle in the breeze! 🐙
-
-
 ## Have fun!
 
 - 🌊 Make a whole ocean scene — add fish, seahorses, and jellyfish!
 - 🎣 Hang several octopuses at different heights for an underwater mobile!
 - 🔢 Count the tentacles — real octopuses always have 8! Can you name each one?
 - 📖 Learn fun octopus facts — they have 3 hearts and blue blood!
-
 
 ## Why It's Amazing
 
@@ -89,7 +65,6 @@ Stick **googly eyes** onto the top half of the tube (the head). Use **markers** 
 * **Marine Biology:** A gateway to learning about octopuses — their intelligence, camouflage ability, and amazing adaptations. 🐙
 
 * **Cause and Effect:** Curling the tentacles teaches that material can be shaped and will hold its form — a simple physics concept. 🔬
-
 
 ## Pro Tips
 
