@@ -43,24 +43,6 @@ steps:
 
 You'll transform a plain recycling item into a fully functional musical instrument! 🎺 By stretching a tight membrane of **Baking Parchment** over a **Cardboard Tube**, you'll engineer a classic kazoo. When you hum into it, your voice vibrates the paper, creating a hilarious buzzing sound that's perfect for starting a family marching band!
 
-## How to Set It Up
-
-### Step 1: Decorate the Kazoo
-
-Use your **Markers** to give your **Cardboard Tube** some personality. Draw stripes, polka dots, stars, or even turn it into a magical dragon. This is your personal instrument, so make it loud and proud!
-
-### Step 2: Cut the Parchment
-
-Take your **Scissors** and carefully cut a small square of **Baking Parchment** (about 10x10 cm). It needs to be just large enough to fully cover the end of your cardboard tube with some overhang.
-
-### Step 3: Secure the Membrane
-
-Wrap the square of parchment tightly over one end of the tube. Pull the edges down so the paper is completely flat and taut like a drum skin. Secure it tightly in place by wrapping a **Rubber Band** around the tube.
-
-### Step 4: Hum and Play
-
-Put the open end of the tube to your mouth. Don't blow—you have to HUM! Try humming a simple tune like 'Happy Birthday' or 'Twinkle Twinkle' and listen to the paper buzz and amplify your voice! 🎶
-
 ## Have fun!
 
 - 🥁 Start a family band with other homemade instruments like pots and wooden spoons.
