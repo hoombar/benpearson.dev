@@ -40,24 +40,6 @@ steps:
 
 You are going to build your very own meteorological instrument—a rain gauge! 🌧️ Using a recycled glass jar, some waterproof markings, and a drop of magical colour, you will create an observatory tool that tells you exactly how heavy the last downpour was.
 
-## How to Set It Up
-
-### Step 1: Create the Measurement Scale
-
-Take your **Glass Jar** and hold your **Ruler** vertically against the outside. Using a permanent **Marker**, carefully draw a horizontal line at every centimetre mark all the way up the jar. Write the numbers next to the lines so you can easily read them later!
-
-### Step 2: Add the Magic Drop
-
-To make the rain easily visible, add exactly two drops of **Food Colouring** (blue looks amazing!) into the very bottom of the empty jar. When the rain falls in, it will instantly turn into a bright, colourful potion! 🧪
-
-### Step 3: Secure the Observatory
-
-Take your jar outside to an open space (away from trees or roofs). Dig a very shallow hole in the soil or arrange some heavy pebbles around the base of the jar so it won't blow over when the stormy winds arrive.
-
-### Step 4: Record the Storm
-
-After a big rainstorm, run outside and check the water level against your marked scale! Write down your findings in a weather logbook, then empty the coloured water and add fresh food colouring drops for the next storm.
-
 ## Have fun!
 
 - ⛈️ Make predictions with your family: "I think we'll get 3cm of rain today!" Who was closest?
