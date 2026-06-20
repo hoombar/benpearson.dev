@@ -40,28 +40,6 @@ steps:
 
 Armed with nothing but a stack of old **newspapers** and a roll of **tape**, you're going to design and build the tallest freestanding tower you possibly can! 🏗️ No glue — just clever engineering and structural thinking. The taller it stands on its own, the better your design! Challenge a sibling or friend to build their own tower at the same time and see whose reaches higher.
 
-## How to Set It Up
-
-### Step 1: Roll Your Tubes
-
-Take a single sheet of **newspaper** and lay it flat. Place a **ruler** diagonally across one corner of the sheet. Roll the paper tightly around the ruler, keeping it as snug as possible, then slide the ruler out and secure the tube with a small strip of **tape**. Aim to make at least 15 tubes of similar tightness — tighter rolls make stronger tubes.
-
-### Step 2: Sketch Your Design
-
-Before building, spend 3 minutes sketching a tower design on a scrap of paper. Think about real-world towers: they're always wider at the base than at the top. A triangle or tripod base is more stable than a single column. Sketch at least two different designs and pick your favourite.
-
-### Step 3: Build the Base
-
-Arrange 3–4 tubes on the floor in a triangle or square shape. Tape the joints firmly — wrap tape around each join at least twice. Gently press down on the base — does it flex or hold firm? Add an extra tape wrap if it moves. A strong base is the key to a tall tower.
-
-### Step 4: Add Layers
-
-Connect more tubes vertically, leaning them slightly inward so the tower narrows as it grows. Add diagonal bracing tubes between vertical supports — real engineers call this triangulation, and it makes structures dramatically stronger. Test after every 2 new tubes by pressing gently on the side — it should spring back without collapsing.
-
-### Step 5: Measure and Compare
-
-Use a **ruler** or tape measure to record your tower's height. Now try to beat your own record by building again with what you've learned! If you have a competition partner, measure both towers and photograph them side by side. 📸
-
 ## Have fun!
 
 - 🏆 Challenge a family member to build their own tower at the same time.
