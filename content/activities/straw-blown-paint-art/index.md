@@ -43,24 +43,6 @@ steps:
 
 Get ready for some messy, colourful fun! 🎨 In this activity, you'll use a **Straw** to blow liquid **Poster Paint** across a sheet of **Paper**. Instead of using a brush, your breath will create amazing, 'splattered' patterns that look like fireworks or wild coral reefs. It's a fantastic way to see how paint moves and mixes!
 
-## How to Set It Up
-
-### Step 1: Thin Your Paint
-
-In a small cup or tray, mix a blob of **Poster Paint** with a little bit of **Water**. Use a **Spoon** to stir it until it's thin enough to run, but still keeps its bright colour.
-
-### Step 2: Drip the Paint
-
-Use your **Spoon** to scoop up a small amount of thinned paint and let it drip into a big, wet puddle in the middle of your **Paper**.
-
-### Step 3: Blow Through the Straw
-
-Hold your **Straw** close to the paint puddle (but not inside it!) and blow a sharp burst of air. Watch as the paint shoots out in different directions like a colourful explosion!
-
-### Step 4: Add More Colours
-
-Drip another colour right next to or on top of your first one. Blow again and watch the colours mix and create new shapes and shades!
-
 ## Have fun!
 
 - 🎆 Make 'Paint Fireworks' by using bright neon colours on dark paper.
