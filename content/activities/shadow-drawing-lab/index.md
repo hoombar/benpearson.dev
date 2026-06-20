@@ -40,24 +40,6 @@ steps:
 
 You're about to turn light and shadows into a masterpiece! 🌟 In the **Shadow Drawing Lab**, you'll learn how to position **Small Plastic Figurines** so they cast long, cool shadows onto a sheet of **Paper**. By tracing these shapes with **Markers**, you can capture silhouettes that look like they've jumped straight out of a storybook!
 
-## How to Set It Up
-
-### Step 1: Prepare Your Canvas
-
-Find a flat surface near a sunny window or clear a space on the floor. Place a clean sheet of **Paper** down where the light will hit it.
-
-### Step 2: Position Your Subject
-
-Place your **Small Plastic Figurine** at the very edge of the **Paper**. Make sure it's standing tall so its shadow falls right across the middle of your page.
-
-### Step 3: Catch the Light
-
-If the sun isn't out, use a **Flashlight**! Hold the light low and aim it at your toy from one side to make the shadow stretch out long across the **Paper**.
-
-### Step 4: Trace the Silhouette
-
-Carefully use a **Marker** to draw around the edge of the shadow. Keep your hand steady and follow every bump and curve of the toy's outline!
-
 ## Have fun!
 
 - 🦖 Create a prehistoric scene by tracing multiple dinosaur shadows.
