@@ -52,36 +52,12 @@ steps:
 
 A gentle giant made from a plate! 🐘 Your little artists will transform a **paper plate** into an adorable elephant by painting it grey, cutting out a long curly trunk and big floppy ears, and adding **googly eyes** for personality. Fold the trunk into a curl and your elephant is ready for a safari adventure!
 
-
-## How to Set It Up
-
-### Step 1: Paint the Plate
-
-Paint the entire front of a **paper plate** with grey **poster paint** (mix white and a tiny bit of black, or use grey directly). This will be the elephant's head. Let it dry completely before moving on. 🎨
-
-
-### Step 2: Cut the Trunk and Ears
-
-While the paint dries, cut a long curved trunk shape from grey-painted **paper** (about 15 cm long, getting narrower at the tip). Cut two large ear shapes — like big letter C's — from more grey paper. Use **scissors** carefully. ✂️
-
-
-### Step 3: Assemble the Face
-
-Glue the trunk to the centre-bottom of the painted plate with **PVA glue**. Curl the trunk tip upward by wrapping it around a pencil. Glue the ears to either side of the plate, slightly behind it so they stick out. Let everything dry. 🐘
-
-
-### Step 4: Add Details
-
-Stick on two **googly eyes** above the trunk. Use a **marker** to draw a smiling mouth below the trunk attachment point. Add small toenail shapes along the bottom if you like. Your elephant is complete — give it a name! 🎉
-
-
 ## Have fun!
 
 - 🌍 Make a whole safari — add a lion, giraffe, and zebra from more plates!
 - 🎭 Tape a popsicle stick to the back and use it as a puppet!
 - 📖 Read a book about elephants and then make your own to match the story!
 - 🐘 Make a baby elephant from a smaller plate and display them together!
-
 
 ## Why It's Amazing
 
@@ -92,7 +68,6 @@ Stick on two **googly eyes** above the trunk. Use a **marker** to draw a smiling
 * **Spatial Reasoning:** Positioning ears, trunk, and eyes in the right places on the plate develops understanding of symmetry and proportion. 📐
 
 * **Fine Motor Skills:** Cutting curved shapes, curling the trunk, and precise gluing all build hand dexterity. ✋
-
 
 ## Pro Tips
 
