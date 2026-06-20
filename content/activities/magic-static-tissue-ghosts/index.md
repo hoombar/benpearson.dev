@@ -43,24 +43,6 @@ steps:
 
 You will use the invisible force of static electricity to become a wizard! By rubbing a **balloon** on your hair, you'll create an electrical charge that makes little **tissue paper** ghosts rise from the table and dance in mid-air.
 
-## How to Set It Up
-
-### Step 1: Cut Out the Ghosts
-
-Take a sheet of **tissue paper** and use your **scissors** to cut out small ghost shapes, about the size of your hand. Use **markers** to draw little spooky faces on them.
-
-### Step 2: Tape the Ghosts Down
-
-Place your tissue ghosts on a flat table. Use a tiny piece of **tape** to stick just the very bottom edge of each ghost to the table, leaving the rest of the body free to move.
-
-### Step 3: Charge the Balloon
-
-Blow up a **balloon** and tie it off. Now for the magic: rub the balloon quickly back and forth on your hair or a woolly jumper for about 10 seconds. You will hear it crackle!
-
-### Step 4: Make Them Fly
-
-Slowly lower the charged balloon over your ghosts. Before the balloon even touches them, the ghosts will magically stand up and reach towards the balloon!
-
 ## Have fun!
 
 - 👻 Make a whole family of ghosts and see how many you can lift at once.
