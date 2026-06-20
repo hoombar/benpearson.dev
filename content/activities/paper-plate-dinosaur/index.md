@@ -52,36 +52,12 @@ steps:
 
 A prehistoric beast from the craft cupboard! 🦕 Your little palaeontologists will transform **paper plates** into a stegosaurus by cutting one plate in half for the body, adding triangular plate spikes along the back, legs from folded paper, and painting the whole thing in dino-green. A roaring success that stands up on its own!
 
-
-## How to Set It Up
-
-### Step 1: Make the Body
-
-Cut a **paper plate** in half. One half is the body — the flat edge goes along the top (the back) and the curved edge is the belly. Paint it green with **poster paint**. Cut a neck and small head shape from the other half and paint it too. Let everything dry. 🎨
-
-
-### Step 2: Add the Back Plates
-
-Cut 4–5 small triangles from another **paper plate** or from **paper**. Paint them a darker green or orange. Once dry, glue them in a row along the flat top edge of the body (the dinosaur's back) with **PVA glue** — these are the stegosaurus's famous back plates! 🦕
-
-
-### Step 3: Add Legs and Tail
-
-Cut four stubby leg shapes from **paper** and fold a tab at the top of each. Glue the tabs to the underside of the body so the legs hang down and the dinosaur can stand up. Cut a long triangular tail from paper and glue it to the back end. 🦶
-
-
-### Step 4: Add the Face
-
-Glue the head and neck piece to the front of the body. Add a **googly eye** (or draw one with **marker**). Draw a small smile and nostril. Add tiny triangular spikes along the tail too. Your stegosaurus is ready to stomp! 🦖
-
-
 ## Have fun!
 
 - 🦖 Make different dinosaur species — T-Rex (big head, tiny arms), triceratops (plate face shield)!
 - 🌋 Create a volcanic backdrop from painted paper for a Jurassic scene!
 - 📖 Research your dinosaur's real size, diet, and era — add a fact card!
 - 🦴 Make a dinosaur skeleton version using white paper strips on black paper!
-
 
 ## Why It's Amazing
 
@@ -92,7 +68,6 @@ Glue the head and neck piece to the front of the body. Add a **googly eye** (or 
 * **Scale and Proportion:** Getting the head, body, legs, and tail in the right proportions develops visual-spatial reasoning. 📐
 
 * **Fine Motor Skills:** Cutting curves, folding tabs, and precise gluing all build dexterity and hand control. ✋
-
 
 ## Pro Tips
 
