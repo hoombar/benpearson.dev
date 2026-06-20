@@ -43,36 +43,12 @@ steps:
 
 All hail the king or queen of the forest! 👑🌿 Your little royals will venture into the garden (or park!) to collect beautiful **fallen leaves**, petals, twigs, and seeds, then craft them into a magnificent nature crown. Every crown is a unique work of art — no two are ever the same, just like real royalty!
 
-
-## How to Set It Up
-
-### Step 1: Go on a Royal Treasure Hunt
-
-Head outside with a bag or basket and collect nature treasures! Look for colourful **fallen leaves** (big ones for the crown base, small ones for decoration), interesting twigs, flower petals, seed pods, small feathers, and anything else that catches your eye. Collect at least 15–20 items so you have plenty to choose from. 🌿🍂
-
-
-### Step 2: Build the Crown Band
-
-Cut a strip of **paper** about 5 cm wide and long enough to wrap around your head (about 55 cm for most children). Use **tape** to join strips if your paper isn't long enough. This is the base band that everything will stick to. Wrap it around your head to check the size, but don't tape it into a circle yet!
-
-
-### Step 3: Arrange Your Royal Decorations
-
-Lay the paper strip flat and arrange your nature treasures along it. Put the biggest, most impressive leaves standing up along the top edge like crown points. Fill in gaps with smaller leaves, petals, and seed pods. Once you're happy with the arrangement, use **PVA glue** to stick everything down firmly. Let big items dry for a few minutes before moving on. 🌸
-
-
-### Step 4: Crown the Royal!
-
-Once the glue has set (give it 10–15 minutes), wrap the decorated band around your head and **tape** the ends together to form your crown. Adjust the fit by overlapping more or less. Now stride through your kingdom — the garden, the house, or the park — and decree royal commands! 👑✨
-
-
 ## Have fun!
 
 - 👑 Hold a royal coronation ceremony with your family!
 - 🏰 Create thrones from cushions and blankets for the forest court!
 - 📜 Write royal decrees on scrolls of paper — "The King hereby declares that pudding shall be served TWICE today!"
 - 🌿 Make crowns for every family member — each one chooses a different nature theme!
-
 
 ## Why It's Amazing
 
@@ -83,7 +59,6 @@ Once the glue has set (give it 10–15 minutes), wrap the decorated band around 
 * **Fine Motor Skills:** Picking up small leaves and petals, gluing them precisely, and handling the crown band builds dexterity. ✋
 
 * **Imaginative Play:** The finished crown becomes a prop for hours of royal role-play, storytelling, and creative drama. 🎭
-
 
 ## Pro Tips
 
