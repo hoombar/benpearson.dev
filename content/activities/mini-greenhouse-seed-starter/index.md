@@ -43,36 +43,12 @@ steps:
 
 Grow your own garden — right on the windowsill! 🌱 Your little gardeners will transform an **egg carton** into a miniature greenhouse, fill each cup with soil, plant **bean seeds**, cover it with **cling film** to create a warm humid environment, and watch the magic of germination happen over the next few days. It's a living science experiment that teaches patience, responsibility, and the wonder of nature!
 
-
-## How to Set It Up
-
-### Step 1: Prepare the Egg Carton
-
-Take an **egg carton** (the bottom half with the cups) and use a **plastic spoon** or your fingers to poke a tiny drainage hole in the bottom of each cup. This stops the soil getting waterlogged. If the carton has a lid, cut it off — you'll use cling film instead.
-
-
-### Step 2: Fill with Soil and Plant
-
-Using a **plastic spoon**, fill each egg cup with soil (from the garden or a bag of compost) almost to the top. Press a **bean seed** about 1 cm deep into each cup — one seed per cup. Gently cover with soil and pat down lightly. You can try different seeds in different cups! 🫘
-
-
-### Step 3: Water and Wrap
-
-Sprinkle **water** gently over each cup — just enough to make the soil damp but not soggy (about a teaspoon per cup). Then stretch a sheet of **cling film** tightly over the entire carton and tuck it under the edges. This creates a greenhouse effect — the moisture stays inside and the air stays warm! 🌡️
-
-
-### Step 4: Watch and Wait!
-
-Place your mini greenhouse on a warm, sunny windowsill. Check it every day — you should see water droplets forming on the cling film (that's condensation!). After 3–5 days, tiny green shoots will start poking up through the soil. Once the shoots are about 3 cm tall, remove the cling film so they can breathe. Keep watering gently every day! 🌿
-
-
 ## Have fun!
 
 - 📓 Keep a seed diary — draw what you see each day and measure the growth!
 - 🏷️ Label each cup with what you planted using lolly sticks!
 - 🧪 Try an experiment: put one cup in sunlight and one in a dark cupboard — what happens?
 - 🌻 Once plants are big enough, transplant them into pots or the garden!
-
 
 ## Why It's Amazing
 
@@ -83,7 +59,6 @@ Place your mini greenhouse on a warm, sunny windowsill. Check it every day — y
 * **Patience & Delayed Gratification:** Unlike instant-result activities, growing seeds teaches that some amazing things take time. ⏳
 
 * **Scientific Method:** Comparing seeds in different conditions (light vs. dark, wet vs. dry) introduces experimental thinking and observation skills. 🧪
-
 
 ## Pro Tips
 
