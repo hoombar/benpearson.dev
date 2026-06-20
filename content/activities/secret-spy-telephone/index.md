@@ -43,36 +43,12 @@ steps:
 
 Agents, your mission — should you choose to accept it — is to build a TOP SECRET communication device! 🕵️‍♂️📞 Using just two **paper cups** and a length of **string**, you'll construct a real working telephone that carries whispered messages across the room. Can your spy partner decode the message before time runs out?
 
-
-## How to Set It Up
-
-### Step 1: Prepare Your Spy Devices
-
-Take two **paper cups** and flip them upside down. Using a sharp **pen**, carefully poke a small hole in the centre of the bottom of each cup. ⚠️ **Adult Helper Needed** — The hole needs to be just big enough for the string to thread through. A pen or pencil point works perfectly.
-
-
-### Step 2: Thread the Secret Line
-
-Cut a long piece of **string** — at least 3 metres works best! Thread one end through the hole in the first cup from the outside, then tie a big knot on the inside so it can't pull back through. Do the same with the other end and the second cup.
-
-
-### Step 3: Test Your Spy Phone
-
-Each spy holds one cup. Walk apart until the string is pulled tight — this is crucial! The string must be straight and taut with no sagging. One spy holds their cup over their ear while the other whispers a secret message into their cup. Can you hear it? 🤫
-
-
-### Step 4: Set Up a Spy Mission
-
-Create secret code names for each spy. Write a list of "classified messages" on paper — silly sentences, secret passwords, or mission instructions. Take turns whispering them through the telephone. The listening spy writes down what they hear. Compare notes — did the message survive the transmission?
-
-
 ## Have fun!
 
 - 🕵️ Create spy ID cards with code names and stick them on with tape!
 - 📝 Invent a secret code alphabet — A=1, B=2 — and send coded number messages!
 - 🏃 Try stretching the string even further — how far can the signal travel?
 - 🤫 Whisper as quietly as possible — can your partner still hear you?
-
 
 ## Why It's Amazing
 
@@ -83,7 +59,6 @@ Create secret code names for each spy. Write a list of "classified messages" on 
 * **Creative Play:** The spy theme transforms a simple science experiment into an immersive imaginative adventure! 🎭
 
 * **Problem Solving:** Figuring out the right string tension and whispering volume encourages experimentation and critical thinking. 🧠
-
 
 ## Pro Tips
 
