@@ -49,24 +49,6 @@ steps:
 
 You will build a large, play-sized pirate ship using cardboard boxes. Kids can design their own flag, raise the cardboard tube masts, and set sail across the living room seas!
 
-## How to Set It Up
-
-### Step 1: Shape the Hull
-
-Take your largest cardboard box and cut off the top flaps to create an open boat. For a more authentic look, cut the front of the box into a pointed bow shape and tape it securely.
-
-### Step 2: Raise the Masts
-
-Stand two cardboard tubes upright in the centre of the box. Secure them firmly to the floor of the box using plenty of tape. These will be the masts for your sails.
-
-### Step 3: Hoist the Sails
-
-Cut two large squares from paper. Punch a hole at the top and bottom of each square, then carefully thread them onto the cardboard tubes so they billow out like wind-filled sails.
-
-### Step 4: Decorate and Sail
-
-Use markers to draw wooden planks, anchors, and a fearsome pirate flag on the sides. Tie some string from the masts to the bow for rigging, then climb aboard and start your adventure!
-
 ## Have fun!
 
 - Take turns being the captain and shouting orders.
