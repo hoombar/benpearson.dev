@@ -49,23 +49,6 @@ steps:
 
 Transform ordinary garden pebbles into adorable painted pets — ladybirds, owls, frogs, and more! Using just paint and markers, you'll turn smooth stones into a whole collection of charming creatures to display, give as gifts, or hide in the garden as a surprise for others to discover.
 
-## How to Set It Up
-
-### Step 1: Collect & Wash Your Pebbles
-Head outside and gather 3–5 smooth, flat pebbles. River stones and garden pebbles with a flat, even surface work best. Rinse them under warm water and dry thoroughly with a cloth. The pebbles must be completely dry before painting.
-
-### Step 2: Plan Your Design
-Before opening any paint, sketch your pet designs on paper first. Simple shapes work brilliantly — a red oval becomes a ladybird, a round circle becomes an owl, a flat oval becomes a frog. Lay your pebbles on the paper and decide which animal each one will become.
-
-### Step 3: Paint the Base Coat
-Apply one solid colour as the background for each pebble using a flat brush and thick poster paint. Cover the whole top surface evenly. Let it dry completely (about 20 minutes) before adding more colour. Repeat if the stone colour shows through.
-
-### Step 4: Add Details & Features
-Once the base coat is dry, use a thin brush and contrasting colours to add spots, eyes, wings, and patterns. Finish with a black marker pen for small details like pupils and outlines. Black dots make great eyes!
-
-### Step 5: Seal Your Pebble Pet
-Once all paint is completely dry, brush a thin coat of PVA glue over the entire painted surface. This seals and protects the design and gives it a lovely glossy sheen. Leave to dry for 30 minutes before handling.
-
 ## Have fun!
 
 - Hide your pebble pets around the garden for family members to discover
