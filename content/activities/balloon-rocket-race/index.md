@@ -43,24 +43,6 @@ steps:
 
 Build a high-speed balloon rocket and send it zooming along a string stretched across the room! 🚀 This is pure rocket science — the escaping air from the balloon pushes it forward in exactly the same way a real rocket is propelled through space. Race two rockets side by side and find out which design travels furthest and fastest!
 
-## How to Set It Up
-
-### Step 1: Set Up the Launch Track
-
-Cut a piece of **string** at least 3 metres long — the longer the better! Tie one end tightly to a chair back, door handle, or table leg at one side of the room. Pull the string across the room as tightly as possible and tie the other end to another fixed point at the same height. The string must be taut and completely straight — a saggy string will slow your rocket right down.
-
-### Step 2: Thread the Runway
-
-Before tying the second end of the string, thread the string through a **straw**. The straw is your rocket carriage — it slides freely along the string. Now tie the second end tight. Give the straw a gentle push to check it glides smoothly from one end to the other. Slide the straw to the starting end, ready for launch.
-
-### Step 3: Attach Your Rocket
-
-Blow up a **balloon** fully and pinch the neck tightly so no air escapes — do not tie it! Hold the balloon beside the straw. Cut two strips of **tape** about 5 cm each and stick the inflated balloon firmly onto the straw — one strip near the front, one near the back. Keep the balloon neck pinched while you tape. Make sure the open neck faces the starting end so that escaping air drives it forward.
-
-### Step 4: 3, 2, 1 — Launch!
-
-Slide the straw to the start of the string. Hold the neck of the balloon closed until you are ready. Count down together — 3, 2, 1 — then let go! Watch your rocket blast along the string to the other end! 🎉 Try different balloon sizes or a longer string and compare the results.
-
 ## Have fun!
 
 - 🏁 Set up two parallel strings side by side and race two balloons simultaneously!
