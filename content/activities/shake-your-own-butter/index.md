@@ -40,24 +40,6 @@ steps:
 
 Turn ordinary cream into real, spreadable butter — using nothing but a jar and some serious shaking energy! 🧈 This classic kitchen science experiment shows exactly where butter comes from and tastes amazing on toast. Watch the cream transform from liquid to whipped to solid right before your eyes!
 
-## How to Set It Up
-
-### Step 1: Pour the Cream
-
-Pour 200 ml of cold **heavy cream** into a **glass jar** with a tight-fitting lid. The jar should be no more than half full so there is room for the cream to slosh around. Screw the lid on as tightly as you can. Give the jar a gentle shake to make sure the lid is completely secure — you do not want a cream explosion! 💥
-
-### Step 2: Shake, Shake, Shake!
-
-Hold the jar firmly with both hands and shake it hard — up and down, side to side, forwards and backwards. After about 3–4 minutes the cream will become thick and fluffy, just like whipped cream. Keep shaking — do not stop here! After another 3–5 minutes the whipped cream will suddenly separate into a pale yellow solid lump and a watery white liquid. That lump is your butter! Take turns with a friend or family member if your arms get tired. 💪
-
-### Step 3: Drain the Buttermilk
-
-Open the jar carefully over a sink and pour off the white liquid — this is real buttermilk (keep it for pancakes!). Add a small pinch of **salt** to the butter in the jar and stir well with a **spoon**. To make the butter last longer, add a splash of cold water, swirl gently, and pour it off. Repeat twice — this rinse washes away the remaining buttermilk.
-
-### Step 4: Taste Your Butter!
-
-Scoop the butter onto a piece of bread or a cracker and spread it. Taste it! How does your homemade butter compare to shop-bought? 🍞 Store any leftovers in a small container in the fridge and use within 2 days.
-
 ## Have fun!
 
 - 🧄 Mix in a pinch of garlic powder or dried herbs to make flavoured butter.
