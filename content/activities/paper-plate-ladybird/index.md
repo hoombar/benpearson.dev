@@ -52,36 +52,12 @@ steps:
 
 Buzz into nature! 🐞 Your little entomologists will transform a **paper plate** into a bright ladybird with red wings, black spots, curly **pipe cleaner** antennae, and big **googly eyes**. Fold the plate in half for a 3D body, paint it bold red, add symmetrical spots, and attach wobbly antennae — it's a charming bug that looks ready to fly away home!
 
-
-## How to Set It Up
-
-### Step 1: Paint the Plate
-
-Paint the bottom of a **paper plate** with bright red **poster paint**. Make sure to cover the entire surface with a nice thick coat. Let it dry completely — a hairdryer can speed this up! 🎨
-
-
-### Step 2: Add the Spots and Head
-
-Once dry, fold the plate in half. Use black **poster paint** or a black **marker** to draw a large semicircle at one end — this is the head. Add 3–4 round black spots on each wing, keeping them symmetrical. Draw a line down the centre fold to show where the wings meet. 🖤
-
-
-### Step 3: Attach Antennae
-
-Cut a **pipe cleaner** in half. Curl one end of each half into a small spiral. Poke two small holes at the top of the head section and push the straight ends through from the back. Bend them flat on the inside and secure with **tape**. ⚠️ Adult Helper Needed for poking holes. 🌀
-
-
-### Step 4: Add the Face
-
-Stick two **googly eyes** onto the black head section. Use a **marker** to draw a little smile underneath. Open the folded plate slightly so the ladybird can stand up on its own — wings spread and ready to explore! 🐞
-
-
 ## Have fun!
 
 - 🌿 Make a garden scene — add paper flowers and leaves for your ladybird to explore!
 - 🔢 Count the spots — real ladybirds have different numbers! How many does yours have?
 - 📖 Learn ladybird facts — they eat aphids and help gardens grow!
 - 👨‍👩‍👧‍👦 Make a whole ladybird family — big ones and tiny babies!
-
 
 ## Why It's Amazing
 
@@ -92,7 +68,6 @@ Stick two **googly eyes** onto the black head section. Use a **marker** to draw 
 * **Nature Connection:** A gateway to learning about insects — their body parts (head, thorax, abdomen), lifecycles, and role in the garden ecosystem. 🌿
 
 * **3D Construction:** Folding a flat plate into a standing creature teaches basic engineering — how flat materials become 3D structures. 🔬
-
 
 ## Pro Tips
 
