@@ -39,20 +39,6 @@ steps:
 ## What You'll Create
 You will build a continuous bridge of paper towels across multiple glass jars, and watch in amazement as brightly coloured water climbs up the towels and travels into the empty jars to mix and create a full rainbow!
 
-## How to Set It Up
-
-### Step 1: Line Up the Jars
-Place 5 glass jars in a straight line. Pour water into the 1st, 3rd, and 5th jars until they are about halfway full. Leave the 2nd and 4th jars completely empty.
-
-### Step 2: Add the Magic Colours
-Add a few drops of red food colouring to the 1st jar, yellow to the 3rd, and blue to the 5th. Give each a gentle stir to mix the colours evenly.
-
-### Step 3: Build the Bridges
-Fold a piece of paper towel in half lengthwise a few times to create a thick strip. Place one end into the first coloured jar, and the other end into the adjacent empty jar. Repeat this to connect all the jars.
-
-### Step 4: Watch the Water Walk!
-Observe as the coloured water immediately begins to travel up the paper towels. Over the next few hours, it will drip into the empty jars, mixing to create orange and green!
-
 ## Have fun!
 Fold a piece of paper towel into a strip and place one end in a coloured water jar and the other end in the adjacent empty jar. Do this for all jars to connect them. Now, wait and watch! The water will start climbing almost immediately, but the full effect takes a few hours.
 
