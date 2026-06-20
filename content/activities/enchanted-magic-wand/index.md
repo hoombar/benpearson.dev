@@ -43,24 +43,6 @@ steps:
 
 Every great wizard or fairy needs a wand! 🪄 You will transform a simple **Twig** from your garden or the park into a shimmering **Enchanted Magic Wand**. Using sparkling **Aluminium Foil**, colourful **String**, and a dash of **Glitter**, you'll create a tool capable of casting the most imaginative spells!
 
-## How to Set It Up
-
-### Step 1: Find Your Wand
-
-Go on a nature walk and find the perfect **Twig**. It should be about the length of your forearm and fairly straight. Brush off any loose dirt or bark so it's clean and ready for magic.
-
-### Step 2: Add the Shimmer
-
-Tear off a small piece of **Aluminium Foil** and wrap it tightly around one end of the twig. This will be the 'magic core' of your wand. Squeeze it firmly so it takes the shape of the stick.
-
-### Step 3: Wrap the Handle
-
-Tie a piece of colourful **String** just below the foil. Wrap the string tightly around the twig, moving downwards to create a comfortable handle. Tie a knot at the bottom to secure it.
-
-### Step 4: Add the Magic Dust
-
-Apply a small amount of **PVA Glue** to the foil tip or the string handle. Carefully sprinkle some **Glitter** over the glue. Let it dry completely before you start casting your first spells!
-
 ## Have fun!
 
 - ✨ Give your wand a special name, like 'The Star-Seeker' or 'The Dragon-Tamer'.
