@@ -40,36 +40,12 @@ steps:
 
 Forget the brushes — today we paint with clouds! ☁️ Your little artists will clip fluffy **cotton wool** balls into **clothespins** to create amazing textured painting tools. Dip them in **poster paint** and dab, swirl, stamp, and drag across **paper** to create beautiful soft-edged artwork that looks completely different from regular brush painting. Every mark is a surprise!
 
-
-## How to Set It Up
-
-### Step 1: Make Your Cotton Ball Tools
-
-Take a **clothespin** and clip a **cotton wool** ball firmly in its jaws. Make several — one for each colour you want to use. The clothespin acts as a handle so little fingers stay clean (well, cleaner!). Squeeze the clothespin to open it, pop the cotton ball in, and release. Done! 📎
-
-
-### Step 2: Set Up Your Paint Station
-
-Squirt blobs of **poster paint** onto a **paper plate** or a flat surface — use lots of different colours and keep them separate. Lay a big sheet of **paper** flat on the table (put newspaper underneath to protect the surface). Now you're ready to create! 🎨
-
-
-### Step 3: Dab, Swirl, and Stamp
-
-Dip a cotton ball tool into the paint and press it onto the paper. Try different techniques — dab straight down for a soft cloud print, drag across for a streaky texture, twist for a swirly pattern, or tap quickly for a dotted effect. Use a fresh cotton ball for each colour to keep them bright! 🖌️
-
-
-### Step 4: Create Your Masterpiece
-
-Build up your picture using all the techniques. Make a fluffy cloud sky, a field of flowers, a speckled rainbow, or just a beautiful abstract pattern. The soft edges and texture from the cotton balls give a dreamy, impressionist look that's uniquely beautiful. Let it dry and display proudly! 🌸
-
-
 ## Have fun!
 
 - 🌳 Dab green cotton balls for leafy trees and bushes — the texture is perfect for foliage!
 - ❄️ Use white paint on dark paper for a snowy winter scene!
 - 🐑 Make cotton ball stamp sheep — the fluffy texture is perfect for woolly bodies!
 - 🎆 Drag outward from a centre point to make firework bursts!
-
 
 ## Why It's Amazing
 
@@ -80,7 +56,6 @@ Build up your picture using all the techniques. Make a fluffy cloud sky, a field
 * **Creative Experimentation:** With no "right way" to use a cotton ball, children freely explore dabbing, dragging, swirling, and stamping techniques. 🎭
 
 * **Colour Mixing Discovery:** When cotton balls pick up traces of previous colours, children see accidental colour mixing happen before their eyes. 🌈
-
 
 ## Pro Tips
 
