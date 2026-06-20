@@ -37,20 +37,6 @@ steps:
 
 You and your child will build a colourful quest map full of secret paths, silly creatures, and sticker landmarks, then use it to tell a different adventure every time. Think of it as a tabletop board game and storybook mashed together! 🗺️✨
 
-## How to Set It Up
-
-### Step 1: Draw the Quest Path
-
-Spread out a big sheet of **Paper** and draw a winding path from a "Start" corner to a "Treasure" corner using **Markers**. Add rivers, caves, and bridges around the path so the world already feels magical.
-
-### Step 2: Build Sticker Landmarks
-
-Place **Stickers** along the route as landmarks: stars for magic zones, animals for jungle zones, and smiley faces for safe camps. Use small loops of **Tape** under any sticker you want to move later as a reusable mission marker.
-
-### Step 3: Tell and Travel
-
-Pick a hero token (a button, coin, or tiny toy) and move it one landmark at a time. At each stop, your child invents what happens next before the hero can continue. The map is now a storytelling engine!
-
 ## Have fun!
 
 - 🎲 Roll a die and move that many landmarks each turn.
