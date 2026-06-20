@@ -43,24 +43,6 @@ steps:
 
 Get ready for the ultimate shipyard challenge! 🚤 You will build a lightweight, water-skimming speedboat equipped with a functional rear paddle wheel. By winding up an elastic band, you'll store kinetic energy that launches your boat across the water at top speed.
 
-## How to Set It Up
-
-### Step 1: Construct the Racing Hull
-
-Take a flat piece of **Cardboard Box** and cut out a rectangle with a pointed front (like a real boat prow). Cut a square notch out of the back of the boat, creating two long 'arms' that stick out behind. Wrap the entire hull tightly in **Tape** to make it waterproof! 🛡️
-
-### Step 2: Build the Paddle Wheel
-
-Cut two small rectangles out of cardboard (about 4cm by 3cm). Cut a slit exactly halfway up the middle of each one. Slot them together to form a '+' shape, and wrap this wheel in tape too, so it doesn't get soggy.
-
-### Step 3: Install the Engine
-
-Stretch a strong **Rubber Band** across the gap between the two arms at the back of your boat. Carefully pry apart the rubber band slightly and insert your paddle wheel right into the middle, so the band grips it tightly.
-
-### Step 4: Wind Up and Launch
-
-Time for the sea trials! 🌊 Wind the paddle wheel backwards towards you over and over until the rubber band is twisted super tight. Hold the paddle still, gently place the boat in a bathtub or sink of **Water**, and let go!
-
 ## Have fun!
 
 - 🏁 Build two boats and host the 'Grand Bath Tub Regatta' to see whose design is fastest.
