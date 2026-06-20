@@ -52,36 +52,12 @@ steps:
 
 X marks the spot! 🏴‍☠️ Your young pirates will transform a humble **egg carton** into a magnificent treasure chest overflowing with loot! Paint it gold and brown to look like an ancient chest, decorate with jewel-like **stickers** and glitter, then fill it with shiny coins, "gems" made from scrunched foil, and tiny treasures. It's the perfect prop for hours of pirate adventures!
 
-
-## How to Set It Up
-
-### Step 1: Prepare the Chest
-
-Take an **egg carton** (the hinged kind that opens like a box). Trim any rough edges with **scissors**. The bottom holds the treasure, and the lid becomes the chest top — it already has the perfect treasure chest shape with bumps that look like a curved lid! 📦
-
-
-### Step 2: Paint Your Chest
-
-Paint the outside of the egg carton with **poster paint** — use gold or brown to look like an old wooden chest. Add darker brown lines for wood-plank details. Let the first coat dry, then add a second coat for rich, solid colour. ⚠️ Cover the table first — this gets messy! 🎨
-
-
-### Step 3: Add Decorations
-
-Decorate your treasure chest with **stickers** for jewels and gems. Use **markers** to draw a lock on the front, hinges on the back, and metal bands across the lid. Add **glitter** or foil scraps for extra sparkle. Make it look ancient and precious! ✨
-
-
-### Step 4: Fill with Treasure
-
-Fill your chest with treasures! Wrap **coins** in foil for gold doubloons. Scrunch small pieces of **aluminium foil** into gem shapes. Add any small shiny things — buttons, beads, or wrapped sweets. Close the lid and hide your treasure for others to find! 💎
-
-
 ## Have fun!
 
 - 🗺️ Draw a treasure map and hide the chest for someone to find!
 - 🏴‍☠️ Make an eye patch and hat for a full pirate costume!
 - 💰 Write IOUs and special tickets to put inside as treasure!
 - 👑 Make a crown and use the chest for royal jewels instead!
-
 
 ## Why It's Amazing
 
@@ -92,7 +68,6 @@ Fill your chest with treasures! Wrap **coins** in foil for gold doubloons. Scrun
 * **Fine Motor Skills:** Painting small sections, applying stickers precisely, and handling tiny treasure items all develop dexterity and control. ✋
 
 * **Storytelling:** The chest naturally inspires questions — who buried it? What's inside? Where was it found? — building narrative thinking skills. 📖
-
 
 ## Pro Tips
 
