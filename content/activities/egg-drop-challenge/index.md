@@ -49,24 +49,6 @@ steps:
 
 Take on one of the most famous engineering challenges ever given to a school class — the **egg drop**! 🥚 Your mission is to build a protective container from simple household materials that will stop a **raw egg** from breaking when dropped from a height. There is no single right answer — the fun is in experimenting with different designs and figuring out why some work and some do not.
 
-## How to Set It Up
-
-### Step 1: Plan Your Design
-
-Before picking up any materials, sketch your design on **paper**. Think about what will absorb the impact: soft padding, a crumple zone, or something that slows the fall? Common approaches include surrounding the egg with **cotton wool**, creating a straw cage to distribute the shock, or using a **balloon** as a bumper. Draw your plan and label the materials. The best engineers plan before they build.
-
-### Step 2: Build the Container
-
-Construct the outer shell of your container using **cardboard** cut from a **cardboard box** and **straws** as structural rods. Shape the cardboard into a box, a cylinder, or whatever shape your design calls for. Use **tape** to hold all the joints firmly. The outer shell should be sturdy enough to hold its shape through the impact but also have somewhere for the force to go.
-
-### Step 3: Cushion the Egg
-
-Wrap the **raw egg** in several layers of **cotton wool** — the more the better. Place the cushioned egg inside the container and pack more **cotton wool** around it to fill any gaps. The egg should not move at all when you shake the container gently. Seal the container shut with **tape** so nothing falls out during the drop.
-
-### Step 4: The Drop!
-
-Find a safe outdoor drop zone (a paved area works well) or drop from an indoor staircase. Hold the container at arm's length above your head — roughly 2 metres — and drop it straight down. Do not throw it. Open the container and check the egg. Did it survive? If not, study where it cracked for clues about how to improve your design. ⚠️ Adult supervision required for higher drops.
-
 ## Have fun!
 
 - 📐 Once you succeed at 2 m, challenge yourself with 3 m, 4 m, or off a balcony.
