@@ -43,36 +43,12 @@ steps:
 
 Flutter flutter! 🦋 Your little nature artists will transform simple **clothespins** into gorgeous butterflies with colourful **tissue paper** wings, curly **pipe cleaner** antennae, and cheeky **googly eyes**. These delightful creatures look amazing hanging from a string or stuck to a window — and each one is completely unique!
 
-
-## How to Set It Up
-
-### Step 1: Paint the Clothespin Body
-
-Take a wooden **clothespin** and paint it with **poster paint** — any bright colour you like! This is the butterfly's body. Paint the whole thing and set it aside to dry on a piece of scrap paper. While it dries, prepare the wings! 🎨
-
-
-### Step 2: Create the Wings
-
-Take two pieces of **tissue paper** in different colours (about 15 cm square each). Stack them on top of each other, then gather them together in the middle and pinch to create a bow-tie shape. You now have two beautiful layered wings! The tissue paper's translucency makes them glow like real butterfly wings when light shines through.
-
-
-### Step 3: Assemble the Butterfly
-
-Once the clothespin is dry, open the clip and pinch it over the centre of the tissue paper wings. The clothespin grips the gathered middle tightly — no glue needed! Now take a **pipe cleaner**, fold it in half, twist the middle around the top of the clothespin, and curl each end into a spiral to make antennae. Stick on two **googly eyes** and your butterfly has a face! 👀
-
-
-### Step 4: Display Your Butterfly Garden!
-
-Make several butterflies in different colours and sizes. Clip them to a piece of string stretched across a room to create a butterfly garland. Or stick them to windows with tape — when the sunlight shines through the tissue paper wings, the colours glow beautifully! Open a window and watch them flutter in the breeze. 🌸
-
-
 ## Have fun!
 
 - 🌈 Make a rainbow collection — one butterfly in each colour of the rainbow!
 - 📚 Look up real butterfly species and try to match their colour patterns!
 - 🧲 Stick a small magnet on the back to make fridge butterflies!
 - 🎭 Put on a puppet show using the clothespin to open and close the wings!
-
 
 ## Why It's Amazing
 
@@ -83,7 +59,6 @@ Make several butterflies in different colours and sizes. Clip them to a piece of
 * **Nature Connection:** Making butterflies opens conversations about metamorphosis, symmetry in nature, and biodiversity. 🔬
 
 * **Creative Expression:** No two butterflies look the same — children make design choices about colours, patterns, and wing shapes. 🦋
-
 
 ## Pro Tips
 
