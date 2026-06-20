@@ -43,34 +43,7 @@ steps:
 
 You're going to become a naval engineer for the day! 🚢 Using just a sheet of **aluminium foil** and some clever folding, you'll build your very own boat and test how much **cargo** (coins!) it can carry before it sinks. The challenge: can you redesign your boat to beat your own record?
 
-
 Every time your boat sinks, you learn something new about how weight and shape affect floating — the same principles real ship designers use! ⚓
-
-## How to Set It Up
-
-### Step 1: Tear Your Foil
-
-Tear off a square of **aluminium foil** roughly the size of this page — about 25cm × 25cm. Lay it flat on the table and smooth out any big crumples with the palm of your hand.
-
-### Step 2: Fold Up the Sides
-
-Take one edge of the foil and fold it up about 2cm toward you. Press the fold firmly with your finger to create a crisp crease. Repeat on all four sides so you have a shallow tray shape.
-
-### Step 3: Pinch the Corners
-
-At each corner of your tray, two overlapping flaps of foil will stick up. Pinch them together firmly and press them flat against the inside wall of the tray. Do this on all four corners — this seals the gaps and stops water sneaking in!
-
-### Step 4: Float Your Boat
-
-Fill a **large bowl** with about 10cm of water. Hold your boat level just above the surface, then gently lower it and release slowly. It should float! If it sinks immediately, check for holes and re-pinch any open corners.
-
-### Step 5: Load the Cargo
-
-Place **coins** one at a time into the very centre of your boat. Count out loud with each coin — one… two… three… How many can you fit before the boat tips or sinks? Write down your best score!
-
-### Step 6: Redesign and Beat Your Record
-
-Fish your soggy foil boat out and study it. Can you make the walls taller? The base wider? Flatten it out completely and fold a brand new boat from the same piece of foil — then try to load even more coins than before!
 
 ## Have fun!
 
@@ -91,8 +64,6 @@ Fish your soggy foil boat out and study it. Can you make the walls taller? The b
 
 For **ages 3–5**: Pre-fold the foil tray for them and let them focus on the exciting cargo-loading part. Even placing one coin at a time is thrilling at this age!
 
-
 For **ages 5–8**: Encourage them to make a prediction before each test — "How many coins do you think it will hold?" — then count to check their guess.
-
 
 For **ages 8–12**: Introduce buoyancy and displacement — the boat floats because it pushes aside (displaces) water equal to its weight. Challenge them to calculate the base area of each design and see if a larger base means more capacity. ⚠️ **Adult Helper Needed** — if using heavy coins, make sure the bowl is on a stable surface on the floor or a low table to avoid spills.
