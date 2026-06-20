@@ -46,24 +46,6 @@ steps:
 
 Make a gorgeous wearable necklace from **tube pasta** and **string**! 🎨 First you dye the pasta in rainbow colours using **food colouring** and **white vinegar**, then once it is dry you thread it onto a piece of string to create a colourful beaded necklace. It is a brilliant first threading activity for small fingers — the large pasta holes are easy to work with, and the result is something the child can proudly wear or gift to someone they love.
 
-## How to Set It Up
-
-### Step 1: Colour the Pasta
-
-Pour a handful of **tube pasta** (penne or rigatoni) into a **zip-lock bag**. Add 10–15 drops of **food colouring** in your chosen colour plus one tablespoon of **white vinegar** to help the colour stick. Seal the bag and shake it well for a minute until every piece of pasta is coated. Repeat with different colours in separate bags to make a multi-coloured necklace.
-
-### Step 2: Dry the Pasta
-
-Spread the coloured pasta in a single layer on a **baking tray** lined with paper. Leave it to air-dry for at least one hour, or speed it up in a low oven (60°C / 140°F) for 15 minutes with ⚠️ an adult's help. The pasta is ready when it feels completely dry and no longer sticky to the touch. Keep different colours separate while drying.
-
-### Step 3: Thread the Necklace
-
-Cut a length of **string** long enough to fit over a child's head (about 60 cm). Tie a piece of pasta to one end as a stopper knot so the rest cannot slide off. Then thread pasta pieces one at a time onto the string, alternating colours to create a repeating pattern. Fill the string to within 10 cm of the free end.
-
-### Step 4: Tie It Off!
-
-Once all the pasta is threaded, tie both ends of the string together in a tight double knot, leaving enough room for the necklace to slip easily over the child's head. Trim any excess string, and the necklace is ready to wear!
-
 ## Have fun!
 
 - 🌈 Try a rainbow pattern — red, orange, yellow, green, blue, purple, and repeat.
