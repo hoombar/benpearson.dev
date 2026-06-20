@@ -46,36 +46,12 @@ steps:
 
 Bzzzz! 🦋 Your little entomologists will transform a wooden **clothespin** into a gorgeous dragonfly with stunning wings made from colourful **tissue paper**! Add **googly eyes** for personality, colour the body with **markers**, and your dragonfly is ready to clip onto curtains, plants, pencils, or anything it can grip. Make a whole swarm!
 
-
-## How to Set It Up
-
-### Step 1: Colour the Body
-
-Take a wooden **clothespin** — this is your dragonfly's body! Use **markers** to colour it a bold, beautiful colour — electric blue, emerald green, or sunset orange. Colour the whole thing, top and sides. The flat side will be the top of the dragonfly where the wings attach. 🎨
-
-
-### Step 2: Cut the Wings
-
-Cut two matching wing shapes from **tissue paper** — each wing should be an elongated oval about 8–10 cm long and 3–4 cm wide. Dragonfly wings are long and narrow! You can use one colour or layer two colours together for a shimmery, translucent effect. ✂️
-
-
-### Step 3: Attach Wings and Eyes
-
-Dab **PVA glue** on the flat top of the clothespin and press the two tissue paper wings on, angled slightly backward like a real dragonfly. Add a generous blob of glue to the front (the non-opening end) and stick on two **googly eyes**. The bigger the eyes, the cuter the dragonfly! Let everything dry. 👀
-
-
-### Step 4: Clip and Display
-
-Once dry, your dragonfly is ready to fly! Squeeze the clothespin to open it and clip your dragonfly onto curtain edges, plant stems, lampshades, picture frames, or even onto someone's sleeve as a wearable bug! Make a whole fleet in different colours and create a dragonfly garden on a branch! 🌿
-
-
 ## Have fun!
 
 - 🌈 Make a rainbow set — one dragonfly in every colour of the rainbow!
 - 🌿 Clip dragonflies to a branch in a vase for a nature display!
 - 🦗 Make other bugs too — bees, ladybirds, butterflies — start an insect collection!
 - 💌 Clip a dragonfly to a card or gift as a special decoration!
-
 
 ## Why It's Amazing
 
@@ -86,7 +62,6 @@ Once dry, your dragonfly is ready to fly! Squeeze the clothespin to open it and 
 * **Colour and Transparency:** Layering tissue paper introduces the concept of translucency and how colours look when light passes through them. 🌈
 
 * **Purposeful Craft:** Making something functional (a clip) rather than just decorative teaches children that art can be useful too! 📎
-
 
 ## Pro Tips
 
