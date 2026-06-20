@@ -37,24 +37,6 @@ steps:
 
 You are about to become a potion master and bring ordinary raisins to life! 🪄 By dropping them into a magical fizzy liquid, you'll create a lively dance floor right inside your glass. The bubbles will grab hold of the raisins, carry them to the top, and drop them back down in a non-stop boogie.
 
-## How to Set It Up
-
-### Step 1: Gather Your Tools
-
-Clear a space on a sturdy table. Set out your **Clear Glass**, a fresh bottle of **Sparkling Water**, and a handful of **Raisins**.
-
-### Step 2: Pour the Magic Liquid
-
-Take your **Clear Glass** and fill it about three-quarters full with fresh **Sparkling Water**.
-
-### Step 3: Drop the Dancers
-
-Carefully drop 5 to 6 **Raisins** into the glass. Watch closely as they sink right to the bottom.
-
-### Step 4: Watch the Show
-
-Keep your eyes glued to the glass! Tiny bubbles will start sticking to the wrinkles of the raisins, acting like little floaties to lift them up before they pop and sink again.
-
 ## Have fun!
 
 - 🎵 Put on some lively music and watch the raisins 'dance' to the beat.
