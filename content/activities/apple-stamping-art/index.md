@@ -40,24 +40,6 @@ steps:
 
 Turn an ordinary piece of fruit into a creative art tool! By slicing an **Apple** in half, you reveal a beautiful natural star shape hidden inside its core. When dipped in vibrant **Poster Paint**, the apple halves become perfect stamps for decorating **Paper** with colourful, nature-inspired patterns.
 
-## How to Set It Up
-
-### Step 1: Slice the Apple
-
-⚠️ **Adult Helper Needed** — An adult should use a **Kitchen Knife** to carefully slice the apple in half right through the middle (around its equator, not top-to-bottom). This will reveal the star-shaped core!
-
-### Step 2: Prepare the Paint
-
-Pour a thin layer of **Poster Paint** onto a flat plate or a piece of cardboard. If the paint is too thick, add a tiny drop of water. You can prepare two or three different colours on separate plates.
-
-### Step 3: Dip the Apple
-
-Take one half of the apple and dip the flat, cut side into the paint. Press it gently so the entire flat surface gets coated, but not so hard that it becomes a globby mess.
-
-### Step 4: Stamp Your Art
-
-Press the painted side of the apple firmly onto your **Paper**. Lift it straight up to reveal your beautiful apple print! Repeat this to make a colourful pattern all over the page.
-
 ## Have fun!
 
 - 🎨 Try making overlapping patterns with different colours once the first layer dries.
