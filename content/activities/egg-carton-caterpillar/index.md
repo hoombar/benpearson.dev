@@ -49,24 +49,6 @@ steps:
 
 You'll turn a humble **egg carton** into an adorable, wiggly caterpillar 🐛 with a big painted smile, curly **pipe cleaner** antennae, and wobbly **googly eyes** that look in every direction! This is one of those classic crafts where the result looks SO impressive but takes less than an hour. Get ready to meet your new best buggy friend!
 
-## How to Set It Up
-
-### Step 1: Cut the Body Strip
-
-⚠️ **Adult Helper Needed** — This step uses scissors on corrugated cardboard. Place the **egg carton** on a flat surface. Count out a row of 6 connected egg cups. Use **scissors** to cut along both long sides of the row, leaving you with a strip of 6 bumpy cups joined together. This wiggly strip is your caterpillar's body!
-
-### Step 2: Paint the Body
-
-Squeeze out several colours of **poster paint** onto a paper plate or old lid. Use a **flat paintbrush** to paint each cup a different vivid colour — go wild with the rainbow! 🌈 Set the painted strip on newspaper and leave it to dry completely for about 20 minutes.
-
-### Step 3: Add the Face
-
-Once the paint is dry, dab a tiny spot of glue on two **googly eyes** and press them onto the front cup. Draw a big smile with a **marker**. Take two **pipe cleaners**, fold each in half, and twist a small loop at the bent end. Push the straight ends through the top of the first cup from the inside — these curly loops are the antennae!
-
-### Step 4: Add the Legs
-
-Cut 12 short pieces of **pipe cleaner** — about 4 cm each. Poke 2 pieces through the sides of each of the remaining 5 cups to create 10 legs. Bend the end of each leg slightly outward so your caterpillar stands up and wobbles when you nudge it! 🎉
-
 ## Have fun!
 
 - 🌿 Give your caterpillar a name and create a little leaf home for it from green paper
