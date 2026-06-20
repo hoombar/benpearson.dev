@@ -49,36 +49,12 @@ steps:
 
 A towering totem pole from the recycling bin! 🎨 Your little artists will stack **cardboard tubes** on top of each other, painting each one a different bold colour and adding animal faces — an eagle with spread wings at the top, a bear with big teeth in the middle, and a fish with scales at the bottom. The finished totem pole stands tall and proud!
 
-
-## How to Set It Up
-
-### Step 1: Paint the Tubes
-
-Take 3 **cardboard tubes** (toilet roll or kitchen roll cut to size). Paint each tube a different bold colour — red, blue, and yellow work brilliantly. Use **poster paint** and a **flat paintbrush**. Stand them upright on a protected surface to dry. 🎨
-
-
-### Step 2: Design the Animal Faces
-
-Using **markers**, draw a different animal face on each tube. The top tube gets an eagle (fierce eyes, pointed beak). The middle gets a bear (round ears, big nose). The bottom gets a fish (wide eyes, scales pattern). Make the expressions bold and dramatic! 🦅
-
-
-### Step 3: Add Wings and Features
-
-Cut wings, ears, fins, and beaks from **paper** using **scissors**. Fold tabs at the base of each piece and glue them onto the tubes with **PVA glue**. The eagle gets wide spread wings, the bear gets round ears, and the fish gets side fins. 🐻
-
-
-### Step 4: Stack and Display
-
-Once everything is dry, stack the tubes on top of each other and glue them together. Press firmly and let the glue set. Your totem pole is ready to display — stand it on a shelf or windowsill! 🏔️
-
-
 ## Have fun!
 
 - 🌍 Research real Pacific Northwest totem poles and the stories they tell!
 - 🎭 Invent your own animal symbols — what animal represents your family?
 - 📏 Use more tubes to make a taller totem pole with more animal sections!
 - ✨ Add glitter glue or sequins for a sparkling ceremonial look!
-
 
 ## Why It's Amazing
 
@@ -89,7 +65,6 @@ Once everything is dry, stack the tubes on top of each other and glue them toget
 * **Character Design:** Creating distinct animal faces on each section develops illustration skills and expressive drawing. 🎨
 
 * **Recycling Creativity:** Transforming cardboard tubes into art shows that everyday waste can become something beautiful. ♻️
-
 
 ## Pro Tips
 
