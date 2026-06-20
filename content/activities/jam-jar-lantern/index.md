@@ -40,24 +40,6 @@ steps:
 
 Transform a plain **glass jar** into a glowing stained-glass lantern! 🏮 Layer torn **tissue paper** pieces onto the outside of the jar with **PVA glue** and watch the colours overlap and blend. Once dry, pop a battery-powered tea light inside and the jar glows with rich, jewel-like colour. These make beautiful gifts or centrepieces!
 
-## How to Set It Up
-
-### Step 1: Tear the Tissue Paper
-
-Tear your **tissue paper** into small irregular pieces — roughly the size of a large postage stamp or a bit bigger. Irregular edges look much better than straight cuts because they overlap naturally and hide the joins. Make a pile of at least three different colours so you can layer them. The more colours you use, the richer the finished lantern will look. 🌈
-
-### Step 2: Paint the Jar and Apply Tissue
-
-Squirt a small pool of **PVA glue** onto a flat surface and thin it slightly with a few drops of water. Using a **flat paintbrush**, paint a section of the outside of the jar with the glue — work on a patch about 5 cm wide at a time so it does not dry before you place the tissue. Press a tissue paper piece onto the wet glue, then brush more glue on top of it to seal it down flat. Repeat, overlapping pieces and mixing colours freely. Cover the entire outside of the jar.
-
-### Step 3: Seal the Lantern
-
-Once the jar is fully covered in tissue paper, brush a final even coat of **PVA glue** all over the outside to seal all the edges. Wipe any drips from the inside rim. Leave the jar upside-down on a piece of baking paper to dry fully — this usually takes 1–2 hours. The glue will dry clear, locking the tissue paper in place.
-
-### Step 4: Light It Up!
-
-When completely dry, place a battery-powered tea light inside the jar and switch it on. Turn off the lights and watch the jar glow with stained-glass colours! 🌟 Display it on a windowsill or use it as a centrepiece.
-
 ## Have fun!
 
 - 🎨 Try a theme: all warm reds and oranges for a sunset lantern, or cool blues and greens for an ocean lantern.
