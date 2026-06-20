@@ -43,36 +43,12 @@ steps:
 
 Ultimate frisbee — homemade edition! 🥏 Your little athletes will transform two **paper plates** into a surprisingly aerodynamic flying ring by cutting out the centres and **taping** the rims together. Decorate it with bold **markers** and **stickers**, then head outside to throw, catch, and see how far it can fly!
 
-
-## How to Set It Up
-
-### Step 1: Cut Out the Centres
-
-Take two **paper plates** and use **scissors** to carefully cut out the flat centre of each one, leaving just the raised rim (about 3 cm wide). You should have two rings — these will be stacked together to make the frisbee. ⚠️ An adult should start the cut for younger children by poking through the centre first.
-
-
-### Step 2: Tape the Rings Together
-
-Place the two plate rims on top of each other, bottom-to-bottom (so the eating surfaces face outward on both sides). Wrap strips of **tape** around the rim to join them together firmly. Go all the way around — the more tape, the sturdier the frisbee. The double layer makes it rigid enough to fly!
-
-
-### Step 3: Decorate Your Frisbee
-
-Use bright **markers** to draw bold patterns — spirals, lightning bolts, flames, stars, or team colours. Add **stickers** for extra flair. The designs will blur into a cool pattern when the frisbee spins! Draw on both sides so it looks great in the air. 🎨
-
-
-### Step 4: Throw and Play!
-
-Head outside to an open area. Hold the frisbee flat and flick your wrist to release — it should sail through the air! Practice your throw and see how far you can send it. Set up targets (hula hoops, buckets, or chalked circles on the ground) and score points for accuracy! 🎯
-
-
 ## Have fun!
 
 - 🎯 Set up a frisbee golf course with targets around the garden!
 - 📏 Have a distance competition — mark each throw with a stick!
 - 🐕 Play frisbee catch — how many catches in a row without dropping?
 - 🌀 Try throwing with different spins — backhand, forehand, underarm!
-
 
 ## Why It's Amazing
 
@@ -83,7 +59,6 @@ Head outside to an open area. Hold the frisbee flat and flick your wrist to rele
 * **Iteration & Improvement:** If the first frisbee doesn't fly well, children can adjust (more tape, different weight) and try again — engineering thinking! 🔧
 
 * **Outdoor Active Play:** Getting outside to run, throw, and catch provides fantastic exercise disguised as pure fun. 🏃
-
 
 ## Pro Tips
 
