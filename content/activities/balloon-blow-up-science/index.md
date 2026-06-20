@@ -43,24 +43,6 @@ steps:
 
 Get ready for some kitchen chemistry! In this experiment, you will combine **White Vinegar** and **Baking Soda** to create a bubbly, fizzy gas that will magically inflate a **Balloon** all by itself! It's a fantastic, hands-on way to see science in action.
 
-## How to Set It Up
-
-### Step 1: Prep the Balloon
-
-Using a **Funnel**, carefully pour about two tablespoons of **Baking Soda** into the deflated **Balloon**. Shake it gently so the powder settles at the bottom of the balloon.
-
-### Step 2: Prep the Bottle
-
-Take your **Empty Plastic Bottle** (make sure it's clean and dry) and fill it about one-third of the way up with **White Vinegar**.
-
-### Step 3: Attach the Balloon
-
-Carefully stretch the neck of the balloon over the mouth of the bottle. **Make sure the balloon hangs down the side so the baking soda doesn't fall in yet!** Ensure it has a tight seal.
-
-### Step 4: The Chemical Reaction
-
-When you're ready, lift the balloon straight up so the baking soda falls down into the vinegar. Watch in amazement as the mixture fizzes and the gas instantly blows up the balloon!
-
 ## Have fun!
 
 - 🧪 Touch the bottom of the bottle during the reaction — it feels cold! This is called an endothermic reaction.
