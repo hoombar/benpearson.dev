@@ -40,36 +40,12 @@ steps:
 
 Shake, rattle, and roll! 🥁 Your little musicians will transform two **paper plates** into a fantastic homemade tambourine filled with **uncooked rice** that makes the most satisfying shaking sound! Tape the plates together, decorate with **markers** and coloured designs, then shake along to your favourite songs. It's a real instrument that really works!
 
-
-## How to Set It Up
-
-### Step 1: Add the Rice
-
-Take one **paper plate** and place it face-up on the table. Pour a small handful of **uncooked rice** into the centre — about two tablespoons is perfect. Too much and it won't shake properly, too little and it'll be too quiet. You want to hear every grain dancing around inside! 🍚
-
-
-### Step 2: Seal the Plates Together
-
-Place the second **paper plate** face-down on top of the first, so the rims line up and the rice is trapped inside. Use strips of **tape** all the way around the edge to seal the plates together firmly. Make sure there are no gaps — you don't want rice escaping mid-performance! Give it a test shake. Can you hear it? 🔊
-
-
-### Step 3: Decorate Your Tambourine
-
-Now make it beautiful! Use **markers** to draw bold, colourful designs on both sides of your tambourine. Stars, swirls, zigzags, music notes, or rainbow patterns — whatever inspires you. Some musicians like to add ribbons or streamers taped to the edge for extra flair! 🎨
-
-
-### Step 4: Shake and Play
-
-Hold your tambourine and give it a shake — listen to that gorgeous rattle! Try different techniques: shake it side to side for a steady rhythm, tap it against your palm for a beat, or spin it quickly for a continuous shimmer. Put on some music and play along — you're in the band now! 🎵
-
-
 ## Have fun!
 
 - 🎶 Make several tambourines with different fillings — rice, lentils, pasta — and compare the sounds!
 - 🎤 Start a family band with tambourines, shakers, and drums!
 - 💃 Play freeze dance — shake the tambourine, and when it stops, everyone freezes!
 - 🎵 Practise keeping a steady beat along with your favourite songs!
-
 
 ## Why It's Amazing
 
@@ -80,7 +56,6 @@ Hold your tambourine and give it a shake — listen to that gorgeous rattle! Try
 * **Creative Expression:** Decorating their instrument and performing with it gives children a powerful outlet for musical and artistic expression. 🎭
 
 * **Listening Skills:** Comparing different sounds, volumes, and rhythms sharpens auditory discrimination and attention. 👂
-
 
 ## Pro Tips
 
