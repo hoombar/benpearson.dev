@@ -52,36 +52,12 @@ steps:
 
 A snappy swamp creature! 🐊 Your little zoologists will fold a **paper plate** in half to create a chomping crocodile mouth that opens and closes. Paint it fierce green, cut zigzag **paper** teeth to glue inside the jaw, add **googly eyes** on top, and attach a long scaly tail. Snap snap snap — watch out for those teeth!
 
-
-## How to Set It Up
-
-### Step 1: Fold and Paint
-
-Fold a **paper plate** in half. Paint the outside of both halves with green **poster paint** — this is the crocodile's scaly skin! Use a slightly darker green for spots or stripes to add texture. Let dry completely. 🎨
-
-
-### Step 2: Cut the Teeth
-
-Cut a strip of white **paper** about 3 cm wide and fold it into a zigzag (accordion fold). Cut along the folds to make individual triangle teeth, or keep the zigzag strip whole for a row of teeth. Make two rows — one for the top jaw and one for the bottom. 🦷
-
-
-### Step 3: Glue the Teeth and Eyes
-
-Open the folded plate slightly. Glue the zigzag teeth strips along the inside edge of both the top and bottom halves with **PVA glue** — the points should stick inward toward the mouth. Glue two **googly eyes** on top of the fold, one on each side. 👀
-
-
-### Step 4: Add the Tail
-
-Cut a long, tapered tail shape from green **paper** (getting narrower toward the tip). Add zigzag cuts along the top edge for spiky ridges. Glue or tape the wide end to the back of the plate (the fold side). Your crocodile is ready to snap! 🐊
-
-
 ## Have fun!
 
 - 🎭 Use the crocodile as a puppet — open and close the plate to make it snap and talk!
 - 🌿 Make a swamp scene with blue paper water and green paper reeds!
 - 📖 Read a crocodile story and use your craft to act out the scenes!
 - 🐊 Make a whole family — a big croc from a large plate and babies from small ones!
-
 
 ## Why It's Amazing
 
@@ -92,7 +68,6 @@ Cut a long, tapered tail shape from green **paper** (getting narrower toward the
 * **Pattern Making:** Cutting zigzag teeth introduces repeating patterns and practises careful scissor control along a line. ✂️
 
 * **Dramatic Play:** The snapping mouth naturally invites puppet play, storytelling, and imaginative scenarios. 🎭
-
 
 ## Pro Tips
 
