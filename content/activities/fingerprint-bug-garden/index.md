@@ -43,24 +43,6 @@ steps:
 
 Your own fingertips are the stamps — press them into **poster paint** and dab onto **paper** to make the bodies of ladybirds, bumblebees, caterpillars, and butterflies! 🐞🦋 Then grab your **markers** to add legs, wings, spots, and faces. By the end you'll have a whole buzzing garden alive with dozens of tiny creatures — each one unique to you.
 
-## How to Set It Up
-
-### Step 1: Set Up Your Paint Palette
-
-Squirt a small blob of three or four different **poster paint** colours into separate sections of a **small container** lid, or onto a spare piece of paper. Choose colours that match real insects: red for ladybirds, yellow for bees, green for caterpillars, orange for butterflies. Press your fingertip gently into one colour to test the coverage — you want enough paint to leave a clear print, but not so much it smudges.
-
-### Step 2: Press Your Bug Bodies
-
-Decide which bugs you want to make first! A round thumbprint makes a fat bumblebee body or a plump ladybird. A line of four fingertip prints in a row makes a caterpillar. Two fingerprints side by side make butterfly wings. Press each finger firmly onto the **paper** and hold for two full seconds before lifting straight up — this gives a crisp, complete print. Leave a little space between each bug!
-
-### Step 3: Add Bug Details
-
-Let all the paint prints dry for five full minutes — this stops the marker from smearing the wet paint. Then use a thin **marker** or **pen** to add all the details: six spindly legs on every bug (three on each side of the body!), two curly antennae pointing forward, black spots on ladybirds, and wing outlines on butterflies. Add little eyes and a smiling mouth to each face. Make each bug its own personality! 😄
-
-### Step 4: Create the Garden Scene
-
-Finally, use your **markers** and **pen** to draw the garden world around your bugs. Add tall green grass stalks, round flower heads on thin stems, a sunshine in the corner, a cloud or two, and a winding path through the middle. Give your garden a name and write it at the top — this is YOUR garden! 🌻
-
 ## Have fun!
 
 - 🐛 Use a whole line of 8 fingerprints for a giant rainbow caterpillar!
