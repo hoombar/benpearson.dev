@@ -49,36 +49,12 @@ steps:
 
 Your own outdoor orchestra! 🎐 Your little musicians will transform empty **tin cans** into a beautiful wind chime by painting them in bright colours, poking holes in the bases, and threading them onto **string** at different heights. Hang it outside and listen to the gentle clinking sounds as the wind blows them together — part art, part music, all magic!
 
-
-## How to Set It Up
-
-### Step 1: Prepare and Paint the Cans
-
-Take 3–5 clean, empty **tin cans** (check for sharp edges — cover any with **tape**). Paint the outside of each can with a different colour of **poster paint**. Use bold, bright colours for a stunning display. Let dry completely. ⚠️ Adult Helper Needed to check edges. 🎨
-
-
-### Step 2: Poke the Holes
-
-Using a nail and hammer (adult job!) or a sturdy **scissors** point, poke a small hole in the centre of the base of each can. The hole needs to be big enough for **string** to pass through. ⚠️ Adult Helper Needed. 🔨
-
-
-### Step 3: Thread the String
-
-Cut lengths of **string** at different sizes (20 cm, 25 cm, 30 cm, etc.) so the cans will hang at different heights. Thread each string through a can's hole from the inside. Tie a large knot or tape a small stick across the inside to stop it pulling through. Tie all the top ends to a single stick or coat hanger. 🪢
-
-
-### Step 4: Decorate and Hang
-
-Add extra decorations — wrap **tape** in stripes, draw patterns with **markers**, or tie ribbons between the cans. Hang your wind chime from a tree branch, garden hook, or window frame. Wait for the wind and listen to your creation sing! 🎵
-
-
 ## Have fun!
 
 - 🎵 Fill one can with dried rice or beans before sealing — now it's a shaker AND a chime!
 - 🌈 Paint each can a colour of the rainbow for a spectrum wind chime!
 - 🔔 Add buttons, beads, or keys on extra strings between the cans for different sounds!
 - 📏 Experiment — do bigger cans make deeper sounds than smaller ones?
-
 
 ## Why It's Amazing
 
@@ -89,7 +65,6 @@ Add extra decorations — wrap **tape** in stripes, draw patterns with **markers
 * **Measurement Skills:** Cutting strings to specific lengths and spacing cans evenly introduces practical maths and precision. 📏
 
 * **Cause and Effect:** The wind chime only makes sound when moved by wind — connecting weather to physical effects through direct experience. 🌬️
-
 
 ## Pro Tips
 
