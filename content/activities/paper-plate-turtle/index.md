@@ -49,36 +49,12 @@ steps:
 
 Slow and steady wins the race! 🐢 Your little crafters will transform a **paper plate** into the cutest turtle ever — paint a colourful shell pattern, add **paper** legs and a head, stick on **googly eyes**, and you've got a friendly turtle ready for adventures! The dome shape of the plate makes a perfect rounded shell.
 
-
-## How to Set It Up
-
-### Step 1: Paint the Shell
-
-Flip a **paper plate** upside down — the dome becomes your turtle's shell! Use **poster paint** to decorate it with a shell pattern. Paint hexagonal shapes, circles, or swirls in greens, yellows, and browns. Let your creativity flow — every turtle's shell is unique! 🎨
-
-
-### Step 2: Cut Out Body Parts
-
-While the paint dries, cut shapes from green **paper** — four stubby legs (rounded rectangles), a head (oval shape), and a small pointed tail. Make the head big enough to add a face later! ✂️
-
-
-### Step 3: Assemble the Turtle
-
-Flip the painted plate over. Use **PVA glue** or **tape** to attach the legs underneath the plate edges — two at the front, two at the back. Glue the head poking out from one end and the tail from the other. Press firmly and let dry. 🦎
-
-
-### Step 4: Add the Face
-
-Stick **googly eyes** onto the head. Use **markers** to draw a happy mouth, nostrils, and any extra details. Add spots or stripes to the legs if you like. Your turtle is complete — give it a name! 🐢
-
-
 ## Have fun!
 
 - 🏠 Build a shoebox habitat with rocks, leaves, and blue paper for a pond!
 - 👨‍👩‍👧‍👦 Make a whole turtle family — a big parent and tiny baby turtles!
 - 📖 Read a turtle story and act it out with your turtle puppet!
 - 🐚 Glue real small shells onto the plate for a textured 3D shell!
-
 
 ## Why It's Amazing
 
@@ -89,7 +65,6 @@ Stick **googly eyes** onto the head. Use **markers** to draw a happy mouth, nost
 * **Creative Expression:** Designing a unique shell pattern encourages artistic decision-making — colour choices, pattern styles, and personalisation. 🎨
 
 * **Imaginative Play:** The finished turtle becomes a character for storytelling, pretend play, and creative scenarios. 🧠
-
 
 ## Pro Tips
 
