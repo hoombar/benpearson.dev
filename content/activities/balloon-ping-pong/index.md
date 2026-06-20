@@ -43,24 +43,6 @@ steps:
 
 Build your very own indoor ping-pong court and rally a balloon back and forth without letting it touch the floor! 🏓 All you need are **paper plates**, **straws**, and a piece of **string** for the net. It is gentle enough for small children but competitive enough for older kids — and the slow, floaty balloon means even beginners can get a good rally going!
 
-## How to Set It Up
-
-### Step 1: Make the Paddles
-
-Take a **paper plate** and flip it face-down. Place a **straw** across the back of the plate, centred, with about 10 cm sticking out below the rim as the handle. Tear off 3–4 strips of **tape** and press them firmly across the straw at different points to attach it securely to the plate. The plate should feel solid when you grip the handle. Make one paddle per player. 🏓
-
-### Step 2: Set Up the Net
-
-Tie a piece of **string** between two chair backs at roughly waist height for the shortest player. Pull it reasonably taut so it forms a clear dividing line across the playing space. If you don't have chairs, tie it to two door handles, two table legs, or use two stacked books as posts. Leave at least 2 metres of play space on each side of the net.
-
-### Step 3: Inflate the Balloon
-
-Blow up a **balloon** to a medium size — not so tiny it falls fast, not so huge it is impossible to control. A balloon about 20–25 cm across is ideal. Tie the end off tightly. A round balloon works better than a long sausage shape for this game.
-
-### Step 4: Rally!
-
-Stand on opposite sides of the string net. Serve by tapping the balloon up and over the net with your paddle. Your opponent must hit it back before it touches the floor. Score a point each time your opponent misses. First to 10 points wins! 🎉
-
 ## Have fun!
 
 - 🏆 Play best of three sets for a full tournament.
