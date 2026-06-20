@@ -46,24 +46,6 @@ steps:
 
 A spectacular erupting volcano on your kitchen table! 🌋 You'll shape a simple dough cone around a container, fill it with a secret mixture, then trigger a magnificent fizzing lava flow using a real acid-base chemical reaction — all from your kitchen cupboard.
 
-## How to Set It Up
-
-### Step 1: Build the Volcano Base
-
-Mix a handful of **plain flour** with a little water to make a stiff dough. Mould it around a **small container** to create the cone shape, leaving the top of the container open. The steeper the sides, the more dramatic the eruption looks!
-
-### Step 2: Prepare the Lava Mix
-
-Pour 3 tablespoons of **white vinegar** into the container. Add a few drops of **food colouring** — red or orange for molten lava effect — and a small drop of washing-up liquid to create extra foam.
-
-### Step 3: Add the Secret Trigger
-
-Fold 2 teaspoons of **baking soda** into a small piece of **paper** to form a pouch. Hold it over the opening and count down from three together — then drop it in!
-
-### Step 4: Watch the Eruption
-
-Step back and watch the lava overflow down the sides! The vinegar (acid) reacts with the baking soda (base) to produce carbon dioxide gas — that's what creates all those glorious fizzing bubbles.
-
 ## Have fun!
 
 - 🔴 Try different food colouring combos — what does purple lava look like?
