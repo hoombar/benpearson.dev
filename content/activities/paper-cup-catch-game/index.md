@@ -46,36 +46,12 @@ steps:
 
 A classic cup-and-ball catch game made from kitchen supplies! 🏆 Your little game-makers will attach a **tinfoil** ball to a **paper cup** with **string**, then try to toss the ball up and catch it in the cup. It sounds simple but it's wonderfully tricky — and incredibly addictive once you get the hang of it!
 
-
-## How to Set It Up
-
-### Step 1: Make the Ball
-
-Tear off a piece of **tinfoil** (about 20 cm square) and scrunch it into a tight, round ball about the size of a large marble. Make it firm — squeeze it hard so it holds its shape and has some weight. 🔵
-
-
-### Step 2: Attach the String
-
-Cut a piece of **string** about 40 cm long. Wrap one end around the tinfoil ball and squeeze more foil around it to lock the string in place. Alternatively, tape the string to the ball with **sticky tape**. Give it a tug to make sure it's secure! 🧵
-
-
-### Step 3: Prepare the Cup
-
-Poke a small hole in the bottom of a **paper cup** using **scissors** (⚠️ adult helper needed for younger children). Thread the free end of the string through the hole from the outside. Tie a big knot on the inside so the string can't pull through. 🥤
-
-
-### Step 4: Decorate and Play
-
-Decorate the cup with **markers** — stripes, stars, flames, or your team colours! Now hold the cup in one hand, let the ball dangle, then flick your wrist to toss the ball up and try to catch it in the cup. Count your catches in a row! 🎮
-
-
 ## Have fun!
 
 - 🏅 Hold a tournament — who can get the most catches in 30 seconds?
 - 📏 Try different string lengths — shorter is easier, longer is harder!
 - 🎯 Make the ball bigger or smaller to change the difficulty!
 - 🌟 Add a points system — 1 point for a catch, 3 points for catching it behind your back!
-
 
 ## Why It's Amazing
 
@@ -86,7 +62,6 @@ Decorate the cup with **markers** — stripes, stars, flames, or your team colou
 * **Persistence and Growth Mindset:** This game is hard at first! Learning through repeated attempts builds resilience and the joy of mastering a skill. 💪
 
 * **Simple Engineering:** Constructing a working toy from basic materials shows that fun doesn't need batteries or screens. 🔧
-
 
 ## Pro Tips
 
