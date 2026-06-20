@@ -37,20 +37,6 @@ steps:
 
 A dazzling colour science lab on your kitchen table! 🌈 Using just **food colouring**, **small containers**, and **vegetable oil**, your little scientist will discover how primary colours combine to make new ones — and why oil and water stubbornly refuse to mix no matter how hard you try.
 
-## How to Set It Up
-
-### Step 1: Set Up the Lab Stations
-
-Line up six **small containers** on a tray. Fill three with a little water and add a few drops of **food colouring** — one red, one blue, one yellow. Leave the other three containers empty, ready for mixing experiments. This is the laboratory!
-
-### Step 2: Mix the Primary Colours
-
-Pour a little red water into a yellow water container — what colour appears? Try all three combinations (red + yellow, blue + yellow, red + blue) and name the new colours together. Record discoveries on **paper** by pressing a wet fingertip to make colour swatches.
-
-### Step 3: Discover the Rainbow Layers
-
-Pour a centimetre of **vegetable oil** into a tall clear container. Gently pour coloured water on top and watch the layers form — oil floats! Swirl gently and watch the colours swirl through each other without truly mixing.
-
 ## Have fun!
 
 - 🔬 Mix all three primary colours together — what mysterious colour appears?
