@@ -55,44 +55,7 @@ steps:
 
 Ahoy, young adventurer! 🏴‍☠️ You're about to forge a genuine pirate treasure map — the kind that looks like it's been hidden in a sea chest for a hundred years! Using a secret ageing potion (it's actually tea! ☕), you'll transform ordinary paper into weathered parchment, then chart mysterious islands, dangerous reefs, and of course... the spot where X marks the treasure! 💎
 
-
 Once your map is complete, you'll singe the edges for that authentic ancient look, roll it into a proper scroll, and tie it with string. This is the ultimate pirate craft — part science experiment, part art project, and 100% swashbuckling fun! 🗡️
-
-
-## How to Set It Up
-
-### Step 1: Brew the Ageing Potion
-
-Place two **tea bags** in a **large bowl** and ask a grown-up to pour hot **water** over them — just enough to cover the bottom of the bowl (about 2 cm deep). Let the tea steep for 5 minutes until it turns a deep, dark brown. Use a **spoon** to press the tea bags gently and squeeze out extra colour. Remove the tea bags and let the liquid cool until it's warm but safe to touch.
-
-
-### Step 2: Age Your Parchment
-
-Take a sheet of **paper** and carefully scrunch it into a loose ball — don't crush it too tightly! This creates wrinkle lines that make the paper look ancient. Now uncrumple it and gently smooth it out. Lay the crumpled paper into the bowl of tea. Use the **spoon** to push it down so every part gets soaked. Let it sit in the tea for 3–5 minutes.
-
-
-### Step 3: Dry Your Map
-
-Carefully lift the wet paper out of the bowl — it's fragile, so use both hands! Lay it flat on a clean surface or a **tape**-covered tray (sticky side up to hold the edges down). Let it dry completely — this takes about 1–2 hours, or you can ask a grown-up to speed it up with a hairdryer on low heat. ⚠️ **Adult Helper Needed** — If using a hairdryer, an adult should operate it. Hold it at arm's length from the paper.
-
-
-### Step 4: Draw Your Treasure Map
-
-Now the real adventure begins! 🗺️ Using a **pen** and **colouring pencils**, draw your pirate map. Start with a coastline — make it jagged and irregular, with bays and headlands. Add these classic map features:
-- 🏝️ Islands with palm trees
-- ⛰️ Mountains drawn as little triangles
-- 🌊 Wavy lines for the sea
-- 🏚️ A skull cave or shipwreck
-- 🧭 A compass rose in one corner (a cross with N, S, E, W)
-- ❌ A big red X where the treasure is buried!
-
-Don't forget to give your map a title, like "Captain [Your Name]'s Secret Isle" along the top!
-
-
-### Step 5: Roll Your Scroll
-
-Once your map is fully decorated, carefully roll it up from one short edge to the other to form a scroll. Wrap a piece of **tape** around the middle to hold it closed, or tie it with a piece of string for an extra-authentic look. Your treasure map is ready for a pirate adventure! 🏴‍☠️
-
 
 ## Have fun!
 
@@ -101,7 +64,6 @@ Once your map is fully decorated, carefully roll it up from one short edge to th
 - 🔥 Tear tiny pieces off the edges to make the map look even more ancient and battle-worn.
 - 🧭 Create a matching compass from a paper plate to use alongside your map.
 - 📜 Make multiple maps and trade them with friends — start a pirate map collection!
-
 
 ## Why It's Amazing
 
@@ -113,13 +75,10 @@ Once your map is fully decorated, carefully roll it up from one short edge to th
 
 * **Geography Awareness:** Creating maps introduces cardinal directions, scale, and spatial thinking — the foundations of map reading. 🧭
 
-
 ## Pro Tips
 
 For **ages 3–5**: Pre-scrunch and tea-stain the paper for them. Let them focus on drawing simple shapes — an island, a palm tree, and a big X. Use chunky crayons instead of pencils.
 
-
 For **ages 5–8**: Encourage them to add a compass rose and at least 5 different map features. Challenge them to write a one-sentence clue about where the treasure is hidden.
-
 
 For **ages 8–12**: Go all-in on realism! Add a map key/legend, use cross-hatching for mountains, and write the clues in a "secret code" (try mirror writing or a simple cipher). They can even burn the edges slightly with adult supervision for maximum authenticity.
