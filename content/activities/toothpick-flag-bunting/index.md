@@ -46,36 +46,12 @@ steps:
 
 Time to celebrate — everything! 🎉 Your little party planners will cut tiny triangles from colourful **paper**, fold and glue them onto **toothpicks** to create adorable miniature flags, then thread them onto **string** to make the tiniest, most charming bunting you've ever seen. Use it to decorate a dolls' house, a sandcastle, a birthday cake, or string it across a bookshelf — instant party!
 
-
-## How to Set It Up
-
-### Step 1: Cut the Flag Shapes
-
-Using **scissors**, cut small triangles or rectangles from coloured **paper** — each flag should be about 3–4 cm wide and 4–5 cm tall. Make them in lots of different colours for a festive rainbow effect. You'll need two matching shapes per flag (front and back). Cut at least 10–15 pairs. 🔺
-
-
-### Step 2: Attach Flags to Toothpicks
-
-Take a **toothpick** and dab **PVA glue** on one paper shape. Place the toothpick along one edge, then press the matching paper shape on top to sandwich the toothpick between the two layers. The toothpick becomes the flagpole! Press firmly and let the glue set. Repeat for all your flags. 🏁
-
-
-### Step 3: Decorate the Flags
-
-While the glue dries, use **markers** to add designs to each flag — draw stars, hearts, zigzags, stripes, polka dots, or even tiny letters spelling out a name or message. Each flag can have a different design or make them match for a coordinated look! 🎨
-
-
-### Step 4: String Into Bunting
-
-Cut a length of **string** and tie or **tape** each flag's toothpick to the string, spacing them evenly apart. Alternatively, fold the paper flags directly over the string instead of using toothpicks for hanging bunting. Stretch your bunting between two points and admire your handiwork! 🎊
-
-
 ## Have fun!
 
 - 🎂 Poke individual flags into cupcakes or a birthday cake for instant party decoration!
 - 🏰 Create bunting for a toy castle, doll's house, or LEGO city!
 - 🌍 Research real flags from different countries and make a world flag line!
 - ✉️ Spell someone's name across the bunting as a personalised banner!
-
 
 ## Why It's Amazing
 
@@ -86,7 +62,6 @@ Cut a length of **string** and tie or **tape** each flag's toothpick to the stri
 * **Scale and Proportion:** Working at miniature scale helps children understand relative size and develop spatial awareness. 📐
 
 * **Celebration Culture:** Making party decorations teaches children that celebrations can be created, not just consumed — empowering and joyful! 🥳
-
 
 ## Pro Tips
 
