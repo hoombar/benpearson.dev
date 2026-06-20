@@ -49,36 +49,12 @@ steps:
 
 Catch the wind! 🌬️ Your little weather watchers will turn a simple **paper cup** into a beautiful windsock with flowing **tissue paper** streamers. Decorate the cup with bright colours and patterns, attach long colourful strips to the open end, poke a hole and thread **string** through the base — then hang it outside and watch those streamers flutter and dance!
 
-
-## How to Set It Up
-
-### Step 1: Decorate the Cup
-
-Use **markers** to decorate the outside of a **paper cup** with patterns — stripes, spots, zigzags, or a rainbow! Cover the whole cup. You can also use **stickers** for extra flair. This becomes the body of your windsock. 🎨
-
-
-### Step 2: Cut Tissue Paper Streamers
-
-Cut **tissue paper** into long strips — about 2 cm wide and 25–30 cm long. Use 6–10 strips in different colours for maximum flutter effect. ⚠️ Adult Helper Needed for younger children with scissors. ✂️
-
-
-### Step 3: Attach the Streamers
-
-Turn the cup upside down so the open end faces down. Use **tape** to stick each tissue paper streamer around the inside rim of the cup, spacing them evenly. The streamers should hang down freely from the opening. 📌
-
-
-### Step 4: Thread and Hang
-
-Poke a small hole in the centre of the cup base (now on top). Thread **string** through the hole and tie a knot inside the cup to secure it. Hang your windsock from a tree branch, washing line, or window — and watch it catch the breeze! 🌬️
-
-
 ## Have fun!
 
 - 🌈 Make a rainbow windsock with streamers in red, orange, yellow, green, blue, and purple!
 - 🐉 Turn it into a dragon by adding googly eyes and a tissue paper tongue!
 - 🧭 Hang several in different spots — which location is windiest?
 - 📊 Keep a wind diary — does your windsock move more on some days than others?
-
 
 ## Why It's Amazing
 
@@ -89,7 +65,6 @@ Poke a small hole in the centre of the cup base (now on top). Thread **string** 
 * **Pattern & Design:** Decorating the cup introduces pattern-making, colour theory, and creative expression. 🎨
 
 * **Cause & Effect:** Seeing the streamers respond to wind teaches that invisible forces (air movement) can create visible effects. 🔬
-
 
 ## Pro Tips
 
