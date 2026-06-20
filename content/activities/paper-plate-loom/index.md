@@ -37,24 +37,6 @@ steps:
 
 Using a plain **paper plate** as your loom, you'll weave a beautiful circular textile using **string**! 🌈 The result is a round, woven medallion — perfect for hanging on the wall or turning into a coaster. This is the same basic technique used by weavers around the world for thousands of years.
 
-## How to Set It Up
-
-### Step 1: Cut the Notches
-
-Use **scissors** to cut 9 evenly-spaced notches around the edge of a **paper plate**, each about 1 cm deep. You must have an **odd** number of notches — 9 is perfect. This odd number is the secret that makes the over-under weaving pattern work automatically!
-
-### Step 2: Thread the Warp
-
-Tape one end of your **string** to the back of the plate. Bring the string up through one notch, straight across to the opposite notch, down the back, and up through the next notch along. Keep going until all notches are filled with straight lines radiating from the centre. These radiating lines are your warp threads.
-
-### Step 3: Weave the Weft
-
-Tie a new piece of **string** (in a contrasting colour if you have one) to a warp thread near the centre. Now weave outward in a slow spiral: over one warp thread, under the next, over the next — all the way around. Push each new row close against the last as you go.
-
-### Step 4: Finish and Display
-
-When you reach the outer edge, cut your string leaving a 10 cm tail. Thread the tail under 3–4 warp threads on the back to secure it — no knot needed! Trim any untidy ends. Pierce a small hole at the top and hang your woven circle on the wall. 🎉
-
 ## Have fun!
 
 - 🌈 Use three or four different colours to create concentric colour bands.
