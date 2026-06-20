@@ -43,24 +43,6 @@ steps:
 
 Transform your kitchen table into a twinkling night sky! ✨ By connecting **Marshmallows** (your stars) with **Toothpicks** (your imaginary lines), you'll engineer delicious 3D models of real constellations like the Big Dipper and Orion. It's a wonderful blend of geometry, fine motor skills, and edible astronomy!
 
-## How to Set It Up
-
-### Step 1: Study the Star Map
-
-Open your **Notebook** and use a **Pen** to draw out a simple constellation, like a square with a tail (the Big Dipper). These dots and lines are your architectural blueprints for the stars!
-
-### Step 2: Build Your First Star
-
-Take your first marshmallow. Carefully push one end of a toothpick into the centre of the marshmallow. This is your first 'star' and its connecting beam!
-
-### Step 3: Connect the Constellation
-
-Following your blueprint, attach another marshmallow to the other end of the toothpick. Keep adding toothpicks and marshmallows to connect the dots until your 3D constellation matches your drawing.
-
-### Step 4: Create a Galaxy
-
-Once you've mastered 2D shapes, try building a 3D pyramid or cube. Turn off the lights and shine a **Flashlight** over your creations to cast giant constellation shadows on the wall! 🌌
-
 ## Have fun!
 
 - 🚀 Invent your own brand-new constellations and give them silly names (e.g., 'The Flying Potato').
