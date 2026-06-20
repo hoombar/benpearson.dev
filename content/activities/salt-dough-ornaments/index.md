@@ -52,24 +52,6 @@ steps:
 
 Mix up a batch of magical salt dough and sculpt it into beautiful ornaments, keepsakes, or decorations! 🌟 Using just **plain flour**, **salt**, and water from your kitchen, you'll roll the dough flat, cut out shapes, bake them rock solid, and paint them in bright colours. These ornaments last for years — make them as gifts or hang them around the house!
 
-## How to Set It Up
-
-### Step 1: Mix the Dough
-
-In a bowl, measure out 2 cups of **plain flour** and 1 cup of **salt**. Stir them together with a **spoon**. Gradually add half a cup of cold water, a little at a time, mixing as you go. When the mixture clumps together, use your hands to knead it for 2–3 minutes until it forms a smooth, soft ball that is not sticky. If it sticks to your hands, add a little more flour. If it crumbles, add a few more drops of water.
-
-### Step 2: Roll and Cut Shapes
-
-Dust a clean flat surface lightly with flour. Press the dough ball into a thick disc with your palm, then roll it out using a **glass jar** as a rolling pin until it is about 5 mm thick — roughly the depth of a pound coin. Cut out shapes using **scissors** for straight-edged designs, or press the rim of a cup into the dough to cut neat circles. If you want to hang the ornaments later, poke a small hole near the top of each shape with a cocktail stick before baking.
-
-### Step 3: Bake Until Hard
-
-⚠️ **Adult Helper Needed** — This step uses the oven. Ask a grown-up to help. Lay the cut shapes onto a **baking tray** lined with baking paper. Place in an oven pre-heated to 120°C (fan 100°C / Gas Mark ½). Bake for 2–3 hours until the ornaments are completely hard and dry all the way through. Remove carefully and leave to cool fully on the tray — they will be very hot!
-
-### Step 4: Paint Your Ornaments
-
-Once fully cooled, paint your ornaments using **poster paint** and a **flat paintbrush**. Cover the whole surface with a base colour first and allow it to dry for 10 minutes. Then add patterns, spots, stripes, or pictures on top. Mix colours together on a plate to create new shades. Leave to dry flat before hanging or gifting. 🎨
-
 ## Have fun!
 
 - 🎁 Make personalised presents — press initials into the dough before baking.
