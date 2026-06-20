@@ -46,36 +46,12 @@ steps:
 
 A boat that really floats! ⛵ Your little shipbuilders will clip **clothespins** together to form a sturdy hull, insert a **popsicle stick** mast, and attach a colourful **paper** sail. Then launch it in a bowl, sink, or paddling pool and blow it across the water. Will it sail straight or spin in circles? Only one way to find out!
 
-
-## How to Set It Up
-
-### Step 1: Build the Hull
-
-Take three **clothespins** and clip them side by side onto a flat **popsicle stick** — this creates a stable, raft-like hull. The clothespin handles face up and the gripping ends face down into the water. Make sure they're evenly spaced so the boat sits level. ⚓
-
-
-### Step 2: Make the Mast
-
-Take another **popsicle stick** and push it vertically into the spring gap of the middle clothespin. It should stand upright like a flagpole. If it wobbles, secure it with a small blob of **PVA glue** at the base. This is your mast! 🏴
-
-
-### Step 3: Create the Sail
-
-Cut a triangle or rectangle from colourful **paper**. Poke two small holes (top and bottom) and thread the mast popsicle stick through them so the sail billows outward. Decorate the sail with **markers** — draw stripes, your name, or a pirate flag! 🎨
-
-
-### Step 4: Launch and Race
-
-Fill a **large bowl** or basin with water and gently place your sailboat on the surface. Blow on the sail to propel it forward! Make multiple boats with friends and race them across the water. Who reaches the other side first? 🌊
-
-
 ## Have fun!
 
 - 🏴‍☠️ Make a pirate flag sail with a skull and crossbones drawn in marker!
 - 🌬️ Experiment — does a bigger sail make the boat go faster or tip over?
 - 🎨 Paint the clothespins in bright colours before building for a rainbow fleet!
 - 📐 Try different hull designs — four clothespins, two clothespins — which is most stable?
-
 
 ## Why It's Amazing
 
@@ -86,7 +62,6 @@ Fill a **large bowl** or basin with water and gently place your sailboat on the 
 * **Wind Power:** Blowing the sail and watching the boat move demonstrates how wind energy converts to kinetic energy. 💨
 
 * **Fine Motor Skills:** Clipping clothespins, threading sails, and balancing components all build hand strength and dexterity. ✋
-
 
 ## Pro Tips
 
