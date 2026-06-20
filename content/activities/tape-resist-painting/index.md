@@ -43,36 +43,12 @@ steps:
 
 Prepare for a magical reveal! 🎨 Your little artists will stick **tape** strips onto paper to create patterns, shapes, or letters, then paint over the entire page with bold **poster paint**. When the paint is dry and they peel the tape away — ta-da! — crisp white shapes appear underneath like magic. It's a brilliant introduction to the art technique of resist painting!
 
-
-## How to Set It Up
-
-### Step 1: Design with Tape
-
-Lay a sheet of **paper** flat on the table. Tear or cut strips of **tape** and stick them onto the paper to create your design. Try simple shapes like stars, zigzags, stripes, or even letters and numbers. Press the tape down firmly so paint can't sneak underneath — the edges need to be well stuck! 📐
-
-
-### Step 2: Paint Over Everything
-
-Using a **flat paintbrush**, load up with bold **poster paint** and paint right over the top of everything — tape and paper alike. Don't be shy — cover the entire page! Use one colour for a clean look, or go wild with a rainbow of colours across different sections. Make sure the paint layer is nice and thick. 🖌️
-
-
-### Step 3: Peel the Tape
-
-Once the paint is completely dry (this is the hardest part — waiting!), carefully peel the tape strips away from the paper. Pull slowly and steadily. Watch as bright white shapes magically appear where the tape protected the paper from the paint. Ooooh! ✨
-
-
-### Step 4: Admire and Display
-
-Hold up your finished artwork and admire the clean, crisp lines where the tape was. The contrast between the painted areas and the white resist shapes creates a really professional-looking piece of art. Add extra details with **markers** if you like, or frame it as-is! 🖼️
-
-
 ## Have fun!
 
 - 🌈 Use warm colours on one side and cool colours on the other for a sunset effect!
 - ✏️ Write your name in tape before painting for personalised art!
 - 🔲 Try overlapping tape layers for a geometric abstract look!
 - 🎄 Make seasonal designs — tape a tree shape for Christmas, hearts for Valentine's Day!
-
 
 ## Why It's Amazing
 
@@ -83,7 +59,6 @@ Hold up your finished artwork and admire the clean, crisp lines where the tape w
 * **Colour Exploration:** Painting freely with bold colours encourages experimentation and colour mixing. 🎨
 
 * **Patience and Delayed Gratification:** Waiting for paint to dry before the big reveal teaches patience — and makes the payoff so much sweeter! ⏳
-
 
 ## Pro Tips
 
