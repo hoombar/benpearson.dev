@@ -37,36 +37,12 @@ steps:
 
 All the colour, none of the mess! 🎨 Little artists will squeeze blobs of **poster paint** inside a **zip-lock bag**, seal it up tight, then squish, swirl, and draw patterns with their fingers through the plastic. Watch colours blend and mix as they trace shapes, letters, and pictures — it's a sensory painting experience that's completely mess-free!
 
-
-## How to Set It Up
-
-### Step 1: Add Paint Blobs
-
-Open a large **zip-lock bag** and squeeze 3–5 generous blobs of **poster paint** inside — use different colours that mix well together (try red + yellow + blue for a rainbow effect). Space the blobs apart so there's room to explore. 🎨
-
-
-### Step 2: Seal the Bag
-
-Carefully squeeze out as much air as possible, then seal the zip-lock tightly. Run your finger along the seal to make sure it's completely closed. For extra security, fold a strip of **tape** along the opening edge. This keeps everything inside! 🔒
-
-
-### Step 3: Squish and Explore
-
-Place the bag flat on the table. Now press, squish, and swirl! Push the paint around with fingers, palms, and knuckles. Watch what happens when two colours meet — they blend into new colours! Red + yellow = orange! Blue + yellow = green! 🌈
-
-
-### Step 4: Finger-Draw Pictures
-
-Use one finger to draw pictures, letters, or shapes through the paint. Write your name, draw a sun, make a smiley face! To "erase" and start over, simply smooth the paint flat with your palm and begin again. Endless creativity! ✨
-
-
 ## Have fun!
 
 - 🌈 Try primary colours only — discover how many new colours you can mix!
 - 📝 Practise writing letters and numbers — a brilliant pre-writing activity!
 - 🖼️ Tape the bag to a sunny window — the light shining through the paint looks like stained glass!
 - 🎵 Put on music and paint to the rhythm — fast songs make swirly patterns!
-
 
 ## Why It's Amazing
 
@@ -77,7 +53,6 @@ Use one finger to draw pictures, letters, or shapes through the paint. Write you
 * **Pre-Writing Skills:** Tracing letters and shapes with a finger builds the muscle memory and fine motor control needed for handwriting. ✏️
 
 * **Creative Expression:** With infinite "do-overs" (just smooth and restart), children feel free to experiment without fear of making mistakes. 🎨
-
 
 ## Pro Tips
 
