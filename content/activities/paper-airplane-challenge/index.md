@@ -40,24 +40,6 @@ steps:
 
 A whole fleet of paper airplanes, each designed to fly farther, loop higher, or stay in the air longer! ✈️ You'll discover that tiny folds and wing angles change everything about how a plane travels through the air — and run your very own tournament to find the winner.
 
-## How to Set It Up
-
-### Step 1: Fold Your First Plane
-
-Take a sheet of **paper** and fold it in half lengthways. Fold both top corners down to the centre crease to form the nose, then fold each side down again to sharpen the wings into a classic dart shape. Crease every fold firmly.
-
-### Step 2: Adjust the Wing Angles
-
-Gently bend the back edge of each wing slightly upward for more lift, or leave them flat for more speed. Tiny adjustments make a huge difference — even a millimetre matters! Make at least three planes with different wing settings.
-
-### Step 3: Decorate Your Fleet
-
-Use **markers** to add a name, racing number, or flame design to each plane. Give each plane a distinct identity — the champion will need a name worthy of the trophy!
-
-### Step 4: Launch and Measure
-
-Mark a throwing line with **tape**. Launch each plane from the same spot and mark landing points with **stickers**. Compare distances, record them on **paper**, and crown the champion!
-
 ## Have fun!
 
 - 🎯 Set a target circle on the floor — who can land closest to the bullseye?
