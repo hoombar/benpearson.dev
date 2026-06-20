@@ -46,24 +46,6 @@ steps:
 
 You will engineer your very own tabletop arcade game! By combining a slanted **Cardboard Box** with bouncy **Rubber Bands** and wooden **Popsicle Sticks**, you'll build a working pinball machine. Launch the **Marbles**, watch them ricochet through your custom obstacle course, and challenge your friends to beat your high score!
 
-## How to Set It Up
-
-### Step 1: Prepare the Game Board
-
-⚠️ **Adult Helper Needed** — Have an adult use **Scissors** to cut off the top flaps of your **Cardboard Box**. Cut the front panel down so it's lower than the back, creating a slanted playing field when the box sits on a table.
-
-### Step 2: Build the Flippers
-
-Tape two **Popsicle Sticks** to the bottom corners of your board, angling them slightly upwards toward the centre. Leave a small gap between them for the marble to fall through if you miss!
-
-### Step 3: Add the Bouncy Obstacles
-
-Stretch **Rubber Bands** around pairs of **Popsicle Sticks** and tape them securely to the middle of the board to create bouncy bumpers. Add small cardboard ramps to guide the ball.
-
-### Step 4: The Marble Launcher
-
-Tape a small cardboard tube or folded piece of cardboard to the bottom right side. Stretch a rubber band across it to create a slingshot mechanism that will shoot your **Marbles** to the top of the board.
-
 ## Have fun!
 
 - 🎯 Draw targets with different point values inside the box.
