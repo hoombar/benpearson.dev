@@ -40,20 +40,6 @@ steps:
 
 The most exciting adventure park your child has ever seen — right in your living room! 🏃 Using **cardboard boxes**, **tape**, and **cardboard tubes**, you'll transform everyday furniture and floor space into a series of physical challenges: a crawl-through tunnel, a balance beam, a limbo bar, and a racing finish line.
 
-## How to Set It Up
-
-### Step 1: Plan the Course Stations
-
-Walk around your space and plan 5–6 stations: an open-ended **cardboard box** as a crawl-through tunnel, squares of **paper** taped to the floor as stepping stones, a **cardboard tube** propped as a limbo bar, a strip of **tape** as a balance beam, and a tape finish line stretched across a doorway.
-
-### Step 2: Build and Mark the Track
-
-Use **tape** to stick bold arrows on the floor showing the route between stations. Open a large **cardboard box** flat and roll it into a tunnel shape. Prop a **cardboard tube** between two stacks of books for the limbo bar. Mark the START and FINISH with tape strips.
-
-### Step 3: Race the Clock
-
-Give your child a practice lap to learn the route, then start timing! Call out encouragement at each station. Each successful lap earns a **sticker** on their personal score chart. Challenge them to beat their own best time each round — personal bests only!
-
 ## Have fun!
 
 - 🏆 Award gold, silver, and bronze sticker medals for the three fastest times
