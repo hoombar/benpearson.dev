@@ -46,24 +46,6 @@ steps:
 
 Craft your very own Enchanted Nature Dreamcatcher! 🌟 By combining simple household items like **Paper Plates** and **String** with beautiful **Fallen Leaves**, you'll weave a magical web designed to catch good dreams and bring nature's beauty into your bedroom.
 
-## How to Set It Up
-
-### Step 1: Prepare the Hoop
-
-⚠️ **Adult Helper Needed** — Use **Scissors** to carefully cut the centre out of the paper plate so you are left with just the outer ring. Use the **Hole Punch** to make holes evenly spaced around the inner edge of the hoop.
-
-### Step 2: Weave the Web
-
-Tie one end of a long piece of string to any hole on the hoop. Weave the string back and forth across the middle, threading it through different holes to create a criss-cross web pattern.
-
-### Step 3: Thread the Magic
-
-Before you finish weaving your web, thread a few pieces of **Tube Pasta** onto the string. Tie off the end of the string securely to the hoop when you're happy with your web.
-
-### Step 4: Add the Dangling Tails
-
-Cut three shorter pieces of string. Tie them to three holes at the bottom of your hoop. Tie **Fallen Leaves** and extra pasta onto these strings so they dangle down like magical feathers.
-
 ## Have fun!
 
 - 🌬️ Hang your dreamcatcher near a window and watch the leaves flutter in the breeze.
