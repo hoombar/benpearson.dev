@@ -49,24 +49,6 @@ steps:
 
 You'll turn a plain **cardboard box** into a real, strum-able guitar! 🎸 Stretch **rubber bands** of different widths across a sound hole to make strings — thinner bands vibrate faster and ring with a high pitch, while thicker bands vibrate slowly and boom with a low pitch. Add a cardboard-tube neck and you have a proper instrument to rock out on!
 
-## How to Set It Up
-
-### Step 1: Cut the Sound Hole
-
-⚠️ **Adult Helper Needed** — Use a **pen** to draw a circle about 8 cm across in the centre of the flat lid of your **cardboard box**. An adult should then use **scissors** to carefully cut out this circle. This is the sound hole — it lets the sound resonate and amplify inside the box, just like a real acoustic guitar!
-
-### Step 2: Stretch the Strings
-
-Select four to six **rubber bands** of different widths (or thicknesses). Stretch each one lengthways over the box so it crosses directly over the sound hole. Space them evenly across the opening — about 1 cm apart. Pluck each string and listen carefully: thinner bands make high notes, wider or thicker bands make lower notes. You've just built a musical scale!
-
-### Step 3: Attach the Neck
-
-Take a **cardboard tube** (a paper-towel roll works perfectly) and lay it along one short end of the box, sticking out past the edge. The tube should overlap the box by about 5 cm so there is a firm base for attaching. Wrap **tape** firmly around the tube and box joint multiple times — press it down hard so the neck is completely secure and won't wobble when you play.
-
-### Step 4: Decorate and Play
-
-Use **markers** to draw tuning pegs (dots and short lines) at the far end of the neck, add frets (short horizontal lines) across the neck, and decorate the body with your own guitar design — flames, stars, your name! Hold the box under your strumming arm, wrap your other hand around the neck, and strum across the rubber bands. 🎶 Rock on!
-
 ## Have fun!
 
 - 🎵 Pluck individual strings to play a melody — can you figure out a simple tune?
