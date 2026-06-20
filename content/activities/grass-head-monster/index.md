@@ -49,24 +49,6 @@ steps:
 
 Meet your new best friend — the **Grass Head Monster**! 👨‍🌾 By filling an old **Sock** with **Grass Seed** and **Potting Soil**, you'll create a little creature that actually grows 'hair'. As you water it every day, you'll watch its green hair get longer and longer until it's ready for its first haircut!
 
-## How to Set It Up
-
-### Step 1: The Seed Secret
-
-Take one of your **Socks** (a thin nylon stocking works best, but a thin cotton one is fine too). Pour a good tablespoon of **Grass Seed** right into the toe of the sock. This ensures the hair grows from the very top of the monster's head!
-
-### Step 2: Fill with Soil
-
-Next, scoop several handfuls of **Potting Soil** into the sock on top of the seeds. Keep filling until you have a round ball about the size of a large orange or a grapefruit.
-
-### Step 3: Tie and Shape
-
-Use a **Rubber Band** to tie the sock tightly at the bottom of the soil ball. You can pinch a little bit of the sock in the middle of the 'face' and use another small rubber band to make a nose!
-
-### Step 4: Decorate and Drink
-
-Glue on some **Googly Eyes** with **PVA Glue**. Sit your monster's 'tail' (the leftover sock part) into a **Paper Cup** filled with water. The sock will soak up the water like a straw to feed the seeds. Place it on a sunny windowsill and wait for the hair to appear!
-
 ## Have fun!
 
 - ✂️ Once the grass is long enough, use safety scissors to give your monster a stylish haircut!
