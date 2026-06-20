@@ -55,36 +55,12 @@ steps:
 
 Get ready for a science-powered art explosion! 🌈💥 Your mini scientists will mix **baking soda** with **food colouring** to create thick colourful pastes, spread them on paper, then unleash a vinegar spray that makes everything FIZZ and BUBBLE into a spectacular erupting rainbow. When the fizzing stops, you're left with the most incredible abstract art — no two pieces are ever the same!
 
-
-## How to Set It Up
-
-### Step 1: Mix Your Fizzy Paint
-
-Pour 2–3 spoonfuls of **baking soda** into each **small container**. Add a few drops of **food colouring** to each one — make red, blue, yellow, green, and any other colours you fancy! Stir in a tiny splash of **water** until you get a thick, slightly gritty paste. The thicker the better — it should hold its shape on a spoon.
-
-
-### Step 2: Create Your Rainbow Layout
-
-Place a sheet of **paper** inside the **baking tray** (this catches the fizzy overflow!). Using the **spoon**, dollop blobs of each coloured baking soda paste onto the paper. You can make rows, circles, random splatters — any pattern you like! Leave small gaps between the colours so they have room to fizz and spread.
-
-
-### Step 3: Prepare the Eruption Spray
-
-Fill your **spray bottle** with **white vinegar**. ⚠️ **Adult Helper Needed** — Help younger children fill and operate the spray bottle. Give it a test squirt to make sure it works — you want a fine mist, not a jet blast!
-
-
-### Step 4: Unleash the Fizzy Eruption!
-
-Ready? Aim the spray bottle at the baking soda blobs and SPRAY! Watch in amazement as each colour erupts into a fizzing, bubbling fountain! 🌋 Spray different areas and watch the colours mix and flow together. Keep spraying until all the fizzing stops. Let it dry completely to reveal your one-of-a-kind eruption masterpiece!
-
-
 ## Have fun!
 
 - 🧪 Predict which colour will fizz the most — test your hypothesis!
 - 🌈 Try spraying from high up versus close — compare the eruption patterns!
 - 🎯 Make a bullseye pattern with the colours and see how they spread outward!
 - 🖼️ Create a whole gallery — each painting is completely unique!
-
 
 ## Why It's Amazing
 
@@ -95,7 +71,6 @@ Ready? Aim the spray bottle at the baking soda blobs and SPRAY! Watch in amazeme
 * **Cause and Effect:** Spraying vinegar and instantly seeing the eruption builds understanding of cause-and-effect relationships. 💡
 
 * **Sensory Wonder:** The fizzing sounds, bubbly textures, and vibrant colours create an unforgettable multi-sensory experience! ✨
-
 
 ## Pro Tips
 
