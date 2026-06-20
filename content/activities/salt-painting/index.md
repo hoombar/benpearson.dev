@@ -49,36 +49,12 @@ steps:
 
 Prepare to be amazed! 🎨 Your young artists will discover the magic of **salt painting** — draw a design with **PVA glue** on dark card, sprinkle **salt** over the glue, then touch **watercolour paint** to the salt trails and watch the colour spread and flow along the lines like magic! The salt crystals absorb the paint and carry it in both directions, creating stunning, textured artwork.
 
-
-## How to Set It Up
-
-### Step 1: Draw with Glue
-
-Place a sheet of dark **paper** or card on a **baking tray** (to catch salt). Use **PVA glue** to draw a design — try a rainbow arc, a snowflake, swirls, or your name! Squeeze the glue in thick, raised lines so there's plenty for the salt to stick to. 🖌️
-
-
-### Step 2: Cover in Salt
-
-While the glue is still wet, generously sprinkle **salt** all over the glue lines. Cover everything — don't be shy! Gently tilt the paper to shake off the excess salt back onto the tray. You'll see your design appear as a raised, sparkly salt trail. ✨
-
-
-### Step 3: Mix Paint Colours
-
-Prepare your colours by mixing **poster paint** with plenty of **water** in small containers to make very watery paint. You want it thin like watercolour. Make several bright colours — the more colours the more magical the effect! 🎨
-
-
-### Step 4: Touch and Watch It Flow
-
-Dip a **paintbrush** in watery paint and gently touch it to the salt lines — don't brush, just touch! Watch the colour spread along the salt trail in both directions. Touch different colours at different points and watch them flow towards each other. Magic! 🌈
-
-
 ## Have fun!
 
 - 🌈 Make a rainbow — draw arcs and use a different colour on each one!
 - ❄️ Create salt snowflakes on blue paper for a winter scene!
 - 🌊 Draw ocean waves and touch blue and green paint — watch them merge!
 - ✍️ Write your name in glue and make each letter a different colour!
-
 
 ## Why It's Amazing
 
@@ -89,7 +65,6 @@ Dip a **paintbrush** in watery paint and gently touch it to the salt lines — d
 * **Fine Motor Control:** Squeezing glue bottles to draw precise lines builds hand strength and dexterity essential for writing. ✋
 
 * **Sensory Exploration:** The textures — wet glue, gritty salt, smooth paint — provide rich sensory input that supports cognitive development. 🧠
-
 
 ## Pro Tips
 
