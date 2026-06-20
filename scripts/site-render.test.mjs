@@ -203,5 +203,6 @@ test("activity detail pages render metadata, materials, and SVG steps", async ()
   assert.match(html, /Ages /);
   assert.match(html, /Materials/);
   assert.match(html, /Illustrated Steps/);
+  assert.doesNotMatch(html, /How to Set It Up/);
   assert.match(html, /src="\/activities\/paper-plate-owl\/step-0\.svg"/);
 });
