@@ -37,24 +37,6 @@ steps:
 
 You'll turn ordinary **paper towels** into vibrant works of art! 🌈 Fold, dip, and unfold to reveal a brilliant explosion of colour — every single design is completely unique to you. These beautiful creations make perfect wrapping paper, window decorations, or cards for someone special.
 
-## How to Set It Up
-
-### Step 1: Fold the Paper Towel
-
-Lay a **paper towel** flat on the table. Fold it in half from left to right, then fold it in half again from top to bottom, so you have a small square that is four layers thick. Now fold this square diagonally corner to corner to make a triangle. The more folds you make, the more complex the pattern!
-
-### Step 2: Dip the Corners
-
-Mix 4–5 drops of **food colouring** into a **small container** of water — one colour per container. Dip just the very tip of one corner of the folded towel into the first colour for 2–3 seconds, so the dye soaks about 1 cm up into the paper. Dip each remaining corner into a different colour. Work quickly so the corners don't absorb too much water before you're ready to unfold!
-
-### Step 3: Unfold Carefully
-
-Place the dyed towel on a sheet of newspaper or a plastic bag. Starting from the last fold you made, gently peel back each layer in reverse order until the towel is completely flat. Move slowly — wet paper tears easily! As each layer opens you'll see the pattern growing more complex and beautiful. 🎉
-
-### Step 4: Dry and Display
-
-Leave the towel completely flat and undisturbed to dry for 30–60 minutes. Once dry, the colours are permanent! Hold it up to a bright window for a magical stained-glass effect, or cut it into rectangles to use as one-of-a-kind gift wrapping.
-
 ## Have fun!
 
 - 🌈 Make five designs in different colour combinations and hang them in a row like bunting.
