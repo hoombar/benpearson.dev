@@ -37,24 +37,6 @@ steps:
 
 You'll engineer the tallest freestanding tower possible using nothing but dry **spaghetti** sticks and **marshmallows**! 🏗️ This classic STEM challenge lets you discover what shapes and structures are really strongest. Can your tower beat your family record? Every collapse teaches you something new — that's real engineering! 🎉
 
-## How to Set It Up
-
-### Step 1: Set Up Your Building Site
-
-Tip out 20 **spaghetti** sticks and 20 **marshmallows** onto a flat table. Keep your **ruler** nearby — you'll measure your finished tower at the end. Clear plenty of space: tall towers need room to sway!
-
-### Step 2: Build a Strong Base
-
-Connect four marshmallows in a square by pushing a spaghetti stick between each pair. Aim for a square about 8–10 cm wide. A wide, stable base is the secret to a tall tower — just like real skyscrapers have wide foundations!
-
-### Step 3: Stack Upward
-
-Place a marshmallow on top of each base corner. Push spaghetti sticks between neighbouring top-corner marshmallows to form a second square layer. Repeat — each new layer gets you closer to the ceiling! Keep each layer as centred as possible above the one below.
-
-### Step 4: Measure and Record
-
-Gently let go. Does it stand? Use your **ruler** to measure the height from the table to the topmost point. Write down your result, then build a second tower — what would you change this time?
-
 ## Have fun!
 
 - 🏆 Challenge a family member to build their own tower at the same time — whose is tallest?
