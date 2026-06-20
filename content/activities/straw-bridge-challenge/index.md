@@ -43,36 +43,12 @@ steps:
 
 Calling all engineers! 🌉 Your young builders will design and construct a bridge entirely from **straws** and **tape** that spans between two **paper cups**. The real challenge? Testing how strong it is by loading **coins** onto the middle until it collapses! It's a brilliant engineering challenge that teaches about structural design, weight distribution, and the satisfying thrill of testing your creation to destruction.
 
-
-## How to Set It Up
-
-### Step 1: Set Up the Challenge
-
-Place two **paper cups** upside-down about 15cm apart on a table — these are your bridge supports. The goal: build a bridge from **straws** and **tape** that spans the gap and holds as many **coins** as possible. Gather your materials and plan your design! 📐
-
-
-### Step 2: Build Your Bridge
-
-Start constructing! Cut and tape **straws** together to create your bridge structure. Try different approaches — a flat deck of straws bundled together, a triangular truss design, or layered arches. Make sure it sits firmly on both cup supports. Use **scissors** to trim straws to size. 🔧
-
-
-### Step 3: Reinforce the Structure
-
-Strengthen your bridge with cross-bracing and supports. Tape diagonal straws underneath for extra strength. Add side rails. Think about where the weight will be concentrated and reinforce those areas. The strongest bridges use triangles! 🔺
-
-
-### Step 4: Test to Destruction
-
-Carefully place **coins** one at a time in the middle of your bridge. Count each coin as you add it. How many can it hold before it buckles? Record your score, then redesign and try to beat it! What design changes made the biggest difference? 💰
-
-
 ## Have fun!
 
 - 🏆 Compete with family — whose bridge holds the most coins?
 - 📊 Keep a record of different designs and their coin counts — make a bar chart!
 - 🧸 Challenge: build a bridge strong enough for a toy car to drive across!
 - 🌊 Add a "river" (blue paper) underneath for extra drama when it collapses!
-
 
 ## Why It's Amazing
 
@@ -83,7 +59,6 @@ Carefully place **coins** one at a time in the middle of your bridge. Count each
 * **Scientific Method:** Testing with coins is quantifiable — children naturally collect data, compare results, and identify which variables matter. Real science! 📊
 
 * **Resilience:** Watching your bridge collapse is part of the fun! Learning that failure is information (not defeat) builds a growth mindset. 🧠
-
 
 ## Pro Tips
 
