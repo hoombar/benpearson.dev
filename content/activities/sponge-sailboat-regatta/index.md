@@ -46,24 +46,6 @@ steps:
 
 You'll build a fleet of **mini sailboats** from kitchen sponges, toothpick masts, and paper sails! ⛵ Each boat floats perfectly on water thanks to the sponge hull, and the paper sail catches your breath to zoom across a washing-up bowl or bathtub. Decorate each sail with colours or patterns, then challenge your family to a blowing race!
 
-## How to Set It Up
-
-### Step 1: Cut the Sponge Hull
-
-Take a kitchen sponge and lay it flat on the table. Using scissors, cut the two short ends at an angle to form a pointed bow (front) — trim about 2 cm diagonally from each corner on one short side so the sponge narrows to a point. The other end stays flat as the stern. You should now have a shape that looks like a simple boat from above.
-
-### Step 2: Make the Paper Sail
-
-Cut a rectangle of paper about 6 cm wide and 8 cm tall. Decorate both sides with markers or paint — stripes, spots, or your own flag design. Once dry, poke two small holes in the paper: one near the top edge and one near the bottom edge, both centred left-to-right. These holes are where the mast will thread through.
-
-### Step 3: Assemble the Mast and Sail
-
-Push a toothpick up through the bottom hole of the paper sail and out through the top hole. The paper should bow out slightly in the middle, forming a curved sail shape. Now push the sharp bottom end of the toothpick straight down into the centre of the sponge hull, about 1 cm deep. Add a tiny piece of tape at the base where the toothpick meets the sponge to keep it steady.
-
-### Step 4: Race Your Fleet
-
-Fill a washing-up bowl, baking tray, or bathtub with about 3 cm of water. Place your sailboat gently on the surface — the sponge will float! Build two or three boats and line them up at one end. Count down from three, then blow steadily behind the sails to race them to the other side. The flattest, steadiest blowing wins!
-
 ## Have fun!
 
 - 🏴‍☠️ Make pirate flags with skull-and-crossbone drawings on the sails
