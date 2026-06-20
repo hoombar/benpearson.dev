@@ -49,36 +49,12 @@ steps:
 
 Twit twoo! 🦉 Your little night-owls will create a wide-eyed owl from a **paper plate**. Paint it in warm woodland colours, fold down two flaps at the sides for wings, cut out big round eyes, add a triangle beak, and decorate with feathery patterns using **markers**. It's a charming woodland creature that looks like it just flew in from the forest!
 
-
-## How to Set It Up
-
-### Step 1: Paint the Plate
-
-Paint the bottom of a **paper plate** with warm brown **poster paint**. You can also use orange, tan, or a mix of autumn colours. Cover the whole plate and let it dry fully. 🎨
-
-
-### Step 2: Create the Wings
-
-Once dry, fold two opposite sides of the plate inward — about 2–3 cm — to create wing flaps. These folds should be even on both sides. Press the folds firmly. The folded edges become the owl's tucked wings! ⚠️ Adult Helper Needed for younger children. 🪶
-
-
-### Step 3: Make the Face
-
-Cut two large circles from white **paper** for eyes. Draw big black pupils in the centre of each with a **marker**. Glue them onto the upper half of the plate, slightly overlapping. Cut a small triangle from orange or yellow paper for the beak and glue it between the eyes, pointing down. 👀
-
-
-### Step 4: Add Feather Details
-
-Use **markers** to draw feathery patterns on the body — small U-shapes, scallops, or layered curves that look like overlapping feathers. Add eyebrows above the eyes (V-shapes look great!), draw little feet at the bottom, and add ear tufts by cutting small triangles and gluing them to the top. 🦉
-
-
 ## Have fun!
 
 - 🌲 Create a woodland scene with a tree branch for the owl to sit on!
 - 🌙 Make it a night scene — dark blue background with a moon and stars!
 - 📖 Learn about different owl species — barn owls, snowy owls, eagle owls!
 - 🔊 Listen to real owl calls online — can you make the twit-twoo sound?
-
 
 ## Why It's Amazing
 
@@ -89,7 +65,6 @@ Use **markers** to draw feathery patterns on the body — small U-shapes, scallo
 * **Symmetry Practice:** Folding equal wings, placing matching eyes, and creating balanced feather patterns all reinforce bilateral symmetry. 🔢
 
 * **3D Thinking:** Folding a flat plate to create wing flaps teaches basic 3D construction from 2D materials. 🏗️
-
 
 ## Pro Tips
 
