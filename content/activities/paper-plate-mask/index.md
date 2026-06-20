@@ -46,36 +46,12 @@ steps:
 
 Who will you become today? 🎭 Your little artists will transform a plain **paper plate** into an incredible wearable mask! Cut out eye holes, add ears, a nose, whiskers, feathers, or whatever features bring your character to life using **markers**, coloured **paper**, and **PVA glue**. Then attach **string** or a **rubber band** to hold it on, and let the dramatic play begin — roar like a lion, hoot like an owl, or invent a totally new creature!
 
-
-## How to Set It Up
-
-### Step 1: Plan Your Character
-
-Hold a **paper plate** up to your face and feel where your eyes are. Use a **marker** to mark two dots where the eye holes should go. Decide what character you want to be — a fierce lion? A mysterious owl? A silly monster? A superhero? Sketch the basic face features lightly on the plate. 🦁
-
-
-### Step 2: Cut the Eye Holes
-
-⚠️ **Adult Helper Needed for young children** — Use **scissors** to carefully cut out the eye holes. Make them big enough to see through comfortably! You can make them round, almond-shaped, or even triangular for a spooky look. Hold the plate up to check the holes line up with your eyes. 👀
-
-
-### Step 3: Add Features and Colour
-
-Now bring your mask to life! Use **markers** to draw and colour the face — big bold stripes for a tiger, colourful feathers for a parrot, green scales for a dragon. Cut ears, beaks, horns, or other features from coloured **paper** and glue them on with **PVA glue**. Build up layers for a 3D effect! 🎨
-
-
-### Step 4: Attach the Strap and Wear
-
-Poke a small hole on each side of the mask (an adult can help with this). Thread a piece of **string** or hook a **rubber band** through each hole and knot it securely. The string should loop comfortably around the back of your head. Put on your mask and step into character! 🎪
-
-
 ## Have fun!
 
 - 🦊 Make a whole set of woodland animal masks and put on a play!
 - 🦸 Create your own superhero mask with a cool name and backstory!
 - 😱 Make spooky masks for Halloween — vampires, ghosts, and monsters!
 - 👪 Have each family member make a mask and perform a short skit!
-
 
 ## Why It's Amazing
 
@@ -86,7 +62,6 @@ Poke a small hole on each side of the mask (an adult can help with this). Thread
 * **Fine Motor Skills:** Cutting, drawing details, and gluing small pieces onto the curved plate surface develops precision and dexterity. ✋
 
 * **Self-Expression:** Choosing a character — or inventing one — gives children a safe way to explore different identities and emotions. 💫
-
 
 ## Pro Tips
 
