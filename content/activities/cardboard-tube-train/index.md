@@ -49,36 +49,12 @@ steps:
 
 All aboard! 🚂 Your little conductors will transform **cardboard tubes** into a working toy train with an engine, carriages, and wheels! String the carriages together, add paper wheels and a smokestack, and pull your train across the table. It's a craft that becomes a toy — the best kind of project!
 
-
-## How to Set It Up
-
-### Step 1: Prepare the Engine
-
-Take one **cardboard tube** — this is your engine! Cut a small circle from **paper** and roll it into a cone for the smokestack. Tape it to the top front of the tube. Cut a small rectangle of paper for the front face of the engine and glue it to one end. 🚂
-
-
-### Step 2: Make the Carriages
-
-Take two or three more **cardboard tubes** for carriages. Use **markers** to decorate each carriage with windows, doors, and different colours. Each carriage can be a different colour — make a passenger car, a mail car, and a cargo car! ✏️
-
-
-### Step 3: Add Wheels
-
-Cut small circles from **paper** or spare cardboard — you need four wheels per carriage. Glue or tape them to the bottom sides of each tube. Press them flat against the sides so the train sits level on the table. 🛞
-
-
-### Step 4: Connect and Play
-
-Poke small holes in the back and front of each tube. Thread **string** through to connect engine to carriages. Tie knots inside each tube so they stay linked. Now pull your train along — choo choo! 🚃
-
-
 ## Have fun!
 
 - 🎨 Paint each carriage a different colour for a rainbow train!
 - 🧸 Add tiny toy figures as passengers peeking out the windows!
 - 📦 Fill the cargo car with small treasures to deliver around the house!
 - 🏗️ Build a station from a cardboard box for your train to visit!
-
 
 ## Why It's Amazing
 
@@ -89,7 +65,6 @@ Poke small holes in the back and front of each tube. Thread **string** through t
 * **Imaginative Play:** The finished train becomes a toy for storytelling — where is it going? Who's on board? What's in the cargo car? 🧠
 
 * **Spatial Reasoning:** Connecting carriages and aligning wheels teaches children about structure, balance, and how parts relate to a whole. 📐
-
 
 ## Pro Tips
 
