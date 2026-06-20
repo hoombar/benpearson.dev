@@ -43,36 +43,12 @@ steps:
 
 Can you navigate the maze? 🔮 Your little engineers will design and build a hands-on marble maze inside the lid of a **cardboard box**, using cut **straws** as maze walls. Drop a marble in at the "START", then tilt the box carefully to guide it through twists, turns, and dead ends to reach the "FINISH". It's a brilliant combination of design thinking and hand-eye coordination!
 
-
-## How to Set It Up
-
-### Step 1: Prepare the Box Base
-
-Find a shallow **cardboard box** lid (a shoebox lid is perfect — about 30 cm long). Place it flat on the table so the raised edges form walls around the outside. Use **markers** to mark a "START" position in one corner and a "FINISH" position in the opposite corner. Draw a rough maze path between them to plan your design. 🗺️
-
-
-### Step 2: Cut the Straw Walls
-
-Cut **straws** into different lengths using scissors — you'll need short ones for small walls and longer ones for main barriers. Aim for about 15–20 straw pieces in total. Sort them into piles of similar lengths so they're ready to place. ⚠️ An adult should supervise cutting for younger children.
-
-
-### Step 3: Build the Maze
-
-Stick the straw pieces inside the box lid using strips of **tape** to create the maze walls. Start with the main path from START to FINISH, then add dead ends and wrong turns to make it challenging. Press each straw firmly so the tape holds it upright. Test with a **marble** as you build — make sure there's enough room for the marble to roll between the walls! 🧪
-
-
-### Step 4: Navigate the Maze!
-
-Drop the marble at START, hold the box flat, and tilt it gently to guide the marble through the maze. How fast can you complete it without the marble going into a dead end? Time yourself and try to beat your record! Swap mazes with a friend — can they solve yours? 🏆
-
-
 ## Have fun!
 
 - ⏱️ Race against the clock — who can complete the maze fastest?
 - 🕳️ Cut holes in the box lid as "traps" the marble can fall through — avoid them!
 - 🎨 Colour different zones of the maze for a themed adventure (lava zone, ice zone, jungle zone)!
 - 🔄 Make it double — build a maze that requires going from START to a key, then back to FINISH!
-
 
 ## Why It's Amazing
 
@@ -83,7 +59,6 @@ Drop the marble at START, hold the box flat, and tilt it gently to guide the mar
 * **Hand-Eye Coordination:** Tilting the box to steer the marble requires precise, controlled movements and patience. 🎯
 
 * **Problem-Solving:** Both designing a solvable maze and solving someone else's maze develop logical thinking and planning ahead. 🧠
-
 
 ## Pro Tips
 
