@@ -46,36 +46,12 @@ steps:
 
 Trash to treasure! 🗞️ Your young artists will discover that old **newspaper** is an incredible art material — tear, cut, scrunch, and layer it onto **paper** with **PVA glue** to create stunning textured collage artwork! The mix of printed text, photos, and white space creates a unique look that's impossible to get with any other material. Make animals, landscapes, portraits, or abstract patterns!
 
-
-## How to Set It Up
-
-### Step 1: Prepare the Newspaper
-
-Spread **newspaper** on the table and start tearing or cutting it into different shapes and sizes. Tear strips, cut circles, rip large patches, and make small confetti-sized pieces. Sort them into piles by size — you'll need a mix for your collage. Look for interesting headlines or images to feature! ✂️
-
-
-### Step 2: Plan Your Design
-
-Take a sheet of **paper** or card as your background. Lay out your newspaper pieces without gluing to plan your design. Try an animal shape — a cat, owl, or fish work great! Or make a tree, a house, or an abstract pattern. Move pieces around until you're happy with the layout. 📐
-
-
-### Step 3: Glue It Down
-
-Using a **paintbrush**, spread **PVA glue** on the back of each newspaper piece and press it onto your background. Start with the bottom layer and work upward — overlap pieces for texture and depth. Smooth each piece flat with your fingers or the brush. 🖌️
-
-
-### Step 4: Add Details and Colour
-
-Once the collage is dry, use **markers** or **poster paint** to add details — eyes, outlines, patterns, or splashes of colour. The contrast between the newspaper texture and bright colours makes the artwork really pop! Frame it and hang it up! 🎨
-
-
 ## Have fun!
 
 - 🦉 Make a newspaper owl — scrunch pieces for a fluffy, feathered texture!
 - 🌳 Create a tree with torn-strip bark and scrunched-ball leaf clusters!
 - 🏙️ Build a cityscape skyline from straight-cut newspaper rectangles!
 - 🎭 Make a self-portrait using different newspaper tones for light and shadow!
-
 
 ## Why It's Amazing
 
@@ -86,7 +62,6 @@ Once the collage is dry, use **markers** or **poster paint** to add details — 
 * **Fine Motor Development:** Tearing paper (not just cutting) uses a different pinch-and-pull motion that strengthens hand muscles in a unique way. ✋
 
 * **Visual Problem-Solving:** Choosing which newspaper sections to use — text columns for texture, photos for detail, white space for contrast — develops visual thinking. 🧠
-
 
 ## Pro Tips
 
