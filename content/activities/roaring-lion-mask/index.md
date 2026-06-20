@@ -46,36 +46,12 @@ steps:
 
 RRROOOAAAARRR! 🦁👑 Your little cubs will transform an ordinary **paper plate** into the king of the jungle — a magnificent lion mask complete with a wild, shaggy mane! Paint the face golden, add a fearsome nose and whiskers, then surround it with a mane of curled paper strips. Hold it up on a stick and unleash your mightiest roar!
 
-
-## How to Set It Up
-
-### Step 1: Paint the Lion's Face
-
-Take a **paper plate** and paint the front with **poster paint** — golden yellow or orange for a classic lion! Cover the whole plate evenly and let it dry completely (about 20 minutes). While it dries, you can start making the mane pieces. 🎨
-
-
-### Step 2: Create the Wild Mane
-
-Cut strips of **paper** (orange, yellow, and brown if you have coloured paper — or paint white paper strips first). Each strip should be about 15 cm long and 2 cm wide. Wrap each strip tightly around a pencil to curl it, then release — instant wild mane fur! Make at least 15–20 curled strips for a full, impressive mane.
-
-
-### Step 3: Build the Lion's Face
-
-⚠️ **Adult Helper Needed** — Cut two eye holes in the plate so your child can see through (or leave them uncut if using as a hand-held mask). Use scraps of paper to cut out a large triangular nose (brown or dark orange) and long thin whiskers. Glue the nose to the centre and the whiskers either side. Add round paper ears at the top.
-
-
-### Step 4: Attach the Mane and Handle
-
-Flip the plate over and **glue** all your curled paper strips around the back edge of the plate, pointing outward like a wild mane. Space them evenly so the mane goes all the way around. Finally, tape or glue a **popsicle stick** to the bottom back as a handle. Hold it up to your face and ROAR! 🦁💥
-
-
 ## Have fun!
 
 - 🦁 Put on a jungle show — make masks for different animals and act out a safari story!
 - 🗣️ Practice your LOUDEST roar, your SCARIEST roar, and your SILLIEST roar!
 - 📸 Take photos of your best lion pose — frame it as jungle wall art!
 - 🌿 Build a jungle den from blankets and cushions to hide in with your mask!
-
 
 ## Why It's Amazing
 
@@ -86,7 +62,6 @@ Flip the plate over and **glue** all your curled paper strips around the back ed
 * **Dramatic Play:** The finished mask becomes a prop for imaginative play, storytelling, and character development. 🎭
 
 * **Animal Learning:** Making the mask opens conversations about lions, habitats, and what makes a mane so special in the animal kingdom. 🌍
-
 
 ## Pro Tips
 
