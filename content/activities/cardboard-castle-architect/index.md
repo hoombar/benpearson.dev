@@ -43,24 +43,6 @@ steps:
 
 You and your child will become master builders, transforming ordinary **Cardboard Boxes** into a legendary medieval fortress! 🏰 Together, you will engineer a sturdy keep, add soaring watchtowers, and decorate your castle to protect your royal subjects (or favourite toys). 
 
-## How to Set It Up
-
-### Step 1: Gather Your Bricks
-
-Collect all your empty **Cardboard Boxes** and lay them out on the floor. Group them by size. You will also need **Cardboard Tubes**, **Scissors**, **Tape**, and **Markers**.
-
-### Step 2: Build the Keep
-
-⚠️ **Adult Helper Needed** — An adult should use the scissors to cut off the top flaps of the largest box. This large box will be your central keep. Place it in the middle of your building area.
-
-### Step 3: Add the Towers
-
-Take four **Cardboard Tubes** and use **Tape** to attach one to each corner of the main box. These are your watchtowers! Make sure they are taped securely so they stand tall.
-
-### Step 4: Decorate the Fortress
-
-Use your **Markers** to draw a grand drawbridge on the front of the keep. Draw stone patterns on the walls, windows for the archers, and maybe a family crest!
-
 ## Have fun!
 
 - 🛡️ Bring in small toy figures or dolls to inhabit the castle and defend the realm!
