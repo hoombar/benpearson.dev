@@ -43,36 +43,12 @@ steps:
 
 Ready, aim, LAUNCH! 🚀 Your little engineers will build a brilliant cotton ball launcher from just a **paper cup** and a **balloon** — pull back, release, and watch the cotton ball fly! It's simple physics, massive fun, and once you've built one, you'll want to build a whole fleet. Set up targets around the room for a scoring game that will keep everyone entertained for ages!
 
-
-## How to Set It Up
-
-### Step 1: Prepare the Cup
-
-Take a **paper cup** and carefully cut off the bottom using **scissors**. ⚠️ An adult should do the cutting for younger children. You should now have a cup that's open at both ends — like a tube. Smooth down any rough edges with your fingers.
-
-
-### Step 2: Attach the Balloon
-
-Tie a knot in the neck of a **balloon** (don't blow it up!). Now cut the wide end of the balloon off — about one-third of the way up. Stretch the cut end of the balloon over the bottom of the cup (where you cut the base off). Pull it tight so it sits like a drum skin. Wrap **tape** around the edge to hold it firmly in place.
-
-
-### Step 3: Load and Launch!
-
-Drop a **cotton wool** ball into the open top of the cup. Pinch the knotted end of the balloon, pull it back, aim, and release — POP! The cotton ball shoots out! Experiment with pulling back different amounts. How far can you launch it? Try different sizes of cotton balls — do big ones fly further or shorter? 🧪
-
-
-### Step 4: Set Up a Target Range
-
-Stack paper cups into pyramids on a table, draw target circles on paper, or line up soft toys at different distances. Assign points to each target. Take turns launching cotton balls and keep score! Who's the sharpshooter of the family? 🎯
-
-
 ## Have fun!
 
 - 🏆 Create a tournament with elimination rounds!
 - 📏 Measure how far each launch goes and try to break your record!
 - 🎨 Decorate your launcher with stickers and markers — make it your signature weapon!
 - 🤹 Try launching other soft items: scrunched paper balls, pom poms, mini marshmallows!
-
 
 ## Why It's Amazing
 
@@ -83,7 +59,6 @@ Stack paper cups into pyramids on a table, draw target circles on paper, or line
 * **Measurement & Maths:** Keeping score, measuring distances, and comparing results introduces practical numeracy. 📊
 
 * **Hand-Eye Coordination:** Aiming at targets and controlling the pull-back force develops fine motor control and spatial awareness. 🎯
-
 
 ## Pro Tips
 
