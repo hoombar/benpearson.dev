@@ -46,36 +46,12 @@ steps:
 
 Turn ordinary paint into frozen magic! 🧊✨ Your little artists will mix paint with water, freeze it into colourful ice cubes on **popsicle sticks**, then watch in wonder as the frozen paint melts into swirling, blending masterpieces on paper. It's painting meets science — and the results are absolutely stunning!
 
-
-## How to Set It Up
-
-### Step 1: Mix Your Paint Potions
-
-Grab an **ice cube tray** and squirt a generous blob of **poster paint** into each section — use as many colours as you like! Add a tiny splash of **water** to each one and give it a quick stir with a **popsicle stick**. The paint should be thick and creamy, not watery — just enough water to help it freeze smoothly.
-
-
-### Step 2: Plant Your Popsicle Sticks
-
-Push one **popsicle stick** upright into each paint-filled section. The stick should stand up on its own — if it topples, the paint is too runny (add more paint!). These will be your frozen paintbrush handles. 🎨
-
-
-### Step 3: Freeze Your Magic Paint Cubes
-
-⚠️ **Adult Helper Needed** — Carefully carry the tray to the freezer. Pop it in and wait at least 4 hours (overnight is even better!). The anticipation is part of the fun — your little ones can check back to see the transformation happening!
-
-
-### Step 4: Paint as They Melt!
-
-Tape a big sheet of **paper** to the table. Pop out your frozen paint cubes by running warm water on the bottom of the tray for a few seconds. Now slide, swirl, and glide the frozen paint across the paper — watch the colours trail and blend as the ice melts! 🌈
-
-
 ## Have fun!
 
 - 🎨 Race two colours at once and see which one melts faster!
 - 🌀 Swirl two melting cubes together to discover new colours — what happens when blue meets yellow?
 - ❄️ Try pressing the ice cube down firmly versus gliding it lightly — compare the different patterns!
 - 🖼️ Make a "mystery painting" with your eyes closed and see what masterpiece appears!
-
 
 ## Why It's Amazing
 
@@ -86,7 +62,6 @@ Tape a big sheet of **paper** to the table. Pop out your frozen paint cubes by r
 * **Fine Motor Skills:** Gripping the popsicle stick handles and controlling the melting paint cubes builds hand strength and coordination. ✋
 
 * **Patience & Anticipation:** Waiting for the paint to freeze teaches delayed gratification — and makes the painting session feel extra special! ⏰
-
 
 ## Pro Tips
 
