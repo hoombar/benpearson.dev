@@ -46,36 +46,12 @@ steps:
 
 Step into a winter fairy tale! ❄️✨ Your little enchanters will craft their very own magical snow globe — a jar filled with swirling, sparkling "snow" that drifts gently around a tiny scene. Shake it up and watch the glitter cascade like a real blizzard! It makes a stunning bedroom decoration or a heartfelt handmade gift.
 
-
-## How to Set It Up
-
-### Step 1: Choose Your Snow Globe Scene
-
-Pick a **small plastic figurine** that fits inside your **glass jar** with room to spare — a toy dinosaur, a tiny tree, an animal, or a superhero all work brilliantly! Glue it to the inside of the jar lid using a generous blob of **PVA glue**. Press firmly and let it dry for at least 30 minutes until it's stuck solid.
-
-
-### Step 2: Mix Your Magic Potion
-
-Fill the **glass jar** almost to the top with **water** — leave about 1 cm of space. Add a big squeeze of **PVA glue** (about 1 tablespoon) and stir gently. The glue makes the water slightly thicker so the glitter falls more slowly — like real snow drifting! 🌨️
-
-
-### Step 3: Add the Enchanted Snow
-
-Sprinkle in 2–3 pinches of **glitter** — silver and white look most like real snow, but any colour works for a magical twist! You can also add tiny star-shaped sequins or **stickers** cut into small pieces for extra sparkle. Give it a gentle stir.
-
-
-### Step 4: Seal and Shake!
-
-⚠️ **Adult Helper Needed** — Once the glue on the lid has fully dried, carefully screw the lid (with the figurine attached) tightly onto the jar. For extra security, run a line of PVA glue around the thread before sealing. Turn the jar upside down so the figurine stands upright — now SHAKE IT and watch the enchanted snow swirl! ❄️🎉
-
-
 ## Have fun!
 
 - 🌊 Shake it gently for a soft snowfall, or vigorously for a full blizzard!
 - 🦕 Create a whole collection with different figurines — a dinosaur world, an underwater scene, a fairy garden!
 - ⏱️ Time how long the glitter takes to settle — experiment with more or less glue!
 - 🎁 Make one as a gift — wrap it in tissue paper for a magical surprise!
-
 
 ## Why It's Amazing
 
@@ -86,7 +62,6 @@ Sprinkle in 2–3 pinches of **glitter** — silver and white look most like rea
 * **Patience & Planning:** Waiting for glue to dry and carefully assembling the globe teaches patience and sequential thinking. ⏰
 
 * **Gift-Making Skills:** Creating something beautiful to give someone else builds empathy and generosity. 🎁
-
 
 ## Pro Tips
 
