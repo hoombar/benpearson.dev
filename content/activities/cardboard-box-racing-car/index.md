@@ -40,24 +40,6 @@ steps:
 
 Rev up your engines! You'll transform a plain **cardboard box** into a high-speed, custom-painted **Cardboard Box Racing Car**. Using **paper plates** for wheels and a steering wheel, and bright **poster paint** for your team colours, your child will have their very own vehicle for an indoor drive-in movie or a sprint down the hallway track.
 
-## How to Set It Up
-
-### Step 1: Prep the Chassis
-
-Take a large **cardboard box** and fold the top flaps inward, or cut them off entirely with scissors. ⚠️ **Adult Helper Needed** — An adult should use scissors or a craft knife to cut a door on one side if your child can't climb in from the top.
-
-### Step 2: Paint Your Ride
-
-Use your **poster paint** to give the car a fresh coat of colour! Paint racing stripes down the side, draw a number on the doors, or add flames to make it go faster.
-
-### Step 3: Add the Wheels
-
-Take four **paper plates** and paint them black to look like tyres. Once they dry, use strong **tape** to attach them to the four lower corners of the box.
-
-### Step 4: Install the Steering Wheel
-
-Take one final **paper plate** and tape it securely to the inside front of the box. Now your little driver can steer their way to victory!
-
 ## Have fun!
 
 - 🏁 Set up a cushion obstacle course to navigate the car through.
