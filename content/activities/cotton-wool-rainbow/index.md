@@ -43,36 +43,12 @@ steps:
 
 Chase the rainbow! 🌈 Your little artists will create a gorgeously fluffy rainbow by gluing tinted **cotton wool** along drawn arcs on **paper**. Draw the rainbow bands, pull cotton wool into strips, dip or dab them in coloured **poster paint**, then press them onto the arcs. The result is a wonderfully soft, textured rainbow that's as lovely to touch as it is to look at!
 
-
-## How to Set It Up
-
-### Step 1: Draw the Rainbow
-
-Using a **marker**, draw 5–7 large curved arcs on a sheet of **paper** — one inside the other, like a real rainbow. Space them apart enough to fit cotton wool strips. Start from the outside: red, orange, yellow, green, blue, then purple on the inside. 🌈
-
-
-### Step 2: Tint the Cotton Wool
-
-Pull **cotton wool** apart into flat, wispy strips. For each colour, squeeze a small amount of **poster paint** onto a plate or tray, then gently press the cotton wool into the paint to tint it. Don't soak it — just enough colour to stain the white fluffy fibres. ⚠️ This gets messy — cover the table first! 🎨
-
-
-### Step 3: Glue the Arcs
-
-Spread **PVA glue** along one arc at a time. Press the tinted cotton wool strip onto the glue, following the curve. Start with the outer red arc and work inward. Layer and fluff the cotton wool as you go — the puffier, the better! ☁️
-
-
-### Step 4: Add Clouds and Details
-
-Ball up some plain white cotton wool and glue fluffy clouds at each end of the rainbow. You can also add cotton wool clouds across the top. Let everything dry completely. Hang it up or prop it on a shelf — your fluffy rainbow is ready to brighten any room! ☁️
-
-
 ## Have fun!
 
 - 🌦️ Add a sun peeking out from behind the clouds using yellow cotton wool!
 - 🔬 Learn about how real rainbows form — sunlight + rain = magic!
 - 🎵 Sing the rainbow song — red and yellow and pink and green…!
 - 📝 Label each colour — great for learning colour names in different languages!
-
 
 ## Why It's Amazing
 
@@ -83,7 +59,6 @@ Ball up some plain white cotton wool and glue fluffy clouds at each end of the r
 * **Fine Motor Skills:** Pulling cotton wool into strips, dipping carefully in paint, and pressing along curved lines all develop hand control and coordination. ✋
 
 * **Sequencing:** Following the correct colour order (red, orange, yellow, green, blue, purple) practises sequencing — a key early maths and literacy skill. 🔢
-
 
 ## Pro Tips
 
