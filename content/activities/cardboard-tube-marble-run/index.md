@@ -41,20 +41,6 @@ Transform everyday cardboard tubes into an exhilarating marble roller coaster! T
 ## What You'll Create
 An intricate pathway made of connected tubes where a marble can travel from top to bottom continuously.
 
-## How to Set It Up
-
-### Step 1: Prepare the Tubes
-Collect all your cardboard tubes. For more variety, carefully cut a few of them in half lengthwise using the scissors to create open troughs.
-
-### Step 2: Start at the Top
-Tape your first tube high up on the wall or door. Make sure the angle is steep enough for the marble to gain speed!
-
-### Step 3: Test and Add
-Drop a marble through the first tube and watch where it falls. Tape the next tube exactly in that spot, repeating this process to build your track downwards.
-
-### Step 4: The Final Run
-Once your track reaches the floor, place a small bowl at the end to catch the marble. Release your marbles and watch them zoom through the course!
-
 ## Have fun!
 Start from the top and secure your first tube. Drop a marble through and see where it lands, then place the next tube there! Experiment with gaps, drops, and corners.
 
