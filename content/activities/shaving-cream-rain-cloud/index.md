@@ -43,24 +43,6 @@ steps:
 
 Ever wondered how rain falls from clouds? 🌧️ In this beautiful science experiment, you'll create a miniature weather system inside a **Glass Jar**. Using fluffy **Shaving Cream** as a 'cloud' and blue **Food Colouring** as 'rain', you'll see exactly what happens when a cloud gets too heavy with water. It's a magical, colourful way to learn about the water cycle!
 
-## How to Set It Up
-
-### Step 1: Fill the Atmosphere
-
-Fill your **Glass Jar** about three-quarters of the way with clear **Water**. This represents the air or atmosphere below the clouds.
-
-### Step 2: Create the Cloud
-
-Squirt a large, fluffy mound of **Shaving Cream** on top of the water. Make sure it covers the entire surface but don't fill the jar to the very top. This is your 'rain cloud'!
-
-### Step 3: Prepare the Rain
-
-In a small cup, mix a few drops of blue **Food Colouring** with a little bit of water. This concentrated blue liquid will be our 'rainwater'.
-
-### Step 4: Make It Rain!
-
-Use a **Dropper** to carefully add the blue water onto the top of the shaving cream cloud. Watch closely! At first, the cloud will hold the 'rain', but as it gets heavier and heavier, the blue water will suddenly break through and 'rain' down into the clear water below in beautiful swirls.
-
 ## Have fun!
 
 - 🌈 Try using different colours of 'rain' to create a rainbow storm in your jar.
