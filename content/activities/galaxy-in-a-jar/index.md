@@ -55,32 +55,6 @@ steps:
 
 You're about to become a cosmic creator! ✨ By layering soft **cotton wool**, sparkling **glitter**, and brilliant **food colouring**, you'll trap a miniature swirling galaxy inside a **glass jar**. It looks just like a real nebula deep in outer space! This isn't just a craft — it's a beautiful, calming sensory jar that you can keep on your windowsill to remind you of the stars. 🌌
 
-## How to Set It Up
-
-### Step 1: Prepare Your Cosmic Colours
-
-Fill three small cups with **water**. Add 2–3 drops of different **food colouring** to each cup — purple, blue, and pink work best for a classic galaxy look! Give each one a quick stir with a **spoon**. 🎨
-
-### Step 2: Create the First Layer
-
-Take your **glass jar** and stretch out a few balls of **cotton wool** so they are fluffy. Push them into the bottom of the jar until they cover the base. You want a thick, fluffy layer of 'space clouds'! ☁️
-
-### Step 3: Sprinkle Some Stardust
-
-Shake a generous amount of **glitter** over the cotton wool. This is your stardust! Use the **spoon** to gently press the glitter into the edges of the cotton so it's visible through the glass. ✨
-
-### Step 4: Pour the Nebula
-
-Carefully pour one of your coloured **water** mixtures over the cotton wool. Watch as the wool soaks up the colour and the glitter starts to sparkle through the 'clouds'. Don't fill it up — just enough to soak that layer! 💧
-
-### Step 5: Repeat the Layers
-
-Add another fluffy layer of **cotton wool**, more **glitter**, and then your next colour of **water**. Repeat this layering process until the jar is full. The different colours will swirl together where they meet, creating a beautiful nebula effect! 🌌
-
-### Step 6: Seal Your Galaxy
-
-Once the jar is full to the top, screw the lid on tightly. You can add a little bit of **tape** around the lid to make sure it's extra secure. Give the jar a very gentle tilt (don't shake it!) to see the cosmic colours blend together. 🏺
-
 ## Have fun!
 
 - 🌟 Place your jar in a sunny window and watch the stardust catch the light.
