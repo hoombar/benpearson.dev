@@ -46,24 +46,6 @@ steps:
 
 You'll fold and cut a single sheet of **paper** into a beautiful spinning pinwheel 🌀 that whirls in the breeze! Decorate it with rainbow swirls or bold diagonal stripes, attach it to a **straw** handle, and watch the patterns blur into a mesmerising spinning disc of colour. Pure magic powered by wind and geometry! ✨
 
-## How to Set It Up
-
-### Step 1: Make a Decorated Square
-
-Start with a sheet of **paper**. Use **colouring pencils** or a **marker** to decorate one side with bold patterns — diagonal stripes, spirals, or zigzags work brilliantly because they blur into something magical when spinning. To cut a perfect square: fold one corner diagonally so its edge lines up with the opposite side, press the crease firmly, and cut along the fold line to remove the strip below. Unfold to reveal your perfect square!
-
-### Step 2: Mark Centre and Draw Diagonals
-
-Fold the square in half corner-to-corner, crease lightly, and unfold. Repeat with the other two corners. You now have a faint X through the centre. Use a **pen** to mark a small dot about 1.5 cm from the centre along each crease line. Then draw a line from each corner toward the centre, stopping exactly at the dot.
-
-### Step 3: Cut and Fold the Flaps
-
-⚠️ **Adult Helper Needed for younger children** — Use **scissors** to cut along each of the 4 diagonal lines from the corner toward the centre, stopping exactly AT the dot (do NOT cut all the way through or the pinwheel falls apart!). You now have 8 triangular flaps. Gently bring EVERY OTHER flap tip — one, skip one, one, skip one — to the very centre. Use a small piece of **tape** to hold the overlapping tips in place.
-
-### Step 4: Attach the Handle
-
-Push the tip of a **straw** through the very centre of the layered flap stack, from front to back. Wrap a small piece of **tape** around the straw just behind the pinwheel to make a stopper so it can't slide off the front. The pinwheel should spin freely — if it's too stiff, loosen the tape stopper slightly. Hold it up in the breeze and watch it fly! 🌬️
-
 ## Have fun!
 
 - 🌬️ Run with your pinwheel — who can make it spin the fastest?
