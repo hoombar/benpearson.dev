@@ -46,36 +46,12 @@ steps:
 
 Bring the sunshine indoors! 🌻 Your little gardeners will turn a **paper plate** into a gorgeous sunflower with bright yellow petals, a textured brown centre filled with real seeds (or painted dots), and a tall green **paper** stem with leaves. It's a cheerful craft that brightens up any room and never needs watering!
 
-
-## How to Set It Up
-
-### Step 1: Paint the Plate
-
-Paint the entire front of a **paper plate** with bright yellow **poster paint**. This will become your petals! Make sure to get good coverage right to the edges. While it's wet, you can add a few streaks of orange near the centre for a more realistic look. Let it dry completely. 🎨
-
-
-### Step 2: Create the Seed Centre
-
-Cut a circle from brown **paper** (or paint a circle directly on the dried plate). This is the sunflower's seed head! Glue it to the centre of the yellow plate. Add texture by dabbing dots of brown and black paint, or glue real sunflower seeds or uncooked rice in a spiral pattern. ✨
-
-
-### Step 3: Cut the Petals
-
-Using **scissors**, cut petal shapes around the edge of the plate — cut inward from the rim toward the centre circle, leaving each petal attached. Space them evenly around the plate. Gently bend each petal forward to give them a 3D effect! ✂️
-
-
-### Step 4: Add the Stem and Leaves
-
-Cut a long strip of green **paper** for the stem and two leaf shapes. Glue or tape the stem to the back of the sunflower. Attach the leaves partway down the stem. Display your sunflower on a wall or in a window — instant garden! 🌿
-
-
 ## Have fun!
 
 - 🌻 Make a whole field of sunflowers in different sizes!
 - 🐝 Add a pipe cleaner bee buzzing around your flower!
 - 📏 Measure your sunflower and compare to a real one — how tall can you make it?
 - 🎁 Write a message on the back and give it as a cheerful gift!
-
 
 ## Why It's Amazing
 
@@ -86,7 +62,6 @@ Cut a long strip of green **paper** for the stem and two leaf shapes. Glue or ta
 * **Colour Theory:** Mixing yellows, oranges, and browns introduces warm colour palettes and how colours blend together. 🎨
 
 * **Pride and Display:** The finished sunflower is large, impressive, and displayable — children feel genuine pride in creating something beautiful for their home. 🏆
-
 
 ## Pro Tips
 
