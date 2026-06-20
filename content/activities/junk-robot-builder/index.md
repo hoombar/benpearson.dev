@@ -46,26 +46,6 @@ steps:
 
 You and your child are going to become engineers today! 🤖 Together you'll raid the recycling bin and transform **cardboard boxes**, **cardboard tubes**, and everyday junk into a magnificent robot with its very own name and superpower. The result is a unique 3D sculpture your child designed entirely from scratch — no two robots are ever the same!
 
-
-## How to Set It Up
-
-### Step 1: Gather Your Junk
-
-Raid the recycling bin! Collect **cardboard boxes** of different sizes (cereal boxes, tissue boxes, small delivery boxes), **cardboard tubes** from paper towels or toilet rolls, scraps of **aluminium foil**, and any other interesting shapes you can find. Lay everything out on a large flat surface so you can see all your robot-building options.
-
-### Step 2: Sketch Your Design
-
-Before you build, you're an architect! 📐 Grab a piece of paper and some **markers** and draw your robot. Give it a head, body, arms, and legs. Add gadgets — laser eyes? rocket boosters? a candy dispenser? Decide which boxes will become which body parts.
-
-### Step 3: Build the Body
-
-Start with the biggest box for the torso. Use **tape** to attach a smaller box on top for the head. Then attach **cardboard tubes** as arms and legs — tape them firmly at the joints. Test each joint by gently wiggling it; add extra tape anywhere that feels wobbly.
-
-### Step 4: Add the Details
-
-Now for the magic! ✨ Use **markers** to draw eyes, a mouth, control panels, and buttons. Scrunch **aluminium foil** into little balls and tape them on as sensors or antennae. Use **scissors** to cut small flaps for doors. Write your robot's name on a badge in big bold letters!
-
-
 ## Have fun!
 
 - 🦾 Give your robot a superpower — write it on a label and stick it to its chest!
@@ -74,14 +54,12 @@ Now for the magic! ✨ Use **markers** to draw eyes, a mouth, control panels, an
 - ⚔️ Stage a slow-motion robot battle with dramatic robot poses.
 - 🔧 Keep upgrading your robot over multiple days — new gadgets, accessories, or robot friends!
 
-
 ## Why It's Amazing
 
 * **Engineering Thinking:** Planning which box becomes which body part builds spatial reasoning and structural thinking. 🏗️
 * **Creativity & Self-Expression:** There are no wrong answers — every robot reflects its creator's unique imagination. 🎨
 * **Fine Motor Skills:** Cutting, taping, folding, and scrunching foil all strengthen hand muscles and coordination. ✂️
 * **Sustainability Mindset:** Transforming "rubbish" into art teaches children that discarded materials have real value. ♻️
-
 
 ## Pro Tips
 
