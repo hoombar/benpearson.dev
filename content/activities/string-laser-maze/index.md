@@ -36,20 +36,6 @@ steps:
 ## What You'll Create
 Turn your hallway into a high-security spy vault! You'll create a complex web of 'laser' beams using string, and then challenge yourself to navigate through the maze without touching a single laser.
 
-## How to Set It Up
-
-### Step 1: Prepare the Hallway
-Clear the hallway of any tripping hazards. Grab your string, tape, and scissors, and get ready to design your course.
-
-### Step 2: Build the Web
-Tape the string to one wall, then pull it across the hallway to the opposite wall. Tape it again. Alternate high, low, and diagonal angles to make it tricky!
-
-### Step 3: Navigate the Lasers
-Time to test it! Step carefully over low strings and crawl under the high ones. Keep your balance and don't touch the lasers!
-
-### Step 4: Race the Clock
-Once you've mastered the maze, use a stopwatch to see who can make it through the fastest without setting off the alarm.
-
 ## Have fun!
 Can you do it backwards? What about blindfolded with a friend guiding you? Put a 'treasure' at the end of the maze that you have to retrieve.
 
