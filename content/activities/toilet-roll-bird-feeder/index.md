@@ -43,24 +43,6 @@ steps:
 
 Be a friend to the birds in your garden! 🐦 You will turn an ordinary **Cardboard Tube** into a tasty feast for local wildlife. By coating the tube in sticky **Peanut Butter** and rolling it in nutritious **Birdseed**, you'll create a simple, effective feeder that you can hang up and watch your feathery friends enjoy.
 
-## How to Set It Up
-
-### Step 1: Prep the Tube
-
-Take your **Cardboard Tube** and poke two small holes near the top, opposite each other. Thread a piece of **String** through the holes and tie it in a loop so you can hang your feeder up later.
-
-### Step 2: Spread the 'Glue'
-
-Using a **Spoon** or a butter knife, spread a thick layer of **Peanut Butter** all over the outside of the tube. Try to cover as much of the cardboard as you can — the stickier the better!
-
-### Step 3: Roll in the Seeds
-
-Pour a pile of **Birdseed** onto a flat plate or tray. Place your peanut-butter-covered tube onto the seeds and roll it back and forth until the entire tube is coated in a thick layer of seeds.
-
-### Step 4: Hang and Observe
-
-Take your feeder outside and find a sturdy branch or a hook. Hang it up somewhere safe from cats but where you can see it from a window. Now, wait quietly and see who comes to visit for a snack!
-
 ## Have fun!
 
 - 📝 Keep a 'Bird Watcher's Journal' and draw pictures of the different birds that visit your feeder.
