@@ -37,36 +37,12 @@ steps:
 
 All the fun of finger painting with NONE of the mess! 🤩 Your little explorers will fill a **zip-lock bag** with blobs of **poster paint**, squeeze out the air, seal it tight, and tape it to a window. The light shines through the paint, and children can squish, swirl, draw letters, and mix colours — all without getting a single drop on their fingers. It's like a magic drawing tablet!
 
-
-## How to Set It Up
-
-### Step 1: Add Paint to the Bag
-
-Open a **zip-lock bag** and squeeze in 3–4 blobs of different coloured **poster paint**. Use bold, contrasting colours — red and yellow, blue and yellow, or all the primary colours. Don't overfill — a few generous tablespoons is plenty. You want room for the paint to move around! 🎨
-
-
-### Step 2: Seal and Secure
-
-Carefully squeeze out as much air as possible from the bag, then seal it tightly. Run your finger along the seal to make sure it's completely closed. For extra security, fold the top edge over and add a strip of **tape** along the seal. You do NOT want this opening during play! 🔒
-
-
-### Step 3: Tape to the Window
-
-Use strips of **tape** to firmly attach the bag to a window at your child's height. The light shining through the bag makes the colours glow beautifully! Tape all four edges so it stays in place even with enthusiastic squishing. A sunny window works best for maximum colour glow. ☀️
-
-
-### Step 4: Squish, Draw, and Explore
-
-Now the fun begins! Press your fingers into the bag to push the paint around. Draw shapes, write letters, practise numbers, or just enjoy the satisfying squish of paint between your fingers (through the bag!). Watch what happens when two colours meet and mix. Smooth it all flat and start again — infinite drawing! ✍️
-
-
 ## Have fun!
 
 - ✏️ Practise writing letters and numbers — the bag resets with a single swipe!
 - 🌈 Use only primary colours and discover what secondary colours you can make!
 - ✨ Add a spoonful of glitter inside the bag for sparkly sensory magic!
 - 🫧 Try adding a squirt of washing-up liquid for a different texture!
-
 
 ## Why It's Amazing
 
@@ -77,7 +53,6 @@ Now the fun begins! Press your fingers into the bag to push the paint around. Dr
 * **Colour Theory:** Children directly observe what happens when primary colours mix — yellow and blue becoming green right before their eyes! 🔬
 
 * **Calming Activity:** The slow, deliberate squishing and smooth texture can be wonderfully calming and meditative for children who need to decompress. 🧘
-
 
 ## Pro Tips
 
