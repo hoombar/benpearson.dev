@@ -43,36 +43,12 @@ steps:
 
 What time is it? Time to MAKE a clock! ⏰ Your little timekeepers will transform a humble **paper plate** into a fully functioning clock with movable hands. Write the numbers, attach spinning hands with a **paper clip** fastener, and then play brilliant time-telling games together. It's the perfect blend of crafting and early maths!
 
-
-## How to Set It Up
-
-### Step 1: Create the Clock Face
-
-Take a **paper plate** and use **markers** to write the numbers 1–12 around the rim, just like a real clock. Start with 12 at the top, 6 at the bottom, 3 on the right, and 9 on the left — then fill in the rest. Draw small lines between each number for the minute markers. Add a dot in the very centre.
-
-
-### Step 2: Make the Clock Hands
-
-Cut two arrow shapes from **paper** — one long (minute hand) and one shorter (hour hand). Colour the hour hand one colour and the minute hand another using **markers** so they're easy to tell apart. Punch a small hole in the end of each hand.
-
-
-### Step 3: Attach the Hands
-
-Poke a small hole through the centre dot of the paper plate. Push a **paper clip** (unbent into a T shape) or a brass fastener through both clock hands and then through the centre hole. Bend the paper clip on the back to secure it. The hands should spin freely! Test them — spin spin spin! ⚠️ An adult should handle the poking and bending.
-
-
-### Step 4: Play Time-Telling Games!
-
-Now the learning begins! Call out times and race to set them: "Show me 3 o'clock!" "What time do you eat dinner?" "Move the hand to bedtime!" Add **stickers** at special times — a star at wake-up time, a sun at lunchtime, a moon at bedtime. Take turns being the teacher and the student! 🎓
-
-
 ## Have fun!
 
 - 🏃 Play "What's the Time, Mr Wolf?" and set the clock for each answer!
 - 📋 Make a daily schedule using your clock — set each activity time!
 - 🔔 Set an "alarm" on your clock and when the real time matches, do a silly dance!
 - 🧩 Draw the same time on paper that your partner sets on the clock!
-
 
 ## Why It's Amazing
 
@@ -83,7 +59,6 @@ Now the learning begins! Call out times and race to set them: "Show me 3 o'clock
 * **Fine Motor Skills:** Writing small numbers, cutting precise shapes, and manipulating the fastener all develop hand control. ✋
 
 * **Practical Life Skills:** Telling time is a real-world skill children will use every day — this gives them ownership over learning it through play. ⏰
-
 
 ## Pro Tips
 
