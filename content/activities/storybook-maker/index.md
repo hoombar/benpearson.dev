@@ -43,24 +43,6 @@ steps:
 
 A real, handmade book! 📖 You and your child will write, illustrate, and bind a personal mini storybook — complete with characters they invent, a plot they devise, and pictures they draw themselves. Every copy is a unique masterpiece that will be treasured for years.
 
-## How to Set It Up
-
-### Step 1: Plan Your Characters
-
-Before touching the good **paper**, spend five minutes talking through the story. Who is the hero? What is the problem they face? How does it end? Jot ideas on a scrap — this is the story plan and it makes everything easier.
-
-### Step 2: Fold and Bind the Pages
-
-Fold 4–6 sheets of **paper** in half together to make a booklet. Use **scissors** to snip a small notch at the spine fold, thread a strip of **tape** through it and fold it over to bind. Press the spine firmly. Add a thicker card cover if you have one.
-
-### Step 3: Write the Story
-
-Use **markers** or **colouring pencils** to write the text in large, clear letters — one or two sentences per page. Leave the lower half of each page completely blank for the illustrations.
-
-### Step 4: Illustrate Each Scene
-
-Draw the scene for each page of text. Encourage bold, full-page illustrations with lots of colour. Add speech bubbles, patterns, and backgrounds to bring the story world vividly to life!
-
 ## Have fun!
 
 - 📚 Make a series — what adventure does the hero face in Book 2?
