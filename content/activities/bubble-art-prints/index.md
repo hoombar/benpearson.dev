@@ -43,24 +43,6 @@ steps:
 
 Imagine dipping your finger in a rainbow and leaving its mark on paper! 🫧✨ In this activity you'll mix runny paint with **washing-up liquid**, blow until a colourful mountain of bubbles forms, then gently press **paper** over the top to capture a totally unique circular print. No two bubble prints are ever the same — and that's the magic!
 
-## How to Set It Up
-
-### Step 1: Mix Your Bubble Paint
-
-Squirt a generous blob of **poster paint** into a **small container** — about a tablespoon's worth. Add one teaspoon of **washing-up liquid** and three tablespoons of water. Stir gently until the paint is completely dissolved and the liquid looks like coloured water. Make a separate container for each colour you want to use.
-
-### Step 2: Blow a Bubble Mountain
-
-Place one end of a **straw** into the coloured paint mixture, then blow gently and steadily. ⚠️ **Adult Helper Needed** — remind younger children to only blow OUT through the straw and never suck in. Keep blowing until a dome of colourful bubbles rises above the rim of the container.
-
-### Step 3: Capture the Print
-
-While the bubbles are still standing tall, pick up a sheet of **paper** and press it flat onto the top of the bubble dome. Hold it there for two seconds, then lift it straight up. You'll see dozens of perfect circles where each bubble burst! Let it dry flat on the table.
-
-### Step 4: Build Your Gallery
-
-Rinse the straw, clean the container, and repeat with a different colour — try overlapping prints for a layered rainbow effect! 🌈 Once everything is dry, hold each sheet up to the window — the circles glow like stained glass.
-
 ## Have fun!
 
 - 🎨 Mix red and yellow paint into the same container — what colour do your bubbles make?
