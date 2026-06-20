@@ -43,36 +43,12 @@ steps:
 
 Wiggle wiggle! 🐛 Your little ones will transform a plain **sock** into the squishiest, most huggable caterpillar ever! Fill it with **uncooked rice** for a satisfying weight, cinch it into chunky body segments with **rubber bands**, then bring it to life with **googly eyes** and a marker-drawn smile. The finished caterpillar is part toy, part sensory friend — perfect for squeezing, bending, and playing with!
 
-
-## How to Set It Up
-
-### Step 1: Fill the Sock
-
-Take a colourful **sock** (long socks work best — knee-highs are perfect!). Stretch the opening wide and pour in **uncooked rice** until the sock is about three-quarters full. The rice gives the caterpillar a lovely weight and that satisfying squishy feel. 🧦
-
-
-### Step 2: Create Body Segments
-
-Tie a knot or use a **rubber band** to close the open end of the sock. Now pinch the stuffed sock at regular intervals and wrap **rubber bands** around each pinch to create body segments. Make 4–6 chunky bumps — each one is a caterpillar segment! 🔵
-
-
-### Step 3: Shape the Head
-
-Make the first segment (at the toe end) slightly larger than the rest — this is your caterpillar's head! Adjust the rubber bands to get a nice round head shape. Squeeze and reshape the segments until your caterpillar looks just right. 🐛
-
-
-### Step 4: Add a Face
-
-Stick **googly eyes** onto the head segment. Use **markers** to draw a big happy smile, rosy cheeks, and little antennae. You can also draw spots or stripes on the body segments. Your caterpillar is ready to wiggle! 🎨
-
-
 ## Have fun!
 
 - 🦋 Make a matching butterfly from paper plates — show the life cycle!
 - 🌈 Use different coloured socks to make a whole caterpillar family!
 - 📏 Measure your caterpillar and compare — whose is longest?
 - 🍃 Take your caterpillar on an adventure through the garden!
-
 
 ## Why It's Amazing
 
@@ -83,7 +59,6 @@ Stick **googly eyes** onto the head segment. Use **markers** to draw a big happy
 * **Nature Learning:** A perfect springboard to learn about caterpillars, metamorphosis, and the butterfly life cycle — pair with a book like The Very Hungry Caterpillar! 🌿
 
 * **Creative Expression:** Choosing colours, deciding how many segments, and designing the face encourages personal creative choices. 🎨
-
 
 ## Pro Tips
 
