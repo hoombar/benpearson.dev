@@ -49,36 +49,12 @@ steps:
 
 A tiny garden world made from sticks! 🌻 Your little gardeners will build a **popsicle stick** picket fence, plant colourful paper flowers behind it, and add a cheerful ladybird sitting on a leaf. The whole scene stands up on a cardboard base and looks like a miniature country garden!
 
-
-## How to Set It Up
-
-### Step 1: Build the Fence
-
-Lay two **popsicle sticks** horizontally as rails, about 4 cm apart. Glue 5–6 more popsicle sticks vertically across them using **PVA glue** — these are the fence pickets. Space them evenly. Let it dry flat. 🪵
-
-
-### Step 2: Make the Flowers
-
-Cut flower shapes from coloured **paper** using **scissors** — circles with petals, or simple tulip shapes. Cut green paper strips for stems and leaf shapes. Glue each flower to the top of a stem. Make 3–4 flowers of different colours. 🌷
-
-
-### Step 3: Create the Base
-
-Cut a rectangle of **paper** or thin card for the base (about 15 × 8 cm). Paint it green with **poster paint** for grass. While it dries, paint the fence white or leave it natural. 🌿
-
-
-### Step 4: Assemble the Scene
-
-Glue the fence upright along the back of the base (prop it with something while drying). Glue the flower stems behind the fence so the flowers peek over the top. Add a paper ladybird on the fence. Use **markers** for tiny details — dots on the ladybird, grass blades, a butterfly! 🐞
-
-
 ## Have fun!
 
 - 🌻 Add a popsicle stick gate that opens and closes with a brass fastener!
 - 🦋 Make paper butterflies on thin wire so they "hover" above the flowers!
 - 🏡 Build a tiny popsicle stick shed or greenhouse behind the fence!
 - 🌈 Create a rainbow arch from painted paper behind the whole scene!
-
 
 ## Why It's Amazing
 
@@ -89,7 +65,6 @@ Glue the fence upright along the back of the base (prop it with something while 
 * **Nature Connection:** Creating a miniature garden encourages observation of real gardens — what grows there, what creatures visit. 🌿
 
 * **Fine Motor Precision:** Spacing fence pickets evenly and gluing small flower parts builds patience and hand control. ✋
-
 
 ## Pro Tips
 
