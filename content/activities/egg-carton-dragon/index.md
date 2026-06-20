@@ -55,36 +55,12 @@ steps:
 
 A fearsome fire-breathing dragon! 🐉 Your little dragon-tamers will cut individual cups from an **egg carton** to create a bumpy, scaly dragon body, paint it in fierce greens, reds, or purples, then add **googly eyes**, pointy paper spikes along the back, and billowing **tissue paper** flames shooting from the mouth. A mythical creature that sits proudly on any shelf!
 
-
-## How to Set It Up
-
-### Step 1: Cut the Body Sections
-
-Cut an **egg carton** into a strip of 4–5 connected cups — this forms the dragon's bumpy body. Cut one extra single cup for the head (trim it slightly taller than the body cups). ⚠️ Adult Helper Needed for younger children. ✂️
-
-
-### Step 2: Paint the Dragon
-
-Paint the body strip and head cup with **poster paint** — bright green, red, or purple for the body, with a contrasting belly colour (yellow or orange). Let dry completely. Add darker spots or stripes for scales! 🎨
-
-
-### Step 3: Add Spikes and Tail
-
-Cut small triangle shapes from coloured **paper** for back spikes. Fold each triangle at the base and glue them along the top ridge of the body with **PVA glue**. Cut a long pointed tail from paper and tape it to the end cup. 🔥
-
-
-### Step 4: Add Face and Fire
-
-Glue **googly eyes** onto the head cup. Cut strips of red, orange, and yellow **tissue paper** and glue them inside the front of the head cup so they billow outward like fire breath. Use a **marker** to draw nostrils and a fierce mouth. Your dragon is alive! 🐉
-
-
 ## Have fun!
 
 - 🏰 Build a cardboard castle for your dragon to guard!
 - 📖 Write a short adventure story starring your dragon!
 - 🎭 Make two dragons and put on a puppet show battle!
 - ✨ Add glitter to the wet paint for magical sparkly scales!
-
 
 ## Why It's Amazing
 
@@ -95,7 +71,6 @@ Glue **googly eyes** onto the head cup. Cut strips of red, orange, and yellow **
 * **Fine Motor Precision:** Cutting small triangles, folding tabs, and precise gluing all develop careful hand control. ✋
 
 * **Mythology and Culture:** Dragons appear in stories from every culture — Chinese, European, Norse — sparking conversations about world mythology. 🌍
-
 
 ## Pro Tips
 
