@@ -43,24 +43,6 @@ steps:
 
 You'll create a spectacular piece of mosaic art 🎨 — just like the incredible floor and wall mosaics that decorated ancient Roman buildings! Instead of stone tiles, you'll use torn pieces of coloured **tissue paper** as your "tesserae" (the technical word for mosaic tiles). The finished picture glows like stained glass when you hold it to the light — absolutely stunning to display in a window! ✨
 
-## How to Set It Up
-
-### Step 1: Sketch Your Design
-
-Lay a sheet of **plain paper** on a flat surface. Use a **colouring pencil** to lightly sketch a bold, simple design — a big sun, a fish, a rainbow, a flower, or a geometric pattern all work brilliantly. Bold outlines with clearly defined colour areas work best. Don't worry about perfection — mosaic art hides small mistakes beautifully! Divide your design into distinct zones, each of which will be filled with one colour of tiles. 🌈
-
-### Step 2: Tear the Tiles
-
-Sort your sheets of **tissue paper** by colour. For each colour, tear the tissue paper into small irregular pieces roughly 1–2 cm across. Uneven edges are GOOD — they look more like real ancient stone tiles and add lovely character to the finished artwork! Make a small pile of each colour you plan to use. Aim for about 30–50 pieces per colour.
-
-### Step 3: Glue the Tiles
-
-Squeeze a small amount of **PVA glue** into a dish and thin it with one or two drops of water. Use a **flat paintbrush** to brush a thin layer of the diluted glue onto one small section of your design. Immediately press tissue paper pieces onto the glued area, leaving a tiny gap between each tile — this gap is called the "grout line" and is what makes it look like a real mosaic! Work one section at a time so the glue doesn't dry before you place the tiles.
-
-### Step 4: Seal the Mosaic
-
-Once ALL the tiles are laid and the design is completely filled, brush a final even layer of diluted **PVA glue** over the entire surface using the **flat paintbrush**. This seals all the tiles, prevents peeling, and adds a beautiful glossy finish. Leave the mosaic flat to dry for 30 minutes. When fully dry, hold it up to a window and watch the colours glow! 🌟
-
 ## Have fun!
 
 - 🏛️ Research ancient Roman or Byzantine mosaics and try to recreate a design you find
