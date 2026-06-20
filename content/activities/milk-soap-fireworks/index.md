@@ -42,19 +42,6 @@ steps:
 ## What You'll Create
 A spectacular science display where food colouring erupts and swirls across the surface of milk the moment you touch it with washing-up liquid. It looks like tie-dye fireworks — and takes under five minutes to set up!
 
-## How to Set It Up
-### Step 1: Pour the Milk
-Pour a shallow layer of full-fat milk into a paper plate or flat dish. The milk should cover the bottom completely but stay quite shallow — about 1 cm deep is ideal.
-
-### Step 2: Add Colour Drops
-Drop 4–5 drops of food colouring in different colours around the surface of the milk. Try red, blue, green, and yellow for maximum drama. Do not stir — just let them sit.
-
-### Step 3: Coat Cotton Wool in Soap
-Dip a small piece of cotton wool into washing-up liquid to coat it. Alternatively, simply drop one small drop of washing-up liquid directly into the centre of the milk.
-
-### Step 4: Touch and Watch
-Gently touch the soapy cotton wool to the surface of the milk. The colours will explode outward in swirling, firework-like patterns! Touch different spots to keep the reaction going.
-
 ## Have fun!
 Try touching the soap to different parts of the milk — near the colours, at the centre, near the edge. Does it make a difference? What happens if you use skimmed milk? Try adding more colours for a rainbow explosion!
 
