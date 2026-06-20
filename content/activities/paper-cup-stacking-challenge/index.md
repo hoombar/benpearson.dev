@@ -31,36 +31,12 @@ steps:
 
 Ready, set, STACK! 🏗️ Your little architects will discover just how high they can build using nothing but **paper cups**. Start with simple pyramids, progress to towers, walls, and bridges, and then race the clock to build the tallest structure possible. It sounds simple — but it requires incredible concentration, steady hands, and clever engineering to beat gravity!
 
-
-## How to Set It Up
-
-### Step 1: Build a Basic Pyramid
-
-Start with a row of 4 **paper cups** on the floor or table, standing upside-down. Place 3 cups on top of them (resting on the gaps between). Then 2 cups on the next level, and finally 1 cup on top — a perfect pyramid! Count the levels. You've built a 4-level structure!
-
-
-### Step 2: Try the Speed Stack
-
-Now knock it all down and try again — but this time, use a timer! How fast can you build a 3-level pyramid? A 4-level? Set a family record and take turns trying to beat it. Stack them up, then "down-stack" them back into a single column as fast as possible. 🏎️
-
-
-### Step 3: Build a Wall
-
-Try a different challenge: build a wall! Place cups upside-down in a row, then place a row on top with the cups right-way-up (nesting into the gaps). Alternate upside-down and right-way-up rows to build higher. How many rows can you stack before the wall wobbles and falls? This is much harder than it looks! 🧱
-
-
-### Step 4: Creative Engineering Challenge
-
-Free build time! Can you build an archway? A bridge between two towers? A castle with turrets? Use ALL the cups and create the most impressive structure you can imagine. Take a photo before the inevitable dramatic collapse — the collapse is half the fun! 📸
-
-
 ## Have fun!
 
 - ⏱️ Set a 60-second challenge — biggest pyramid in one minute wins!
 - 🃏 Try putting playing cards between layers for bigger, more stable structures!
 - 💨 Have a "blow-down" contest — whose structure survives the longest when you blow on it?
 - 🎲 Roll a dice and stack that many cups in each layer!
-
 
 ## Why It's Amazing
 
@@ -71,7 +47,6 @@ Free build time! Can you build an archway? A bridge between two towers? A castle
 * **Persistence & Resilience:** Towers WILL fall. Rebuilding teaches children that failure is temporary and trying again is how you improve. 💪
 
 * **Maths in Action:** Counting cups per layer, spotting the pyramid number pattern (4, 3, 2, 1 = 10 cups total), and timing builds all involve practical numeracy. 🔢
-
 
 ## Pro Tips
 
