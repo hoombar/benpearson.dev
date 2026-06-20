@@ -40,24 +40,6 @@ steps:
 
 Channel your inner medieval engineer and build a powerful **Miniature Popsicle Stick Catapult**! Using basic tension and leverage from **rubber bands**, you'll transform simple **popsicle sticks** and a **plastic spoon** into an impressive launcher capable of sending soft **cotton wool** 'boulders' soaring across the living room.
 
-## How to Set It Up
-
-### Step 1: Create the Base Stack
-
-Take five **popsicle sticks** and stack them perfectly on top of each other. Wrap a **rubber band** tightly around each end of the stack to hold them securely together. This is your fulcrum!
-
-### Step 2: Build the Launcher Arm
-
-Take two more popsicle sticks. Wrap a rubber band tightly around one end to join them. Then, slide your thick base stack *between* these two sticks, pushing it close to the rubber-banded end so the top stick angles upward.
-
-### Step 3: Secure the Arm
-
-Criss-cross another rubber band tightly where the top stick meets the base stack to lock the whole structure together. It should look like an angled see-saw.
-
-### Step 4: Attach the Bucket
-
-Take your **plastic spoon** and lay its handle along the angled top stick. Secure it firmly with two more rubber bands. Your catapult is armed and ready!
-
 ## Have fun!
 
 - 🏰 Build a tower out of plastic cups and try to knock it down.
