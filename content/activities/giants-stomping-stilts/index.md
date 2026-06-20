@@ -43,36 +43,12 @@ steps:
 
 Fee-fi-fo-fum! 🏰👣 Your little giants are about to grow TALLER with their very own stomping stilts! Transform two empty **tin cans** and some **string** into magical height-boosting stompers. Decorate them like giant's boots, learn to balance and walk, then stomp around the garden or hallway making the most satisfying CLANK CLANK CLANK sounds. It's the ultimate big-kid power-up!
 
-
-## How to Set It Up
-
-### Step 1: Prepare Your Giant's Boots
-
-⚠️ **Adult Helper Needed** — Take two large **tin cans** (baked bean or soup tins work best) and make sure they're clean and completely dry. Check there are NO sharp edges around the rim — run tape over the opened end if needed. Turn them upside down so the solid closed end faces up — this is what you'll stand on!
-
-
-### Step 2: Thread the Magic Handles
-
-⚠️ **Adult Helper Needed** — Using a nail and hammer (or a strong screwdriver), punch two holes on opposite sides of each can, near the closed (top) end. Cut two pieces of **string**, each about 1.5 metres long. Thread one string through each can's holes and tie big knots inside so they can't pull through. The string loops become your handles — they should reach up to your waist when you're standing on the cans.
-
-
-### Step 3: Decorate Your Stompers
-
-Now make them look like real giant's boots! Use **poster paint** to paint the cans in bold colours — gold for a royal giant, green for a forest troll, silver for a robot! Add **stickers**, stripes, or patterns. Let the paint dry completely before stomping. 🎨
-
-
-### Step 4: Learn to Stomp!
-
-Step onto the upturned cans (one foot on each) and hold the string handles taut by pulling them up with your hands. Keep the strings tight — this is what gives you balance! Take small steps at first, lifting each foot and pulling the string at the same time. Once you've got the rhythm: STOMP STOMP STOMP around like the biggest giant in the land! 👣💥
-
-
 ## Have fun!
 
 - 🏰 Set up a "giant's obstacle course" with cushions and boxes to stomp over!
 - 🏁 Race a friend — first giant to the finish line wins!
 - 🎵 Stomp to music and create a giant's marching band!
 - 📏 Measure how much taller you are on stilts versus without!
-
 
 ## Why It's Amazing
 
@@ -83,7 +59,6 @@ Step onto the upturned cans (one foot on each) and hold the string handles taut 
 * **Creative Expression:** Decorating the stilts and creating a giant character encourages imaginative storytelling and role play. 🎭
 
 * **Confidence Building:** Mastering a challenging physical skill builds resilience and self-confidence — "I couldn't do it, but now I CAN!" 💪
-
 
 ## Pro Tips
 
