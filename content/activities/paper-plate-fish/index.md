@@ -49,36 +49,12 @@ steps:
 
 Splish splash! 🐟 Your little ocean lovers will transform a **paper plate** into a fabulous fish with a simple, clever trick — cut a triangle wedge out for the mouth, then flip it around and glue it on the back as the tail! Paint on bright, overlapping scales, add **tissue paper** fin details, and stick on a **googly eye** for a fish that looks ready to swim away!
 
-
-## How to Set It Up
-
-### Step 1: Cut the Mouth and Tail
-
-Cut a triangle-shaped wedge from one side of a **paper plate** — like cutting a slice of pizza. This creates the fish's open mouth. Save the wedge piece — you'll use it as the tail! Use **scissors** carefully. ✂️
-
-
-### Step 2: Attach the Tail
-
-Flip the triangle wedge around and **glue** it to the opposite side of the plate, pointing outward. Now your plate has a mouth on one side and a tail fin on the other — it already looks like a fish! Press firmly and let the glue set. 🐠
-
-
-### Step 3: Paint the Scales
-
-Paint your fish with **poster paint**! Start with a base colour, then add overlapping curved lines in different shades for scales. Try blues, greens, and purples for an ocean fish, or go wild with rainbow colours! Let it dry. 🎨
-
-
-### Step 4: Add Details
-
-Stick a **googly eye** near the mouth. Cut small strips of **tissue paper** for flowing fins and glue them along the top and bottom edges. Use **markers** to add a smile, gill lines, and any extra details. Your fish is ready to swim! 🌊
-
-
 ## Have fun!
 
 - 🌊 Make a whole school of fish in different colours and sizes!
 - 🎣 Attach string and hang them from the ceiling as a mobile!
 - 📖 Learn about real fish species and try to recreate their patterns!
 - 🐙 Make other sea creatures — an octopus, starfish, or jellyfish!
-
 
 ## Why It's Amazing
 
@@ -89,7 +65,6 @@ Stick a **googly eye** near the mouth. Cut small strips of **tissue paper** for 
 * **Marine Biology:** A wonderful starting point to learn about different fish species, ocean habitats, and underwater ecosystems. 🐠
 
 * **Fine Motor Skills:** Cutting curves, painting small scale patterns, and placing details precisely all develop hand dexterity. ✋
-
 
 ## Pro Tips
 
