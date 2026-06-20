@@ -55,33 +55,6 @@ steps:
 
 You and your child will turn a simple **zip-lock bag**, some **cotton wool**, and a **bean seed** into a living science experiment right on your windowsill! 🌱✨ Over the next 5–10 days you'll watch the seed crack open, send roots downward, and push a green shoot upward — all visible through the bag. It's one of those magical moments where real biology happens right in front of your eyes!
 
-
-## How to Set It Up
-
-### Step 1: Soak the Seeds
-
-Place your **bean seeds** in a small cup or bowl of water the evening before. Leave them to soak for 8–12 hours — swollen seeds germinate much faster than dry ones! In the morning you'll notice each seed has puffed up and the outer coat may have wrinkled slightly.
-
-### Step 2: Prepare the Cotton Wool Bed
-
-Take two or three **cotton wool** balls and dampen them with water until they are moist but not dripping. Squeeze out any excess water over the sink. Open a **zip-lock bag** and push the damp cotton wool into the bottom half of the bag so it forms a soft, flat pad.
-
-### Step 3: Place the Seed
-
-Pick one soaked bean seed and press it gently against the front face of the bag, about halfway up, resting on top of the cotton wool pad. The seed should be visible through the clear plastic. Seal the bag firmly, leaving a small bubble of air inside.
-
-### Step 4: Tape It to the Window
-
-Choose a sunny window — south-facing is ideal but any bright spot works. Tear four strips of **tape** and stick the sealed bag to the glass so the seed is clearly visible from the inside. Make sure the cotton wool pad stays in contact with the bottom of the bag.
-
-### Step 5: Label and Start Your Journal
-
-Use a **marker** to write today's date and your name on the bag. Grab a piece of **paper** and a **pen** to start a seed journal — draw a picture of the seed today, and plan to draw it again each morning. Write what you observe: colour, size, any changes.
-
-### Step 6: Watch and Record
-
-Check on the seed every day! Within 2–3 days you should see a small white root pushing downward. By day 5–7 a green shoot will push upward. Keep the cotton wool damp by carefully unzipping the bag every 2 days and adding a few drops of water if needed. Draw what you see each time in your seed journal!
-
 ## Have fun!
 
 - 🌿 Once the shoot is 5 cm tall, transfer the seedling to a pot of soil and keep growing it!
