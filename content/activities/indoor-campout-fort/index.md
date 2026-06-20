@@ -40,24 +40,6 @@ steps:
 
 Turn a rainy afternoon into a wilderness adventure! You'll build a magnificent **Indoor Campout & Fort** using your sofa and a large **white sheet**. Then, you'll construct a safe, glowing indoor campfire from **cardboard tubes**, **tissue paper**, and a **flashlight** to tell stories around.
 
-## How to Set It Up
-
-### Step 1: Pitch the Tent
-
-Drape your large **white sheet** over the backs of two chairs, or from the sofa down to a coffee table. Weigh the corners down with heavy books or cushions so your 'tent' doesn't collapse.
-
-### Step 2: Build the Fire Pit
-
-Gather your **cardboard tubes** and arrange them in a circle or star shape on the floor inside your fort. These are your campfire logs!
-
-### Step 3: Add the Flames
-
-Scrunch up sheets of red, orange, and yellow **tissue paper** and pile them in the middle of your cardboard tube logs.
-
-### Step 4: Light the Fire
-
-Turn on a small **flashlight** and carefully hide it under the tissue paper pointing upwards. Turn off the room lights, and watch your indoor campfire magically glow!
-
 ## Have fun!
 
 - 👻 Take turns telling slightly-spooky or funny stories around the glowing fire.
