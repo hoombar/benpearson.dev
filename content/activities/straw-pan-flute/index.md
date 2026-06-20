@@ -40,36 +40,12 @@ steps:
 
 Musicians, warm up your lips! 🎶 Your little composers will cut **straws** to carefully measured lengths, arrange them from longest to shortest, and **tape** them together to create a genuine working pan flute. Blow across the tops and each straw produces a different musical note — shorter straws make higher sounds, longer straws make lower sounds. It's a beautiful instrument that actually plays!
 
-
-## How to Set It Up
-
-### Step 1: Cut Your Straws
-
-Take 6–8 **straws** and use **scissors** to cut them to different lengths. Start with a full-length straw, then cut each one about 1.5 cm shorter than the last. Line them up from longest to shortest to check they look like a staircase pattern. ⚠️ An adult should supervise cutting for younger children.
-
-
-### Step 2: Arrange and Tape Together
-
-Line up all your straws in order from longest to shortest, with the tops all level (the bottoms will be staggered like steps). Lay a strip of **tape** across the top third of the straws, pressing it firmly so they're all held together in a neat row. Flip over and add another strip of tape to the back for strength.
-
-
-### Step 3: Seal the Bottoms
-
-Fold a small piece of tape over the bottom of each straw to seal it shut. This is important — sealed straws produce a much clearer, louder note than open ones! Press firmly to make sure no air can escape through the bottom. Add **stickers** to decorate your flute! 🎵
-
-
-### Step 4: Play Your Flute!
-
-Hold the flute up to your mouth with the tops of the straws level with your lower lip. Blow gently across the top of each straw (not into it — across it, like blowing across a bottle). Each straw makes a different note! Try playing from left to right for a scale. Can you pick out a simple tune like "Mary Had a Little Lamb"? 🎼
-
-
 ## Have fun!
 
 - 🎵 Try to play "Twinkle Twinkle Little Star" by finding the right notes!
 - 🔬 Experiment: what happens if you cut a straw even shorter? What about really long?
 - 🎨 Make two flutes and play a duet with a friend or sibling!
 - 💧 Try filling some straws with different levels of water to change the pitch!
-
 
 ## Why It's Amazing
 
@@ -80,7 +56,6 @@ Hold the flute up to your mouth with the tops of the straws level with your lowe
 * **Pattern Recognition:** Arranging straws in order from long to short reinforces sequencing and pattern skills. 📊
 
 * **Musical Development:** Playing a tune requires listening, experimenting, and developing breath control — all musical fundamentals. 🎶
-
 
 ## Pro Tips
 
