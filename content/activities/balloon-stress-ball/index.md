@@ -46,36 +46,12 @@ steps:
 
 The ultimate squeeze toy! 🎈 Your little scientists will fill a **balloon** with **plain flour** using a funnel to create a wonderfully squishy, squeezable stress ball. The flour-filled balloon moulds to your hand, bounces back into shape, and feels incredibly satisfying to squish. Draw a funny face with **markers** and you've got a pocket-sized fidget friend!
 
-
-## How to Set It Up
-
-### Step 1: Make the Funnel
-
-Cut the top off a **plastic bottle** (about a third of the way down) to create a wide funnel. Alternatively, roll a piece of **paper** into a cone shape. Stretch the balloon opening over the funnel neck. 🔧
-
-
-### Step 2: Fill with Flour
-
-Spoon **plain flour** through the funnel into the balloon. Use a **spoon** to push it through. Fill the balloon until it's about the size of a tennis ball (roughly 3–4 spoonfuls). Tap the funnel to help flour settle down. The fuller it is, the squishier it'll be! 🌾
-
-
-### Step 3: Seal the Balloon
-
-Carefully remove the balloon from the funnel. Pinch the neck and let out any excess air (you don't want air inside — just flour). Tie the balloon neck tightly in a knot, as close to the flour as possible. Trim any excess neck with **scissors**. 🎈
-
-
-### Step 4: Decorate the Face
-
-Use **markers** to draw a face on your stress ball — googly eyes, a silly grin, a surprised expression, or a monster face! For extra durability, stretch a second balloon (with the neck cut off) over the first one for a double layer. Squeeze, squish, and enjoy! 😄
-
-
 ## Have fun!
 
 - 😜 Draw different emotions — happy, sad, angry, surprised — for a feelings toolkit!
 - 🎨 Layer two or three balloons of different colours with small holes cut in the outer ones for a polka-dot effect!
 - 🤹 Make three and try juggling them — they're the perfect weight!
 - 🔬 Try filling with rice, lentils, or sand — how does each filling feel different?
-
 
 ## Why It's Amazing
 
@@ -86,7 +62,6 @@ Use **markers** to draw a face on your stress ball — googly eyes, a silly grin
 * **Fine Motor Strength:** Regular squeezing builds hand and finger muscle strength, which helps with handwriting and other precision tasks. ✋
 
 * **Material Properties:** Comparing different fillings (flour vs. rice vs. sand) teaches observation, comparison, and descriptive vocabulary. 📊
-
 
 ## Pro Tips
 
