@@ -46,36 +46,12 @@ steps:
 
 Reach up and touch the clouds! ☁️ Your little meteorologists will paint a beautiful sky scene on **paper** with **poster paint** — bright blue sky, green hills, maybe a sunshine yellow sun — then glue real fluffy **cotton wool** clouds right on top! The contrast between the flat painted scene and the puffy 3D cotton clouds is magical and tactile. It's a picture you can feel!
 
-
-## How to Set It Up
-
-### Step 1: Paint the Sky
-
-Using a **flat paintbrush** and blue **poster paint**, paint the top two-thirds of your **paper** a lovely sky blue. You can blend lighter blue near the horizon and darker blue at the top for a realistic gradient. Add a bright yellow sun in one corner. Let the paint dry before adding clouds! 🎨
-
-
-### Step 2: Paint the Ground
-
-Paint the bottom third of the paper green for rolling hills or grass. Add some simple details — brown tree trunks, colourful flower dots, maybe a little house or a path. Keep the landscape simple since the clouds are the star of the show! Let everything dry completely. 🌳
-
-
-### Step 3: Shape and Glue Clouds
-
-Pull **cotton wool** balls apart into wispy, cloud-like shapes — stretch them thin for wispy cirrus clouds or keep them thick and puffy for cumulus clouds. Dab **PVA glue** onto the sky area and press the cotton wool into place. Layer pieces on top of each other for extra fluffiness. Build big clouds and small clouds! ☁️
-
-
-### Step 4: Add Final Details
-
-Use **markers** to add any finishing touches — birds flying near the clouds, a rainbow arching across the sky, rain lines falling from a dark cloud, or an airplane trail. Stand back and admire your 3D sky scene — it looks like the clouds might float right off the paper! 🌈
-
-
 ## Have fun!
 
 - 🌧️ Make a stormy sky — paint it dark grey and add grey-tinted cotton wool clouds with rain lines!
 - 🌅 Paint a sunset sky in oranges and pinks with golden-edged cotton clouds!
 - 🐑 Add cotton wool sheep in the fields below — they match the clouds perfectly!
 - 📚 Learn about cloud types — cumulus, stratus, cirrus — and make each one!
-
 
 ## Why It's Amazing
 
@@ -86,7 +62,6 @@ Use **markers** to add any finishing touches — birds flying near the clouds, a
 * **Weather Science:** Making different cloud shapes introduces meteorology concepts — what do different clouds look like and what weather do they bring? 🔬
 
 * **Layering and Composition:** Planning foreground (ground), middle ground (landscape), and background (sky with clouds) teaches depth and composition. 🖼️
-
 
 ## Pro Tips
 
