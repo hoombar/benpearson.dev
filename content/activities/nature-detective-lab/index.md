@@ -55,34 +55,6 @@ steps:
 
 Transform into a REAL SCIENTIST and create your very own outdoor research laboratory! 🔬🌿 You'll become a Nature Detective, exploring your backyard, local park, or even just the sidewalk outside, collecting fascinating specimens, making important discoveries, and recording your findings like a true professional researcher. This is YOUR chance to unlock the mysteries of the natural world right outside your door! 🐛🍃✨
 
-
-## How to Set It Up
-
-### Step 1: Prepare Your Detective Notebook 📔
-
-Every great scientist needs a research journal! Take your **Notebook** and use **Markers** to create a special cover page. Write "NATURE DETECTIVE LAB" in big, bold letters and draw pictures of leaves, bugs, flowers, or animals. Inside, use your **Pen** to create different sections: "Insects," "Plants," "Rocks," "Animal Clues," and "Amazing Discoveries." Draw lines to separate each section. This is where you'll record EVERYTHING you discover! 📝
-
-
-### Step 2: Gather Your Scientific Equipment 🔬
-
-Time to assemble your detective kit! Collect your **Magnifying Glass** (the scientist's most important tool!), **Small Containers** for collecting specimens (remember: we observe and then return living things to nature!), your **Notebook** and **Pen** for recording discoveries, and some **Stickers** to mark your favorite finds. You might also want to bring some **Paper** for making rubbings of tree bark or leaf textures! Put everything in a bag or box - this is your official Nature Detective Kit! 🎒
-
-
-### Step 3: Choose Your Research Zone 🗺️
-
-Pick your exploration area! This could be your backyard, a corner of a park, or even the plants growing through sidewalk cracks. The best scientists focus on one area and study it REALLY carefully instead of rushing everywhere. Mark the boundaries of your "research zone" in your **Notebook** by drawing a simple map. Label interesting features like "Big Tree," "Flower Patch," or "Rock Pile." 🌳
-
-
-### Step 4: Create Collection Stations 📦
-
-Set up your **Small Containers** in a safe spot near your research zone - this is your lab station! Use **Markers** and **Stickers** to label each container: "Leaves," "Flower Petals," "Interesting Rocks," "Seeds," etc. You can stick your **Stickers** right on the containers to make them official! Remember: only collect things that have already fallen, like dropped leaves or petals. Living creatures should be observed and released! 🦋
-
-
-### Step 5: Prepare Your Observation Sheets 📋
-
-Use **Paper** and create special observation sheets. Draw boxes and write questions like: "What did I find?", "What color is it?", "How does it feel?", "Where did I find it?", "What does it smell like?" Make several copies of this sheet. These are your official Scientific Observation Forms! Attach them to your **Notebook** with **Tape** or tuck them inside. Now you're ready to investigate! 🔍
-
-
 ## Have Fun!
 
 * 🔍 **The Magnifying Glass Challenge:** Use your **Magnifying Glass** to examine TINY details! Look at the veins in a leaf, the texture of bark, or the pattern on a pebble. Draw what you see in extreme close-up - you'll be amazed at the hidden worlds you discover!
@@ -95,7 +67,6 @@ Use **Paper** and create special observation sheets. Draw boxes and write questi
 
 * 🌦️ **Weather Detective:** Record the weather in your **Notebook** - is it sunny, cloudy, windy? Real scientists always note environmental conditions! Check how the same spot changes in different weather!
 
-
 ## Why It's Amazing
 
 * **Scientific Thinking:** Children learn to observe carefully, ask questions, make predictions, and record data - the exact same process that professional scientists use every single day! 🧪
@@ -105,7 +76,6 @@ Use **Paper** and create special observation sheets. Draw boxes and write questi
 * **Connection with Nature:** Regular outdoor exploration builds environmental awareness, respect for living things, and a lifelong appreciation for the natural world around us! 🌍
 
 * **Writing & Documentation:** Recording findings practices handwriting, descriptive language, and organizational skills while giving children a sense of pride in their scientific work! ✍️
-
 
 ## Pro Tips
 
