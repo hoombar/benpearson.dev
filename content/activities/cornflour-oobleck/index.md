@@ -39,19 +39,6 @@ steps:
 ## What You'll Create
 Oobleck — a strange, gooey mixture that behaves like both a solid and a liquid! Squeeze it in your fist and it feels rock hard. Open your hand and it drips away like liquid. Add food colouring to make it extra dramatic.
 
-## How to Set It Up
-### Step 1: Measure the Cornflour
-Pour two cups of cornflour into a large bowl and make a well in the centre. This is where you'll add the water in the next step.
-
-### Step 2: Slowly Add Water
-Add one cup of water to the cornflour a little at a time, stirring as you go. Stop when the mixture is very thick and hard to stir — do not add too much water or it becomes too runny.
-
-### Step 3: Add Colour
-Drop a few drops of food colouring into the oobleck and fold it in slowly. It will look dry, then suddenly liquid, then dry again — that's completely normal!
-
-### Step 4: Squeeze and Play
-Punch the surface hard — it's solid! Let your fist sink in slowly — it's liquid! Roll it into a ball and open your hand — watch it melt away. Try pouring it from hand to hand.
-
 ## Have fun!
 Try experiments: hit the surface sharply with a spoon. Slowly drag your finger through. Try pouring it between two bowls. Does it feel different when warm versus cold? What happens if you add a little more water?
 
