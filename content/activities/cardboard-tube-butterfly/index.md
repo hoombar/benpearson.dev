@@ -55,36 +55,12 @@ steps:
 
 Flutter flutter! 🦋 Your little lepidopterists will transform a **cardboard tube** into a gorgeous butterfly with big, colourful paper wings. Paint the tube as the body, cut bold wing shapes from **paper**, decorate them with vibrant patterns, attach them to the sides, add curly **pipe cleaner** antennae and **googly eyes** — it's a beautiful creature that brightens any room!
 
-
-## How to Set It Up
-
-### Step 1: Paint the Body
-
-Paint a **cardboard tube** with bright **poster paint** — try a bold colour like purple, blue, or green for the body. Cover the whole tube and let it dry completely. This is the butterfly's body! 🎨
-
-
-### Step 2: Make the Wings
-
-Fold a sheet of **paper** in half. Draw a large wing shape along the fold — like a big letter B or a cloud shape. Cut it out (keeping the fold) and open it up to reveal two perfectly symmetrical wings! Decorate with **markers** — add spots, stripes, swirls, and bright colours. ⚠️ Adult Helper Needed for younger children with scissors. ✂️
-
-
-### Step 3: Attach the Wings
-
-Spread **PVA glue** or use **tape** along the centre fold of the wings. Press the fold firmly onto the back of the painted tube, centred vertically. Hold for a moment until secure. The wings should fan out on either side of the body. 🦋
-
-
-### Step 4: Add Face and Antennae
-
-Stick two **googly eyes** onto the top front of the tube. Cut a **pipe cleaner** in half and curl each end into a spiral or ball. Poke or tape the straight ends to the inside top of the tube — antennae! Use a **marker** to add a little smile. Your butterfly is ready to fly! 🌸
-
-
 ## Have fun!
 
 - 🌺 Make a whole garden — butterflies, bees, and flowers from paper!
 - 🔬 Look up real butterfly species and recreate their wing patterns!
 - 📖 Learn about the butterfly lifecycle — egg, caterpillar, chrysalis, butterfly!
 - 🎨 Try symmetry painting — fold painted wings while wet for mirror patterns!
-
 
 ## Why It's Amazing
 
@@ -95,7 +71,6 @@ Stick two **googly eyes** onto the top front of the tube. Cut a **pipe cleaner**
 * **Creative Expression:** Wing decoration is completely open-ended — spots, stripes, gradients — every butterfly is one of a kind. 🎨
 
 * **Fine Motor Development:** Folding, cutting curves, decorating symmetrically, and assembling 3D parts all build hand dexterity. ✋
-
 
 ## Pro Tips
 
