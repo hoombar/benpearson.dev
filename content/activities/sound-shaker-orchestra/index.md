@@ -46,36 +46,12 @@ steps:
 
 Maestros, take your positions! 🎵🎶 Your little musicians will build an entire orchestra of percussion instruments — a family of shakers that each make completely different sounds! Fill **plastic bottles** with different materials like **uncooked rice**, **tube pasta**, and beans, seal them up, decorate them, and discover how changing the filling changes the MUSIC. Then put on a concert for the whole family!
 
-
-## How to Set It Up
-
-### Step 1: Choose Your Sound Fillings
-
-Gather different items from the kitchen that make noise when shaken: **uncooked rice** (makes a gentle swishy sound), **tube pasta** (makes a loud rattling clatter), dried lentils or beans (make a solid thunk-thunk), small buttons or beads (a bright tinkling jingle). Line them up so you can see all your options!
-
-
-### Step 2: Fill Your Shaker Bottles
-
-Take 3–4 small **plastic bottles** (water bottles work perfectly). Pour a different filling into each one — fill them about one-third full. This is important: too much filling and the pieces can't move freely; too little and the sound is too quiet. Screw the caps on tightly, then wrap **tape** around each cap for extra security. 🔒
-
-
-### Step 3: Decorate Your Instruments
-
-Every instrument in an orchestra looks different! Use **poster paint** and **stickers** to give each shaker its own personality. Paint the rice shaker blue ("The Raindrop"), the pasta shaker red ("The Thunder"), the lentil shaker green ("The Heartbeat"). Add the instrument's name on a sticker label! 🎨
-
-
-### Step 4: Conduct Your Orchestra!
-
-Now play! Shake each bottle and listen carefully to the different sounds — which is your favourite? Try shaking fast, slow, hard, soft. Put on your favourite song and play along, choosing different shakers for different parts of the music. Take turns being the conductor — the conductor points to a shaker and that musician plays! 🎼
-
-
 ## Have fun!
 
 - 🎵 Play "freeze dance" — shake along to music and FREEZE when it stops!
 - 🥁 Create a rhythm pattern (shake-shake-pause-shake) and see if others can copy it!
 - 🔊 Close your eyes and guess which shaker someone else is playing — train your ear!
 - 🎶 Record your family orchestra performance on a phone!
-
 
 ## Why It's Amazing
 
@@ -86,7 +62,6 @@ Now play! Shake each bottle and listen carefully to the different sounds — whi
 * **Cause and Effect:** Changing the filling, the amount, or the shaking force all change the sound — perfect for scientific experimentation! 🧪
 
 * **Social Skills:** Playing together as an "orchestra" requires listening, turn-taking, and following a conductor — brilliant group cooperation! 🤝
-
 
 ## Pro Tips
 
