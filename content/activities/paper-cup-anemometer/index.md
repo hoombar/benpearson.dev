@@ -46,36 +46,12 @@ steps:
 
 Your own weather instrument! 🌬️ Your little meteorologists will build a real working **anemometer** (wind-speed measurer) by attaching **paper cups** to **straws** that cross through a central pivot. Take it outside and watch the cups catch the wind and spin — count the rotations to measure wind speed just like real weather stations do!
 
-
-## How to Set It Up
-
-### Step 1: Prepare the Cups
-
-Take four **paper cups** and poke a small hole near the rim of each one using **scissors** or a pencil point. The holes should all be at the same height. Colour one cup with a **marker** so you can count rotations easily. ⚠️ Adult Helper Needed for poking holes. ✂️
-
-
-### Step 2: Build the Cross
-
-Take two **straws** and push one through the other at their midpoints to form a plus-sign (+) cross. Secure the intersection with a small piece of **tape** so they don't slide apart. This is the spinning arm of your anemometer. ➕
-
-
-### Step 3: Attach the Cups
-
-Push one end of each straw through the hole in a paper cup. Tape the straw to the inside of the cup so it's secure. All four cups should face the same rotational direction (clockwise or anti-clockwise) — this catches the wind and makes the cross spin. 🥤
-
-
-### Step 4: Add the Pivot and Test
-
-Push a pencil or pen through the centre of the straw cross as a vertical pivot. Stick the pencil into a ball of modelling clay or tape it to a stick to hold it upright outdoors. Hold it up in the wind and watch it spin! Count how many times the coloured cup passes in 30 seconds to measure wind speed. 🌪️
-
-
 ## Have fun!
 
 - 📊 Make a wind diary — measure the wind speed at the same time each day for a week!
 - 🏃 Run with your anemometer and watch it spin faster — you're making your own wind!
 - 🎨 Decorate the cups in different colours so the spinning creates a colour blur!
 - 📻 Check your readings against a real weather forecast — how close were you?
-
 
 ## Why It's Amazing
 
@@ -86,7 +62,6 @@ Push a pencil or pen through the centre of the straw cross as a vertical pivot. 
 * **Data Collection:** Counting spins and recording results over time introduces scientific measurement and data analysis skills. 📊
 
 * **Engineering Design:** Getting all cups to face the same direction and balancing the cross teaches careful assembly and troubleshooting. 🔧
-
 
 ## Pro Tips
 
