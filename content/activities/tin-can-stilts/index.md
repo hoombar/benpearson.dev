@@ -40,36 +40,12 @@ steps:
 
 Fee-fi-fo-fum! 🦶 Your little giants will make their own walking stilts from two **tin cans** and **string**! Stand on the upturned cans, hold the strings tight, and clonk-clonk-clonk around the garden feeling metres taller than usual. It's a classic childhood toy that's been delighting kids for generations — and it's brilliant for balance and coordination!
 
-
-## How to Set It Up
-
-### Step 1: Prepare the Cans
-
-Find two matching **tin cans** (large baked bean or soup cans work perfectly). Make sure they're clean and dry with no sharp edges. ⚠️ Adult Helper Needed: Use a nail and hammer to poke two holes on opposite sides of each can, near the closed (bottom) end. The holes should be big enough for string to pass through. 🥫
-
-
-### Step 2: Thread the String
-
-Cut two long pieces of **string** — each needs to reach from the can on the ground up to the child's hands when standing. Thread each string through both holes in a can and tie the ends together inside to make a loop handle. The loop should be taut when the child stands on the can and holds the string. 🧶
-
-
-### Step 3: Decorate Your Stilts
-
-Use **markers** or **stickers** to decorate the outside of each can. Draw monster feet, animal prints, robot panels, or rainbow stripes! Make them as wild and colourful as you like — they're your personal stilts! 🎨
-
-
-### Step 4: Walk Like a Giant
-
-Take your stilts outside to a flat surface. Step onto the cans (closed end up), hold the strings tight against the cans with your hands, and walk! Keep the strings pulled taut — that's the secret to balance. Start slow and build up speed. Stomp, march, race! 🏃
-
-
 ## Have fun!
 
 - 🏁 Set up an obstacle course to navigate on your stilts!
 - 📏 Measure how tall you are on stilts vs without — how much taller?
 - 🎪 Put on a circus show with stilts, juggling, and balancing acts!
 - 🦕 Pretend you're a dinosaur stomping through the jungle!
-
 
 ## Why It's Amazing
 
@@ -80,7 +56,6 @@ Take your stilts outside to a flat surface. Step onto the cans (closed end up), 
 * **Engineering Understanding:** Children see how the string-and-can mechanism works — tension keeps them balanced. A simple machine in action! ⚙️
 
 * **Persistence and Grit:** Nobody walks perfectly on stilts the first time! Learning to fall, get back up, and try again builds resilience and determination. 🧠
-
 
 ## Pro Tips
 
