@@ -46,36 +46,12 @@ steps:
 
 Ka-ching! 🪙 Your young engineers will build a real working **coin sorting machine** from a **cardboard box**! Cut slots of increasing size into a ramp inside the box — small coins fall through the first slot, medium coins through the second, and large coins roll to the end. Drop a handful of mixed coins in the top and watch them sort themselves by size. It's like magic, but it's engineering!
 
-
-## How to Set It Up
-
-### Step 1: Prepare the Box
-
-Find a **cardboard box** (a shoebox is ideal). Stand it on its side so the open end faces up. Use **scissors** and a **ruler** to measure and mark where you'll cut the coin slots. You need a ramp inside the box — cut a piece of cardboard to fit diagonally from near the top to the bottom. ⚠️ Adult Helper Needed for cutting. 📦
-
-
-### Step 2: Cut the Sorting Slots
-
-Cut slots in the ramp piece, starting with the narrowest. Measure your actual **coins** — the smallest coin needs the first slot, the next size gets the second slot, and so on. Cut each slot just slightly wider than its target coin. Make 3–4 slots, each a bit bigger than the last. Use a ruler to keep them straight. 📏
-
-
-### Step 3: Assemble the Machine
-
-Glue or **tape** the ramp inside the box at a slight angle (so coins roll down). Add cardboard dividers below each slot to create collection compartments. The coin enters at the top, rolls down the ramp, and drops through the first slot it fits through! Test with actual coins and adjust. 🔧
-
-
-### Step 4: Test and Label
-
-Drop different coins in one at a time to test your sorter. Do small coins fall through the first slot? Do large coins pass over all the small slots? Adjust any slots that are too tight or too wide. Use **markers** to label each compartment and decorate your machine! 🏦
-
-
 ## Have fun!
 
 - 💰 Sort all the coins in the house — how much money is there in total?
 - 🏦 Build a slot in the top to make it a combined sorter and piggy bank!
 - 📊 Count how many of each coin type you have — make a bar chart!
 - 🔬 Experiment with coins from different countries — will they sort correctly?
-
 
 ## Why It's Amazing
 
@@ -86,7 +62,6 @@ Drop different coins in one at a time to test your sorter. Do small coins fall t
 * **Maths Connection:** Sorting, counting, and totalling coins naturally incorporates addition, multiplication, and understanding of monetary value. 🔢
 
 * **Problem-Solving:** When a coin gets stuck or goes to the wrong slot, troubleshooting develops critical thinking and patience. 🧠
-
 
 ## Pro Tips
 
