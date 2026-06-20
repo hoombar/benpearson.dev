@@ -46,28 +46,6 @@ steps:
 
 Design and build your very own cipher wheel — a spinning code machine used by spies and secret agents for hundreds of years! 🕵️ Your wheel encodes any message into unreadable gibberish that only someone with a matching wheel can decode. Make two wheels and swap secret messages with a friend!
 
-## How to Set It Up
-
-### Step 1: Cut Two Circles
-
-Lay a sheet of **paper** flat on the table. Use a **ruler** and **pen** to draw two circles: one with a radius of 6 cm (12 cm across) and one with a radius of 4.5 cm (9 cm across). Use a round cup or glass as a guide if you like. Carefully cut both circles out with **scissors** — cut slowly and keep as close to the line as possible for clean edges.
-
-### Step 2: Divide Into 26 Sections
-
-Fold the large circle in half, then in half again to make quarters, then in half twice more to make sixteenths. Unfold and use the fold lines as guides to draw 26 roughly equal sections (add a couple of extra lines by eye). Write one letter of the alphabet — A through Z — in each wedge, going clockwise around the edge. Repeat the exact same process on the smaller circle. Both circles must have all 26 letters in the same clockwise order.
-
-### Step 3: Attach the Wheels
-
-Lay the smaller circle exactly on top of the larger circle so both are centred. Use the tip of a pen to push a small hole through the exact centre of both circles at once. Unfold one arm of a **paper clip**, push the straight end through the hole from the front, and splay the arms apart on the back. The smaller inner wheel should now spin freely over the larger outer wheel.
-
-### Step 4: Set Your Secret Key
-
-Rotate the inner wheel until the letter A on the inner wheel lines up with a chosen letter on the outer wheel — for example, D. This is your code key (written A=D). Now A in your real message becomes D, B becomes E, and so on around the alphabet. Write down your code key and keep it secret — both you and your friend must set your wheels to the same key.
-
-### Step 5: Write and Decode Messages
-
-To encode: find each letter of your real message on the inner wheel and write down the matching outer wheel letter instead. To decode: find each letter of the coded message on the outer wheel and write down the matching inner wheel letter. Pass the coded message to your friend along with the secret key — only someone who knows the key can crack it! 🔐
-
 ## Have fun!
 
 - 🕵️ Write a coded birthday message or secret party invitation.
