@@ -40,24 +40,6 @@ steps:
 
 Turn your garden or patio into a wild river rapids course! 🌊 Using long sheets of **Aluminium Foil**, you will engineer a custom riverbed. Once you add **Water**, you'll have a flowing stream perfect for racing a **Small Plastic Figurine** or a bottle cap. It's a fantastic way to learn about gravity and water flow while having a splash!
 
-## How to Set It Up
-
-### Step 1: Shape the Riverbed
-
-Find a slightly sloping surface outside (like a driveway or a garden path). Unroll a long piece of **Aluminium Foil** and fold up the long edges to create 'walls' so the water stays inside. You can make your river straight, or add twists and turns!
-
-### Step 2: Bridge the Gaps
-
-If you want a really long river, overlap several pieces of foil. Make sure the higher piece of foil sits *inside* the lower piece so the water flows smoothly over the join without leaking underneath.
-
-### Step 3: Add the Rapids
-
-Place small stones or crumpled bits of foil under the riverbed to create bumps and 'rapids'. This will make the water flow in interesting ways and make the race more challenging for your **Small Plastic Figurine**!
-
-### Step 4: Ready, Set, Flow!
-
-Slowly pour **Water** at the top of your river. You can also use a **Spray Bottle** to create 'rain'. Place your toys at the start line and see which one reaches the bottom first. Adjust the slope or the obstacles if they get stuck!
-
 ## Have fun!
 
 - 🏁 Race two different toys at once and see which shape is more aerodynamic.
