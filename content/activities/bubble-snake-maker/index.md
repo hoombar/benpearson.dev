@@ -49,36 +49,12 @@ steps:
 
 Get ready for the most spectacular bubbles you've ever seen! 🫧 Your little bubble engineers will transform a **plastic bottle** and an old **sock** into a magical bubble snake machine. Dip the sock end into **washing-up liquid** solution, blow gently through the neck of the bottle, and out comes an incredible, wriggling, multicoloured snake made entirely of tiny bubbles — it just keeps going and going!
 
-
-## How to Set It Up
-
-### Step 1: Cut the Bottle
-
-⚠️ **Adult Helper Needed** — Take an empty **plastic bottle** (500ml works great) and carefully cut the bottom off with **scissors**. You want a clean, smooth cut. Recycle the bottom piece. The neck end stays intact — this is where you blow! Make sure there are no sharp edges. 🍼
-
-
-### Step 2: Attach the Sock
-
-Stretch an old **sock** over the cut end of the bottle. Pull it on tight so the fabric is taut across the opening like a drum skin. Use **tape** or a **rubber band** to secure it in place so it won't slip off when you blow. The sock fabric is the secret — it splits your breath into hundreds of tiny bubbles! 🧦
-
-
-### Step 3: Mix Bubble Solution
-
-Mix **washing-up liquid** with a splash of **water** in a shallow bowl or plate. About two tablespoons of washing-up liquid to a cup of water works well. You want it nice and soapy! Stir gently — you don't want foam yet, save the bubbles for the snake! 🫧
-
-
-### Step 4: Blow Your Bubble Snake
-
-Dip the sock end of your bottle into the bubble solution, making sure the fabric is nicely coated. Then blow gently and steadily through the bottle neck. Watch in amazement as a magnificent, wriggling snake of tiny bubbles emerges from the sock! Keep blowing for the longest snake you can make! 🐍
-
-
 ## Have fun!
 
 - 🌈 Add drops of food colouring to the sock for a rainbow-striped bubble snake!
 - 🏆 Have a competition — who can blow the longest snake before it breaks?
 - 🎶 Try different blowing speeds — gentle makes a thick snake, hard makes a long thin one!
 - 🧪 Experiment with the soap mixture — more soap = better bubbles!
-
 
 ## Why It's Amazing
 
@@ -89,7 +65,6 @@ Dip the sock end of your bottle into the bubble solution, making sure the fabric
 * **Engineering Mindset:** Building the tool from recycled materials shows children they can invent and create useful things from everyday objects. 🛠️
 
 * **Sensory Joy:** The tactile, visual experience of a massive bubble snake emerging is pure magic — it sparks wonder and curiosity. ✨
-
 
 ## Pro Tips
 
