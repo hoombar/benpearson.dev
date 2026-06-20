@@ -43,36 +43,12 @@ steps:
 
 Turn breakfast leftovers into art gallery masterpieces! 🎨 Your little artists will save **eggshells**, dye them in brilliant colours using **food colouring**, crush them into tiny mosaic pieces, and glue them onto paper to create stunning textured artwork. The crackled effect looks incredibly professional — like ancient Roman mosaics, but made at the kitchen table!
 
-
-## How to Set It Up
-
-### Step 1: Prepare and Clean the Shells
-
-Collect shells from 4–6 **raw eggs** (use the eggs for cooking — don't waste them!). Rinse the shells thoroughly under water and peel off any inner membrane. Let them dry on a paper towel. ⚠️ An adult should handle the raw eggs and ensure proper hand-washing afterwards.
-
-
-### Step 2: Dye the Shells
-
-Put a few cleaned shell pieces into small cups or bowls. Add a splash of water and 10–15 drops of **food colouring** to each cup — use different colours! Red, blue, green, yellow — the more colours, the better your mosaic palette. Let the shells soak for 10–15 minutes, then take them out and let them dry on paper towels. 🌈
-
-
-### Step 3: Crush and Sort Your Tiles
-
-Once the dyed shells are dry, gently crush them into small pieces — not too fine, you want pieces about the size of your little fingernail. Sort them by colour into separate piles or cups. These are your mosaic "tiles"! You can also add some white uncoloured shell pieces for contrast.
-
-
-### Step 4: Create Your Mosaic
-
-Draw a simple design on a sheet of **paper** — a flower, a rainbow, a heart, a fish, or any shape you like. Use **pipe cleaners** bent into shape as a border if you want raised edges. Spread **PVA glue** thickly over one section at a time, then carefully press the coloured shell pieces onto the glue, fitting them together like a jigsaw with small gaps between. Fill the whole design section by section. Let it dry flat overnight! 🖼️
-
-
 ## Have fun!
 
 - 🌸 Make a mosaic flower garden with different coloured petals!
 - 🌈 Create a rainbow using all the colours in order!
 - 🐟 Make underwater scenes with blue and green shells!
 - 🎁 Frame your finished mosaic and give it as a gift!
-
 
 ## Why It's Amazing
 
@@ -83,7 +59,6 @@ Draw a simple design on a sheet of **paper** — a flower, a rainbow, a heart, a
 * **Sustainability Lesson:** Turning food waste into art teaches children that "rubbish" can become something beautiful. ♻️
 
 * **Patience & Planning:** Mosaics require working section by section — children learn to plan ahead and delay gratification for a beautiful result. 🧠
-
 
 ## Pro Tips
 
