@@ -43,24 +43,6 @@ steps:
 
 Turn an ordinary tube into a magical musical instrument! By combining a **Cardboard Tube**, spiralled **Aluminium Foil**, and **Uncooked Rice**, you and your child will engineer a DIY Rainstick. When you tip it over, the rice cascades through the foil maze, creating the soothing, realistic sound of falling rain. 🌧️🎶
 
-## How to Set It Up
-
-### Step 1: Seal One End
-
-Take your **Cardboard Tube** (a long paper towel tube works best) and trace its end onto a piece of paper. Cut out the circle, leaving a wide margin, and use **Tape** to securely seal one end of the tube so nothing can escape.
-
-### Step 2: Create the Foil Maze
-
-Tear off a long sheet of **Aluminium Foil**. Twist and scrunch it into a long snake, then coil it into a spring or spiral shape. Drop this foil spring inside the tube—it should fill most of the length.
-
-### Step 3: Add the Rain
-
-Pour a small handful of **Uncooked Rice** into the open end of the tube. Cover the open end with your hand and tip it over to test the sound. Add more rice if needed until you get the perfect rain noise!
-
-### Step 4: Seal and Decorate
-
-Seal the top end just like you did the bottom with paper and tape. Now, grab your **Markers** and decorate the outside of the stick with raindrops, clouds, or vibrant tribal patterns!
-
 ## Have fun!
 
 - ☔ Close your eyes, tip the stick slowly, and imagine a gentle spring shower.
