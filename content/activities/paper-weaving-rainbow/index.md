@@ -43,26 +43,6 @@ steps:
 
 Transform strips of colourful **paper** into a gorgeous woven rainbow placemat or wall decoration! 🌈✂️ Your child will weave strips over and under each other to create a magical interlocking pattern — it looks impressively complex, but the technique is wonderfully simple once you get the rhythm.
 
-
-## How to Set It Up
-
-### Step 1: Prepare Your Loom
-
-Take a large sheet of **paper** (A4 or bigger). Fold it in half lengthways, then use **scissors** to cut slits from the folded edge towards the open edge — stop about 2 cm from the open edge so the strips stay connected. Unfold: you now have your loom!
-
-### Step 2: Make the Weaving Strips
-
-Cut several more sheets of paper into long strips about 2 cm wide. Colour each strip a bold rainbow hue using **colouring pencils** or **markers** — red, orange, yellow, green, blue, violet. The more vivid the better! 🎨
-
-### Step 3: Weave!
-
-Take your first coloured strip and weave it over the first slit, under the second, over the third, and so on across the loom. Tuck the ends under and secure with a tiny piece of **tape**. Start the next strip by going UNDER first — alternating each row creates the woven pattern.
-
-### Step 4: Finish and Display
-
-Once all slits are filled, fold any overhanging ends to the back and tape them down. Punch a hole at the top and hang it as wall art, or laminate it to use as a real placemat!
-
-
 ## Have fun!
 
 - 🌈 Try a gradient — light colours on one side fading to dark on the other
@@ -71,14 +51,12 @@ Once all slits are filled, fold any overhanging ends to the back and tape them d
 - ✂️ Cut strips in different widths for a chunky vs. fine weave effect
 - 🏅 Challenge: can you weave a pattern that spells your initial?
 
-
 ## Why It's Amazing
 
 * **Fine Motor Skills:** The precise over-under threading massively strengthens hand-eye coordination and finger dexterity — exactly what growing hands need. 🖐️
 * **Pattern Recognition:** Children must apply the alternating rule consistently, building early maths thinking and logical sequencing. 🧮
 * **Focus and Perseverance:** This quiet, absorbing activity rewards concentration. Finishing the full mat delivers a huge sense of accomplishment. 🏆
 * **Colour Theory:** Choosing and combining hues develops aesthetic awareness and creative decision-making. 🎨
-
 
 ## Pro Tips
 
