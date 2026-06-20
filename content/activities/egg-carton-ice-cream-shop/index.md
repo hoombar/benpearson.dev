@@ -52,36 +52,12 @@ steps:
 
 A delicious-looking ice cream parlour — no freezer needed! 🍦 Your little shop owners will paint **egg carton** cups as ice cream scoops in every flavour imaginable, roll **paper** into cone shapes, stack scoops on top, and set up a pretend ice cream shop. Take orders, serve customers, and invent crazy new flavours — the fun never melts!
 
-
-## How to Set It Up
-
-### Step 1: Make the Scoops
-
-Cut individual cups from an **egg carton** — each cup is one scoop of ice cream! Paint them with **poster paint** in flavour colours — pink for strawberry, brown for chocolate, yellow for vanilla, green for mint, white with spots for cookies and cream. Let dry. 🎨
-
-
-### Step 2: Make the Cones
-
-Cut semi-circles from tan or brown **paper** (about 12 cm across). Roll each into a cone shape and secure with **tape** or **PVA glue**. Draw a criss-cross waffle pattern on the outside with a **marker** for a realistic look. 🍦
-
-
-### Step 3: Assemble the Ice Creams
-
-Dab **PVA glue** inside the top of a cone and press a painted scoop on top. Stack double or triple scoops by gluing scoops together. Add details — a small red pompom or paper circle on top as a cherry! Let everything dry before playing. 🍒
-
-
-### Step 4: Set Up the Shop
-
-Arrange your ice creams in a row. Make a menu on **paper** listing flavours and prices. Take turns being the shop owner and the customer — ask "What flavour would you like?" and serve the ice cream with a smile! 🏪
-
-
 ## Have fun!
 
 - 🍨 Invent crazy flavours — dragon fruit, unicorn swirl, alien green slime!
 - 💰 Practice counting coins by giving each flavour a price and making change!
 - 🧮 Practice addition — "One scoop is 50p, two scoops cost...?"
 - 🎨 Add cotton wool on top as whipped cream and glitter as sprinkles!
-
 
 ## Why It's Amazing
 
@@ -92,7 +68,6 @@ Arrange your ice creams in a row. Make a menu on **paper** listing flavours and 
 * **Colour Mixing:** Creating realistic flavour colours (mixing white into colours for pastel shades) teaches colour theory. 🎨
 
 * **Fine Motor Skills:** Rolling cones, cutting cups, painting small objects, and stacking scoops all build hand dexterity. ✋
-
 
 ## Pro Tips
 
