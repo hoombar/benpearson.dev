@@ -40,20 +40,6 @@ steps:
 
 Secret messages that only appear when heated! 🕵️ Using **lemon juice** as invisible ink and a lamp or hair dryer as the revealer, you'll write hidden messages, encode them in cipher, and challenge friends and family to decode them. Real spy craft, real chemistry.
 
-## How to Set It Up
-
-### Step 1: Prepare the Invisible Ink
-
-Squeeze fresh **lemon juice** into a **small container** — about 2 tablespoons is plenty. Dip the tip of a **pen** (or a cotton bud) into the juice and write on a clean sheet of **paper**. The writing vanishes as it dries — don't let it smudge while wet!
-
-### Step 2: Write Your Secret Message
-
-Write a complete message, letting each line dry for one minute before writing the next. For extra security, write every word backwards, or swap vowels for numbers (a=1, e=2, i=3...). The double encryption makes it doubly secret! Let the paper dry completely before handling.
-
-### Step 3: Reveal the Hidden Words
-
-Hold the dried paper 2–3 cm below a **flashlight** or lamp bulb, or warm it gently with a hair dryer on a low setting. Watch the lemon juice oxidise and turn light brown, revealing the secret message letter by letter — like magic!
-
 ## Have fun!
 
 - 🔐 Create a cipher key on a separate sheet and hide it in a different room
