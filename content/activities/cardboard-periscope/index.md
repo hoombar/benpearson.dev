@@ -63,38 +63,6 @@ Ahoy, Captain! 🚢 You're about to build your very own **periscope** — the se
 
 Once it's built, you'll be able to hold it up and see things that are above your head or hidden around corners — just like a real submarine commander scanning the horizon! This is the ultimate spy gadget! 🔭
 
-## How to Set It Up
-
-### Step 1: Prepare Your Tubes
-
-Take two **cardboard tubes** (kitchen roll tubes work perfectly). If you only have one long tube, ask a grown-up to help cut it in half. Each tube should be about 15–20 cm long. Stand them side by side to make sure they're roughly the same length. ✂️
-
-### Step 2: Cut the Viewing Windows
-
-⚠️ **Adult Helper Needed** — This step uses scissors to cut cardboard.
-
-On the first tube, cut a small rectangular window (about 3 cm × 2 cm) near one end. On the second tube, cut an identical window near one end. These are your viewing holes — one for your eye and one to let light in at the top! Hold each tube up and peek through the window to make sure you can see through it clearly. 👀
-
-### Step 3: Make the Foil Mirrors
-
-Tear off two squares of **aluminium foil**, each about 8 cm × 8 cm. Wrap each square tightly around a small piece of flat **cardboard** (cut from a cereal box or similar) that's about 6 cm × 6 cm. Pull the foil as smooth and flat as you can — the smoother the foil, the better your reflection will be! These are your mirrors! ✨
-
-### Step 4: Position the First Mirror
-
-Slide one foil mirror into the bottom of the first tube at a 45-degree angle. The shiny side should face UP toward the viewing window. The mirror should sit diagonally across the inside of the tube, like a ramp. Use small rolls of **tape** to hold the mirror firmly in place. 📐
-
-### Step 5: Position the Second Mirror
-
-Slide the second mirror into the bottom of the second tube at a 45-degree angle, with the shiny side facing the viewing window. Just like the first one, it should sit diagonally across the tube. Secure it tightly with **tape**. 📏
-
-### Step 6: Join the Tubes Together
-
-Stack the two tubes together so that the open ends (the ones without the windows) are touching. Make sure the viewing windows are facing in opposite directions! Wrap **tape** tightly around the joint where the tubes meet to hold them securely. ⚓
-
-### Step 7: Decorate Your Periscope
-
-Use **markers**, **coloured paper**, and **stickers** to decorate your periscope. You could make it look like a sleek black submarine periscope, or use camo colours for a secret spy mission! 🎨
-
 ## Have fun!
 
 - 🕵️ Go on a 'spy mission' around the house and see if you can spot anyone without them seeing you!
