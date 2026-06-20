@@ -46,24 +46,6 @@ steps:
 
 You'll use shaving cream as a magical canvas to create beautiful marble-effect paper! 🌊 Swirl colours through the foam, press your **paper** on top, then scrape away the cream to reveal a breathtaking marbled pattern underneath. It looks like something an artist spent hours painting — but it takes just 10 minutes!
 
-## How to Set It Up
-
-### Step 1: Spread the Cream
-
-Shake the **shaving cream** can and squeeze a generous layer into your **baking tray** — about 1–2 cm deep. Use your **ruler** or a piece of card to spread it flat and level across the whole tray, like you're icing a cake. The smoother and more even the surface, the better your marble pattern will transfer!
-
-### Step 2: Add Colour Swirls
-
-Drop 3–4 drops of **food colouring** in different spots across the cream — use two or three colours for the richest effect. Drag the tip of a **pen** through the cream in long, sweeping S-curves to swirl the colours together. Don't over-mix or the colours will merge into a muddy grey — 4–6 strokes is perfect!
-
-### Step 3: Press the Paper
-
-Lay one sheet of **paper** face-down onto the cream and press gently with flat hands to make full, even contact. Hold for 30 seconds — don't rub or slide the paper, just press and hold. The cream needs time to transfer its coloured pattern to the paper fibres.
-
-### Step 4: Reveal the Pattern
-
-Lift one corner of the paper and peel it back slowly. Place it face-up on a sheet of newspaper. Hold your **ruler** flat at one edge and drag it firmly across the paper in one smooth stroke to scrape all the cream off. Beneath the cream, a stunning marble pattern is revealed! 🎨 Leave flat to dry.
-
 ## Have fun!
 
 - 🎨 Try warm colours (red, orange, yellow) in one batch and cool colours (blue, green, purple) in another.
