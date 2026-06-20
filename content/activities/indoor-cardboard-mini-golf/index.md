@@ -43,24 +43,6 @@ steps:
 
 You and your child will become master course designers, transforming your living room floor into an epic, 4-hole mini-golf tournament! You will craft cardboard tunnels, ramps, and trick-shots, using a **cardboard tube** as your putter and **marbles** as your golf balls.
 
-## How to Set It Up
-
-### Step 1: Design the Holes
-
-Gather your **cardboard boxes**. Cut them in half or take the flaps off so they sit flat on the floor. Draw a circle for the 'hole' or cut an archway for the marble to roll through.
-
-### Step 2: Build the Obstacles
-
-Use extra cardboard and **tape** to build ramps, zig-zag bumpers, or bridges in front of your archways. The harder it is to reach the hole, the better!
-
-### Step 3: Craft the Clubs
-
-Take a long **cardboard tube** (like from wrapping paper) and tape a smaller piece of cardboard to the bottom to create the flat head of your golf club. Make one for each player.
-
-### Step 4: Play the Course
-
-Set your **marbles** at the starting line of hole 1. Take turns gently tapping the marble with your club, counting how many strokes it takes to get it through the archway!
-
 ## Have fun!
 
 - 🏆 Keep a scorecard and crown the Mini-Golf Champion of the house!
