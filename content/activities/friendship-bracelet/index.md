@@ -36,19 +36,6 @@ steps:
 ## What You'll Create
 A traditional knotted friendship bracelet in your favourite colours! Using a forward-knot technique, you'll weave diagonal stripes across strands of string. It takes practice but once you have the rhythm it's wonderfully satisfying — and makes a perfect gift.
 
-## How to Set It Up
-### Step 1: Cut and Tie the Strings
-Cut four to six strands of string, each about 60 cm long. Choose different colours. Knot them all together at one end leaving a 5 cm tail, then tape the knot to a table or clipboard to hold it steady while you work.
-
-### Step 2: Sort the Strands
-Spread the strands out side by side. Note the order from left to right — this determines your colour pattern. The leftmost strand will be your working strand.
-
-### Step 3: Tie the Forward Knot
-Take the leftmost strand and loop it over the strand next to it in a figure-of-four shape. Pull it through and tighten — that's one forward knot! Make two forward knots on each strand before moving to the next. Repeat all the way across.
-
-### Step 4: Continue Row by Row
-After one full pass, your former leftmost strand is now on the right. Continue knotting row by row in the same way. Diagonal stripes appear as you work. When the bracelet fits a wrist, finish with a knot and trim the ends.
-
 ## Have fun!
 Try alternating four colours for a chevron or candy-stripe pattern. Add a bead or button to the finished bracelet. Legend says you must wear your friendship bracelet until it falls off naturally for the wish to come true!
 
