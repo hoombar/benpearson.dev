@@ -46,24 +46,6 @@ steps:
 
 You and your little wizards will transform a simple glass jar into a magical cauldron! 🧙‍♂️✨ By mixing everyday kitchen ingredients, you'll brew a spectacular, colourful, foaming potion that erupts just like real magic. It's a fantastic sensory experience that doubles as an exciting introduction to chemical reactions.
 
-## How to Set It Up
-
-### Step 1: Prepare the Cauldron
-
-Place your **Glass Jar** on a baking tray or inside a large bowl to catch the magical overspill. Fill the jar about halfway with water and stir in a generous squirt of **Washing-up Liquid**.
-
-### Step 2: Add the Magic Dust
-
-Spoon in 3 to 4 tablespoons of **Baking Soda** and a heavy sprinkle of **Glitter**. Stir everything together until the magic dust is completely hidden in the soapy water.
-
-### Step 3: Mix the Dragon's Blood
-
-In a separate cup, pour about half a cup of **White Vinegar** and add 5-6 drops of **Food Colouring**. Choose your potion's power: green for a goblin's brew, purple for a wizard's spell, or red for dragon's blood! 🐉
-
-### Step 4: Unleash the Magic
-
-Get ready for the enchantment! Slowly pour the coloured vinegar into your glass jar cauldron and watch in amazement as the sparkling potion erupts and foams over the sides! ✨
-
 ## Have fun!
 
 - 🧙‍♀️ Dress up in wizard hats or capes while brewing your potion.
