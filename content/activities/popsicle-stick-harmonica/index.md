@@ -40,36 +40,12 @@ steps:
 
 Make some noise! 🎵 Your little musicians will build a buzzing harmonica from just two **popsicle sticks**, **rubber bands**, and a strip of **paper**. Sandwich the paper between the sticks, wrap rubber bands tightly at each end to hold it together, then blow through the gap — the paper vibrates and makes an amazing buzzy, reedy sound! Change the pitch by squeezing tighter or looser.
 
-
-## How to Set It Up
-
-### Step 1: Cut the Paper Strip
-
-Cut a strip of **paper** the same width and length as a **popsicle stick**. Fold it in half lengthwise, then unfold — this crease gives the paper a slight ridge that helps it vibrate when you blow. ✂️
-
-
-### Step 2: Make the Sandwich
-
-Place the paper strip on top of one **popsicle stick**. Lay the second popsicle stick on top, sandwiching the paper between them. The paper should sit flat between the sticks with its edges aligned. Hold everything together. 🥪
-
-
-### Step 3: Wrap the Rubber Bands
-
-Stretch a **rubber band** tightly around one end of the sticks. Wrap another rubber band tightly around the other end. These hold the sandwich firmly together. The gap between the sticks in the middle is where the sound comes from! Make sure the rubber bands are snug. 🔵
-
-
-### Step 4: Play Your Harmonica
-
-Hold the harmonica to your lips and blow through the gap in the middle where the paper is visible. The paper vibrates between the sticks and makes a buzzy, reedy sound! Experiment — squeeze the sticks tighter for a higher pitch, looser for lower. Blow harder for louder! 🎶
-
-
 ## Have fun!
 
 - 🎼 Make several harmonicas and try to play a simple tune!
 - 🔬 Experiment with different paper thicknesses — does tissue paper sound different from card?
 - 🎸 Start a band — combine with a rubber band guitar and water xylophone!
 - 📖 Learn how real harmonicas work — metal reeds vibrate just like your paper strip!
-
 
 ## Why It's Amazing
 
@@ -80,7 +56,6 @@ Hold the harmonica to your lips and blow through the gap in the middle where the
 * **Engineering Skills:** Building a functional instrument from simple materials introduces basic engineering — structure, tension, and assembly. 🏗️
 
 * **Musical Exploration:** A working instrument in minutes! Encourages rhythm, experimentation, and an interest in music-making. 🎵
-
 
 ## Pro Tips
 
