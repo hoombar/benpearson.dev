@@ -34,24 +34,6 @@ steps:
 
 You will transform a normal hallway into a high-stakes Secret Agent training facility! By zigzagging **String** back and forth across the walls using **Tape**, you'll create a glowing 'laser' grid. The mission: navigate from one end to the other without touching a single beam to retrieve the classified intel.
 
-## How to Set It Up
-
-### Step 1: Secure the Perimeter
-
-Find a narrow hallway or a space between two pieces of heavy furniture. Take your roll of Tape and rip off several small pieces, sticking them lightly to the wall or a table edge so they are ready to grab.
-
-### Step 2: Activate the Lasers
-
-Take the end of your String and tape it securely to the wall near the floor. Pull the string across the hallway to the opposite wall, angling it slightly upwards, and tape it there. Continue zigzagging the string back and forth, high and low, until you reach the end of the hallway.
-
-### Step 3: Place the Intel
-
-At the far end of the maze, place a highly classified object — a favourite stuffed animal, a shiny coin, or a secret message written on paper. This is the target that the secret agent must retrieve.
-
-### Step 4: Commence Training
-
-Have your secret agent start at the beginning of the maze. They must step over, crawl under, and contort their body to make it through the grid. If they touch the string, they have tripped the alarm and must start over!
-
 ## Have fun!
 
 - 🕵️‍♀️ Time each run to see who the fastest secret agent in the family is.
