@@ -1,0 +1,4 @@
+/index.xml /writing/index.xml 301
+/activities/index.xml /writing/index.xml 301
+/categories/index.xml /writing/index.xml 301
+/tags/*/index.xml /writing/index.xml 301

@@ -51,6 +51,20 @@ test("RSS is generated for writing only", async () => {
   await assert.rejects(readFile(path.join(destination, "activities", "index.xml"), "utf8"), { code: "ENOENT" });
 });
 
+test("legacy feed URLs redirect to writing RSS", async () => {
+  const destination = await mkdtemp(path.join(tmpdir(), "benpearson-site-"));
+
+  await execFileAsync("/tmp/opencode/hugo", ["--destination", destination], {
+    cwd: process.cwd(),
+  });
+
+  const redirects = await readFile(path.join(destination, "_redirects"), "utf8");
+
+  assert.match(redirects, /^\/index\.xml \/writing\/index\.xml 301$/m);
+  assert.match(redirects, /^\/activities\/index\.xml \/writing\/index\.xml 301$/m);
+  assert.match(redirects, /^\/tags\/\*\/index\.xml \/writing\/index\.xml 301$/m);
+});
+
 test("sidebar keeps activities unlisted", async () => {
   const destination = await mkdtemp(path.join(tmpdir(), "benpearson-site-"));
 
