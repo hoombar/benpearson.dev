@@ -22,12 +22,33 @@ test("homepage renders m10c-inspired sidebar shell", async () => {
   assert.match(html, /src="\/img\/profile\.jpeg"/);
   assert.match(html, /https:\/\/github\.com\/hoombar/);
   assert.match(html, /https:\/\/www\.linkedin\.com\/in\/ben-pearson-2a320a75\//);
+  assert.match(html, /href="\/writing\/index\.xml"/);
   assert.match(html, /data-theme-toggle/);
   assert.doesNotMatch(html, /<select data-theme-toggle>/);
   assert.match(html, /class="social-icon social-icon-github"/);
   assert.match(html, /class="social-icon social-icon-linkedin"/);
+  assert.match(html, /class="social-icon social-icon-rss"/);
   assert.match(html, /viewBox="0 0 24 24"/);
   assert.match(html, /Recent Writing/);
+});
+
+test("RSS is generated for writing only", async () => {
+  const destination = await mkdtemp(path.join(tmpdir(), "benpearson-site-"));
+
+  await execFileAsync("/tmp/opencode/hugo", ["--destination", destination], {
+    cwd: process.cwd(),
+  });
+
+  const writingFeed = await readFile(path.join(destination, "writing", "index.xml"), "utf8");
+  const writingPage = await readFile(path.join(destination, "writing", "index.html"), "utf8");
+  const homepage = await readFile(path.join(destination, "index.html"), "utf8");
+
+  assert.match(writingFeed, /<rss/);
+  assert.match(writingFeed, /<title>Writing on Ben Pearson<\/title>/);
+  assert.match(writingPage, /<link rel="alternate" type="application\/rss\+xml" href="https:\/\/benpearson\.dev\/writing\/index\.xml" title="Ben Pearson">/);
+  assert.doesNotMatch(homepage, /<link rel="alternate" type="application\/rss\+xml"/);
+  await assert.rejects(readFile(path.join(destination, "index.xml"), "utf8"), { code: "ENOENT" });
+  await assert.rejects(readFile(path.join(destination, "activities", "index.xml"), "utf8"), { code: "ENOENT" });
 });
 
 test("sidebar keeps activities unlisted", async () => {

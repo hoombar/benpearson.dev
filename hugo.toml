@@ -15,11 +15,15 @@ title = "Ben Pearson"
   name = "LinkedIn"
   url = "https://www.linkedin.com/in/ben-pearson-2a320a75/"
 
+[[params.social]]
+  name = "RSS"
+  url = "/writing/index.xml"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
 
 [outputs]
-  home = ["HTML", "RSS"]
-  section = ["HTML", "RSS"]
+  home = ["HTML"]
+  section = ["HTML"]
