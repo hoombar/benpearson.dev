@@ -32,7 +32,7 @@ if (cards.length) {
 function applyFilters() {
   const ageRange = normalisedRange(ageMinInput, ageMaxInput);
   const durationRange = normalisedRange(durationMinInput, durationMaxInput);
-  const terms = (searchInput?.value ?? "").toLowerCase().trim().split(/\s+/).filter(Boolean);
+  const terms = parseSearchTerms(searchInput?.value ?? "");
   const showIndoor = indoorFilter?.checked ?? true;
   const showOutdoor = outdoorFilter?.checked ?? true;
   let visible = 0;
@@ -50,7 +50,8 @@ function applyFilters() {
       max: Number(card.dataset.durationMax ?? 99),
     };
     const location = card.dataset.location;
-    const matches = terms.every((term) => text.includes(term))
+    const matches = terms.include.every((term) => text.includes(term))
+      && terms.exclude.every((term) => !text.includes(term))
       && rangesOverlap(activityAge, ageRange)
       && rangesOverlap(activityDuration, durationRange)
       && ((location === "indoor" && showIndoor) || (location === "outdoor" && showOutdoor));
@@ -62,6 +63,23 @@ function applyFilters() {
   if (count) {
     count.textContent = `${visible} ${visible === 1 ? "activity" : "activities"}`;
   }
+}
+
+function parseSearchTerms(value) {
+  return value
+    .toLowerCase()
+    .trim()
+    .split(/\s+/)
+    .filter(Boolean)
+    .reduce((terms, term) => {
+      if (term.startsWith("-") && term.length > 1) {
+        terms.exclude.push(term.slice(1));
+      } else {
+        terms.include.push(term);
+      }
+
+      return terms;
+    }, { include: [], exclude: [] });
 }
 
 function normalisedRange(minInput, maxInput) {
