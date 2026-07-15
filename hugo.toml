@@ -28,4 +28,4 @@ title = "Ben Pearson"
 
 [outputs]
   home = ["HTML"]
-  section = ["HTML"]
+  section = ["HTML", "RSS"]
