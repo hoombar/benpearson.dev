@@ -2,3 +2,5 @@
 /activities/index.xml /writing/index.xml 301
 /categories/index.xml /writing/index.xml 301
 /tags/*/index.xml /writing/index.xml 301
+/voice-agent https://elevenlabs.io/app/talk-to?agent_id=agent_5601kv36hrcafby9rvv8ayvv28kz&branch_id=agtbrch_2801kv36hsy0eybtj6f31tb842mk 302
+/voice-agent/ https://elevenlabs.io/app/talk-to?agent_id=agent_5601kv36hrcafby9rvv8ayvv28kz&branch_id=agtbrch_2801kv36hsy0eybtj6f31tb842mk 302
