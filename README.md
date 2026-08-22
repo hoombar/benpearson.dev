@@ -19,7 +19,7 @@ Use this frontmatter contract:
 ---
 title: "Readable Public Title"
 slug: my-post-slug
-content_type: post # post or lab
+content_type: post # post, lab, or thought
 summary: "Short summary for listings."
 date: 2026-05-25
 draft: true
@@ -28,7 +28,7 @@ tags:
 ---
 ```
 
-Keep generated or experimental posts as `draft: true`. Preview drafts locally with `hugo server -D --port 1313`. To publish a post, remove `draft: true` or set it to `false`, then commit and push.
+Use `post` for polished articles, `lab` for experiments and implementation notes, and `thought` for standalone ideas or observations that do not need a project or code behind them. Keep generated or experimental posts as `draft: true`. Preview drafts locally with `hugo server -D --port 1313`. To publish a post, remove `draft: true` or set it to `false`, then commit and push.
 
 ### Images And Other Post Media
 
