@@ -69,6 +69,9 @@
     {{ with resources.Get "js/theme-toggle.js" }}
       <script type="module" src="{{ .RelPermalink }}"></script>
     {{ end }}
+    {{ with resources.Get "js/lightbox.js" }}
+      <script type="module" src="{{ .RelPermalink }}"></script>
+    {{ end }}
     {{ if eq .Section "activities" }}
       {{ with resources.Get "js/activity-search.js" }}
         <script type="module" src="{{ .RelPermalink }}"></script>
