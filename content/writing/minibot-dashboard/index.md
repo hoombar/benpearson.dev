@@ -41,18 +41,15 @@ _Most days every tile is boring, which is the point._
 The data flow looks like this:
 
 ```mermaid
-flowchart LR
-  proc["/proc sampler<br/>5s ring buffer"] --> api
-  sysctl["systemctl is-active<br/>system + user scope"] --> api
-  cronState["skill scheduler<br/>config + run state"] --> api
-  restic["restic backup<br/>status JSON"] --> api
-  ntfyBox["ntfy<br/>health endpoint"] --> api
-  vault["Obsidian vault<br/>braindump-retro"] --> api
-  haBox["Home Assistant<br/>supervisor API"] -- "stdlib websocket<br/>client" --> api
+flowchart TD
+  sources["Health sources<br/>/proc, systemctl and scheduler state<br/>backup status, ntfy and vault retros<br/>Home Assistant supervisor API"]
+  collectors["Collectors and HA plugin<br/>Python standard library modules"]
+  api["/api/all<br/>one JSON response every 30 seconds"]
+  warnings["Warnings roll-up<br/>header pill and dropdown"]
+  ui["Bento dashboard<br/>http://minibot/"]
 
-  api["/api/all"] --> ui["bento UI<br/>http://minibot/"]
-  api --> warn["warnings pill<br/>+ dropdown"]
-  warn --> ui
+  sources --> collectors --> api --> ui
+  collectors --> warnings --> ui
 ```
 
 ## Design Choices That Matter
