@@ -73,6 +73,21 @@ Hugo is not vendored. Install it locally or let Cloudflare Pages provide it duri
 
 ## Cloudflare Pages
 
+### Monster Hotel
+
+The standalone game at `/monster-hotel/` is a built copy of
+[monster-hotel-bubble-trouble](https://github.com/hoombar/monster-hotel-bubble-trouble),
+stored in `static/monster-hotel/`. It is intentionally not listed in site navigation.
+Hugo copies it into the published site without applying the blog layout.
+
+To release an update, run `npm ci` and then `npm run publish:site` in the game
+checkout, with both repositories alongside one another. The command builds for
+`/monster-hotel/` and replaces only this static game folder. Review and commit
+the generated changes here, then push to deploy through the usual site pipeline.
+Edit game source in its own repository, not in the generated files here.
+
+### Build Settings
+
 Suggested build settings:
 
 - Build command: `hugo --minify`
