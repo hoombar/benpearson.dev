@@ -259,6 +259,13 @@ time,
   cursor: zoom-in;
 }
 
+.article-body video {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+}
+
 .article-body .img-pair {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -333,6 +340,11 @@ time,
 
 .article-body .highlight span {
   min-height: 1.5em;
+}
+
+.article-body .highlight code[data-lang="json"] {
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
 }
 
 .article-body table {
