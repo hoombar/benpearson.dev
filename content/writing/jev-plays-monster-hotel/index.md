@@ -84,6 +84,12 @@ flowchart LR
 
 By default, the chosen input is held for 250 milliseconds, then released before taking a new snapshot. The loop awaits each decision rather than polling at a fixed rate, but gameplay continues while the request is in flight. A toy can have moved by the time the answer arrives. If the score or carried item changes, the loop cancels the stale decision rather than applying it to that changed situation.
 
+## What A Run Costs
+
+Jev can get through the game in around 60 requests. [TypeSafe's advertised pricing](https://typesafe.ai/blog/introducing-system-one-models-and-jev) is $0.042 per million input tokens, with no charge for output. If I allow roughly 5,000 input tokens per request for the rules, game state and forecasts, that's 300,000 tokens for a run: **about $0.013, or 1.3 US cents for the whole game**.
+
+That's a back-of-the-envelope estimate, not a measured bill. Request sizes and retries vary, and OpenRouter's billing may differ from TypeSafe's advertised rate. The panel reports the API's usage and cost totals, so I can check what a particular run actually cost. The rough figure is enough to explain part of the appeal for me: I can try lots of small decisions without running up much of a bill.
+
 ## Watching The Decisions
 
 I've included an inspector because I want to see the exact request and response alongside what actually happened. The **Requests & responses** button opens it, or you can click a decision in the log to inspect that call. You can expand the terminal for more room, and download the latest 200 calls. It gives me a way to separate a questionable choice from an input that arrived after the situation had moved on.
