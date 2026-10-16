@@ -192,6 +192,57 @@ sensor.garmin_device_battery_level
   assert.doesNotMatch(html, /\{\d+ \d+ <div class="highlight">/);
 });
 
+test("article section links preserve heading IDs and inline formatting", async () => {
+  const contentDir = await mkdtemp(path.join(tmpdir(), "benpearson-content-"));
+  const destination = await mkdtemp(path.join(tmpdir(), "benpearson-site-"));
+  await mkdir(path.join(contentDir, "writing", "sections"), { recursive: true });
+  await writeFile(
+    path.join(contentDir, "writing", "sections", "index.md"),
+    `---
+title: "Sections"
+---
+
+# Overview
+## Linked [reference](https://example.com) and \`code\` {#stable-section .important}
+## Repeated
+## Repeated
+### Third
+#### Fourth
+##### Fifth
+###### Sixth
+`,
+    { flag: "wx" },
+  );
+
+  await execFileAsync("/tmp/opencode/hugo", ["--contentDir", contentDir, "--destination", destination], {
+    cwd: process.cwd(),
+  });
+
+  const html = await readFile(path.join(destination, "writing", "sections", "index.html"), "utf8");
+  const headings = Array.from(html.matchAll(/<h([1-6])\b([^>]*)>([\s\S]*?)<\/h\1>/g))
+    .filter((heading) => /\bid="/.test(heading[2]));
+  const expected = [
+    ["1", "overview"],
+    ["2", "stable-section"],
+    ["2", "repeated"],
+    ["2", "repeated-1"],
+    ["3", "third"],
+    ["4", "fourth"],
+    ["5", "fifth"],
+    ["6", "sixth"],
+  ];
+
+  assert.deepEqual(headings.map((heading) => [heading[1], heading[2].match(/\bid="([^"]+)"/)[1]]), expected);
+  for (const [index, heading] of headings.entries()) {
+    const fragments = Array.from(heading[3].matchAll(/<a\b[^>]*href="#([^"]+)"[^>]*>/g));
+    assert.deepEqual(fragments.map((link) => link[1]), [expected[index][1]]);
+    assert.match(fragments[0][0], /aria-label="Link to section: [^"]+"/);
+  }
+  assert.match(headings[1][2], /class="important"/);
+  assert.match(headings[1][3], /<a href="https:\/\/example\.com">reference<\/a>/);
+  assert.match(headings[1][3], /<code>code<\/code>/);
+});
+
 test("activities section renders searchable filters and activity cards", async () => {
   const destination = await mkdtemp(path.join(tmpdir(), "benpearson-site-"));
 

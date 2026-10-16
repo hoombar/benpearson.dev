@@ -4,9 +4,23 @@
     {{ with .Content }}{{ . }}{{ end }}
   </section>
 
-  <div class="writing-list">
+  <div class="writing-controls" data-writing-controls hidden>
+    <label class="search-control" for="writing-search">
+      <span>Search writing</span>
+      <input id="writing-search" type="search" data-writing-search aria-describedby="writing-search-help">
+    </label>
+    <p id="writing-search-help">Search titles, summaries, tags and article text. Every word must match.</p>
+    <button type="button" data-writing-clear>Clear search</button>
+    <p class="result-count" data-writing-count role="status" aria-live="polite" aria-atomic="true"></p>
+  </div>
+
+  <p data-writing-empty hidden>No articles match your search. Try fewer words or clear the search.</p>
+  <div class="writing-list" data-writing-list>
     {{ range .Pages }}
-      {{ partial "writing-card.html" . }}
+      {{ $searchText := printf "%s %s %s %s" .Title (.Params.summary | default "") (delimit (.Params.tags | default (slice)) " ") .Plain | lower }}
+      <div data-writing-card data-search-text="{{ $searchText }}">
+        {{ partial "writing-card.html" . }}
+      </div>
     {{ end }}
   </div>
 {{ end }}

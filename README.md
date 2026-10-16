@@ -55,6 +55,25 @@ flowchart TD
 
 Hugo renders these as Mermaid diagrams and loads Mermaid only on pages that include a Mermaid block.
 
+### Sharing Article Sections
+
+Article headings have a `#` link next to them. Click it to navigate to the
+section and share the resulting URL, or right-click it and copy the link address.
+Links use Hugo's heading IDs, including explicit Markdown IDs such as
+`## My Section {#my-section}`. Existing section URLs remain unchanged.
+
+### Writing Search
+
+The Writing page filters articles as you type, searching titles, summaries, tags,
+and full article text. Matching is case-insensitive, and every space-separated
+keyword must appear somewhere in the article's search text. Use **Clear search**
+to restore the complete list.
+
+Search runs entirely in the browser, with no external search service. Hugo
+includes search text only for pages included in the build; production builds
+exclude drafts. With JavaScript disabled, the full writing list remains available
+and search controls stay hidden.
+
 ## Development
 
 Run tests:

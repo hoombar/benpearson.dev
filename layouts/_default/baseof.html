@@ -77,6 +77,11 @@
         <script type="module" src="{{ .RelPermalink }}"></script>
       {{ end }}
     {{ end }}
+    {{ if and .IsSection (eq .Section "writing") }}
+      {{ with resources.Get "js/writing-search.js" }}
+        <script type="module" src="{{ .RelPermalink }}"></script>
+      {{ end }}
+    {{ end }}
     {{ if .Store.Get "hasMermaid" }}
       <script type="module">
         import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs";

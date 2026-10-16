@@ -1,0 +1,6 @@
+<h{{ .Level }} id="{{ .Anchor }}"{{ range $name, $value := .Attributes }}{{ if ne $name "id" }} {{ $name | safeHTMLAttr }}="{{ $value }}"{{ end }}{{ end }}>
+  {{- .Text | safeHTML -}}
+  {{- if .Page.IsPage }}
+    <a class="heading-anchor" href="#{{ .Anchor }}" aria-label="Link to section: {{ .PlainText }}">#</a>
+  {{- end -}}
+</h{{ .Level }}>
